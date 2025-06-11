@@ -1,0 +1,1001 @@
+user_id,session_start_time,session_duration_min,active_period_label,avg_video_duration_sec,switch_frequency,content_emotion_score,content_type_keywords,repeated_viewing_ratio,skipped_intro_ratio,saved_to_favorites,3_day_total_watch_time,short_video_ratio,self_reported_goal,psych_state_label
+U000,2025-06-11 14:03:00,44.2,afternoon,29.6,2.0,-0.98,"['vulnerability', 'crush', 'true story']",0.12,0.77,False,334.0,0.86,I feel tired but want to learn something,dependency
+U001,2025-06-11 02:35:00,72.9,late_night,18.2,3.0,-0.25,"['pet video', 'nice edit', 'asmr']",0.04,0.51,True,555.0,0.91,I want to stop wasting time,reward
+U002,2025-06-11 19:31:00,60.7,night,49.1,2.7,0.78,"['academic', 'explanation', 'brain tips']",0.13,0.35,False,348.6,0.64,I feel tired but want to learn something,guilt
+U003,2025-06-11 03:56:00,80.0,late_night,42.4,1.6,-0.71,"['school hacks', 'coding', 'lecture']",0.18,0.68,True,398.8,0.88,I feel tired but want to learn something,guilt
+U004,2025-06-11 02:20:00,64.7,late_night,47.0,2.0,0.74,"['short meme', 'unboxing', 'dancing']",0.26,0.34,True,579.6,0.74,I feel tired but want to learn something,reward
+U005,2025-06-11 03:29:00,69.4,late_night,21.6,1.2,0.17,"['crazy moment', 'surprise', 'conflict']",0.27,0.62,False,513.7,0.75,I just want to relax a bit,anxious
+U006,2025-06-11 09:51:00,54.8,morning,30.9,0.5,-0.53,"['dancing', 'music clip', 'food review']",0.25,0.22,False,227.7,0.92,I want to stay emotionally balanced,reward
+U007,2025-06-11 15:01:00,41.1,afternoon,37.0,1.2,-0.26,"['dancing', 'pet video', 'food review']",0.2,0.28,True,598.5,0.88,I feel tired but want to learn something,reward
+U008,2025-06-11 03:23:00,24.6,late_night,24.5,2.1,0.56,"['documentary', 'explanation', 'lecture']",0.13,0.22,False,462.7,0.85,I just want to relax a bit,guilt
+U009,2025-06-11 15:33:00,88.8,afternoon,41.0,0.8,-0.4,"['gameplay', 'satisfying', 'dancing']",0.27,0.35,True,469.0,0.69,I want to stay emotionally balanced,reward
+U010,2025-06-11 22:52:00,32.7,night,18.5,1.2,-0.09,"['self reflection', 'minimalism', 'sleep aid']",0.25,0.34,False,335.3,0.62,I feel tired but want to learn something,exhaustion
+U011,2025-06-11 06:21:00,17.2,morning,55.0,1.8,0.59,"['short meme', 'cool trick', 'music clip']",0.12,0.55,True,403.1,0.78,I want to stay emotionally balanced,reward
+U012,2025-06-11 07:34:00,47.6,morning,23.8,2.5,0.33,"['pop song', 'asmr', 'gameplay']",0.07,0.37,False,304.0,0.94,I want to stop wasting time,reward
+U013,2025-06-11 20:06:00,21.2,night,26.7,1.7,-0.58,"['reaction', 'surprise', 'chaos']",0.15,0.42,False,479.5,0.64,I feel tired but want to learn something,anxious
+U014,2025-06-11 15:49:00,10.7,afternoon,59.5,1.1,0.57,"['crazy moment', 'trending', 'chaos']",0.29,0.74,False,539.7,0.77,I feel tired but want to learn something,anxious
+U015,2025-06-11 13:41:00,41.8,afternoon,15.1,2.7,0.85,"['sports', 'dancing', 'fun fact']",0.28,0.4,False,560.5,0.78,I want to stop wasting time,reward
+U016,2025-06-11 21:44:00,66.0,night,52.2,1.6,0.48,"['satisfying', 'hack', 'travel vlog']",0.13,0.35,True,293.8,0.73,I want to stop wasting time,reward
+U017,2025-06-11 18:35:00,19.2,night,41.0,2.4,-0.39,"['dancing', 'cool trick', 'art process']",0.14,0.77,True,447.3,0.89,I want to stop wasting time,reward
+U018,2025-06-11 15:20:00,75.3,afternoon,47.1,1.9,-0.43,"['slow vlog', 'sunset', 'no drama']",0.0,0.64,False,288.5,0.75,I want to focus on studying,exhaustion
+U019,2025-06-11 16:42:00,45.5,afternoon,45.7,2.3,0.23,"['jokes', 'hack', 'gameplay']",0.01,0.52,True,297.3,0.61,I just want to relax a bit,reward
+U020,2025-06-11 19:52:00,58.4,night,42.3,0.6,-0.26,"['school hacks', 'lecture', 'online course']",0.26,0.73,False,420.5,0.87,I feel tired but want to learn something,guilt
+U021,2025-06-11 16:58:00,31.0,afternoon,32.7,2.6,-0.62,"['comedy', 'fast edit', 'meme']",0.17,0.72,True,210.5,0.83,I want to stay emotionally balanced,anxious
+U022,2025-06-11 06:11:00,31.0,morning,59.2,2.4,0.91,"['intimacy', 'confession', 'jealousy']",0.21,0.63,True,572.0,0.9,I want to focus on studying,dependency
+U023,2025-06-11 06:44:00,31.1,morning,19.2,0.7,-0.1,"['quiet', 'minimalism', 'well-being']",0.17,0.36,True,491.2,0.91,I feel tired but want to learn something,exhaustion
+U024,2025-06-11 13:39:00,37.4,afternoon,24.8,2.5,0.84,"['cooking calmly', 'quiet', 'study with me']",0.2,0.39,False,305.4,0.77,I want to focus on studying,exhaustion
+U025,2025-06-11 23:50:00,25.5,night,19.7,1.1,-0.91,"['lecture', 'homework', 'how to']",0.13,0.29,False,310.6,0.93,I want to focus on studying,guilt
+U026,2025-06-11 09:47:00,50.1,morning,43.6,2.1,-0.31,"['no drama', 'well-being', 'study with me']",0.27,0.68,False,200.1,0.85,I want to stay emotionally balanced,exhaustion
+U027,2025-06-11 11:05:00,60.4,morning,48.2,2.7,-0.14,"['nice edit', 'cool trick', 'fun fact']",0.1,0.35,True,548.4,0.86,I just want to relax a bit,reward
+U028,2025-06-11 03:43:00,71.1,late_night,31.3,2.0,-0.28,"['flirting', 'cute couple', 'confession']",0.09,0.3,True,577.5,0.84,I want to focus on studying,dependency
+U029,2025-06-11 22:54:00,35.0,night,27.7,1.5,-0.01,"['self reflection', 'calm voice', 'sleep aid']",0.28,0.77,True,243.1,0.91,I just want to relax a bit,exhaustion
+U030,2025-06-11 17:07:00,30.9,afternoon,31.3,3.0,-0.13,"['self reflection', 'slow vlog', 'study with me']",0.21,0.26,True,409.0,0.64,I want to stay emotionally balanced,exhaustion
+U031,2025-06-11 00:03:00,13.4,late_night,28.6,1.9,-0.91,"['cool trick', 'sports', 'food review']",0.09,0.46,False,329.4,0.6,I want to focus on studying,reward
+U032,2025-06-11 00:57:00,23.0,late_night,10.6,2.0,-0.35,"['dancing', 'hack', 'gameplay']",0.12,0.45,True,562.5,0.66,I feel tired but want to learn something,reward
+U033,2025-06-11 07:57:00,13.1,morning,47.3,0.9,-0.48,"['vulnerability', 'romantic', 'crush']",0.25,0.29,True,304.1,0.66,I want to focus on studying,dependency
+U034,2025-06-11 18:53:00,14.8,night,53.4,1.1,-0.79,"['rant', 'parody', 'crazy moment']",0.09,0.37,True,357.6,0.83,I want to focus on studying,anxious
+U035,2025-06-11 23:13:00,74.3,night,36.0,1.2,0.36,"['pet video', 'cute animal', 'unboxing']",0.13,0.68,True,257.0,0.86,I want to focus on studying,reward
+U036,2025-06-11 20:37:00,26.0,night,32.5,2.4,-0.39,"['rant', 'chaos', 'fail']",0.09,0.77,False,392.8,0.69,I feel tired but want to learn something,anxious
+U037,2025-06-11 19:20:00,48.0,night,49.4,1.6,0.99,"['jokes', 'food review', 'gameplay']",0.29,0.73,True,334.2,0.89,I just want to relax a bit,reward
+U038,2025-06-11 07:09:00,28.3,morning,57.4,0.6,-0.75,"['longing', 'crush', 'toxic love']",0.26,0.61,True,228.4,0.66,I want to stay emotionally balanced,dependency
+U039,2025-06-11 00:22:00,66.3,late_night,32.4,2.7,-0.83,"['comedy', 'drama', 'crazy moment']",0.16,0.31,True,556.3,0.91,I feel tired but want to learn something,anxious
+U040,2025-06-11 02:03:00,38.7,late_night,31.5,2.6,-0.97,"['meme', 'chaos', 'comedy']",0.13,0.68,True,338.6,0.64,I just want to relax a bit,anxious
+U041,2025-06-11 00:23:00,45.0,late_night,19.4,2.7,-0.7,"['rant', 'drama', 'crazy moment']",0.06,0.41,False,293.9,0.84,I want to stay emotionally balanced,anxious
+U042,2025-06-11 10:33:00,38.9,morning,31.4,0.6,0.56,"['jealousy', 'emotional', 'flirting']",0.03,0.54,True,432.3,0.84,I want to focus on studying,dependency
+U043,2025-06-11 20:14:00,59.5,night,18.2,2.6,-0.18,"['cute couple', 'texting drama', 'talking stage']",0.27,0.58,False,322.5,0.7,I just want to relax a bit,dependency
+U044,2025-06-11 06:40:00,22.6,morning,41.5,2.8,-0.68,"['therapy', 'toxic love', 'flirting']",0.13,0.58,False,500.3,0.88,I feel tired but want to learn something,dependency
+U045,2025-06-11 20:57:00,31.6,night,55.9,0.8,-0.61,"['dancing', 'fun fact', 'art process']",0.27,0.29,False,598.9,0.93,I just want to relax a bit,reward
+U046,2025-06-11 07:31:00,32.3,morning,29.3,1.3,0.97,"['mental health', 'well-being', 'sunset']",0.1,0.28,True,566.6,0.84,I want to stop wasting time,exhaustion
+U047,2025-06-11 19:16:00,59.2,night,58.9,2.0,-0.33,"['healing', 'self reflection', 'deep talk']",0.25,0.5,False,515.1,0.61,I want to stay emotionally balanced,exhaustion
+U048,2025-06-11 02:27:00,10.7,late_night,31.2,2.1,0.45,"['cooking calmly', 'journaling', 'soft music']",0.1,0.48,True,451.7,0.8,I want to stay emotionally balanced,exhaustion
+U049,2025-06-11 19:58:00,21.7,night,16.3,2.7,0.42,"['longing', 'affection', 'crush']",0.05,0.64,True,348.5,0.66,I just want to relax a bit,dependency
+U050,2025-06-11 02:25:00,50.3,late_night,13.4,2.2,-0.74,"['journaling', 'study with me', 'quiet']",0.25,0.63,True,371.3,0.92,I want to focus on studying,exhaustion
+U051,2025-06-11 12:32:00,32.4,afternoon,23.6,2.8,0.15,"['comedy', 'jump scare', 'conflict']",0.08,0.69,True,297.7,0.69,I feel tired but want to learn something,anxious
+U052,2025-06-11 15:03:00,10.1,afternoon,23.9,1.8,0.32,"['win moment', 'cool trick', 'short meme']",0.18,0.46,False,207.0,0.84,I want to stop wasting time,reward
+U053,2025-06-11 03:04:00,23.9,late_night,42.3,1.4,-0.5,"['crazy moment', 'fail', 'prank']",0.18,0.23,False,552.2,0.61,I want to stop wasting time,anxious
+U054,2025-06-11 22:28:00,41.1,night,22.2,1.6,-0.93,"['hack', 'pop song', 'jokes']",0.07,0.27,False,491.5,0.63,I want to stop wasting time,reward
+U055,2025-06-11 10:13:00,56.0,morning,48.0,1.0,0.4,"['flirting', 'intimacy', 'jealousy']",0.21,0.24,True,487.4,0.74,I feel tired but want to learn something,dependency
+U056,2025-06-11 03:59:00,38.0,late_night,54.1,1.8,-0.63,"['asmr', 'travel vlog', 'satisfying']",0.23,0.36,False,259.5,0.83,I want to focus on studying,reward
+U057,2025-06-11 18:33:00,70.7,night,36.6,2.9,0.47,"['healing', 'journaling', 'cooking calmly']",0.04,0.3,False,366.3,0.69,I want to stop wasting time,exhaustion
+U058,2025-06-11 16:40:00,27.7,afternoon,38.3,2.5,0.59,"['lifestyle', 'well-being', 'life tips']",0.26,0.35,False,532.7,0.74,I want to stop wasting time,exhaustion
+U059,2025-06-11 03:49:00,49.2,late_night,53.4,3.0,0.98,"['productivity', 'exam tips', 'focus']",0.08,0.21,True,568.2,0.85,I want to focus on studying,guilt
+U060,2025-06-11 12:07:00,74.0,afternoon,59.6,1.3,0.62,"['fail', 'chaos', 'jump scare']",0.16,0.29,False,336.4,0.71,I want to stay emotionally balanced,anxious
+U061,2025-06-11 03:45:00,17.8,late_night,30.1,0.8,0.86,"['minimalism', 'healing', 'life tips']",0.14,0.71,True,341.0,0.69,I want to stay emotionally balanced,exhaustion
+U062,2025-06-11 02:59:00,84.2,late_night,59.5,2.7,0.37,"['texting drama', 'jealousy', 'emotional']",0.01,0.63,False,271.6,0.6,I feel tired but want to learn something,dependency
+U063,2025-06-11 18:18:00,83.2,night,49.4,0.7,-0.04,"['brain tips', 'education', 'academic']",0.2,0.46,False,203.6,0.73,I want to stay emotionally balanced,guilt
+U064,2025-06-11 18:02:00,11.6,night,23.6,2.4,0.16,"['life tips', 'deep talk', 'sunset']",0.02,0.32,True,411.2,0.82,I want to stop wasting time,exhaustion
+U065,2025-06-11 16:46:00,25.9,afternoon,54.4,1.0,0.45,"['exam tips', 'study vlog', 'lecture']",0.15,0.59,True,425.4,0.71,I just want to relax a bit,guilt
+U066,2025-06-11 02:56:00,53.9,late_night,44.8,2.5,0.66,"['quiet', 'loneliness', 'minimalism']",0.3,0.68,True,298.2,0.64,I want to stay emotionally balanced,exhaustion
+U067,2025-06-11 18:33:00,87.8,night,36.9,1.4,0.42,"['asmr', 'art process', 'nice edit']",0.05,0.73,False,539.2,0.81,I just want to relax a bit,reward
+U068,2025-06-11 21:11:00,63.3,night,30.8,1.0,0.1,"['cute animal', 'travel vlog', 'music clip']",0.21,0.57,False,367.1,0.86,I want to stay emotionally balanced,reward
+U069,2025-06-11 00:22:00,67.7,late_night,49.7,2.4,-0.8,"['study vlog', 'homework', 'exam tips']",0.07,0.78,False,580.8,0.65,I want to stay emotionally balanced,guilt
+U070,2025-06-11 13:18:00,81.8,afternoon,27.1,2.3,0.39,"['prank', 'fast edit', 'fail']",0.2,0.51,False,260.2,0.67,I want to focus on studying,anxious
+U071,2025-06-11 19:26:00,29.3,night,23.7,1.0,0.24,"['jokes', 'travel vlog', 'pop song']",0.12,0.37,False,312.6,0.74,I feel tired but want to learn something,reward
+U072,2025-06-11 13:08:00,19.6,afternoon,29.6,1.2,-0.26,"['win moment', 'cool trick', 'art process']",0.02,0.32,False,220.8,0.7,I just want to relax a bit,reward
+U073,2025-06-11 18:15:00,85.1,night,43.4,0.7,0.42,"['lifestyle', 'calm voice', 'healing']",0.09,0.31,False,388.0,0.93,I want to stop wasting time,exhaustion
+U074,2025-06-11 01:40:00,54.9,late_night,18.8,1.1,0.46,"['gossip', 'rant', 'funny']",0.28,0.7,True,334.7,0.75,I want to stop wasting time,anxious
+U075,2025-06-11 20:42:00,24.5,night,40.7,2.9,0.71,"['music clip', 'satisfying', 'pop song']",0.02,0.61,False,330.9,0.91,I want to stay emotionally balanced,reward
+U076,2025-06-11 10:46:00,44.5,morning,52.0,1.4,0.8,"['satisfying', 'hack', 'cute animal']",0.28,0.29,True,483.3,0.83,I feel tired but want to learn something,reward
+U077,2025-06-11 22:46:00,10.4,night,50.9,1.3,0.02,"['pop song', 'gameplay', 'dancing']",0.03,0.33,True,323.3,0.69,I want to stop wasting time,reward
+U078,2025-06-11 16:32:00,78.7,afternoon,12.1,2.9,-0.77,"['intimacy', 'romantic', 'texting drama']",0.09,0.76,True,315.6,0.69,I want to stay emotionally balanced,dependency
+U079,2025-06-11 07:57:00,87.1,morning,45.4,1.6,-0.09,"['romantic', 'relationship', 'true story']",0.25,0.4,True,502.4,0.76,I want to focus on studying,dependency
+U080,2025-06-11 09:03:00,11.3,morning,18.5,2.8,-0.05,"['online course', 'brain tips', 'study vlog']",0.28,0.57,False,330.5,0.93,I feel tired but want to learn something,guilt
+U081,2025-06-11 09:31:00,74.2,morning,45.2,0.9,-0.61,"['comedy', 'funny', 'crazy moment']",0.09,0.37,True,287.0,0.77,I feel tired but want to learn something,anxious
+U082,2025-06-11 16:43:00,22.3,afternoon,25.6,1.3,0.61,"['jealousy', 'flirting', 'affection']",0.08,0.34,False,568.6,0.91,I want to stay emotionally balanced,dependency
+U083,2025-06-11 17:59:00,69.4,afternoon,40.1,3.0,0.65,"['science', 'tutorial', 'study']",0.11,0.4,True,322.8,0.64,I want to stop wasting time,guilt
+U084,2025-06-11 22:17:00,26.7,night,52.9,2.0,0.6,"['unboxing', 'hack', 'jokes']",0.19,0.66,True,335.3,0.84,I feel tired but want to learn something,reward
+U085,2025-06-11 15:23:00,32.6,afternoon,14.4,2.0,0.04,"['crazy moment', 'meme', 'rant']",0.09,0.54,False,578.1,0.7,I just want to relax a bit,anxious
+U086,2025-06-11 06:51:00,77.0,morning,12.6,0.5,-0.39,"['study vlog', 'productivity', 'ai']",0.26,0.48,False,430.4,0.6,I want to stop wasting time,guilt
+U087,2025-06-11 20:09:00,61.6,night,12.9,1.4,0.51,"['prank', 'fail', 'conflict']",0.15,0.3,False,550.3,0.77,I want to stop wasting time,anxious
+U088,2025-06-11 10:38:00,24.3,morning,41.3,1.8,0.34,"['gameplay', 'dancing', 'asmr']",0.03,0.5,True,219.0,0.81,I want to stay emotionally balanced,reward
+U089,2025-06-11 17:08:00,44.7,afternoon,53.0,1.7,-0.75,"['well-being', 'journaling', 'low energy']",0.06,0.21,True,435.0,0.95,I feel tired but want to learn something,exhaustion
+U090,2025-06-11 20:29:00,89.9,night,28.9,0.7,0.61,"['explanation', 'study', 'exam tips']",0.08,0.26,True,330.2,0.63,I want to stay emotionally balanced,guilt
+U091,2025-06-11 08:14:00,51.1,morning,20.9,0.8,0.69,"['vulnerability', 'emotional', 'crush']",0.24,0.67,True,371.7,0.67,I want to focus on studying,dependency
+U092,2025-06-11 07:59:00,67.3,morning,43.4,1.3,0.71,"['coding', 'how to', 'online course']",0.22,0.75,True,383.9,0.64,I want to stop wasting time,guilt
+U093,2025-06-11 06:49:00,64.3,morning,53.9,2.9,0.11,"['jealousy', 'emotional', 'crush']",0.02,0.27,True,246.0,0.87,I want to stop wasting time,dependency
+U094,2025-06-11 11:04:00,89.5,morning,50.9,1.2,0.38,"['fail', 'reaction', 'parody']",0.05,0.37,True,559.8,0.61,I just want to relax a bit,anxious
+U095,2025-06-11 19:00:00,63.8,night,14.6,2.0,-0.01,"['gameplay', 'jokes', 'travel vlog']",0.01,0.39,True,428.1,0.87,I want to stop wasting time,reward
+U096,2025-06-11 20:09:00,37.0,night,52.2,2.9,-0.54,"['slow vlog', 'low energy', 'quiet']",0.16,0.69,False,551.3,0.61,I feel tired but want to learn something,exhaustion
+U097,2025-06-11 07:34:00,62.2,morning,56.8,2.9,-0.26,"['note taking', 'explanation', 'homework']",0.14,0.72,True,211.4,0.71,I feel tired but want to learn something,guilt
+U098,2025-06-11 16:04:00,12.3,afternoon,46.6,2.3,0.64,"['fast edit', 'funny', 'surprise']",0.17,0.65,True,428.5,0.83,I feel tired but want to learn something,anxious
+U099,2025-06-11 22:33:00,21.5,night,45.2,0.6,-0.15,"['win moment', 'food review', 'travel vlog']",0.05,0.51,True,534.4,0.8,I feel tired but want to learn something,reward
+U100,2025-06-11 02:30:00,53.9,late_night,34.7,1.3,0.39,"['fail', 'jump scare', 'surprise']",0.16,0.68,False,535.3,0.69,I feel tired but want to learn something,anxious
+U101,2025-06-11 10:13:00,78.2,morning,29.8,1.1,0.05,"['life tips', 'slow vlog', 'healing']",0.2,0.78,False,277.0,0.8,I want to stay emotionally balanced,exhaustion
+U102,2025-06-11 18:54:00,31.8,night,45.8,2.6,0.58,"['lecture', 'online course', 'brain tips']",0.15,0.47,True,587.8,0.94,I want to focus on studying,guilt
+U103,2025-06-11 21:30:00,39.8,night,45.4,2.0,0.29,"['coding', 'school hacks', 'ai']",0.04,0.48,False,426.2,0.79,I want to focus on studying,guilt
+U104,2025-06-11 06:09:00,37.8,morning,28.2,2.3,-0.95,"['online course', 'tutorial', 'note taking']",0.19,0.42,False,244.4,0.71,I want to stop wasting time,guilt
+U105,2025-06-11 23:35:00,30.6,night,12.1,1.9,-0.2,"['romantic', 'jealousy', 'relationship']",0.05,0.5,True,488.1,0.71,I want to stop wasting time,dependency
+U106,2025-06-11 03:34:00,52.3,late_night,57.0,0.7,-0.6,"['online course', 'documentary', 'note taking']",0.13,0.77,True,261.1,0.91,I want to stay emotionally balanced,guilt
+U107,2025-06-11 05:39:00,63.0,late_night,16.1,1.8,-0.56,"['science', 'lecture', 'coding']",0.22,0.23,True,374.5,0.69,I feel tired but want to learn something,guilt
+U108,2025-06-11 10:59:00,51.8,morning,38.5,1.6,-0.32,"['art process', 'food review', 'jokes']",0.25,0.25,False,276.1,0.93,I want to stay emotionally balanced,reward
+U109,2025-06-11 20:51:00,48.8,night,43.6,1.7,-0.91,"['funny', 'fail', 'trending']",0.07,0.27,False,273.5,0.7,I want to stay emotionally balanced,anxious
+U110,2025-06-11 21:36:00,71.9,night,41.2,0.9,0.16,"['crush', 'longing', 'talking stage']",0.28,0.24,False,202.0,0.8,I want to stop wasting time,dependency
+U111,2025-06-11 19:45:00,88.4,night,43.8,2.2,0.18,"['talking stage', 'toxic love', 'romantic']",0.28,0.45,True,259.5,0.62,I want to stop wasting time,dependency
+U112,2025-06-11 17:35:00,34.3,afternoon,45.0,1.6,-0.75,"['gossip', 'surprise', 'crazy moment']",0.02,0.74,True,252.4,0.93,I want to stay emotionally balanced,anxious
+U113,2025-06-11 03:27:00,38.1,late_night,40.5,1.9,0.43,"['quiet', 'low energy', 'lifestyle']",0.22,0.74,False,335.1,0.78,I want to focus on studying,exhaustion
+U114,2025-06-11 11:09:00,64.8,morning,29.6,2.9,0.2,"['healing', 'sunset', 'mental health']",0.14,0.56,True,391.2,0.94,I want to focus on studying,exhaustion
+U115,2025-06-11 14:26:00,43.7,afternoon,19.3,0.6,-0.73,"['cute couple', 'relationship', 'flirting']",0.19,0.63,True,299.2,0.84,I want to stay emotionally balanced,dependency
+U116,2025-06-11 04:29:00,61.3,late_night,53.8,1.4,-0.23,"['cool trick', 'cute animal', 'dancing']",0.28,0.26,True,529.2,0.72,I want to stay emotionally balanced,reward
+U117,2025-06-11 15:43:00,69.9,afternoon,43.2,2.0,0.14,"['low energy', 'well-being', 'self reflection']",0.2,0.22,True,307.8,0.9,I feel tired but want to learn something,exhaustion
+U118,2025-06-11 01:30:00,76.2,late_night,56.8,1.5,0.6,"['pet video', 'gameplay', 'hack']",0.22,0.35,False,366.3,0.69,I want to stay emotionally balanced,reward
+U119,2025-06-11 14:17:00,83.8,afternoon,39.2,1.4,-0.22,"['school hacks', 'tutorial', 'study']",0.29,0.35,False,369.8,0.64,I want to stop wasting time,guilt
+U120,2025-06-11 00:36:00,28.5,late_night,10.4,1.7,0.57,"['academic', 'brain tips', 'lecture']",0.19,0.29,True,368.8,0.82,I feel tired but want to learn something,guilt
+U121,2025-06-11 18:35:00,34.8,night,46.8,2.5,-0.23,"['quiet', 'deep talk', 'study with me']",0.26,0.34,True,288.5,0.73,I want to stay emotionally balanced,exhaustion
+U122,2025-06-11 03:37:00,48.6,late_night,14.9,2.1,0.65,"['dancing', 'fun fact', 'satisfying']",0.03,0.26,True,503.6,0.73,I want to stop wasting time,reward
+U123,2025-06-11 03:39:00,77.7,late_night,48.9,1.0,-0.44,"['crazy moment', 'fail', 'surprise']",0.21,0.33,False,374.4,0.79,I feel tired but want to learn something,anxious
+U124,2025-06-11 17:51:00,15.0,afternoon,59.0,0.6,0.08,"['pop song', 'fun fact', 'asmr']",0.08,0.47,True,296.8,0.65,I just want to relax a bit,reward
+U125,2025-06-11 08:17:00,53.3,morning,53.1,0.9,0.18,"['lecture', 'how to', 'note taking']",0.26,0.48,False,437.1,0.65,I want to focus on studying,guilt
+U126,2025-06-11 12:13:00,42.0,afternoon,20.2,1.8,0.32,"['coding', 'exam tips', 'science']",0.26,0.47,True,379.8,0.91,I want to stop wasting time,guilt
+U127,2025-06-11 06:40:00,71.5,morning,28.5,1.6,-0.12,"['jump scare', 'prank', 'chaos']",0.24,0.79,True,349.4,0.75,I want to focus on studying,anxious
+U128,2025-06-11 13:12:00,12.0,afternoon,51.6,1.9,-0.82,"['gameplay', 'jokes', 'food review']",0.17,0.66,False,378.6,0.88,I want to stop wasting time,reward
+U129,2025-06-11 20:34:00,15.2,night,23.2,2.8,0.34,"['music clip', 'cool trick', 'pet video']",0.14,0.53,True,366.6,0.61,I feel tired but want to learn something,reward
+U130,2025-06-11 06:28:00,33.7,morning,43.2,2.3,-0.26,"['sunset', 'sleep aid', 'study with me']",0.2,0.23,True,396.5,0.61,I want to stop wasting time,exhaustion
+U131,2025-06-11 18:56:00,18.0,night,14.0,1.8,0.02,"['no drama', 'mental health', 'cooking calmly']",0.09,0.66,True,579.2,0.72,I want to focus on studying,exhaustion
+U132,2025-06-11 12:42:00,62.3,afternoon,12.4,1.7,0.76,"['sleep aid', 'mental health', 'quiet']",0.14,0.65,False,257.3,0.87,I want to stop wasting time,exhaustion
+U133,2025-06-11 21:36:00,51.6,night,40.3,2.3,0.44,"['fail', 'chaos', 'fast edit']",0.24,0.49,True,202.6,0.85,I just want to relax a bit,anxious
+U134,2025-06-11 19:15:00,12.2,night,33.7,1.1,-0.97,"['flirting', 'affection', 'vulnerability']",0.1,0.79,True,486.2,0.62,I want to stop wasting time,dependency
+U135,2025-06-11 11:51:00,65.6,morning,54.7,2.4,-0.38,"['meme', 'trending', 'conflict']",0.21,0.26,True,332.4,0.84,I just want to relax a bit,anxious
+U136,2025-06-11 18:11:00,45.4,night,56.4,1.1,-0.31,"['unboxing', 'nice edit', 'jokes']",0.02,0.78,True,380.7,0.61,I want to stay emotionally balanced,reward
+U137,2025-06-11 19:05:00,74.9,night,37.9,1.6,-0.2,"['travel vlog', 'asmr', 'hack']",0.09,0.51,True,298.1,0.7,I just want to relax a bit,reward
+U138,2025-06-11 08:16:00,18.8,morning,12.6,2.7,0.24,"['academic', 'homework', 'how to']",0.08,0.55,False,467.7,0.86,I want to focus on studying,guilt
+U139,2025-06-11 12:49:00,53.5,afternoon,41.5,0.8,0.06,"['deep talk', 'sleep aid', 'calm voice']",0.19,0.41,True,427.2,0.75,I want to stay emotionally balanced,exhaustion
+U140,2025-06-11 15:45:00,89.2,afternoon,13.4,1.1,-0.28,"['slow vlog', 'no drama', 'sunset']",0.29,0.55,False,283.4,0.7,I want to stay emotionally balanced,exhaustion
+U141,2025-06-11 06:40:00,57.6,morning,53.8,2.8,-0.22,"['drama', 'trending', 'fast edit']",0.16,0.37,True,498.1,0.86,I feel tired but want to learn something,anxious
+U142,2025-06-11 22:24:00,30.7,night,31.7,1.3,1.0,"['lifestyle', 'no drama', 'loneliness']",0.03,0.36,True,457.7,0.63,I want to stay emotionally balanced,exhaustion
+U143,2025-06-11 06:14:00,80.6,morning,35.7,1.3,-0.75,"['ai', 'how to', 'tutorial']",0.06,0.47,False,574.0,0.63,I just want to relax a bit,guilt
+U144,2025-06-11 01:49:00,75.9,late_night,20.5,0.8,-0.45,"['confession', 'longing', 'affection']",0.21,0.34,False,244.8,0.79,I feel tired but want to learn something,dependency
+U145,2025-06-11 15:09:00,66.6,afternoon,17.8,0.5,-0.11,"['comedy', 'conflict', 'rant']",0.07,0.78,True,478.8,0.88,I want to stay emotionally balanced,anxious
+U146,2025-06-11 09:27:00,38.7,morning,26.7,1.3,0.68,"['well-being', 'cooking calmly', 'journaling']",0.28,0.25,True,254.6,0.75,I feel tired but want to learn something,exhaustion
+U147,2025-06-11 23:17:00,73.0,night,13.9,2.4,0.37,"['crazy moment', 'comedy', 'surprise']",0.16,0.41,True,538.1,0.94,I just want to relax a bit,anxious
+U148,2025-06-11 03:33:00,34.8,late_night,40.2,1.0,0.77,"['calm voice', 'sleep aid', 'mental health']",0.14,0.46,False,426.7,0.67,I want to stop wasting time,exhaustion
+U149,2025-06-11 16:16:00,16.1,afternoon,15.8,1.1,-0.83,"['trending', 'chaos', 'surprise']",0.12,0.48,True,436.4,0.78,I feel tired but want to learn something,anxious
+U150,2025-06-11 23:05:00,63.4,night,10.0,0.6,0.67,"['cute couple', 'therapy', 'crush']",0.28,0.62,False,469.4,0.7,I just want to relax a bit,dependency
+U151,2025-06-11 20:21:00,65.8,night,17.6,2.3,-0.96,"['intimacy', 'talking stage', 'breakup']",0.14,0.51,True,268.2,0.93,I want to focus on studying,dependency
+U152,2025-06-11 13:25:00,67.7,afternoon,28.8,1.4,-0.31,"['documentary', 'academic', 'how to']",0.22,0.53,False,468.4,0.93,I feel tired but want to learn something,guilt
+U153,2025-06-11 05:54:00,43.2,late_night,37.6,2.3,0.83,"['win moment', 'dancing', 'art process']",0.16,0.38,False,413.1,0.74,I want to focus on studying,reward
+U154,2025-06-11 10:57:00,78.4,morning,34.0,2.0,-0.4,"['satisfying', 'travel vlog', 'pop song']",0.15,0.5,False,205.5,0.85,I want to focus on studying,reward
+U155,2025-06-11 11:59:00,63.7,morning,39.5,3.0,0.77,"['academic', 'explanation', 'tutorial']",0.11,0.72,False,367.6,0.76,I feel tired but want to learn something,guilt
+U156,2025-06-11 05:01:00,64.0,late_night,13.1,1.2,0.05,"['journaling', 'loneliness', 'life tips']",0.09,0.75,True,339.3,0.9,I want to stop wasting time,exhaustion
+U157,2025-06-11 03:18:00,66.6,late_night,56.1,2.9,-0.65,"['healing', 'journaling', 'no drama']",0.3,0.34,True,527.5,0.77,I feel tired but want to learn something,exhaustion
+U158,2025-06-11 14:03:00,17.6,afternoon,58.9,2.9,0.93,"['sunset', 'sleep aid', 'journaling']",0.19,0.67,False,222.8,0.77,I just want to relax a bit,exhaustion
+U159,2025-06-11 00:46:00,62.7,late_night,51.0,1.6,-0.93,"['cooking calmly', 'sleep aid', 'study with me']",0.06,0.37,False,553.7,0.86,I want to stay emotionally balanced,exhaustion
+U160,2025-06-11 06:18:00,69.4,morning,22.4,0.9,-0.28,"['sports', 'travel vlog', 'gameplay']",0.06,0.61,False,279.9,0.69,I just want to relax a bit,reward
+U161,2025-06-11 04:36:00,33.9,late_night,17.6,2.4,0.64,"['cool trick', 'pet video', 'short meme']",0.04,0.8,True,418.6,0.82,I just want to relax a bit,reward
+U162,2025-06-11 22:05:00,17.3,night,29.7,2.7,0.97,"['ai', 'academic', 'science']",0.24,0.58,False,293.8,0.73,I feel tired but want to learn something,guilt
+U163,2025-06-11 00:50:00,63.5,late_night,21.4,0.6,0.29,"['cool trick', 'sports', 'fun fact']",0.22,0.7,True,440.0,0.65,I want to focus on studying,reward
+U164,2025-06-11 03:49:00,43.1,late_night,56.2,2.1,0.93,"['low energy', 'journaling', 'mental health']",0.25,0.74,False,566.0,0.79,I want to stay emotionally balanced,exhaustion
+U165,2025-06-11 09:34:00,74.8,morning,29.3,0.7,-0.14,"['sports', 'food review', 'dancing']",0.08,0.27,True,561.6,0.67,I want to focus on studying,reward
+U166,2025-06-11 01:10:00,49.0,late_night,55.8,1.8,-0.46,"['productivity', 'lecture', 'ai']",0.04,0.28,False,450.5,0.91,I want to stop wasting time,guilt
+U167,2025-06-11 18:11:00,67.2,night,21.4,0.9,0.69,"['therapy', 'longing', 'social circle']",0.15,0.68,False,239.0,0.64,I want to focus on studying,dependency
+U168,2025-06-11 01:56:00,24.3,late_night,31.8,2.3,-0.54,"['intimacy', 'jealousy', 'texting drama']",0.13,0.38,False,286.1,0.85,I want to focus on studying,dependency
+U169,2025-06-11 19:18:00,70.6,night,47.8,2.9,0.31,"['slow vlog', 'sunset', 'no drama']",0.11,0.73,True,268.6,0.95,I want to focus on studying,exhaustion
+U170,2025-06-11 14:29:00,16.0,afternoon,13.8,1.7,0.53,"['chaos', 'meme', 'gossip']",0.09,0.5,False,396.4,0.92,I just want to relax a bit,anxious
+U171,2025-06-11 12:38:00,12.8,afternoon,14.1,1.1,0.61,"['pop song', 'pet video', 'satisfying']",0.03,0.71,True,249.7,0.86,I want to stay emotionally balanced,reward
+U172,2025-06-11 15:14:00,48.7,afternoon,24.2,1.8,-0.47,"['toxic love', 'social circle', 'therapy']",0.11,0.32,False,377.1,0.67,I feel tired but want to learn something,dependency
+U173,2025-06-11 03:57:00,33.4,late_night,35.8,2.1,-0.32,"['study', 'brain tips', 'tutorial']",0.21,0.6,False,205.3,0.85,I want to stay emotionally balanced,guilt
+U174,2025-06-11 07:53:00,15.8,morning,49.0,0.9,0.01,"['pop song', 'cute animal', 'asmr']",0.23,0.68,False,309.9,0.7,I want to stay emotionally balanced,reward
+U175,2025-06-11 12:14:00,74.5,afternoon,12.2,1.5,0.99,"['travel vlog', 'gameplay', 'art process']",0.16,0.61,False,223.7,0.89,I just want to relax a bit,reward
+U176,2025-06-11 18:51:00,70.4,night,20.7,1.5,0.2,"['life tips', 'self reflection', 'cooking calmly']",0.21,0.54,False,282.0,0.74,I want to stop wasting time,exhaustion
+U177,2025-06-11 06:03:00,52.7,morning,23.0,3.0,-0.03,"['relationship', 'crush', 'emotional']",0.07,0.47,True,504.0,0.79,I just want to relax a bit,dependency
+U178,2025-06-11 16:54:00,26.1,afternoon,58.1,2.2,-0.25,"['jokes', 'satisfying', 'win moment']",0.24,0.37,False,356.1,0.74,I feel tired but want to learn something,reward
+U179,2025-06-11 01:26:00,76.5,late_night,46.4,0.8,-0.04,"['drama', 'fast edit', 'crazy moment']",0.23,0.23,False,565.8,0.86,I want to stay emotionally balanced,anxious
+U180,2025-06-11 04:21:00,32.3,late_night,57.7,2.6,0.91,"['chaos', 'parody', 'surprise']",0.09,0.41,False,591.5,0.71,I want to focus on studying,anxious
+U181,2025-06-11 08:00:00,11.6,morning,30.3,1.5,0.84,"['coding', 'ai', 'education']",0.02,0.76,True,234.0,0.79,I feel tired but want to learn something,guilt
+U182,2025-06-11 11:43:00,37.1,morning,23.3,1.6,0.44,"['chaos', 'meme', 'prank']",0.1,0.64,False,277.6,0.65,I want to stay emotionally balanced,anxious
+U183,2025-06-11 11:53:00,85.6,morning,14.0,2.8,0.77,"['brain tips', 'explanation', 'ai']",0.26,0.77,False,522.1,0.62,I just want to relax a bit,guilt
+U184,2025-06-11 17:03:00,18.0,afternoon,37.8,0.7,0.0,"['lecture', 'explanation', 'productivity']",0.14,0.52,False,324.0,0.7,I just want to relax a bit,guilt
+U185,2025-06-11 22:42:00,39.0,night,29.9,1.8,0.46,"['confession', 'relationship', 'crush']",0.07,0.5,False,588.7,0.91,I want to stop wasting time,dependency
+U186,2025-06-11 20:49:00,23.4,night,54.9,1.3,0.12,"['drama', 'gossip', 'conflict']",0.04,0.76,False,539.4,0.83,I want to stay emotionally balanced,anxious
+U187,2025-06-11 14:04:00,61.2,afternoon,29.0,2.2,0.58,"['lifestyle', 'calm voice', 'low energy']",0.17,0.79,False,328.7,0.6,I want to stop wasting time,exhaustion
+U188,2025-06-11 21:46:00,28.6,night,33.2,2.6,-0.75,"['flirting', 'breakup', 'romantic']",0.03,0.66,True,549.8,0.76,I just want to relax a bit,dependency
+U189,2025-06-11 09:24:00,55.1,morning,15.7,2.8,0.93,"['breakup', 'romantic', 'talking stage']",0.17,0.26,True,551.5,0.71,I want to focus on studying,dependency
+U190,2025-06-11 23:46:00,66.8,night,17.3,1.1,-0.28,"['documentary', 'homework', 'focus']",0.1,0.73,True,227.0,0.94,I want to focus on studying,guilt
+U191,2025-06-11 23:58:00,17.3,night,24.7,0.7,-0.3,"['romantic', 'talking stage', 'true story']",0.23,0.59,True,357.9,0.62,I feel tired but want to learn something,dependency
+U192,2025-06-11 20:59:00,74.7,night,23.6,2.5,0.3,"['social circle', 'breakup', 'talking stage']",0.22,0.52,True,243.2,0.91,I just want to relax a bit,dependency
+U193,2025-06-11 17:20:00,11.5,afternoon,32.3,2.4,0.19,"['homework', 'note taking', 'education']",0.17,0.66,False,312.7,0.89,I want to focus on studying,guilt
+U194,2025-06-11 13:06:00,33.1,afternoon,51.5,2.0,-0.72,"['fail', 'jump scare', 'conflict']",0.28,0.32,True,577.3,0.62,I feel tired but want to learn something,anxious
+U195,2025-06-11 14:34:00,79.1,afternoon,45.1,2.4,0.39,"['pet video', 'unboxing', 'gameplay']",0.28,0.26,False,596.3,0.94,I just want to relax a bit,reward
+U196,2025-06-11 02:02:00,81.0,late_night,55.4,2.1,-0.8,"['loneliness', 'calm voice', 'cooking calmly']",0.07,0.49,False,528.7,0.93,I feel tired but want to learn something,exhaustion
+U197,2025-06-11 00:56:00,70.1,late_night,53.1,0.7,0.64,"['confession', 'relationship', 'talking stage']",0.03,0.47,True,354.4,0.83,I want to focus on studying,dependency
+U198,2025-06-11 20:31:00,46.3,night,20.7,2.1,0.62,"['intimacy', 'longing', 'crush']",0.23,0.48,False,585.8,0.62,I want to stay emotionally balanced,dependency
+U199,2025-06-11 21:58:00,25.7,night,30.3,2.4,-0.03,"['self reflection', 'slow vlog', 'life tips']",0.03,0.57,False,467.6,0.63,I just want to relax a bit,exhaustion
+U200,2025-06-11 17:53:00,84.8,afternoon,47.2,2.7,0.07,"['fast edit', 'meme', 'drama']",0.05,0.67,True,553.6,0.67,I want to stop wasting time,anxious
+U201,2025-06-11 10:17:00,33.5,morning,22.7,2.0,-0.61,"['note taking', 'brain tips', 'ai']",0.11,0.42,False,244.3,0.71,I want to stay emotionally balanced,guilt
+U202,2025-06-11 21:54:00,34.3,night,59.5,2.7,-0.17,"['talking stage', 'toxic love', 'confession']",0.28,0.53,False,424.8,0.93,I want to stop wasting time,dependency
+U203,2025-06-11 10:24:00,86.5,morning,26.8,2.7,0.11,"['pop song', 'dancing', 'art process']",0.2,0.28,True,381.9,0.88,I feel tired but want to learn something,reward
+U204,2025-06-11 06:26:00,77.9,morning,13.3,2.7,0.92,"['sports', 'dancing', 'gameplay']",0.23,0.67,False,292.3,0.95,I just want to relax a bit,reward
+U205,2025-06-11 08:30:00,70.9,morning,42.0,1.0,-0.39,"['self reflection', 'loneliness', 'deep talk']",0.24,0.49,False,428.4,0.74,I just want to relax a bit,exhaustion
+U206,2025-06-11 16:13:00,58.2,afternoon,57.4,1.6,-0.29,"['intimacy', 'flirting', 'jealousy']",0.11,0.25,False,476.5,0.82,I want to stay emotionally balanced,dependency
+U207,2025-06-11 16:48:00,57.0,afternoon,36.2,0.9,0.19,"['longing', 'therapy', 'crush']",0.29,0.63,False,490.3,0.89,I want to stop wasting time,dependency
+U208,2025-06-11 17:09:00,41.3,afternoon,51.5,1.2,-0.27,"['deep talk', 'soft music', 'mental health']",0.17,0.7,True,344.5,0.76,I want to stay emotionally balanced,exhaustion
+U209,2025-06-11 21:19:00,85.1,night,37.0,2.0,-0.09,"['healing', 'sunset', 'study with me']",0.22,0.74,True,364.4,0.61,I want to stop wasting time,exhaustion
+U210,2025-06-11 20:22:00,50.5,night,56.4,1.6,0.94,"['flirting', 'emotional', 'affection']",0.19,0.32,False,400.3,0.91,I want to focus on studying,dependency
+U211,2025-06-11 05:03:00,58.3,late_night,32.4,2.2,-0.43,"['travel vlog', 'food review', 'nice edit']",0.17,0.54,True,402.2,0.83,I just want to relax a bit,reward
+U212,2025-06-11 14:19:00,40.2,afternoon,20.9,2.6,0.32,"['funny', 'jump scare', 'fail']",0.14,0.57,False,239.6,0.7,I want to stop wasting time,anxious
+U213,2025-06-11 12:51:00,33.1,afternoon,43.3,1.8,0.04,"['fail', 'chaos', 'crazy moment']",0.14,0.55,True,302.8,0.69,I just want to relax a bit,anxious
+U214,2025-06-11 16:19:00,17.6,afternoon,37.3,2.0,-0.72,"['trending', 'prank', 'reaction']",0.29,0.73,True,370.3,0.92,I want to stay emotionally balanced,anxious
+U215,2025-06-11 10:56:00,55.7,morning,15.6,2.5,-0.56,"['therapy', 'confession', 'talking stage']",0.21,0.33,False,281.7,0.66,I feel tired but want to learn something,dependency
+U216,2025-06-11 07:52:00,43.4,morning,39.1,2.4,-0.7,"['conflict', 'surprise', 'fast edit']",0.01,0.54,False,423.5,0.93,I want to focus on studying,anxious
+U217,2025-06-11 15:50:00,73.0,afternoon,55.7,1.5,0.3,"['comedy', 'meme', 'funny']",0.27,0.37,True,255.7,0.81,I want to focus on studying,anxious
+U218,2025-06-11 18:20:00,85.5,night,41.6,2.5,0.45,"['sunset', 'deep talk', 'slow vlog']",0.11,0.46,False,534.5,0.92,I want to focus on studying,exhaustion
+U219,2025-06-11 07:54:00,83.6,morning,31.7,1.0,-0.59,"['conflict', 'gossip', 'parody']",0.15,0.23,True,318.7,0.8,I want to focus on studying,anxious
+U220,2025-06-11 23:00:00,73.8,night,20.3,0.7,-0.29,"['jump scare', 'prank', 'rant']",0.08,0.57,True,245.6,0.61,I feel tired but want to learn something,anxious
+U221,2025-06-11 00:54:00,12.4,late_night,44.3,2.9,-0.09,"['travel vlog', 'sports', 'unboxing']",0.06,0.73,False,544.5,0.92,I want to stop wasting time,reward
+U222,2025-06-11 09:24:00,19.2,morning,45.0,2.3,0.01,"['trending', 'jump scare', 'chaos']",0.3,0.58,False,266.5,0.7,I want to focus on studying,anxious
+U223,2025-06-11 03:46:00,44.8,late_night,10.5,1.5,-0.45,"['jokes', 'cute animal', 'win moment']",0.01,0.35,False,597.1,0.88,I want to focus on studying,reward
+U224,2025-06-11 18:42:00,19.0,night,59.5,1.9,-0.55,"['minimalism', 'life tips', 'self reflection']",0.03,0.4,True,332.3,0.92,I feel tired but want to learn something,exhaustion
+U225,2025-06-11 09:47:00,11.2,morning,17.3,2.4,-0.26,"['vulnerability', 'intimacy', 'therapy']",0.19,0.68,True,258.6,0.89,I just want to relax a bit,dependency
+U226,2025-06-11 15:56:00,71.6,afternoon,31.1,1.9,-0.25,"['education', 'academic', 'science']",0.21,0.73,True,354.8,0.74,I feel tired but want to learn something,guilt
+U227,2025-06-11 01:55:00,40.2,late_night,52.3,2.6,-0.99,"['soft music', 'healing', 'deep talk']",0.25,0.3,True,528.0,0.9,I want to focus on studying,exhaustion
+U228,2025-06-11 17:14:00,51.1,afternoon,51.3,1.8,-0.88,"['prank', 'surprise', 'rant']",0.04,0.28,False,346.5,0.71,I want to focus on studying,anxious
+U229,2025-06-11 18:54:00,59.5,night,44.4,1.3,-0.42,"['emotional', 'breakup', 'jealousy']",0.29,0.53,True,314.0,0.91,I want to stay emotionally balanced,dependency
+U230,2025-06-11 07:13:00,65.1,morning,28.4,0.9,0.45,"['therapy', 'jealousy', 'crush']",0.22,0.25,True,283.5,0.74,I want to stay emotionally balanced,dependency
+U231,2025-06-11 06:39:00,51.3,morning,34.5,1.1,-0.06,"['breakup', 'talking stage', 'social circle']",0.11,0.23,True,484.5,0.85,I want to stop wasting time,dependency
+U232,2025-06-11 16:22:00,36.1,afternoon,10.5,0.8,0.91,"['longing', 'jealousy', 'intimacy']",0.03,0.44,False,524.5,0.62,I want to stay emotionally balanced,dependency
+U233,2025-06-11 07:14:00,82.3,morning,39.1,1.3,-0.39,"['tutorial', 'brain tips', 'how to']",0.11,0.21,True,225.2,0.6,I want to stop wasting time,guilt
+U234,2025-06-11 23:37:00,48.7,night,56.8,2.2,0.64,"['toxic love', 'flirting', 'vulnerability']",0.01,0.48,True,551.5,0.93,I want to stay emotionally balanced,dependency
+U235,2025-06-11 21:43:00,19.9,night,47.6,0.8,-0.45,"['education', 'academic', 'study']",0.09,0.38,True,337.0,0.95,I want to stay emotionally balanced,guilt
+U236,2025-06-11 02:32:00,81.8,late_night,54.9,3.0,0.99,"['rant', 'crazy moment', 'jump scare']",0.25,0.29,True,372.2,0.73,I want to stop wasting time,anxious
+U237,2025-06-11 19:48:00,53.0,night,25.3,2.0,-0.7,"['vulnerability', 'cute couple', 'social circle']",0.13,0.35,True,241.1,0.65,I feel tired but want to learn something,dependency
+U238,2025-06-11 09:50:00,58.3,morning,23.9,0.9,0.08,"['intimacy', 'vulnerability', 'romantic']",0.09,0.74,True,213.8,0.77,I want to stop wasting time,dependency
+U239,2025-06-11 19:45:00,15.9,night,59.6,2.4,0.46,"['how to', 'lecture', 'education']",0.17,0.53,True,583.5,0.93,I want to stay emotionally balanced,guilt
+U240,2025-06-11 23:29:00,70.2,night,11.5,1.8,0.99,"['asmr', 'hack', 'win moment']",0.3,0.63,True,569.0,0.76,I want to focus on studying,reward
+U241,2025-06-11 06:08:00,32.8,morning,35.1,0.6,0.62,"['breakup', 'intimacy', 'toxic love']",0.01,0.27,True,361.4,0.83,I just want to relax a bit,dependency
+U242,2025-06-11 08:49:00,59.2,morning,37.7,1.7,0.2,"['satisfying', 'fun fact', 'jokes']",0.07,0.65,False,598.5,0.72,I feel tired but want to learn something,reward
+U243,2025-06-11 21:33:00,69.4,night,27.7,0.6,0.79,"['explanation', 'study', 'coding']",0.21,0.45,True,544.8,0.63,I want to stop wasting time,guilt
+U244,2025-06-11 02:36:00,81.5,late_night,43.2,2.0,-0.89,"['comedy', 'funny', 'meme']",0.3,0.37,False,487.4,0.86,I want to stop wasting time,anxious
+U245,2025-06-11 21:58:00,83.2,night,18.4,1.2,-0.72,"['unboxing', 'sports', 'asmr']",0.07,0.22,True,237.2,0.64,I want to stop wasting time,reward
+U246,2025-06-11 16:36:00,65.2,afternoon,15.9,2.1,-0.24,"['healing', 'quiet', 'deep talk']",0.1,0.79,True,334.4,0.89,I want to focus on studying,exhaustion
+U247,2025-06-11 13:12:00,76.9,afternoon,59.9,0.7,0.0,"['travel vlog', 'pet video', 'win moment']",0.3,0.73,False,274.9,0.7,I want to stop wasting time,reward
+U248,2025-06-11 08:25:00,54.8,morning,17.4,2.4,0.35,"['coding', 'brain tips', 'exam tips']",0.26,0.72,True,389.5,0.81,I just want to relax a bit,guilt
+U249,2025-06-11 12:11:00,58.0,afternoon,33.6,1.6,-0.7,"['academic', 'exam tips', 'note taking']",0.28,0.24,False,291.7,0.87,I want to focus on studying,guilt
+U250,2025-06-11 13:41:00,24.8,afternoon,25.2,0.8,-0.18,"['flirting', 'longing', 'affection']",0.08,0.56,False,385.9,0.9,I feel tired but want to learn something,dependency
+U251,2025-06-11 16:58:00,33.6,afternoon,58.0,2.7,-0.82,"['quiet', 'soft music', 'life tips']",0.11,0.8,True,344.6,0.92,I want to stop wasting time,exhaustion
+U252,2025-06-11 02:33:00,53.4,late_night,38.4,1.8,0.56,"['science', 'productivity', 'brain tips']",0.16,0.44,False,579.9,0.77,I want to stay emotionally balanced,guilt
+U253,2025-06-11 04:25:00,87.1,late_night,34.4,1.5,-0.29,"['prank', 'surprise', 'crazy moment']",0.07,0.71,False,573.9,0.78,I want to stop wasting time,anxious
+U254,2025-06-11 20:16:00,43.1,night,53.8,2.5,-0.03,"['self reflection', 'low energy', 'calm voice']",0.29,0.79,True,581.5,0.72,I want to stop wasting time,exhaustion
+U255,2025-06-11 19:06:00,56.7,night,37.3,2.9,0.25,"['homework', 'documentary', 'school hacks']",0.0,0.56,True,358.1,0.66,I feel tired but want to learn something,guilt
+U256,2025-06-11 15:13:00,37.9,afternoon,55.4,1.8,0.27,"['sunset', 'mental health', 'loneliness']",0.1,0.63,True,228.6,0.89,I want to stop wasting time,exhaustion
+U257,2025-06-11 08:34:00,23.3,morning,55.9,0.6,-0.31,"['drama', 'meme', 'surprise']",0.12,0.57,True,341.3,0.79,I just want to relax a bit,anxious
+U258,2025-06-11 11:19:00,85.9,morning,58.4,1.6,-0.13,"['crazy moment', 'fast edit', 'surprise']",0.13,0.23,True,569.8,0.75,I want to stop wasting time,anxious
+U259,2025-06-11 20:10:00,30.4,night,49.1,2.9,0.16,"['affection', 'breakup', 'romantic']",0.16,0.51,False,341.5,0.93,I want to focus on studying,dependency
+U260,2025-06-11 11:20:00,73.5,morning,58.5,1.7,0.27,"['surprise', 'gossip', 'jump scare']",0.24,0.41,True,226.9,0.82,I feel tired but want to learn something,anxious
+U261,2025-06-11 10:58:00,67.0,morning,56.5,0.6,0.21,"['hack', 'gameplay', 'fun fact']",0.11,0.34,False,372.0,0.68,I feel tired but want to learn something,reward
+U262,2025-06-11 04:23:00,60.2,late_night,39.9,2.0,0.69,"['focus', 'education', 'study vlog']",0.03,0.55,False,299.5,0.67,I want to stay emotionally balanced,guilt
+U263,2025-06-11 19:55:00,67.8,night,50.4,2.1,-0.14,"['academic', 'explanation', 'focus']",0.26,0.32,True,317.9,0.73,I want to stop wasting time,guilt
+U264,2025-06-11 09:23:00,28.4,morning,14.8,1.9,-0.88,"['pet video', 'satisfying', 'gameplay']",0.01,0.7,True,204.4,0.82,I want to focus on studying,reward
+U265,2025-06-11 13:55:00,87.3,afternoon,44.6,2.3,0.24,"['asmr', 'gameplay', 'pop song']",0.24,0.51,False,287.3,0.91,I want to stay emotionally balanced,reward
+U266,2025-06-11 09:31:00,68.8,morning,26.7,1.8,-0.61,"['dancing', 'art process', 'music clip']",0.27,0.31,False,241.1,0.71,I want to stop wasting time,reward
+U267,2025-06-11 21:05:00,78.0,night,50.4,2.9,-0.81,"['documentary', 'productivity', 'study']",0.25,0.58,False,568.4,0.63,I just want to relax a bit,guilt
+U268,2025-06-11 22:05:00,39.6,night,17.6,2.6,-0.59,"['talking stage', 'true story', 'vulnerability']",0.28,0.56,True,217.1,0.81,I want to stop wasting time,dependency
+U269,2025-06-11 21:30:00,86.0,night,39.2,1.3,0.77,"['ai', 'explanation', 'science']",0.06,0.45,True,563.1,0.93,I want to focus on studying,guilt
+U270,2025-06-11 11:23:00,31.3,morning,18.3,1.6,-0.51,"['asmr', 'sports', 'art process']",0.04,0.48,True,268.4,0.68,I just want to relax a bit,reward
+U271,2025-06-11 15:10:00,13.4,afternoon,45.8,2.6,-0.3,"['true story', 'talking stage', 'crush']",0.08,0.65,True,242.8,0.73,I want to stay emotionally balanced,dependency
+U272,2025-06-11 04:53:00,76.9,late_night,14.3,1.1,-0.27,"['texting drama', 'jealousy', 'confession']",0.06,0.26,True,578.7,0.64,I want to stop wasting time,dependency
+U273,2025-06-11 12:07:00,25.0,afternoon,19.8,3.0,0.66,"['reaction', 'conflict', 'crazy moment']",0.21,0.71,True,442.3,0.73,I feel tired but want to learn something,anxious
+U274,2025-06-11 17:14:00,32.9,afternoon,48.1,1.7,-0.81,"['jump scare', 'gossip', 'drama']",0.21,0.4,False,403.7,0.72,I feel tired but want to learn something,anxious
+U275,2025-06-11 02:06:00,13.5,late_night,36.3,2.9,0.86,"['healing', 'mental health', 'slow vlog']",0.13,0.2,False,510.2,0.8,I want to stop wasting time,exhaustion
+U276,2025-06-11 06:26:00,80.1,morning,22.5,0.7,0.21,"['coding', 'homework', 'school hacks']",0.02,0.35,False,327.5,0.67,I want to stay emotionally balanced,guilt
+U277,2025-06-11 17:19:00,78.8,afternoon,10.5,2.9,-0.9,"['minimalism', 'slow vlog', 'low energy']",0.28,0.23,True,266.7,0.75,I want to stay emotionally balanced,exhaustion
+U278,2025-06-11 16:32:00,47.1,afternoon,47.0,2.3,0.34,"['drama', 'fast edit', 'parody']",0.23,0.78,True,541.3,0.88,I feel tired but want to learn something,anxious
+U279,2025-06-11 23:08:00,23.8,night,35.4,0.6,-0.52,"['explanation', 'productivity', 'education']",0.06,0.3,True,545.9,0.86,I want to focus on studying,guilt
+U280,2025-06-11 23:52:00,61.2,night,46.7,2.6,0.96,"['mental health', 'deep talk', 'life tips']",0.25,0.69,False,507.0,0.73,I just want to relax a bit,exhaustion
+U281,2025-06-11 19:20:00,71.5,night,47.5,1.0,-0.46,"['prank', 'fail', 'drama']",0.04,0.72,True,584.3,0.69,I want to stop wasting time,anxious
+U282,2025-06-11 17:30:00,81.5,afternoon,13.1,1.6,0.84,"['longing', 'affection', 'relationship']",0.11,0.75,False,555.0,0.76,I feel tired but want to learn something,dependency
+U283,2025-06-11 08:58:00,46.1,morning,16.3,2.4,0.61,"['cooking calmly', 'life tips', 'sleep aid']",0.29,0.39,True,442.5,0.64,I just want to relax a bit,exhaustion
+U284,2025-06-11 12:26:00,67.1,afternoon,16.9,2.9,-0.76,"['sleep aid', 'study with me', 'healing']",0.09,0.23,False,415.5,0.88,I want to stop wasting time,exhaustion
+U285,2025-06-11 19:03:00,75.6,night,43.1,1.3,0.19,"['satisfying', 'music clip', 'asmr']",0.26,0.26,False,242.0,0.82,I want to stay emotionally balanced,reward
+U286,2025-06-11 08:13:00,86.0,morning,43.5,0.6,-0.16,"['art process', 'nice edit', 'food review']",0.3,0.28,True,482.2,0.91,I feel tired but want to learn something,reward
+U287,2025-06-11 18:13:00,83.0,night,51.6,2.0,-0.81,"['fast edit', 'gossip', 'chaos']",0.01,0.68,True,390.7,0.79,I want to focus on studying,anxious
+U288,2025-06-11 12:21:00,41.9,afternoon,59.5,2.5,-0.18,"['short meme', 'pop song', 'win moment']",0.3,0.48,False,431.5,0.69,I just want to relax a bit,reward
+U289,2025-06-11 22:56:00,40.4,night,58.5,2.5,-0.27,"['affection', 'talking stage', 'romantic']",0.28,0.32,False,341.1,0.68,I want to stop wasting time,dependency
+U290,2025-06-11 19:23:00,61.2,night,45.9,2.3,-0.3,"['soft music', 'low energy', 'quiet']",0.06,0.23,False,556.3,0.9,I want to focus on studying,exhaustion
+U291,2025-06-11 05:52:00,88.9,late_night,26.6,2.8,0.2,"['comedy', 'fast edit', 'gossip']",0.19,0.31,False,500.2,0.67,I want to stay emotionally balanced,anxious
+U292,2025-06-11 13:27:00,52.6,afternoon,20.2,2.3,0.37,"['sports', 'pop song', 'travel vlog']",0.13,0.22,False,419.7,0.66,I feel tired but want to learn something,reward
+U293,2025-06-11 21:58:00,65.9,night,54.5,1.6,-0.8,"['loneliness', 'soft music', 'sunset']",0.03,0.26,False,297.8,0.67,I want to stop wasting time,exhaustion
+U294,2025-06-11 17:10:00,12.0,afternoon,30.7,0.9,0.59,"['homework', 'productivity', 'study vlog']",0.0,0.55,True,402.5,0.79,I want to stay emotionally balanced,guilt
+U295,2025-06-11 14:18:00,23.8,afternoon,51.3,0.7,-0.86,"['fail', 'prank', 'fast edit']",0.0,0.25,False,493.8,0.85,I want to focus on studying,anxious
+U296,2025-06-11 17:00:00,16.1,afternoon,54.8,2.9,-0.04,"['crush', 'romantic', 'therapy']",0.22,0.65,False,374.8,0.95,I want to stop wasting time,dependency
+U297,2025-06-11 05:25:00,51.6,late_night,23.1,1.5,0.03,"['quiet', 'deep talk', 'life tips']",0.11,0.74,True,525.2,0.67,I just want to relax a bit,exhaustion
+U298,2025-06-11 20:00:00,32.1,night,56.6,0.7,0.8,"['cute couple', 'jealousy', 'crush']",0.08,0.62,True,317.2,0.78,I want to stop wasting time,dependency
+U299,2025-06-11 01:39:00,79.9,late_night,54.0,1.3,-0.19,"['slow vlog', 'calm voice', 'minimalism']",0.0,0.7,False,428.5,0.73,I feel tired but want to learn something,exhaustion
+U300,2025-06-11 14:53:00,21.8,afternoon,28.4,1.1,0.11,"['art process', 'music clip', 'cute animal']",0.23,0.29,False,429.8,0.83,I want to focus on studying,reward
+U301,2025-06-11 09:39:00,87.6,morning,36.7,2.5,0.45,"['food review', 'unboxing', 'gameplay']",0.12,0.6,False,314.1,0.83,I want to stop wasting time,reward
+U302,2025-06-11 23:05:00,30.0,night,46.9,1.6,-0.76,"['reaction', 'gossip', 'crazy moment']",0.15,0.28,True,357.0,0.75,I feel tired but want to learn something,anxious
+U303,2025-06-11 20:44:00,63.0,night,51.1,1.2,0.58,"['homework', 'note taking', 'academic']",0.14,0.76,False,397.1,0.8,I want to stop wasting time,guilt
+U304,2025-06-11 05:07:00,55.8,late_night,45.0,2.0,-0.41,"['true story', 'vulnerability', 'breakup']",0.16,0.61,True,328.5,0.61,I want to stay emotionally balanced,dependency
+U305,2025-06-11 20:34:00,84.4,night,39.9,1.4,0.37,"['how to', 'study vlog', 'note taking']",0.28,0.52,True,253.9,0.76,I want to focus on studying,guilt
+U306,2025-06-11 00:36:00,30.0,late_night,50.8,2.6,0.54,"['rant', 'prank', 'surprise']",0.2,0.75,False,524.8,0.73,I want to stay emotionally balanced,anxious
+U307,2025-06-11 00:33:00,76.5,late_night,22.5,1.7,-0.93,"['cute animal', 'art process', 'unboxing']",0.12,0.56,True,241.0,0.66,I just want to relax a bit,reward
+U308,2025-06-11 00:50:00,43.1,late_night,23.9,0.7,-0.3,"['trending', 'comedy', 'meme']",0.18,0.55,False,428.7,0.91,I feel tired but want to learn something,anxious
+U309,2025-06-11 18:06:00,35.5,night,55.9,0.9,-0.05,"['confession', 'social circle', 'relationship']",0.08,0.53,True,345.4,0.61,I want to stop wasting time,dependency
+U310,2025-06-11 15:38:00,49.2,afternoon,51.7,1.6,0.13,"['romantic', 'social circle', 'breakup']",0.16,0.62,False,407.0,0.62,I want to stay emotionally balanced,dependency
+U311,2025-06-11 14:35:00,29.4,afternoon,41.9,1.2,0.19,"['crush', 'toxic love', 'intimacy']",0.11,0.8,True,514.4,0.83,I want to stay emotionally balanced,dependency
+U312,2025-06-11 02:33:00,37.2,late_night,58.4,2.9,0.55,"['jokes', 'satisfying', 'music clip']",0.01,0.63,True,206.6,0.91,I want to focus on studying,reward
+U313,2025-06-11 00:54:00,61.7,late_night,25.8,1.1,0.75,"['talking stage', 'affection', 'crush']",0.1,0.49,False,504.9,0.86,I want to stop wasting time,dependency
+U314,2025-06-11 18:58:00,68.2,night,40.9,2.1,0.81,"['ai', 'study', 'online course']",0.16,0.53,True,338.7,0.92,I want to stop wasting time,guilt
+U315,2025-06-11 05:00:00,56.0,late_night,53.9,0.9,0.2,"['romantic', 'social circle', 'true story']",0.1,0.28,True,282.7,0.91,I want to stay emotionally balanced,dependency
+U316,2025-06-11 14:43:00,31.4,afternoon,51.7,0.7,-0.22,"['fast edit', 'chaos', 'funny']",0.09,0.58,False,364.3,0.62,I want to focus on studying,anxious
+U317,2025-06-11 18:50:00,70.2,night,35.3,1.8,0.28,"['jokes', 'hack', 'pop song']",0.03,0.26,False,378.9,0.66,I want to focus on studying,reward
+U318,2025-06-11 21:40:00,89.8,night,40.8,1.9,0.15,"['drama', 'jump scare', 'conflict']",0.11,0.45,True,464.5,0.66,I want to focus on studying,anxious
+U319,2025-06-11 20:29:00,17.8,night,28.3,2.3,0.58,"['loneliness', 'soft music', 'low energy']",0.21,0.22,True,410.6,0.8,I feel tired but want to learn something,exhaustion
+U320,2025-06-11 00:26:00,62.7,late_night,42.0,2.1,-0.79,"['breakup', 'jealousy', 'romantic']",0.19,0.77,True,535.9,0.86,I want to focus on studying,dependency
+U321,2025-06-11 20:53:00,28.6,night,37.8,0.9,0.55,"['note taking', 'science', 'coding']",0.23,0.28,False,454.5,0.7,I want to stay emotionally balanced,guilt
+U322,2025-06-11 05:39:00,14.1,late_night,40.5,0.8,-0.65,"['focus', 'lecture', 'academic']",0.28,0.5,True,392.8,0.94,I want to stay emotionally balanced,guilt
+U323,2025-06-11 16:23:00,38.2,afternoon,49.5,2.0,-0.16,"['loneliness', 'well-being', 'healing']",0.1,0.67,True,453.2,0.7,I feel tired but want to learn something,exhaustion
+U324,2025-06-11 00:09:00,58.6,late_night,23.9,2.8,-0.98,"['brain tips', 'lecture', 'education']",0.18,0.31,True,525.1,0.75,I feel tired but want to learn something,guilt
+U325,2025-06-11 16:48:00,76.4,afternoon,25.5,0.8,0.32,"['food review', 'win moment', 'pop song']",0.27,0.2,False,267.8,0.63,I just want to relax a bit,reward
+U326,2025-06-11 07:56:00,25.9,morning,23.0,2.2,0.76,"['hack', 'art process', 'win moment']",0.25,0.72,True,482.3,0.61,I want to stop wasting time,reward
+U327,2025-06-11 04:48:00,23.0,late_night,57.9,1.9,-0.3,"['calm voice', 'life tips', 'slow vlog']",0.21,0.49,True,481.9,0.76,I want to stay emotionally balanced,exhaustion
+U328,2025-06-11 17:27:00,34.3,afternoon,43.7,1.9,0.27,"['journaling', 'sleep aid', 'self reflection']",0.17,0.69,True,493.8,0.89,I just want to relax a bit,exhaustion
+U329,2025-06-11 00:07:00,13.1,late_night,13.0,2.9,0.41,"['calm voice', 'healing', 'lifestyle']",0.15,0.71,True,521.0,0.72,I just want to relax a bit,exhaustion
+U330,2025-06-11 17:34:00,26.9,afternoon,40.6,0.7,-0.57,"['jokes', 'win moment', 'pop song']",0.07,0.4,False,504.4,0.64,I just want to relax a bit,reward
+U331,2025-06-11 19:51:00,31.8,night,57.4,2.2,0.94,"['prank', 'conflict', 'rant']",0.16,0.29,True,261.0,0.9,I just want to relax a bit,anxious
+U332,2025-06-11 00:38:00,58.4,late_night,16.7,0.7,0.99,"['jokes', 'travel vlog', 'asmr']",0.29,0.74,True,407.3,0.76,I want to stop wasting time,reward
+U333,2025-06-11 12:38:00,32.8,afternoon,55.6,1.5,0.84,"['prank', 'jump scare', 'crazy moment']",0.16,0.5,True,320.2,0.95,I want to stop wasting time,anxious
+U334,2025-06-11 04:41:00,40.1,late_night,13.1,2.3,-0.99,"['talking stage', 'therapy', 'affection']",0.26,0.49,True,336.8,0.69,I want to focus on studying,dependency
+U335,2025-06-11 17:23:00,61.4,afternoon,34.2,1.2,-0.41,"['prank', 'trending', 'meme']",0.2,0.3,False,351.1,0.74,I want to focus on studying,anxious
+U336,2025-06-11 04:41:00,77.2,late_night,45.4,2.9,-0.81,"['homework', 'study', 'study vlog']",0.17,0.67,True,296.5,0.75,I want to stay emotionally balanced,guilt
+U337,2025-06-11 05:43:00,78.5,late_night,32.2,1.1,0.23,"['art process', 'jokes', 'travel vlog']",0.2,0.23,False,327.7,0.78,I just want to relax a bit,reward
+U338,2025-06-11 16:51:00,69.9,afternoon,38.0,1.1,0.63,"['true story', 'breakup', 'longing']",0.23,0.36,True,538.0,0.95,I just want to relax a bit,dependency
+U339,2025-06-11 20:58:00,70.8,night,21.4,1.3,-0.87,"['life tips', 'journaling', 'deep talk']",0.17,0.27,True,478.8,0.94,I feel tired but want to learn something,exhaustion
+U340,2025-06-11 17:16:00,11.1,afternoon,12.8,0.8,-0.54,"['surprise', 'conflict', 'drama']",0.27,0.73,True,596.1,0.63,I feel tired but want to learn something,anxious
+U341,2025-06-11 03:13:00,80.4,late_night,50.2,1.3,-0.25,"['food review', 'short meme', 'nice edit']",0.19,0.62,False,493.5,0.88,I want to focus on studying,reward
+U342,2025-06-11 14:30:00,67.9,afternoon,26.1,2.6,0.67,"['social circle', 'therapy', 'romantic']",0.23,0.79,False,422.0,0.76,I want to stop wasting time,dependency
+U343,2025-06-11 18:35:00,76.2,night,24.0,1.0,-0.2,"['affection', 'intimacy', 'jealousy']",0.28,0.52,True,348.3,0.72,I want to stay emotionally balanced,dependency
+U344,2025-06-11 14:08:00,26.5,afternoon,45.1,1.6,-0.02,"['online course', 'academic', 'exam tips']",0.12,0.22,True,574.1,0.91,I want to stop wasting time,guilt
+U345,2025-06-11 07:04:00,11.5,morning,50.3,1.0,-0.67,"['true story', 'intimacy', 'affection']",0.28,0.32,True,317.1,0.84,I just want to relax a bit,dependency
+U346,2025-06-11 02:26:00,26.5,late_night,29.5,2.2,0.37,"['reaction', 'meme', 'conflict']",0.03,0.67,False,402.9,0.64,I feel tired but want to learn something,anxious
+U347,2025-06-11 13:31:00,56.7,afternoon,10.5,3.0,0.66,"['how to', 'exam tips', 'study']",0.3,0.36,True,537.6,0.75,I want to stay emotionally balanced,guilt
+U348,2025-06-11 22:29:00,50.4,night,37.8,1.5,-0.88,"['satisfying', 'jokes', 'pop song']",0.18,0.6,True,432.1,0.63,I just want to relax a bit,reward
+U349,2025-06-11 02:45:00,21.8,late_night,44.6,1.2,0.5,"['parody', 'crazy moment', 'jump scare']",0.26,0.62,True,575.7,0.67,I want to stop wasting time,anxious
+U350,2025-06-11 23:24:00,25.5,night,20.7,3.0,0.49,"['jump scare', 'rant', 'reaction']",0.22,0.63,True,577.1,0.73,I want to stop wasting time,anxious
+U351,2025-06-11 17:40:00,80.4,afternoon,37.7,2.6,-0.96,"['social circle', 'emotional', 'crush']",0.26,0.54,False,512.1,0.61,I just want to relax a bit,dependency
+U352,2025-06-11 08:01:00,59.6,morning,54.6,2.7,0.12,"['talking stage', 'toxic love', 'breakup']",0.0,0.33,True,240.5,0.94,I want to stop wasting time,dependency
+U353,2025-06-11 11:38:00,62.9,morning,45.9,0.8,-0.09,"['affection', 'romantic', 'true story']",0.0,0.56,False,457.9,0.86,I want to stay emotionally balanced,dependency
+U354,2025-06-11 05:23:00,61.9,late_night,24.2,2.3,0.73,"['low energy', 'no drama', 'well-being']",0.12,0.48,True,216.5,0.91,I feel tired but want to learn something,exhaustion
+U355,2025-06-11 12:48:00,83.8,afternoon,45.6,1.4,-0.92,"['unboxing', 'nice edit', 'satisfying']",0.11,0.36,False,397.2,0.8,I just want to relax a bit,reward
+U356,2025-06-11 10:08:00,60.6,morning,42.8,2.7,0.19,"['lecture', 'how to', 'explanation']",0.11,0.55,False,507.2,0.79,I feel tired but want to learn something,guilt
+U357,2025-06-11 04:59:00,34.7,late_night,40.9,0.5,0.28,"['rant', 'fast edit', 'reaction']",0.16,0.46,True,422.3,0.7,I want to focus on studying,anxious
+U358,2025-06-11 16:53:00,24.4,afternoon,28.2,0.8,-0.34,"['gossip', 'chaos', 'fast edit']",0.07,0.4,True,411.3,0.62,I just want to relax a bit,anxious
+U359,2025-06-11 12:10:00,61.4,afternoon,50.3,1.5,-0.32,"['sleep aid', 'life tips', 'lifestyle']",0.04,0.6,True,560.2,0.87,I want to stop wasting time,exhaustion
+U360,2025-06-11 08:04:00,64.6,morning,12.9,2.7,-0.49,"['focus', 'academic', 'how to']",0.2,0.78,False,269.5,0.88,I want to focus on studying,guilt
+U361,2025-06-11 20:36:00,23.4,night,55.6,0.8,-0.06,"['how to', 'focus', 'tutorial']",0.18,0.67,False,224.2,0.89,I want to focus on studying,guilt
+U362,2025-06-11 16:17:00,66.1,afternoon,12.1,1.0,-0.16,"['jokes', 'hack', 'short meme']",0.17,0.77,False,548.0,0.63,I want to focus on studying,reward
+U363,2025-06-11 23:32:00,42.5,night,28.5,1.9,-0.1,"['parody', 'rant', 'comedy']",0.28,0.64,False,266.8,0.65,I feel tired but want to learn something,anxious
+U364,2025-06-11 01:42:00,45.5,late_night,55.7,1.7,0.68,"['mental health', 'life tips', 'calm voice']",0.08,0.31,False,316.8,0.77,I want to focus on studying,exhaustion
+U365,2025-06-11 02:53:00,46.6,late_night,13.7,1.0,-0.17,"['study vlog', 'academic', 'exam tips']",0.23,0.43,True,460.3,0.89,I feel tired but want to learn something,guilt
+U366,2025-06-11 20:30:00,34.8,night,26.0,1.1,-0.86,"['nice edit', 'sports', 'cool trick']",0.17,0.76,True,544.8,0.81,I want to stay emotionally balanced,reward
+U367,2025-06-11 12:29:00,73.9,afternoon,11.2,0.7,-0.93,"['meme', 'crazy moment', 'surprise']",0.1,0.26,False,225.1,0.91,I just want to relax a bit,anxious
+U368,2025-06-11 06:25:00,36.9,morning,53.1,1.0,0.3,"['crazy moment', 'surprise', 'gossip']",0.21,0.6,True,366.3,0.66,I want to stay emotionally balanced,anxious
+U369,2025-06-11 18:04:00,42.7,night,19.5,1.6,0.24,"['dancing', 'music clip', 'art process']",0.17,0.54,True,234.9,0.77,I want to stop wasting time,reward
+U370,2025-06-11 06:42:00,84.0,morning,58.2,1.1,0.53,"['self reflection', 'soft music', 'well-being']",0.14,0.59,False,398.4,0.9,I want to stay emotionally balanced,exhaustion
+U371,2025-06-11 23:56:00,65.1,night,22.0,1.9,0.54,"['fun fact', 'travel vlog', 'unboxing']",0.12,0.33,False,538.2,0.7,I just want to relax a bit,reward
+U372,2025-06-11 06:25:00,58.1,morning,32.8,0.5,-0.93,"['gossip', 'surprise', 'prank']",0.07,0.31,True,315.3,0.64,I want to focus on studying,anxious
+U373,2025-06-11 06:47:00,30.4,morning,32.9,1.7,-0.53,"['ai', 'academic', 'homework']",0.16,0.4,False,365.4,0.71,I want to focus on studying,guilt
+U374,2025-06-11 21:08:00,38.3,night,53.1,1.9,0.26,"['science', 'education', 'homework']",0.2,0.62,True,549.0,0.62,I feel tired but want to learn something,guilt
+U375,2025-06-11 16:15:00,84.6,afternoon,56.3,1.4,-0.28,"['win moment', 'fun fact', 'short meme']",0.02,0.56,False,295.9,0.76,I want to focus on studying,reward
+U376,2025-06-11 06:33:00,39.9,morning,50.9,2.5,0.23,"['intimacy', 'emotional', 'social circle']",0.12,0.35,True,331.2,0.68,I feel tired but want to learn something,dependency
+U377,2025-06-11 16:02:00,57.5,afternoon,27.1,2.4,0.67,"['emotional', 'crush', 'intimacy']",0.11,0.3,False,244.6,0.88,I want to focus on studying,dependency
+U378,2025-06-11 05:19:00,15.5,late_night,31.4,0.8,0.47,"['toxic love', 'longing', 'vulnerability']",0.17,0.33,False,254.6,0.94,I want to stay emotionally balanced,dependency
+U379,2025-06-11 17:49:00,36.0,afternoon,33.5,2.3,-0.46,"['surprise', 'trending', 'chaos']",0.01,0.68,True,365.8,0.61,I feel tired but want to learn something,anxious
+U380,2025-06-11 19:04:00,85.2,night,40.5,2.4,0.28,"['jealousy', 'romantic', 'therapy']",0.24,0.71,False,357.1,0.81,I feel tired but want to learn something,dependency
+U381,2025-06-11 22:54:00,13.3,night,57.5,2.4,0.67,"['longing', 'therapy', 'vulnerability']",0.12,0.72,True,410.9,0.67,I want to stay emotionally balanced,dependency
+U382,2025-06-11 05:43:00,12.5,late_night,34.1,1.3,-0.13,"['soft music', 'mental health', 'low energy']",0.17,0.57,True,583.4,0.74,I want to stay emotionally balanced,exhaustion
+U383,2025-06-11 12:04:00,30.7,afternoon,11.3,0.7,-0.02,"['homework', 'coding', 'lecture']",0.13,0.5,False,597.9,0.81,I want to focus on studying,guilt
+U384,2025-06-11 01:21:00,69.0,late_night,19.0,2.7,-0.31,"['fun fact', 'sports', 'unboxing']",0.17,0.56,False,597.7,0.93,I just want to relax a bit,reward
+U385,2025-06-11 07:39:00,21.4,morning,11.2,0.6,-0.84,"['fail', 'reaction', 'comedy']",0.07,0.66,True,237.2,0.62,I feel tired but want to learn something,anxious
+U386,2025-06-11 15:20:00,44.4,afternoon,16.6,2.9,0.17,"['nice edit', 'food review', 'win moment']",0.28,0.3,False,544.0,0.86,I just want to relax a bit,reward
+U387,2025-06-11 20:53:00,35.8,night,55.9,1.8,0.13,"['academic', 'tutorial', 'study vlog']",0.26,0.76,False,465.2,0.85,I want to stay emotionally balanced,guilt
+U388,2025-06-11 00:19:00,44.8,late_night,18.9,2.0,0.7,"['focus', 'exam tips', 'note taking']",0.02,0.53,False,577.0,0.6,I want to stop wasting time,guilt
+U389,2025-06-11 12:37:00,35.0,afternoon,16.5,1.8,0.05,"['slow vlog', 'study with me', 'loneliness']",0.01,0.55,False,527.4,0.92,I feel tired but want to learn something,exhaustion
+U390,2025-06-11 17:34:00,42.9,afternoon,27.8,2.4,-0.89,"['win moment', 'dancing', 'travel vlog']",0.26,0.59,False,422.9,0.8,I want to stop wasting time,reward
+U391,2025-06-11 00:29:00,19.5,late_night,34.5,2.3,-0.25,"['texting drama', 'therapy', 'longing']",0.15,0.46,False,296.7,0.93,I want to focus on studying,dependency
+U392,2025-06-11 03:41:00,12.4,late_night,36.5,1.4,-0.73,"['online course', 'explanation', 'documentary']",0.29,0.23,False,277.5,0.64,I just want to relax a bit,guilt
+U393,2025-06-11 23:52:00,46.6,night,38.7,1.6,0.91,"['crazy moment', 'surprise', 'conflict']",0.13,0.68,False,376.9,0.67,I want to focus on studying,anxious
+U394,2025-06-11 04:39:00,28.4,late_night,44.6,2.0,0.67,"['loneliness', 'low energy', 'soft music']",0.3,0.45,True,241.5,0.72,I feel tired but want to learn something,exhaustion
+U395,2025-06-11 08:47:00,82.9,morning,18.6,1.4,-0.88,"['study with me', 'calm voice', 'sunset']",0.18,0.61,True,392.7,0.68,I want to focus on studying,exhaustion
+U396,2025-06-11 10:28:00,12.5,morning,43.0,2.4,-0.84,"['toxic love', 'flirting', 'vulnerability']",0.28,0.74,True,560.9,0.64,I want to stop wasting time,dependency
+U397,2025-06-11 07:07:00,26.8,morning,41.2,1.2,-0.1,"['funny', 'prank', 'parody']",0.22,0.49,True,345.4,0.76,I just want to relax a bit,anxious
+U398,2025-06-11 14:58:00,76.9,afternoon,41.1,2.6,-0.43,"['romantic', 'jealousy', 'vulnerability']",0.25,0.38,True,230.0,0.65,I feel tired but want to learn something,dependency
+U399,2025-06-11 06:57:00,68.5,morning,58.9,2.4,-0.4,"['science', 'study', 'documentary']",0.01,0.65,False,307.0,0.74,I feel tired but want to learn something,guilt
+U400,2025-06-11 12:17:00,57.7,afternoon,58.2,2.7,-0.92,"['minimalism', 'life tips', 'quiet']",0.17,0.69,False,396.8,0.82,I want to stay emotionally balanced,exhaustion
+U401,2025-06-11 23:42:00,12.8,night,57.1,1.3,0.26,"['mental health', 'well-being', 'sunset']",0.22,0.52,False,457.7,0.91,I just want to relax a bit,exhaustion
+U402,2025-06-11 11:33:00,69.3,morning,57.2,2.7,0.37,"['crazy moment', 'meme', 'prank']",0.26,0.58,True,590.4,0.75,I want to stop wasting time,anxious
+U403,2025-06-11 09:55:00,37.7,morning,23.1,1.0,-0.72,"['deep talk', 'quiet', 'well-being']",0.19,0.35,False,502.5,0.75,I just want to relax a bit,exhaustion
+U404,2025-06-11 18:36:00,88.4,night,46.5,0.6,0.96,"['fail', 'gossip', 'chaos']",0.15,0.28,False,544.1,0.75,I just want to relax a bit,anxious
+U405,2025-06-11 14:51:00,40.6,afternoon,38.9,1.2,0.82,"['social circle', 'toxic love', 'crush']",0.23,0.6,True,437.3,0.66,I want to focus on studying,dependency
+U406,2025-06-11 09:53:00,34.2,morning,56.3,0.7,-0.38,"['exam tips', 'how to', 'academic']",0.28,0.7,True,259.0,0.69,I just want to relax a bit,guilt
+U407,2025-06-11 13:36:00,69.2,afternoon,48.9,2.9,-0.8,"['flirting', 'jealousy', 'emotional']",0.16,0.33,True,377.8,0.6,I want to focus on studying,dependency
+U408,2025-06-11 08:39:00,30.3,morning,10.3,1.3,-0.23,"['cute animal', 'pet video', 'short meme']",0.0,0.77,True,528.4,0.72,I just want to relax a bit,reward
+U409,2025-06-11 05:36:00,11.8,late_night,28.8,2.2,0.05,"['true story', 'relationship', 'talking stage']",0.11,0.57,True,450.3,0.71,I want to stop wasting time,dependency
+U410,2025-06-11 03:52:00,49.8,late_night,43.4,2.1,-0.12,"['low energy', 'deep talk', 'lifestyle']",0.19,0.33,False,515.4,0.71,I feel tired but want to learn something,exhaustion
+U411,2025-06-11 02:31:00,54.3,late_night,39.7,2.9,-0.84,"['tutorial', 'productivity', 'note taking']",0.25,0.57,False,483.8,0.71,I want to stop wasting time,guilt
+U412,2025-06-11 06:15:00,34.9,morning,45.1,0.9,-0.78,"['true story', 'texting drama', 'flirting']",0.27,0.25,False,485.1,0.78,I want to focus on studying,dependency
+U413,2025-06-11 08:49:00,67.3,morning,41.5,1.7,0.66,"['science', 'explanation', 'coding']",0.15,0.29,False,442.5,0.91,I want to stay emotionally balanced,guilt
+U414,2025-06-11 22:11:00,62.1,night,27.2,2.0,0.72,"['rant', 'comedy', 'trending']",0.19,0.66,True,236.8,0.66,I feel tired but want to learn something,anxious
+U415,2025-06-11 19:38:00,24.7,night,28.4,1.1,0.15,"['confession', 'crush', 'true story']",0.25,0.57,True,441.6,0.8,I just want to relax a bit,dependency
+U416,2025-06-11 19:34:00,72.6,night,43.7,1.0,0.05,"['romantic', 'intimacy', 'emotional']",0.22,0.47,False,367.7,0.92,I feel tired but want to learn something,dependency
+U417,2025-06-11 01:01:00,48.3,late_night,21.3,0.6,-0.73,"['fun fact', 'nice edit', 'jokes']",0.26,0.47,False,347.1,0.86,I just want to relax a bit,reward
+U418,2025-06-11 13:57:00,53.1,afternoon,58.9,1.7,0.69,"['lifestyle', 'sleep aid', 'sunset']",0.27,0.69,False,404.4,0.89,I just want to relax a bit,exhaustion
+U419,2025-06-11 05:53:00,22.8,late_night,38.3,1.5,0.6,"['healing', 'study with me', 'low energy']",0.22,0.76,True,414.2,0.87,I feel tired but want to learn something,exhaustion
+U420,2025-06-11 13:47:00,65.9,afternoon,53.4,2.7,-0.97,"['sleep aid', 'low energy', 'quiet']",0.11,0.71,True,578.6,0.88,I want to stop wasting time,exhaustion
+U421,2025-06-11 13:58:00,78.2,afternoon,25.8,1.2,-0.88,"['vulnerability', 'romantic', 'toxic love']",0.05,0.38,True,325.3,0.94,I want to stay emotionally balanced,dependency
+U422,2025-06-11 14:35:00,42.1,afternoon,50.2,0.8,-0.3,"['travel vlog', 'asmr', 'music clip']",0.0,0.79,False,339.5,0.81,I feel tired but want to learn something,reward
+U423,2025-06-11 14:08:00,31.9,afternoon,22.5,2.8,0.42,"['prank', 'surprise', 'fast edit']",0.2,0.68,True,395.3,0.9,I want to stop wasting time,anxious
+U424,2025-06-11 16:28:00,79.0,afternoon,19.9,2.0,-0.4,"['dancing', 'sports', 'cute animal']",0.03,0.67,True,281.7,0.82,I want to stop wasting time,reward
+U425,2025-06-11 19:08:00,26.9,night,31.3,0.8,-0.67,"['conflict', 'meme', 'parody']",0.15,0.47,True,522.9,0.81,I just want to relax a bit,anxious
+U426,2025-06-11 19:00:00,72.5,night,20.1,1.7,0.58,"['crush', 'vulnerability', 'confession']",0.15,0.33,True,509.0,0.88,I want to stay emotionally balanced,dependency
+U427,2025-06-11 12:17:00,43.3,afternoon,24.3,1.1,0.16,"['dancing', 'cool trick', 'hack']",0.24,0.45,False,566.3,0.86,I want to stay emotionally balanced,reward
+U428,2025-06-11 21:04:00,39.7,night,17.0,1.3,0.16,"['study with me', 'quiet', 'minimalism']",0.16,0.31,False,427.5,0.7,I just want to relax a bit,exhaustion
+U429,2025-06-11 18:57:00,88.8,night,29.6,2.7,0.61,"['sleep aid', 'life tips', 'loneliness']",0.12,0.23,False,499.9,0.63,I want to stop wasting time,exhaustion
+U430,2025-06-11 23:07:00,48.9,night,18.8,3.0,0.81,"['crazy moment', 'fail', 'gossip']",0.14,0.35,True,442.6,0.93,I want to stop wasting time,anxious
+U431,2025-06-11 19:14:00,21.0,night,43.7,1.7,0.46,"['deep talk', 'self reflection', 'low energy']",0.1,0.3,False,314.4,0.7,I want to stop wasting time,exhaustion
+U432,2025-06-11 13:01:00,61.0,afternoon,29.6,0.7,0.91,"['win moment', 'dancing', 'sports']",0.08,0.3,True,273.6,0.82,I want to focus on studying,reward
+U433,2025-06-11 16:54:00,20.9,afternoon,29.6,0.7,0.9,"['deep talk', 'sleep aid', 'minimalism']",0.06,0.75,False,205.3,0.81,I want to stay emotionally balanced,exhaustion
+U434,2025-06-11 08:01:00,68.5,morning,52.7,2.8,-0.11,"['social circle', 'texting drama', 'true story']",0.02,0.56,False,217.2,0.69,I just want to relax a bit,dependency
+U435,2025-06-11 02:22:00,23.4,late_night,26.3,1.9,-0.25,"['flirting', 'vulnerability', 'therapy']",0.08,0.6,True,394.0,0.62,I want to stop wasting time,dependency
+U436,2025-06-11 16:36:00,51.5,afternoon,58.6,1.8,-0.29,"['flirting', 'confession', 'breakup']",0.05,0.55,False,599.4,0.62,I want to stay emotionally balanced,dependency
+U437,2025-06-11 03:36:00,86.7,late_night,55.9,2.6,0.56,"['pop song', 'nice edit', 'cool trick']",0.1,0.22,True,345.0,0.63,I want to focus on studying,reward
+U438,2025-06-11 19:21:00,85.4,night,32.2,1.7,-0.83,"['chaos', 'fail', 'fast edit']",0.2,0.5,False,396.8,0.88,I want to stop wasting time,anxious
+U439,2025-06-11 19:33:00,12.5,night,57.0,1.5,0.13,"['study with me', 'sunset', 'calm voice']",0.17,0.34,False,536.2,0.78,I want to focus on studying,exhaustion
+U440,2025-06-11 06:00:00,41.6,morning,48.6,1.1,0.93,"['comedy', 'chaos', 'trending']",0.01,0.44,True,387.5,0.84,I just want to relax a bit,anxious
+U441,2025-06-11 01:39:00,31.2,late_night,43.0,2.4,-0.55,"['exam tips', 'lecture', 'explanation']",0.06,0.67,True,263.6,0.77,I want to stay emotionally balanced,guilt
+U442,2025-06-11 14:46:00,30.5,afternoon,32.2,0.6,0.07,"['science', 'focus', 'school hacks']",0.06,0.42,False,309.1,0.82,I want to stay emotionally balanced,guilt
+U443,2025-06-11 22:44:00,81.7,night,34.4,2.3,-0.62,"['fail', 'fast edit', 'meme']",0.04,0.23,False,238.0,0.85,I feel tired but want to learn something,anxious
+U444,2025-06-11 01:24:00,61.6,late_night,48.3,0.6,-0.68,"['talking stage', 'longing', 'cute couple']",0.09,0.24,False,271.4,0.75,I want to focus on studying,dependency
+U445,2025-06-11 22:29:00,77.3,night,58.6,1.5,-0.64,"['lecture', 'how to', 'online course']",0.06,0.57,False,411.2,0.71,I want to stop wasting time,guilt
+U446,2025-06-11 05:48:00,11.7,late_night,20.3,0.8,-0.35,"['dancing', 'pop song', 'music clip']",0.24,0.42,True,265.5,0.92,I want to focus on studying,reward
+U447,2025-06-11 05:34:00,88.5,late_night,59.8,1.3,0.72,"['pop song', 'satisfying', 'nice edit']",0.25,0.27,True,540.7,0.72,I want to stop wasting time,reward
+U448,2025-06-11 22:46:00,41.8,night,23.0,2.2,-0.7,"['relationship', 'talking stage', 'intimacy']",0.21,0.38,True,535.9,0.72,I just want to relax a bit,dependency
+U449,2025-06-11 22:38:00,49.6,night,54.3,2.7,0.97,"['healing', 'no drama', 'quiet']",0.01,0.3,True,333.5,0.71,I feel tired but want to learn something,exhaustion
+U450,2025-06-11 20:36:00,61.8,night,40.8,2.7,-0.53,"['prank', 'gossip', 'drama']",0.28,0.68,False,524.3,0.91,I feel tired but want to learn something,anxious
+U451,2025-06-11 23:49:00,44.4,night,35.1,2.7,0.14,"['study with me', 'slow vlog', 'life tips']",0.12,0.47,False,388.8,0.85,I want to stop wasting time,exhaustion
+U452,2025-06-11 10:38:00,79.1,morning,34.1,2.9,-0.93,"['vulnerability', 'therapy', 'texting drama']",0.11,0.65,False,545.6,0.63,I want to focus on studying,dependency
+U453,2025-06-11 01:04:00,86.6,late_night,56.4,1.0,0.77,"['crazy moment', 'jump scare', 'parody']",0.17,0.65,False,254.1,0.86,I just want to relax a bit,anxious
+U454,2025-06-11 18:48:00,64.7,night,35.4,0.6,-0.22,"['pet video', 'nice edit', 'art process']",0.06,0.22,True,436.7,0.83,I want to stop wasting time,reward
+U455,2025-06-11 08:20:00,16.3,morning,42.7,2.8,-0.08,"['lecture', 'academic', 'documentary']",0.23,0.25,False,516.3,0.94,I want to stop wasting time,guilt
+U456,2025-06-11 20:19:00,26.4,night,36.6,2.2,-0.67,"['flirting', 'texting drama', 'crush']",0.18,0.24,False,550.4,0.64,I feel tired but want to learn something,dependency
+U457,2025-06-11 06:47:00,88.7,morning,30.0,1.5,0.54,"['satisfying', 'pet video', 'sports']",0.17,0.28,False,548.7,0.72,I feel tired but want to learn something,reward
+U458,2025-06-11 13:41:00,73.7,afternoon,23.1,2.6,0.3,"['study', 'academic', 'documentary']",0.15,0.54,False,207.1,0.86,I want to stay emotionally balanced,guilt
+U459,2025-06-11 18:10:00,41.1,night,37.6,0.7,0.59,"['minimalism', 'mental health', 'deep talk']",0.3,0.52,True,362.8,0.74,I just want to relax a bit,exhaustion
+U460,2025-06-11 22:38:00,84.4,night,43.9,1.3,-0.57,"['loneliness', 'calm voice', 'lifestyle']",0.26,0.74,False,350.9,0.65,I want to focus on studying,exhaustion
+U461,2025-06-11 04:41:00,65.2,late_night,59.7,1.1,-0.8,"['ai', 'homework', 'study vlog']",0.28,0.27,False,586.0,0.92,I feel tired but want to learn something,guilt
+U462,2025-06-11 22:16:00,90.0,night,31.7,1.6,-0.62,"['food review', 'cool trick', 'dancing']",0.1,0.37,False,438.6,0.86,I just want to relax a bit,reward
+U463,2025-06-11 11:38:00,45.6,morning,58.2,3.0,-0.11,"['true story', 'texting drama', 'vulnerability']",0.11,0.46,False,265.2,0.66,I want to stop wasting time,dependency
+U464,2025-06-11 05:02:00,44.3,late_night,46.5,2.3,0.99,"['note taking', 'study', 'documentary']",0.25,0.79,True,495.3,0.87,I want to stay emotionally balanced,guilt
+U465,2025-06-11 23:32:00,87.9,night,24.6,1.4,-0.62,"['jump scare', 'parody', 'comedy']",0.05,0.34,True,218.2,0.94,I feel tired but want to learn something,anxious
+U466,2025-06-11 14:48:00,33.2,afternoon,44.4,1.9,0.77,"['ai', 'focus', 'coding']",0.18,0.39,True,524.2,0.78,I feel tired but want to learn something,guilt
+U467,2025-06-11 10:45:00,78.5,morning,11.0,1.1,0.91,"['conflict', 'crazy moment', 'prank']",0.29,0.76,False,462.8,0.74,I just want to relax a bit,anxious
+U468,2025-06-11 07:35:00,82.5,morning,44.5,2.8,0.54,"['short meme', 'sports', 'nice edit']",0.15,0.4,False,489.1,0.85,I feel tired but want to learn something,reward
+U469,2025-06-11 12:06:00,57.4,afternoon,24.7,2.0,0.42,"['school hacks', 'ai', 'academic']",0.09,0.2,True,421.8,0.87,I want to stay emotionally balanced,guilt
+U470,2025-06-11 03:27:00,65.6,late_night,17.7,1.8,-0.8,"['lecture', 'how to', 'coding']",0.19,0.47,False,549.7,0.77,I just want to relax a bit,guilt
+U471,2025-06-11 11:19:00,80.3,morning,48.3,1.4,0.7,"['brain tips', 'study', 'study vlog']",0.18,0.79,False,413.6,0.92,I just want to relax a bit,guilt
+U472,2025-06-11 10:55:00,27.3,morning,32.7,2.8,-0.8,"['calm voice', 'quiet', 'lifestyle']",0.27,0.45,True,541.6,0.68,I want to stop wasting time,exhaustion
+U473,2025-06-11 03:46:00,14.7,late_night,47.6,1.1,0.54,"['nice edit', 'unboxing', 'dancing']",0.12,0.71,False,422.2,0.62,I feel tired but want to learn something,reward
+U474,2025-06-11 08:29:00,40.8,morning,50.1,2.9,-0.4,"['focus', 'exam tips', 'tutorial']",0.08,0.22,False,397.0,0.63,I feel tired but want to learn something,guilt
+U475,2025-06-11 22:55:00,89.8,night,55.4,1.2,0.28,"['study', 'brain tips', 'science']",0.1,0.73,False,564.9,0.78,I want to focus on studying,guilt
+U476,2025-06-11 17:53:00,49.1,afternoon,59.1,2.7,1.0,"['nice edit', 'cute animal', 'jokes']",0.05,0.69,False,223.5,0.74,I just want to relax a bit,reward
+U477,2025-06-11 08:45:00,39.5,morning,36.6,3.0,-0.62,"['short meme', 'gameplay', 'art process']",0.18,0.46,True,269.9,0.65,I just want to relax a bit,reward
+U478,2025-06-11 23:30:00,64.0,night,24.5,2.6,0.6,"['dancing', 'sports', 'food review']",0.23,0.79,True,362.9,0.68,I want to stay emotionally balanced,reward
+U479,2025-06-11 23:59:00,66.6,night,50.5,2.9,-0.11,"['documentary', 'online course', 'science']",0.16,0.59,True,562.5,0.75,I want to focus on studying,guilt
+U480,2025-06-11 13:01:00,42.7,afternoon,22.5,1.3,-0.98,"['education', 'lecture', 'focus']",0.25,0.38,True,263.6,0.89,I just want to relax a bit,guilt
+U481,2025-06-11 10:54:00,81.8,morning,23.7,2.1,0.1,"['productivity', 'study', 'homework']",0.05,0.71,True,369.4,0.92,I just want to relax a bit,guilt
+U482,2025-06-11 16:02:00,38.8,afternoon,57.8,2.8,0.62,"['jokes', 'unboxing', 'pet video']",0.1,0.46,True,552.3,0.71,I want to stop wasting time,reward
+U483,2025-06-11 23:49:00,47.5,night,33.9,2.9,-0.03,"['satisfying', 'unboxing', 'gameplay']",0.09,0.48,True,395.4,0.89,I want to stop wasting time,reward
+U484,2025-06-11 08:46:00,74.2,morning,25.6,1.1,-0.24,"['online course', 'exam tips', 'tutorial']",0.12,0.57,False,525.1,0.86,I want to stay emotionally balanced,guilt
+U485,2025-06-11 21:46:00,54.2,night,13.5,1.5,0.88,"['school hacks', 'online course', 'science']",0.14,0.3,False,537.0,0.8,I just want to relax a bit,guilt
+U486,2025-06-11 18:47:00,71.7,night,23.7,2.9,0.38,"['trending', 'fail', 'conflict']",0.17,0.34,True,237.5,0.92,I just want to relax a bit,anxious
+U487,2025-06-11 01:40:00,25.9,late_night,33.5,2.3,-0.77,"['self reflection', 'mental health', 'sunset']",0.07,0.28,False,287.2,0.62,I want to focus on studying,exhaustion
+U488,2025-06-11 13:53:00,51.1,afternoon,29.0,2.5,-0.78,"['low energy', 'calm voice', 'slow vlog']",0.07,0.69,False,255.1,0.62,I just want to relax a bit,exhaustion
+U489,2025-06-11 08:13:00,50.1,morning,20.9,2.9,-0.88,"['confession', 'affection', 'relationship']",0.2,0.55,True,274.7,0.67,I want to stay emotionally balanced,dependency
+U490,2025-06-11 20:14:00,13.4,night,58.2,1.5,0.73,"['trending', 'prank', 'drama']",0.03,0.25,True,412.2,0.93,I want to stay emotionally balanced,anxious
+U491,2025-06-11 23:10:00,11.2,night,47.0,3.0,0.0,"['sports', 'jokes', 'satisfying']",0.27,0.21,True,383.0,0.75,I want to stop wasting time,reward
+U492,2025-06-11 16:52:00,44.5,afternoon,28.0,1.6,-0.63,"['meme', 'reaction', 'fail']",0.17,0.28,False,483.5,0.7,I want to stop wasting time,anxious
+U493,2025-06-11 23:15:00,46.4,night,20.2,2.9,-0.78,"['school hacks', 'homework', 'note taking']",0.03,0.35,True,440.3,0.92,I want to stay emotionally balanced,guilt
+U494,2025-06-11 15:01:00,16.5,afternoon,48.8,0.7,0.51,"['jokes', 'gameplay', 'dancing']",0.29,0.73,False,241.4,0.73,I feel tired but want to learn something,reward
+U495,2025-06-11 20:55:00,46.3,night,42.2,2.8,0.97,"['surprise', 'drama', 'fail']",0.11,0.67,False,576.3,0.85,I want to focus on studying,anxious
+U496,2025-06-11 02:08:00,48.9,late_night,57.5,0.6,0.73,"['social circle', 'therapy', 'toxic love']",0.02,0.53,False,399.3,0.68,I feel tired but want to learn something,dependency
+U497,2025-06-11 22:59:00,16.6,night,50.5,1.3,-0.0,"['meme', 'funny', 'jump scare']",0.2,0.28,True,291.4,0.68,I want to stop wasting time,anxious
+U498,2025-06-11 12:40:00,26.5,afternoon,49.2,1.3,0.18,"['pet video', 'food review', 'hack']",0.13,0.32,True,441.6,0.95,I want to stay emotionally balanced,reward
+U499,2025-06-11 04:48:00,27.4,late_night,21.0,2.7,0.71,"['academic', 'study vlog', 'lecture']",0.21,0.32,False,435.7,0.63,I just want to relax a bit,guilt
+U500,2025-06-11 09:08:00,33.9,morning,17.7,1.4,0.04,"['hack', 'asmr', 'travel vlog']",0.22,0.2,True,406.0,0.83,I just want to relax a bit,reward
+U501,2025-06-11 21:52:00,47.1,night,57.2,1.1,-0.08,"['prank', 'trending', 'parody']",0.29,0.37,False,524.5,0.85,I want to stay emotionally balanced,anxious
+U502,2025-06-11 00:02:00,45.8,late_night,48.7,0.5,0.74,"['surprise', 'jump scare', 'fast edit']",0.29,0.59,False,555.4,0.85,I feel tired but want to learn something,anxious
+U503,2025-06-11 03:25:00,46.0,late_night,33.9,1.8,0.64,"['jump scare', 'fail', 'surprise']",0.02,0.59,False,231.9,0.61,I want to stay emotionally balanced,anxious
+U504,2025-06-11 23:24:00,30.5,night,23.3,1.5,0.45,"['study', 'productivity', 'note taking']",0.27,0.61,False,206.2,0.88,I feel tired but want to learn something,guilt
+U505,2025-06-11 08:00:00,10.5,morning,15.4,2.7,-0.25,"['emotional', 'relationship', 'romantic']",0.17,0.35,False,567.7,0.9,I feel tired but want to learn something,dependency
+U506,2025-06-11 01:08:00,37.4,late_night,25.9,1.8,-0.3,"['conflict', 'fail', 'funny']",0.02,0.54,False,482.1,0.79,I feel tired but want to learn something,anxious
+U507,2025-06-11 12:23:00,19.2,afternoon,19.7,0.7,-0.14,"['art process', 'pet video', 'hack']",0.02,0.38,True,465.5,0.7,I just want to relax a bit,reward
+U508,2025-06-11 23:45:00,10.6,night,55.2,2.0,0.97,"['talking stage', 'emotional', 'romantic']",0.23,0.31,False,577.2,0.65,I want to stop wasting time,dependency
+U509,2025-06-11 15:38:00,28.8,afternoon,49.3,0.6,-0.84,"['cool trick', 'short meme', 'satisfying']",0.12,0.55,False,527.9,0.93,I want to stay emotionally balanced,reward
+U510,2025-06-11 22:25:00,70.8,night,43.0,2.2,0.41,"['cool trick', 'travel vlog', 'food review']",0.1,0.4,False,498.5,0.77,I just want to relax a bit,reward
+U511,2025-06-11 11:39:00,23.8,morning,53.2,0.6,-0.11,"['fast edit', 'rant', 'jump scare']",0.02,0.61,False,492.3,0.66,I just want to relax a bit,anxious
+U512,2025-06-11 00:07:00,10.4,late_night,25.8,1.4,0.67,"['asmr', 'food review', 'win moment']",0.03,0.54,True,519.3,0.92,I just want to relax a bit,reward
+U513,2025-06-11 03:36:00,88.1,late_night,22.3,1.0,-0.69,"['affection', 'toxic love', 'flirting']",0.16,0.5,False,570.8,0.75,I want to stop wasting time,dependency
+U514,2025-06-11 14:39:00,48.7,afternoon,31.8,2.0,0.16,"['lecture', 'study', 'coding']",0.13,0.24,False,479.9,0.94,I just want to relax a bit,guilt
+U515,2025-06-11 04:42:00,52.1,late_night,18.5,1.3,-0.44,"['funny', 'trending', 'fail']",0.19,0.43,True,477.8,0.64,I want to stay emotionally balanced,anxious
+U516,2025-06-11 10:56:00,13.9,morning,43.2,2.0,0.22,"['vulnerability', 'confession', 'relationship']",0.18,0.49,True,529.4,0.8,I want to stay emotionally balanced,dependency
+U517,2025-06-11 15:40:00,11.2,afternoon,23.4,1.9,0.27,"['trending', 'drama', 'parody']",0.26,0.66,True,558.6,0.73,I want to stop wasting time,anxious
+U518,2025-06-11 23:30:00,33.8,night,43.8,1.4,0.16,"['cute animal', 'hack', 'dancing']",0.03,0.23,False,348.6,0.86,I want to stop wasting time,reward
+U519,2025-06-11 05:07:00,43.5,late_night,18.9,1.8,-0.22,"['self reflection', 'loneliness', 'sleep aid']",0.1,0.34,False,232.2,0.87,I feel tired but want to learn something,exhaustion
+U520,2025-06-11 03:25:00,23.2,late_night,18.5,2.1,0.91,"['trending', 'conflict', 'comedy']",0.27,0.29,True,269.3,0.8,I feel tired but want to learn something,anxious
+U521,2025-06-11 02:35:00,78.4,late_night,30.3,1.2,-0.39,"['life tips', 'mental health', 'no drama']",0.24,0.27,False,439.7,0.73,I want to stay emotionally balanced,exhaustion
+U522,2025-06-11 10:37:00,64.0,morning,33.4,0.7,0.9,"['meme', 'chaos', 'rant']",0.1,0.45,False,238.3,0.85,I want to stop wasting time,anxious
+U523,2025-06-11 08:14:00,30.6,morning,26.6,0.6,-0.67,"['explanation', 'coding', 'science']",0.1,0.6,True,220.1,0.76,I feel tired but want to learn something,guilt
+U524,2025-06-11 04:35:00,42.4,late_night,57.6,2.0,0.16,"['nice edit', 'jokes', 'cool trick']",0.19,0.25,True,517.5,0.86,I want to stop wasting time,reward
+U525,2025-06-11 00:42:00,80.9,late_night,10.2,0.6,0.45,"['hack', 'satisfying', 'nice edit']",0.15,0.52,True,403.5,0.68,I want to stay emotionally balanced,reward
+U526,2025-06-11 00:07:00,13.1,late_night,24.7,1.9,-0.77,"['soft music', 'cooking calmly', 'slow vlog']",0.03,0.26,False,349.1,0.7,I just want to relax a bit,exhaustion
+U527,2025-06-11 02:50:00,81.5,late_night,24.1,2.9,1.0,"['tutorial', 'how to', 'brain tips']",0.22,0.53,False,470.4,0.72,I want to focus on studying,guilt
+U528,2025-06-11 21:28:00,24.1,night,50.9,1.0,0.32,"['fail', 'fast edit', 'surprise']",0.3,0.49,False,456.3,0.71,I want to stay emotionally balanced,anxious
+U529,2025-06-11 01:51:00,69.6,late_night,14.0,2.8,-0.14,"['breakup', 'jealousy', 'crush']",0.26,0.31,False,468.3,0.77,I want to focus on studying,dependency
+U530,2025-06-11 09:01:00,71.0,morning,54.0,2.5,-0.23,"['journaling', 'study with me', 'well-being']",0.02,0.26,True,449.3,0.87,I want to stop wasting time,exhaustion
+U531,2025-06-11 22:19:00,16.8,night,35.4,0.8,0.03,"['jealousy', 'relationship', 'social circle']",0.22,0.47,True,343.8,0.74,I just want to relax a bit,dependency
+U532,2025-06-11 14:04:00,34.1,afternoon,26.9,2.8,-0.67,"['sleep aid', 'study with me', 'sunset']",0.09,0.21,True,406.8,0.91,I just want to relax a bit,exhaustion
+U533,2025-06-11 04:28:00,14.6,late_night,55.8,1.8,0.08,"['slow vlog', 'minimalism', 'mental health']",0.17,0.73,True,583.1,0.95,I just want to relax a bit,exhaustion
+U534,2025-06-11 23:43:00,52.0,night,27.0,1.3,0.51,"['fun fact', 'pop song', 'short meme']",0.02,0.68,True,590.9,0.91,I feel tired but want to learn something,reward
+U535,2025-06-11 09:38:00,19.6,morning,48.1,0.7,-0.89,"['music clip', 'jokes', 'cute animal']",0.15,0.77,True,308.5,0.73,I want to focus on studying,reward
+U536,2025-06-11 11:40:00,70.2,morning,36.5,2.0,0.49,"['sunset', 'lifestyle', 'study with me']",0.16,0.44,False,496.2,0.91,I just want to relax a bit,exhaustion
+U537,2025-06-11 22:41:00,18.1,night,33.2,2.7,-0.71,"['sunset', 'lifestyle', 'cooking calmly']",0.15,0.4,True,452.7,0.89,I just want to relax a bit,exhaustion
+U538,2025-06-11 11:54:00,37.4,morning,52.2,1.3,0.66,"['journaling', 'minimalism', 'soft music']",0.19,0.25,False,328.7,0.67,I want to stay emotionally balanced,exhaustion
+U539,2025-06-11 07:20:00,82.7,morning,55.9,2.7,0.95,"['chaos', 'gossip', 'reaction']",0.08,0.53,False,493.6,0.92,I feel tired but want to learn something,anxious
+U540,2025-06-11 20:46:00,17.3,night,28.3,2.1,-0.61,"['ai', 'tutorial', 'online course']",0.11,0.32,True,527.7,0.75,I want to focus on studying,guilt
+U541,2025-06-11 18:23:00,74.9,night,35.7,3.0,-0.31,"['confession', 'romantic', 'emotional']",0.13,0.78,True,390.0,0.87,I feel tired but want to learn something,dependency
+U542,2025-06-11 21:03:00,66.1,night,13.4,2.6,-0.24,"['productivity', 'online course', 'how to']",0.15,0.26,True,359.4,0.71,I want to focus on studying,guilt
+U543,2025-06-11 07:07:00,48.5,morning,58.0,2.3,-0.4,"['ai', 'documentary', 'study vlog']",0.07,0.27,False,210.3,0.81,I want to stop wasting time,guilt
+U544,2025-06-11 14:38:00,57.3,afternoon,36.7,0.8,0.74,"['gameplay', 'fun fact', 'win moment']",0.29,0.72,False,201.8,0.89,I just want to relax a bit,reward
+U545,2025-06-11 20:22:00,34.5,night,45.1,2.9,0.5,"['explanation', 'ai', 'focus']",0.18,0.28,False,226.0,0.7,I want to stop wasting time,guilt
+U546,2025-06-11 03:22:00,16.8,late_night,22.0,0.5,-0.74,"['minimalism', 'life tips', 'journaling']",0.24,0.5,False,347.5,0.9,I want to focus on studying,exhaustion
+U547,2025-06-11 04:46:00,79.3,late_night,48.1,2.1,-0.19,"['romantic', 'social circle', 'affection']",0.21,0.69,True,205.8,0.75,I want to stop wasting time,dependency
+U548,2025-06-11 20:01:00,55.7,night,42.1,0.8,0.27,"['talking stage', 'therapy', 'social circle']",0.13,0.64,True,572.3,0.86,I want to stop wasting time,dependency
+U549,2025-06-11 21:00:00,22.2,night,21.4,1.0,-0.08,"['sleep aid', 'deep talk', 'healing']",0.23,0.3,True,473.7,0.67,I want to stop wasting time,exhaustion
+U550,2025-06-11 08:43:00,42.4,morning,41.1,2.8,-0.79,"['therapy', 'flirting', 'cute couple']",0.05,0.75,True,279.9,0.69,I want to stop wasting time,dependency
+U551,2025-06-11 18:48:00,34.8,night,46.8,1.4,0.42,"['talking stage', 'jealousy', 'vulnerability']",0.2,0.42,True,514.0,0.64,I just want to relax a bit,dependency
+U552,2025-06-11 17:06:00,83.7,afternoon,56.7,1.0,-0.11,"['crush', 'therapy', 'affection']",0.02,0.64,False,499.7,0.84,I want to focus on studying,dependency
+U553,2025-06-11 09:08:00,11.3,morning,44.5,1.3,0.86,"['toxic love', 'social circle', 'therapy']",0.22,0.7,True,526.9,0.6,I want to focus on studying,dependency
+U554,2025-06-11 00:57:00,55.2,late_night,12.0,1.0,0.2,"['fail', 'reaction', 'chaos']",0.2,0.75,False,407.8,0.89,I want to stop wasting time,anxious
+U555,2025-06-11 21:51:00,14.2,night,48.7,1.8,0.89,"['fun fact', 'travel vlog', 'satisfying']",0.1,0.52,False,377.6,0.64,I want to stop wasting time,reward
+U556,2025-06-11 14:25:00,83.2,afternoon,59.2,1.0,0.31,"['fun fact', 'music clip', 'asmr']",0.04,0.48,True,252.5,0.9,I feel tired but want to learn something,reward
+U557,2025-06-11 05:07:00,36.9,late_night,59.3,0.5,0.88,"['fail', 'funny', 'meme']",0.02,0.74,False,483.4,0.88,I feel tired but want to learn something,anxious
+U558,2025-06-11 12:00:00,53.3,afternoon,43.3,1.1,0.55,"['crush', 'cute couple', 'texting drama']",0.27,0.25,False,395.6,0.86,I want to focus on studying,dependency
+U559,2025-06-11 11:57:00,44.1,morning,43.3,1.6,0.56,"['loneliness', 'sunset', 'no drama']",0.08,0.44,False,345.2,0.78,I feel tired but want to learn something,exhaustion
+U560,2025-06-11 20:57:00,70.3,night,33.9,1.8,0.34,"['parody', 'reaction', 'trending']",0.27,0.29,False,206.1,0.77,I just want to relax a bit,anxious
+U561,2025-06-11 23:56:00,81.2,night,52.0,0.7,0.9,"['fail', 'comedy', 'meme']",0.13,0.68,False,390.2,0.65,I want to stay emotionally balanced,anxious
+U562,2025-06-11 07:38:00,36.8,morning,60.0,2.1,-0.52,"['rant', 'gossip', 'parody']",0.1,0.74,False,581.1,0.63,I just want to relax a bit,anxious
+U563,2025-06-11 18:57:00,29.5,night,11.6,1.6,-0.93,"['dancing', 'cute animal', 'music clip']",0.18,0.43,False,473.0,0.88,I want to focus on studying,reward
+U564,2025-06-11 00:39:00,42.7,late_night,14.1,1.9,0.14,"['win moment', 'sports', 'jokes']",0.28,0.28,True,400.5,0.71,I want to focus on studying,reward
+U565,2025-06-11 01:46:00,40.9,late_night,48.5,1.2,0.62,"['science', 'study vlog', 'productivity']",0.07,0.51,True,457.5,0.78,I want to focus on studying,guilt
+U566,2025-06-11 04:18:00,12.4,late_night,37.5,1.3,-0.16,"['confession', 'toxic love', 'true story']",0.07,0.5,True,438.2,0.67,I want to focus on studying,dependency
+U567,2025-06-11 00:32:00,86.8,late_night,22.3,1.9,-0.29,"['funny', 'comedy', 'reaction']",0.05,0.43,False,383.1,0.77,I want to stay emotionally balanced,anxious
+U568,2025-06-11 16:24:00,84.1,afternoon,25.0,1.5,0.04,"['note taking', 'explanation', 'focus']",0.15,0.41,True,442.9,0.74,I feel tired but want to learn something,guilt
+U569,2025-06-11 09:55:00,12.2,morning,41.7,1.2,0.89,"['journaling', 'healing', 'no drama']",0.16,0.47,True,536.8,0.81,I want to focus on studying,exhaustion
+U570,2025-06-11 00:00:00,83.9,late_night,55.0,0.9,-0.12,"['drama', 'rant', 'jump scare']",0.15,0.63,False,458.8,0.78,I feel tired but want to learn something,anxious
+U571,2025-06-11 08:19:00,37.3,morning,17.5,1.3,-0.03,"['sports', 'jokes', 'nice edit']",0.03,0.47,False,436.3,0.68,I feel tired but want to learn something,reward
+U572,2025-06-11 13:28:00,11.4,afternoon,56.8,0.8,0.75,"['healing', 'life tips', 'self reflection']",0.0,0.48,True,518.7,0.63,I just want to relax a bit,exhaustion
+U573,2025-06-11 18:10:00,43.7,night,55.1,2.5,-0.87,"['emotional', 'intimacy', 'toxic love']",0.17,0.37,False,255.0,0.71,I want to stay emotionally balanced,dependency
+U574,2025-06-11 03:28:00,29.0,late_night,29.4,0.8,-0.53,"['prank', 'fail', 'chaos']",0.27,0.42,False,478.5,0.88,I want to stop wasting time,anxious
+U575,2025-06-11 16:47:00,36.4,afternoon,17.1,3.0,0.97,"['short meme', 'food review', 'music clip']",0.07,0.69,True,545.4,0.91,I want to stop wasting time,reward
+U576,2025-06-11 15:22:00,73.1,afternoon,31.5,2.9,0.41,"['travel vlog', 'art process', 'cute animal']",0.21,0.62,False,541.5,0.69,I want to focus on studying,reward
+U577,2025-06-11 03:18:00,59.3,late_night,53.2,1.2,0.09,"['deep talk', 'sunset', 'low energy']",0.3,0.4,False,459.0,0.92,I want to stop wasting time,exhaustion
+U578,2025-06-11 00:34:00,26.1,late_night,30.1,1.3,-0.68,"['intimacy', 'true story', 'social circle']",0.22,0.43,True,232.5,0.69,I want to focus on studying,dependency
+U579,2025-06-11 10:18:00,88.3,morning,35.7,0.7,-0.44,"['reaction', 'fail', 'funny']",0.24,0.75,False,258.0,0.6,I want to stay emotionally balanced,anxious
+U580,2025-06-11 03:05:00,35.1,late_night,39.6,2.0,-0.63,"['calm voice', 'self reflection', 'journaling']",0.12,0.75,False,472.8,0.94,I just want to relax a bit,exhaustion
+U581,2025-06-11 12:02:00,45.8,afternoon,15.4,0.6,-0.84,"['win moment', 'satisfying', 'cute animal']",0.2,0.37,True,540.0,0.88,I want to focus on studying,reward
+U582,2025-06-11 16:03:00,62.3,afternoon,49.0,1.8,0.29,"['relationship', 'jealousy', 'romantic']",0.21,0.75,False,242.6,0.67,I want to stay emotionally balanced,dependency
+U583,2025-06-11 14:26:00,37.7,afternoon,42.7,2.3,-0.47,"['nice edit', 'cute animal', 'satisfying']",0.07,0.42,False,511.3,0.91,I just want to relax a bit,reward
+U584,2025-06-11 17:11:00,52.2,afternoon,26.9,2.4,-0.16,"['soft music', 'sunset', 'study with me']",0.06,0.38,False,392.3,0.93,I want to stay emotionally balanced,exhaustion
+U585,2025-06-11 21:03:00,63.0,night,44.3,0.8,-0.54,"['school hacks', 'focus', 'note taking']",0.24,0.34,True,230.4,0.81,I feel tired but want to learn something,guilt
+U586,2025-06-11 11:55:00,54.4,morning,27.0,0.9,-0.03,"['low energy', 'soft music', 'study with me']",0.13,0.49,True,562.8,0.7,I want to stay emotionally balanced,exhaustion
+U587,2025-06-11 05:36:00,58.8,late_night,20.3,3.0,-0.64,"['longing', 'romantic', 'social circle']",0.02,0.75,True,385.1,0.95,I feel tired but want to learn something,dependency
+U588,2025-06-11 06:07:00,67.8,morning,52.9,0.7,0.07,"['prank', 'crazy moment', 'comedy']",0.23,0.52,True,411.7,0.88,I just want to relax a bit,anxious
+U589,2025-06-11 10:34:00,68.7,morning,58.0,1.3,0.18,"['fast edit', 'gossip', 'meme']",0.29,0.28,False,294.8,0.71,I want to focus on studying,anxious
+U590,2025-06-11 22:20:00,32.8,night,20.0,1.2,0.52,"['vulnerability', 'crush', 'confession']",0.1,0.39,True,213.5,0.72,I want to stay emotionally balanced,dependency
+U591,2025-06-11 04:23:00,33.8,late_night,48.7,0.8,0.95,"['jump scare', 'funny', 'crazy moment']",0.13,0.23,False,413.8,0.65,I just want to relax a bit,anxious
+U592,2025-06-11 01:38:00,47.5,late_night,23.1,2.8,-0.87,"['documentary', 'science', 'lecture']",0.11,0.35,True,463.5,0.78,I want to stay emotionally balanced,guilt
+U593,2025-06-11 03:44:00,55.9,late_night,44.5,0.7,-0.23,"['trending', 'fail', 'fast edit']",0.02,0.47,True,393.0,0.88,I feel tired but want to learn something,anxious
+U594,2025-06-11 09:35:00,50.6,morning,20.3,1.8,-0.15,"['art process', 'food review', 'jokes']",0.23,0.27,True,565.4,0.79,I just want to relax a bit,reward
+U595,2025-06-11 02:42:00,71.4,late_night,58.3,1.2,-0.6,"['exam tips', 'lecture', 'study vlog']",0.02,0.28,True,473.8,0.66,I want to focus on studying,guilt
+U596,2025-06-11 18:28:00,85.9,night,16.8,1.7,-0.39,"['prank', 'conflict', 'chaos']",0.04,0.51,True,541.2,0.83,I want to stay emotionally balanced,anxious
+U597,2025-06-11 21:46:00,50.0,night,30.9,1.9,-0.06,"['exam tips', 'documentary', 'study']",0.22,0.47,True,540.1,0.73,I want to focus on studying,guilt
+U598,2025-06-11 07:39:00,85.7,morning,14.0,0.8,0.75,"['drama', 'fail', 'parody']",0.19,0.39,True,226.1,0.86,I want to stop wasting time,anxious
+U599,2025-06-11 07:58:00,21.3,morning,35.0,2.1,-0.08,"['life tips', 'quiet', 'mental health']",0.18,0.7,True,592.9,0.7,I want to stop wasting time,exhaustion
+U600,2025-06-11 18:38:00,73.5,night,50.4,0.7,-0.1,"['surprise', 'fail', 'crazy moment']",0.29,0.6,True,535.3,0.84,I just want to relax a bit,anxious
+U601,2025-06-11 22:42:00,42.1,night,56.8,0.5,-0.64,"['true story', 'jealousy', 'flirting']",0.26,0.31,False,357.5,0.79,I feel tired but want to learn something,dependency
+U602,2025-06-11 08:34:00,80.3,morning,15.2,0.8,-0.8,"['jump scare', 'trending', 'funny']",0.04,0.53,False,343.2,0.9,I feel tired but want to learn something,anxious
+U603,2025-06-11 05:29:00,12.7,late_night,17.0,1.5,-0.84,"['talking stage', 'confession', 'therapy']",0.27,0.77,True,212.9,0.62,I want to focus on studying,dependency
+U604,2025-06-11 01:02:00,35.8,late_night,26.4,1.8,-0.62,"['self reflection', 'well-being', 'sunset']",0.06,0.58,False,597.7,0.62,I want to stay emotionally balanced,exhaustion
+U605,2025-06-11 00:41:00,61.5,late_night,57.4,1.9,0.42,"['homework', 'tutorial', 'education']",0.14,0.37,False,375.3,0.86,I want to focus on studying,guilt
+U606,2025-06-11 08:45:00,63.5,morning,27.6,1.2,0.91,"['dancing', 'cute animal', 'sports']",0.11,0.45,False,425.1,0.68,I feel tired but want to learn something,reward
+U607,2025-06-11 15:08:00,12.9,afternoon,34.8,2.1,0.05,"['sleep aid', 'soft music', 'minimalism']",0.28,0.48,False,588.9,0.75,I want to focus on studying,exhaustion
+U608,2025-06-11 02:02:00,83.3,late_night,16.3,1.9,-0.46,"['crush', 'cute couple', 'therapy']",0.11,0.33,True,333.4,0.88,I want to stay emotionally balanced,dependency
+U609,2025-06-11 11:50:00,10.8,morning,23.4,1.8,0.95,"['parody', 'reaction', 'gossip']",0.25,0.31,True,512.0,0.67,I want to stop wasting time,anxious
+U610,2025-06-11 19:26:00,76.0,night,14.7,1.6,0.07,"['academic', 'coding', 'explanation']",0.01,0.79,True,225.7,0.8,I want to stay emotionally balanced,guilt
+U611,2025-06-11 22:19:00,13.7,night,33.2,0.5,-0.58,"['fast edit', 'gossip', 'reaction']",0.26,0.75,True,250.0,0.76,I want to stop wasting time,anxious
+U612,2025-06-11 09:32:00,76.8,morning,59.3,1.8,-0.65,"['minimalism', 'healing', 'low energy']",0.17,0.76,False,274.7,0.86,I want to stay emotionally balanced,exhaustion
+U613,2025-06-11 19:56:00,86.0,night,13.9,2.9,0.64,"['pop song', 'asmr', 'cool trick']",0.24,0.25,False,440.4,0.93,I just want to relax a bit,reward
+U614,2025-06-11 10:40:00,65.4,morning,26.9,2.5,0.29,"['emotional', 'flirting', 'longing']",0.27,0.73,False,219.2,0.77,I want to focus on studying,dependency
+U615,2025-06-11 04:58:00,68.7,late_night,23.3,2.1,-0.69,"['music clip', 'short meme', 'nice edit']",0.24,0.35,True,445.5,0.86,I just want to relax a bit,reward
+U616,2025-06-11 01:45:00,47.9,late_night,39.5,0.8,-0.74,"['life tips', 'deep talk', 'journaling']",0.29,0.57,False,384.8,0.85,I want to focus on studying,exhaustion
+U617,2025-06-11 01:00:00,35.5,late_night,34.9,1.3,-0.72,"['intimacy', 'emotional', 'true story']",0.07,0.45,False,371.8,0.73,I want to stay emotionally balanced,dependency
+U618,2025-06-11 06:52:00,24.7,morning,59.1,0.6,-0.87,"['study', 'productivity', 'documentary']",0.04,0.66,False,435.3,0.88,I feel tired but want to learn something,guilt
+U619,2025-06-11 03:08:00,73.1,late_night,49.8,3.0,0.57,"['sunset', 'self reflection', 'well-being']",0.13,0.46,True,412.2,0.77,I want to stay emotionally balanced,exhaustion
+U620,2025-06-11 23:55:00,35.1,night,26.5,2.5,0.1,"['low energy', 'cooking calmly', 'mental health']",0.0,0.23,True,238.3,0.62,I want to focus on studying,exhaustion
+U621,2025-06-11 15:41:00,26.8,afternoon,56.8,1.6,0.45,"['therapy', 'vulnerability', 'confession']",0.1,0.72,True,337.8,0.64,I feel tired but want to learn something,dependency
+U622,2025-06-11 01:55:00,63.8,late_night,41.5,2.2,-0.26,"['loneliness', 'deep talk', 'slow vlog']",0.13,0.49,False,267.6,0.84,I want to stay emotionally balanced,exhaustion
+U623,2025-06-11 00:44:00,76.6,late_night,52.1,2.7,-0.65,"['emotional', 'vulnerability', 'jealousy']",0.29,0.67,False,527.0,0.9,I want to focus on studying,dependency
+U624,2025-06-11 13:16:00,42.6,afternoon,12.2,0.6,-0.83,"['crush', 'confession', 'affection']",0.19,0.77,True,539.3,0.78,I want to focus on studying,dependency
+U625,2025-06-11 10:49:00,68.0,morning,53.3,0.8,0.9,"['tutorial', 'exam tips', 'brain tips']",0.27,0.54,True,504.5,0.78,I feel tired but want to learn something,guilt
+U626,2025-06-11 01:37:00,54.6,late_night,46.1,0.7,0.5,"['life tips', 'well-being', 'deep talk']",0.06,0.32,False,508.1,0.78,I just want to relax a bit,exhaustion
+U627,2025-06-11 05:38:00,45.9,late_night,26.5,1.1,-0.13,"['minimalism', 'soft music', 'self reflection']",0.18,0.65,False,541.6,0.76,I want to stop wasting time,exhaustion
+U628,2025-06-11 04:04:00,61.7,late_night,33.2,1.2,0.89,"['school hacks', 'ai', 'explanation']",0.13,0.53,False,383.7,0.84,I want to stay emotionally balanced,guilt
+U629,2025-06-11 22:24:00,64.7,night,46.5,0.5,-0.91,"['texting drama', 'longing', 'breakup']",0.21,0.23,True,596.1,0.64,I want to stop wasting time,dependency
+U630,2025-06-11 05:39:00,58.1,late_night,40.3,3.0,-0.98,"['fun fact', 'pop song', 'unboxing']",0.1,0.66,False,519.4,0.74,I want to stay emotionally balanced,reward
+U631,2025-06-11 17:28:00,59.7,afternoon,15.1,1.3,-0.68,"['no drama', 'slow vlog', 'sunset']",0.2,0.47,True,247.5,0.91,I want to stop wasting time,exhaustion
+U632,2025-06-11 06:37:00,72.6,morning,32.9,2.3,0.42,"['vulnerability', 'affection', 'jealousy']",0.28,0.28,False,551.9,0.92,I want to stay emotionally balanced,dependency
+U633,2025-06-11 09:10:00,20.4,morning,41.4,0.9,-0.09,"['exam tips', 'coding', 'explanation']",0.01,0.46,False,544.9,0.83,I want to stop wasting time,guilt
+U634,2025-06-11 01:51:00,66.0,late_night,12.8,2.7,0.97,"['focus', 'online course', 'school hacks']",0.12,0.46,False,373.2,0.81,I feel tired but want to learn something,guilt
+U635,2025-06-11 17:09:00,51.3,afternoon,21.0,1.6,-0.84,"['conflict', 'fast edit', 'crazy moment']",0.13,0.43,True,298.6,0.93,I just want to relax a bit,anxious
+U636,2025-06-11 14:54:00,76.6,afternoon,59.8,1.8,-0.67,"['drama', 'trending', 'comedy']",0.21,0.67,True,485.7,0.68,I want to stay emotionally balanced,anxious
+U637,2025-06-11 23:00:00,35.4,night,55.7,0.7,-0.86,"['study', 'note taking', 'academic']",0.13,0.7,False,475.8,0.75,I want to stop wasting time,guilt
+U638,2025-06-11 04:58:00,27.9,late_night,55.6,1.0,-0.79,"['breakup', 'affection', 'jealousy']",0.06,0.48,True,574.6,0.87,I want to stop wasting time,dependency
+U639,2025-06-11 17:29:00,53.6,afternoon,26.5,2.5,-0.37,"['hack', 'pet video', 'nice edit']",0.03,0.72,True,590.9,0.86,I just want to relax a bit,reward
+U640,2025-06-11 17:14:00,67.5,afternoon,23.8,2.5,-0.96,"['explanation', 'lecture', 'tutorial']",0.19,0.24,True,453.8,0.64,I want to stay emotionally balanced,guilt
+U641,2025-06-11 07:25:00,76.3,morning,41.7,2.2,-0.65,"['therapy', 'romantic', 'social circle']",0.02,0.3,True,402.6,0.87,I just want to relax a bit,dependency
+U642,2025-06-11 01:46:00,65.3,late_night,53.6,3.0,-0.07,"['social circle', 'jealousy', 'affection']",0.17,0.76,True,406.3,0.95,I want to stop wasting time,dependency
+U643,2025-06-11 19:14:00,73.8,night,17.8,1.3,-0.14,"['comedy', 'conflict', 'funny']",0.09,0.35,True,203.9,0.74,I want to stay emotionally balanced,anxious
+U644,2025-06-11 23:42:00,68.9,night,39.7,2.8,0.35,"['sunset', 'soft music', 'journaling']",0.11,0.39,True,584.0,0.75,I want to stop wasting time,exhaustion
+U645,2025-06-11 22:19:00,59.7,night,41.4,0.6,-0.52,"['intimacy', 'confession', 'romantic']",0.2,0.62,True,210.8,0.69,I just want to relax a bit,dependency
+U646,2025-06-11 06:36:00,48.2,morning,35.2,1.4,-0.82,"['therapy', 'affection', 'confession']",0.26,0.64,True,512.2,0.69,I want to stay emotionally balanced,dependency
+U647,2025-06-11 15:07:00,37.4,afternoon,49.6,2.1,0.99,"['school hacks', 'how to', 'online course']",0.08,0.73,False,229.3,0.72,I feel tired but want to learn something,guilt
+U648,2025-06-11 07:20:00,64.8,morning,31.8,1.5,-0.69,"['quiet', 'mental health', 'sunset']",0.13,0.7,False,428.0,0.64,I want to stay emotionally balanced,exhaustion
+U649,2025-06-11 12:49:00,87.4,afternoon,21.9,2.0,-0.73,"['satisfying', 'gameplay', 'food review']",0.09,0.73,True,567.1,0.8,I want to focus on studying,reward
+U650,2025-06-11 15:05:00,69.3,afternoon,14.6,1.0,-0.19,"['how to', 'school hacks', 'documentary']",0.28,0.37,True,593.9,0.92,I want to focus on studying,guilt
+U651,2025-06-11 14:54:00,75.0,afternoon,55.7,2.6,0.7,"['chaos', 'meme', 'crazy moment']",0.27,0.48,True,566.5,0.88,I want to stop wasting time,anxious
+U652,2025-06-11 01:05:00,65.3,late_night,16.8,2.9,-0.07,"['art process', 'unboxing', 'win moment']",0.08,0.5,True,538.9,0.92,I feel tired but want to learn something,reward
+U653,2025-06-11 05:43:00,83.4,late_night,32.7,0.6,-0.35,"['true story', 'texting drama', 'cute couple']",0.25,0.57,False,252.8,0.63,I want to focus on studying,dependency
+U654,2025-06-11 07:55:00,74.4,morning,12.6,1.9,0.32,"['cute couple', 'relationship', 'social circle']",0.2,0.57,False,259.6,0.72,I feel tired but want to learn something,dependency
+U655,2025-06-11 00:22:00,75.9,late_night,12.3,1.7,0.7,"['deep talk', 'sleep aid', 'loneliness']",0.07,0.43,True,420.7,0.88,I just want to relax a bit,exhaustion
+U656,2025-06-11 06:21:00,21.0,morning,26.8,2.7,-0.36,"['minimalism', 'journaling', 'life tips']",0.01,0.62,True,230.1,0.65,I want to stop wasting time,exhaustion
+U657,2025-06-11 04:58:00,17.7,late_night,59.3,2.9,0.32,"['crush', 'texting drama', 'confession']",0.01,0.48,False,563.8,0.83,I just want to relax a bit,dependency
+U658,2025-06-11 23:44:00,13.4,night,16.7,1.9,0.3,"['trending', 'conflict', 'gossip']",0.06,0.22,True,248.9,0.79,I want to stay emotionally balanced,anxious
+U659,2025-06-11 15:07:00,73.2,afternoon,35.9,1.0,0.48,"['pop song', 'nice edit', 'satisfying']",0.09,0.24,False,314.6,0.79,I feel tired but want to learn something,reward
+U660,2025-06-11 22:35:00,41.5,night,25.9,1.6,-0.29,"['jokes', 'nice edit', 'pop song']",0.14,0.79,True,219.6,0.9,I want to stay emotionally balanced,reward
+U661,2025-06-11 01:35:00,88.7,late_night,43.7,2.7,-0.44,"['academic', 'explanation', 'ai']",0.26,0.71,True,501.4,0.92,I want to focus on studying,guilt
+U662,2025-06-11 05:14:00,57.5,late_night,25.8,1.2,-0.46,"['surprise', 'fail', 'trending']",0.29,0.48,False,442.3,0.78,I want to focus on studying,anxious
+U663,2025-06-11 00:24:00,77.6,late_night,49.1,1.7,-0.85,"['confession', 'texting drama', 'longing']",0.2,0.23,True,257.7,0.68,I want to stay emotionally balanced,dependency
+U664,2025-06-11 10:30:00,46.5,morning,21.0,2.8,-0.84,"['breakup', 'confession', 'vulnerability']",0.1,0.52,True,591.6,0.92,I just want to relax a bit,dependency
+U665,2025-06-11 20:48:00,76.1,night,17.3,2.5,0.55,"['social circle', 'affection', 'longing']",0.11,0.44,False,474.4,0.88,I just want to relax a bit,dependency
+U666,2025-06-11 08:08:00,82.2,morning,36.1,1.5,-0.69,"['sports', 'food review', 'cool trick']",0.01,0.45,True,482.0,0.92,I just want to relax a bit,reward
+U667,2025-06-11 00:57:00,36.2,late_night,33.0,1.3,0.64,"['education', 'documentary', 'homework']",0.29,0.33,True,451.4,0.63,I want to stop wasting time,guilt
+U668,2025-06-11 22:06:00,74.4,night,21.9,0.9,0.58,"['minimalism', 'lifestyle', 'cooking calmly']",0.03,0.56,True,244.5,0.63,I just want to relax a bit,exhaustion
+U669,2025-06-11 07:47:00,42.8,morning,59.6,1.1,0.8,"['jokes', 'cool trick', 'short meme']",0.1,0.23,True,331.9,0.92,I want to stop wasting time,reward
+U670,2025-06-11 23:25:00,47.3,night,54.5,2.9,0.99,"['nice edit', 'cute animal', 'satisfying']",0.24,0.7,True,477.8,0.73,I want to focus on studying,reward
+U671,2025-06-11 08:25:00,36.1,morning,38.8,1.0,0.24,"['food review', 'art process', 'music clip']",0.16,0.4,True,321.8,0.91,I feel tired but want to learn something,reward
+U672,2025-06-11 21:55:00,70.5,night,10.6,1.9,0.58,"['hack', 'satisfying', 'short meme']",0.24,0.68,False,262.9,0.83,I want to stop wasting time,reward
+U673,2025-06-11 11:55:00,60.3,morning,48.6,0.7,0.75,"['study', 'note taking', 'tutorial']",0.18,0.64,True,524.8,0.71,I just want to relax a bit,guilt
+U674,2025-06-11 15:49:00,59.1,afternoon,39.1,2.1,-0.09,"['parody', 'gossip', 'jump scare']",0.09,0.36,False,264.6,0.78,I want to stay emotionally balanced,anxious
+U675,2025-06-11 02:04:00,64.3,late_night,36.6,0.6,-0.68,"['deep talk', 'self reflection', 'no drama']",0.09,0.41,True,264.1,0.69,I want to stay emotionally balanced,exhaustion
+U676,2025-06-11 16:12:00,15.2,afternoon,42.0,1.4,-0.61,"['parody', 'funny', 'drama']",0.25,0.49,False,587.5,0.64,I just want to relax a bit,anxious
+U677,2025-06-11 14:52:00,21.0,afternoon,57.8,1.2,0.23,"['coding', 'exam tips', 'ai']",0.13,0.68,False,498.6,0.93,I feel tired but want to learn something,guilt
+U678,2025-06-11 18:46:00,89.1,night,54.0,0.7,0.49,"['satisfying', 'unboxing', 'cool trick']",0.0,0.31,True,264.5,0.94,I just want to relax a bit,reward
+U679,2025-06-11 22:46:00,39.6,night,18.4,2.5,-0.87,"['well-being', 'healing', 'journaling']",0.19,0.4,False,590.4,0.92,I feel tired but want to learn something,exhaustion
+U680,2025-06-11 02:03:00,77.5,late_night,13.0,1.7,0.43,"['romantic', 'longing', 'jealousy']",0.02,0.32,False,311.5,0.94,I want to stop wasting time,dependency
+U681,2025-06-11 08:21:00,68.2,morning,11.5,2.1,-0.72,"['crazy moment', 'chaos', 'meme']",0.16,0.75,False,435.3,0.85,I want to focus on studying,anxious
+U682,2025-06-11 08:35:00,70.8,morning,27.7,1.6,-0.17,"['exam tips', 'focus', 'online course']",0.11,0.55,False,456.1,0.76,I feel tired but want to learn something,guilt
+U683,2025-06-11 01:25:00,88.8,late_night,52.8,2.4,-0.21,"['cute couple', 'emotional', 'intimacy']",0.23,0.36,False,543.0,0.95,I want to focus on studying,dependency
+U684,2025-06-11 21:00:00,44.1,night,39.0,2.5,-0.66,"['loneliness', 'cooking calmly', 'low energy']",0.17,0.24,False,477.2,0.88,I feel tired but want to learn something,exhaustion
+U685,2025-06-11 14:27:00,56.0,afternoon,50.1,2.0,0.55,"['academic', 'brain tips', 'how to']",0.25,0.38,False,233.1,0.87,I want to stop wasting time,guilt
+U686,2025-06-11 08:07:00,65.6,morning,11.5,0.6,0.58,"['nice edit', 'cute animal', 'music clip']",0.07,0.45,True,216.2,0.88,I feel tired but want to learn something,reward
+U687,2025-06-11 12:34:00,82.3,afternoon,33.2,2.5,0.51,"['satisfying', 'pop song', 'cool trick']",0.18,0.36,True,566.5,0.62,I feel tired but want to learn something,reward
+U688,2025-06-11 14:44:00,29.0,afternoon,55.6,1.6,0.72,"['calm voice', 'journaling', 'study with me']",0.29,0.62,True,345.4,0.62,I want to stay emotionally balanced,exhaustion
+U689,2025-06-11 13:53:00,54.8,afternoon,57.2,1.3,0.83,"['short meme', 'dancing', 'cool trick']",0.1,0.51,False,266.6,0.91,I want to stay emotionally balanced,reward
+U690,2025-06-11 08:17:00,11.2,morning,39.7,0.5,0.17,"['calm voice', 'cooking calmly', 'study with me']",0.02,0.74,True,289.9,0.72,I want to stay emotionally balanced,exhaustion
+U691,2025-06-11 13:43:00,80.8,afternoon,17.7,1.0,0.0,"['satisfying', 'pet video', 'cool trick']",0.27,0.62,True,493.7,0.93,I just want to relax a bit,reward
+U692,2025-06-11 08:11:00,25.1,morning,25.4,2.5,-0.56,"['ai', 'coding', 'tutorial']",0.0,0.72,False,358.8,0.69,I just want to relax a bit,guilt
+U693,2025-06-11 16:10:00,24.5,afternoon,33.6,1.4,0.16,"['social circle', 'intimacy', 'texting drama']",0.15,0.66,True,574.1,0.72,I want to focus on studying,dependency
+U694,2025-06-11 11:43:00,52.7,morning,46.1,0.6,-0.64,"['mental health', 'low energy', 'quiet']",0.27,0.3,False,393.0,0.72,I want to focus on studying,exhaustion
+U695,2025-06-11 09:33:00,37.2,morning,43.3,1.3,0.92,"['journaling', 'calm voice', 'study with me']",0.21,0.5,False,248.6,0.63,I feel tired but want to learn something,exhaustion
+U696,2025-06-11 12:58:00,73.0,afternoon,41.3,1.0,-0.39,"['sunset', 'slow vlog', 'self reflection']",0.21,0.69,True,228.0,0.83,I just want to relax a bit,exhaustion
+U697,2025-06-11 02:36:00,80.1,late_night,33.4,1.4,0.57,"['life tips', 'slow vlog', 'lifestyle']",0.17,0.7,False,502.0,0.67,I want to stop wasting time,exhaustion
+U698,2025-06-11 23:16:00,56.0,night,19.5,2.4,0.02,"['crazy moment', 'drama', 'chaos']",0.09,0.4,True,411.4,0.66,I want to stay emotionally balanced,anxious
+U699,2025-06-11 15:16:00,56.1,afternoon,55.1,2.3,0.47,"['homework', 'ai', 'documentary']",0.0,0.41,False,574.6,0.92,I want to stop wasting time,guilt
+U700,2025-06-11 16:07:00,75.2,afternoon,48.3,1.8,-0.16,"['cute animal', 'pet video', 'sports']",0.17,0.44,True,212.9,0.7,I just want to relax a bit,reward
+U701,2025-06-11 23:23:00,44.8,night,28.4,3.0,0.36,"['sleep aid', 'slow vlog', 'study with me']",0.18,0.74,True,573.7,0.81,I want to stay emotionally balanced,exhaustion
+U702,2025-06-11 04:28:00,82.5,late_night,56.4,1.9,-0.19,"['trending', 'conflict', 'jump scare']",0.26,0.55,False,224.5,0.94,I want to focus on studying,anxious
+U703,2025-06-11 08:50:00,66.0,morning,24.5,1.3,-0.13,"['deep talk', 'self reflection', 'loneliness']",0.08,0.55,True,245.6,0.88,I want to stop wasting time,exhaustion
+U704,2025-06-11 06:58:00,74.5,morning,32.0,2.3,-0.71,"['tutorial', 'coding', 'study vlog']",0.01,0.33,True,446.0,0.65,I just want to relax a bit,guilt
+U705,2025-06-11 15:54:00,24.1,afternoon,44.1,0.8,0.73,"['deep talk', 'mental health', 'minimalism']",0.12,0.61,True,364.7,0.68,I want to focus on studying,exhaustion
+U706,2025-06-11 11:23:00,37.6,morning,23.1,2.3,-0.13,"['healing', 'life tips', 'no drama']",0.05,0.58,False,371.8,0.91,I just want to relax a bit,exhaustion
+U707,2025-06-11 21:21:00,50.2,night,34.9,1.0,0.57,"['toxic love', 'social circle', 'vulnerability']",0.09,0.7,True,547.2,0.72,I want to stay emotionally balanced,dependency
+U708,2025-06-11 02:17:00,67.7,late_night,30.9,0.7,-0.44,"['reaction', 'meme', 'prank']",0.09,0.22,True,315.5,0.7,I feel tired but want to learn something,anxious
+U709,2025-06-11 15:43:00,49.9,afternoon,47.3,0.7,0.8,"['cooking calmly', 'life tips', 'study with me']",0.2,0.61,False,292.1,0.94,I just want to relax a bit,exhaustion
+U710,2025-06-11 13:53:00,74.9,afternoon,51.7,0.6,0.47,"['talking stage', 'breakup', 'toxic love']",0.1,0.32,True,570.7,0.77,I want to focus on studying,dependency
+U711,2025-06-11 04:01:00,19.8,late_night,25.9,1.1,-0.36,"['hack', 'jokes', 'gameplay']",0.28,0.53,True,248.8,0.95,I want to stay emotionally balanced,reward
+U712,2025-06-11 12:51:00,79.6,afternoon,49.4,2.6,0.84,"['brain tips', 'ai', 'coding']",0.03,0.55,True,475.9,0.67,I want to focus on studying,guilt
+U713,2025-06-11 11:08:00,23.4,morning,24.7,2.7,-0.12,"['lifestyle', 'mental health', 'deep talk']",0.18,0.3,False,361.0,0.66,I want to focus on studying,exhaustion
+U714,2025-06-11 07:24:00,80.6,morning,11.1,0.9,-0.53,"['academic', 'study', 'science']",0.18,0.49,False,377.1,0.71,I just want to relax a bit,guilt
+U715,2025-06-11 10:35:00,40.5,morning,38.2,2.7,-0.44,"['calm voice', 'mental health', 'loneliness']",0.29,0.8,False,289.6,0.89,I just want to relax a bit,exhaustion
+U716,2025-06-11 11:34:00,58.3,morning,22.8,1.3,0.17,"['prank', 'drama', 'fail']",0.27,0.62,True,225.1,0.76,I just want to relax a bit,anxious
+U717,2025-06-11 17:55:00,31.2,afternoon,48.7,1.9,-0.44,"['jokes', 'nice edit', 'satisfying']",0.03,0.73,True,348.9,0.79,I feel tired but want to learn something,reward
+U718,2025-06-11 12:49:00,50.2,afternoon,26.3,2.5,0.31,"['slow vlog', 'self reflection', 'calm voice']",0.03,0.54,True,402.3,0.87,I want to stop wasting time,exhaustion
+U719,2025-06-11 09:18:00,73.7,morning,15.3,2.0,0.18,"['academic', 'productivity', 'study vlog']",0.15,0.7,False,522.3,0.78,I feel tired but want to learn something,guilt
+U720,2025-06-11 02:30:00,49.4,late_night,30.7,1.4,0.59,"['hack', 'unboxing', 'satisfying']",0.16,0.76,False,342.4,0.65,I just want to relax a bit,reward
+U721,2025-06-11 14:52:00,70.3,afternoon,49.9,0.6,-0.56,"['loneliness', 'sleep aid', 'slow vlog']",0.25,0.32,False,336.1,0.69,I want to stay emotionally balanced,exhaustion
+U722,2025-06-11 21:50:00,13.0,night,54.1,2.7,0.1,"['toxic love', 'cute couple', 'jealousy']",0.06,0.61,False,415.8,0.72,I feel tired but want to learn something,dependency
+U723,2025-06-11 15:14:00,17.2,afternoon,37.3,1.7,0.14,"['social circle', 'therapy', 'romantic']",0.13,0.44,True,445.9,0.8,I want to stay emotionally balanced,dependency
+U724,2025-06-11 12:25:00,45.2,afternoon,28.4,1.0,-0.38,"['cute animal', 'cool trick', 'jokes']",0.15,0.61,False,463.7,0.95,I just want to relax a bit,reward
+U725,2025-06-11 21:54:00,63.5,night,51.2,2.2,0.73,"['brain tips', 'lecture', 'coding']",0.08,0.72,False,294.2,0.67,I just want to relax a bit,guilt
+U726,2025-06-11 02:23:00,66.1,late_night,50.2,2.5,-0.1,"['reaction', 'chaos', 'crazy moment']",0.02,0.52,False,545.5,0.93,I want to focus on studying,anxious
+U727,2025-06-11 12:30:00,22.9,afternoon,20.7,2.0,-0.14,"['confession', 'cute couple', 'romantic']",0.06,0.72,False,598.5,0.74,I want to focus on studying,dependency
+U728,2025-06-11 09:19:00,37.1,morning,13.0,1.7,0.49,"['deep talk', 'loneliness', 'low energy']",0.12,0.31,False,509.7,0.63,I want to focus on studying,exhaustion
+U729,2025-06-11 03:14:00,89.4,late_night,48.7,1.3,0.31,"['therapy', 'flirting', 'jealousy']",0.26,0.48,False,599.9,0.89,I want to stay emotionally balanced,dependency
+U730,2025-06-11 04:34:00,76.6,late_night,30.7,0.8,0.47,"['lecture', 'tutorial', 'exam tips']",0.18,0.61,False,495.7,0.74,I want to focus on studying,guilt
+U731,2025-06-11 04:33:00,82.0,late_night,47.4,2.6,0.64,"['how to', 'documentary', 'study vlog']",0.28,0.49,True,401.3,0.85,I want to focus on studying,guilt
+U732,2025-06-11 13:39:00,67.1,afternoon,45.6,2.6,-0.0,"['travel vlog', 'music clip', 'art process']",0.25,0.54,True,343.6,0.68,I want to stop wasting time,reward
+U733,2025-06-11 05:28:00,53.3,late_night,10.2,1.1,0.58,"['win moment', 'asmr', 'hack']",0.24,0.57,False,353.0,0.92,I want to focus on studying,reward
+U734,2025-06-11 18:01:00,24.8,night,41.5,2.4,0.89,"['fun fact', 'short meme', 'music clip']",0.21,0.79,True,203.5,0.91,I just want to relax a bit,reward
+U735,2025-06-11 19:46:00,82.2,night,24.7,1.8,-1.0,"['prank', 'surprise', 'trending']",0.03,0.74,True,287.2,0.61,I just want to relax a bit,anxious
+U736,2025-06-11 10:33:00,53.7,morning,53.7,2.2,0.54,"['satisfying', 'sports', 'food review']",0.19,0.46,False,523.9,0.86,I just want to relax a bit,reward
+U737,2025-06-11 21:36:00,31.6,night,28.0,1.5,-0.46,"['asmr', 'nice edit', 'cool trick']",0.21,0.67,True,282.5,0.67,I want to stop wasting time,reward
+U738,2025-06-11 18:09:00,52.7,night,17.1,2.1,-0.21,"['soft music', 'mental health', 'loneliness']",0.24,0.51,False,548.2,0.74,I want to focus on studying,exhaustion
+U739,2025-06-11 09:43:00,24.3,morning,31.6,1.7,0.35,"['jump scare', 'fast edit', 'comedy']",0.25,0.44,True,228.8,0.92,I just want to relax a bit,anxious
+U740,2025-06-11 09:35:00,69.9,morning,22.2,1.9,0.74,"['meme', 'rant', 'fast edit']",0.23,0.39,False,247.6,0.67,I want to stay emotionally balanced,anxious
+U741,2025-06-11 09:33:00,26.0,morning,28.6,2.1,-0.54,"['therapy', 'toxic love', 'confession']",0.23,0.42,True,452.8,0.94,I feel tired but want to learn something,dependency
+U742,2025-06-11 03:30:00,62.9,late_night,31.6,1.3,-0.51,"['homework', 'lecture', 'productivity']",0.2,0.58,False,262.5,0.88,I want to focus on studying,guilt
+U743,2025-06-11 21:43:00,48.5,night,42.4,1.9,0.79,"['nice edit', 'travel vlog', 'sports']",0.03,0.55,False,220.8,0.74,I want to stay emotionally balanced,reward
+U744,2025-06-11 09:39:00,71.0,morning,32.8,1.3,-0.72,"['dancing', 'asmr', 'music clip']",0.21,0.68,False,514.1,0.91,I want to stay emotionally balanced,reward
+U745,2025-06-11 12:36:00,58.6,afternoon,15.8,2.0,0.72,"['crazy moment', 'jump scare', 'comedy']",0.08,0.41,True,253.1,0.9,I want to stay emotionally balanced,anxious
+U746,2025-06-11 21:41:00,10.3,night,49.5,1.0,0.45,"['jump scare', 'crazy moment', 'conflict']",0.18,0.4,False,267.3,0.69,I want to focus on studying,anxious
+U747,2025-06-11 18:47:00,72.7,night,11.9,1.6,-0.54,"['true story', 'cute couple', 'intimacy']",0.1,0.46,True,481.8,0.91,I want to focus on studying,dependency
+U748,2025-06-11 05:52:00,67.3,late_night,52.2,1.0,0.93,"['low energy', 'well-being', 'quiet']",0.27,0.69,True,482.5,0.87,I want to focus on studying,exhaustion
+U749,2025-06-11 18:19:00,42.2,night,44.4,2.4,-0.24,"['ai', 'lecture', 'focus']",0.1,0.78,False,375.0,0.91,I want to stay emotionally balanced,guilt
+U750,2025-06-11 11:14:00,80.8,morning,38.8,2.1,-0.69,"['affection', 'confession', 'romantic']",0.13,0.59,True,260.1,0.87,I feel tired but want to learn something,dependency
+U751,2025-06-11 13:39:00,23.7,afternoon,54.0,2.6,-0.43,"['school hacks', 'education', 'documentary']",0.21,0.78,False,478.1,0.76,I want to focus on studying,guilt
+U752,2025-06-11 15:50:00,25.7,afternoon,34.1,2.1,-0.31,"['education', 'tutorial', 'productivity']",0.14,0.22,False,511.9,0.67,I want to focus on studying,guilt
+U753,2025-06-11 14:21:00,27.7,afternoon,43.3,2.3,-0.33,"['study', 'note taking', 'academic']",0.17,0.78,False,270.3,0.63,I just want to relax a bit,guilt
+U754,2025-06-11 08:07:00,73.8,morning,21.1,0.9,0.87,"['jump scare', 'rant', 'parody']",0.05,0.76,False,569.9,0.91,I just want to relax a bit,anxious
+U755,2025-06-11 04:09:00,59.6,late_night,32.1,1.9,0.13,"['nice edit', 'cool trick', 'food review']",0.22,0.47,True,269.0,0.65,I want to stay emotionally balanced,reward
+U756,2025-06-11 13:21:00,82.4,afternoon,28.9,1.4,-0.25,"['music clip', 'travel vlog', 'cool trick']",0.25,0.28,False,461.4,0.94,I want to focus on studying,reward
+U757,2025-06-11 06:30:00,84.8,morning,11.7,0.9,0.09,"['reaction', 'chaos', 'parody']",0.26,0.3,False,526.8,0.7,I want to stop wasting time,anxious
+U758,2025-06-11 02:30:00,39.6,late_night,16.3,0.7,0.48,"['food review', 'cute animal', 'short meme']",0.28,0.54,True,327.6,0.63,I just want to relax a bit,reward
+U759,2025-06-11 06:12:00,69.4,morning,30.0,1.1,0.69,"['drama', 'comedy', 'meme']",0.0,0.23,True,383.7,0.81,I want to focus on studying,anxious
+U760,2025-06-11 03:24:00,18.0,late_night,37.7,2.2,-0.18,"['trending', 'fast edit', 'rant']",0.04,0.68,False,503.1,0.67,I feel tired but want to learn something,anxious
+U761,2025-06-11 19:36:00,30.4,night,59.2,0.7,0.21,"['lecture', 'homework', 'exam tips']",0.14,0.23,True,546.3,0.81,I feel tired but want to learn something,guilt
+U762,2025-06-11 05:32:00,67.8,late_night,11.4,2.9,-0.93,"['romantic', 'breakup', 'intimacy']",0.11,0.3,True,239.0,0.91,I want to stop wasting time,dependency
+U763,2025-06-11 01:37:00,37.8,late_night,21.1,2.6,0.89,"['cute animal', 'jokes', 'unboxing']",0.2,0.74,False,236.0,0.84,I feel tired but want to learn something,reward
+U764,2025-06-11 16:30:00,79.2,afternoon,31.6,1.3,-0.98,"['chaos', 'fast edit', 'drama']",0.13,0.68,False,488.3,0.94,I want to stay emotionally balanced,anxious
+U765,2025-06-11 04:08:00,83.0,late_night,55.9,1.7,-0.43,"['life tips', 'self reflection', 'mental health']",0.08,0.68,False,272.0,0.71,I want to stay emotionally balanced,exhaustion
+U766,2025-06-11 06:47:00,50.4,morning,13.9,2.8,0.39,"['pop song', 'dancing', 'satisfying']",0.24,0.64,False,319.1,0.7,I feel tired but want to learn something,reward
+U767,2025-06-11 09:51:00,47.6,morning,45.5,2.1,-0.35,"['explanation', 'tutorial', 'focus']",0.24,0.4,False,455.4,0.89,I want to stop wasting time,guilt
+U768,2025-06-11 09:13:00,12.4,morning,10.1,1.1,0.36,"['fast edit', 'chaos', 'meme']",0.02,0.71,False,363.4,0.8,I want to stay emotionally balanced,anxious
+U769,2025-06-11 06:11:00,75.5,morning,13.6,2.9,0.97,"['talking stage', 'jealousy', 'confession']",0.29,0.51,False,425.1,0.74,I want to stop wasting time,dependency
+U770,2025-06-11 15:56:00,47.1,afternoon,41.1,2.1,-0.21,"['relationship', 'therapy', 'affection']",0.25,0.2,False,415.7,0.93,I want to stop wasting time,dependency
+U771,2025-06-11 00:50:00,67.4,late_night,44.4,1.2,0.66,"['self reflection', 'minimalism', 'slow vlog']",0.2,0.39,False,302.0,0.78,I want to stay emotionally balanced,exhaustion
+U772,2025-06-11 10:08:00,13.2,morning,22.8,2.2,-0.59,"['win moment', 'art process', 'nice edit']",0.21,0.78,True,291.3,0.68,I want to stop wasting time,reward
+U773,2025-06-11 22:28:00,64.6,night,53.9,2.5,0.49,"['short meme', 'asmr', 'satisfying']",0.1,0.49,False,422.6,0.89,I feel tired but want to learn something,reward
+U774,2025-06-11 00:05:00,33.3,late_night,49.3,2.6,-0.33,"['funny', 'surprise', 'comedy']",0.13,0.24,True,555.4,0.9,I just want to relax a bit,anxious
+U775,2025-06-11 18:38:00,43.4,night,11.5,2.8,0.67,"['cooking calmly', 'mental health', 'sleep aid']",0.22,0.37,False,239.2,0.63,I want to stay emotionally balanced,exhaustion
+U776,2025-06-11 11:48:00,64.2,morning,28.7,2.3,0.79,"['loneliness', 'journaling', 'well-being']",0.05,0.74,False,268.0,0.84,I want to stop wasting time,exhaustion
+U777,2025-06-11 04:01:00,16.5,late_night,50.7,1.0,-0.23,"['focus', 'explanation', 'exam tips']",0.12,0.65,True,200.3,0.89,I want to focus on studying,guilt
+U778,2025-06-11 02:42:00,77.3,late_night,55.9,1.4,-0.52,"['food review', 'dancing', 'nice edit']",0.12,0.68,True,541.5,0.91,I want to stay emotionally balanced,reward
+U779,2025-06-11 05:01:00,66.4,late_night,28.6,2.4,0.25,"['romantic', 'intimacy', 'breakup']",0.18,0.73,True,382.6,0.62,I want to stop wasting time,dependency
+U780,2025-06-11 01:42:00,89.5,late_night,34.5,0.7,0.63,"['social circle', 'true story', 'flirting']",0.2,0.79,False,588.8,0.72,I want to focus on studying,dependency
+U781,2025-06-11 22:58:00,68.2,night,29.6,1.7,0.63,"['music clip', 'sports', 'food review']",0.23,0.26,True,287.1,0.92,I just want to relax a bit,reward
+U782,2025-06-11 09:59:00,17.7,morning,13.3,3.0,-0.58,"['meme', 'drama', 'gossip']",0.26,0.5,False,347.5,0.79,I want to stop wasting time,anxious
+U783,2025-06-11 06:02:00,40.4,morning,38.3,2.6,0.38,"['jealousy', 'confession', 'crush']",0.29,0.63,True,363.8,0.71,I feel tired but want to learn something,dependency
+U784,2025-06-11 12:02:00,51.2,afternoon,51.0,2.5,0.53,"['homework', 'education', 'productivity']",0.12,0.62,False,400.4,0.87,I feel tired but want to learn something,guilt
+U785,2025-06-11 17:27:00,67.5,afternoon,26.9,2.5,0.15,"['pop song', 'hack', 'unboxing']",0.24,0.51,False,287.4,0.69,I want to stop wasting time,reward
+U786,2025-06-11 18:54:00,74.6,night,26.1,0.8,-0.2,"['texting drama', 'cute couple', 'longing']",0.19,0.21,False,345.6,0.76,I want to focus on studying,dependency
+U787,2025-06-11 20:18:00,65.2,night,56.2,2.9,-0.77,"['minimalism', 'no drama', 'lifestyle']",0.19,0.34,False,461.7,0.86,I want to stop wasting time,exhaustion
+U788,2025-06-11 01:05:00,27.7,late_night,55.8,0.7,-0.75,"['lifestyle', 'mental health', 'minimalism']",0.0,0.74,False,338.3,0.6,I feel tired but want to learn something,exhaustion
+U789,2025-06-11 19:52:00,29.4,night,28.0,2.4,0.59,"['drama', 'rant', 'trending']",0.26,0.37,True,512.1,0.61,I want to stop wasting time,anxious
+U790,2025-06-11 05:50:00,26.0,late_night,11.6,1.4,0.98,"['sports', 'gameplay', 'pet video']",0.24,0.72,True,487.3,0.62,I want to stay emotionally balanced,reward
+U791,2025-06-11 19:51:00,52.1,night,15.3,1.6,-0.25,"['emotional', 'jealousy', 'social circle']",0.04,0.33,False,430.3,0.81,I just want to relax a bit,dependency
+U792,2025-06-11 12:39:00,44.3,afternoon,36.6,0.6,-0.63,"['deep talk', 'healing', 'cooking calmly']",0.11,0.56,False,432.0,0.82,I want to stop wasting time,exhaustion
+U793,2025-06-11 04:47:00,11.7,late_night,53.3,1.2,0.88,"['calm voice', 'self reflection', 'life tips']",0.25,0.57,False,507.9,0.87,I just want to relax a bit,exhaustion
+U794,2025-06-11 15:09:00,16.8,afternoon,42.9,2.9,-0.72,"['study with me', 'journaling', 'low energy']",0.19,0.7,False,370.4,0.62,I just want to relax a bit,exhaustion
+U795,2025-06-11 09:43:00,59.7,morning,32.8,2.2,0.81,"['art process', 'sports', 'asmr']",0.2,0.57,True,352.7,0.74,I feel tired but want to learn something,reward
+U796,2025-06-11 16:01:00,64.9,afternoon,13.4,1.3,0.88,"['low energy', 'soft music', 'minimalism']",0.29,0.78,True,557.7,0.66,I want to stop wasting time,exhaustion
+U797,2025-06-11 15:57:00,75.3,afternoon,43.0,1.1,-0.15,"['ai', 'how to', 'online course']",0.2,0.22,True,590.4,0.78,I want to stop wasting time,guilt
+U798,2025-06-11 21:37:00,41.6,night,35.4,2.1,-0.59,"['pop song', 'jokes', 'food review']",0.13,0.29,False,441.9,0.71,I want to stop wasting time,reward
+U799,2025-06-11 19:33:00,48.2,night,22.9,1.8,0.39,"['travel vlog', 'gameplay', 'pop song']",0.03,0.53,False,588.4,0.64,I want to stay emotionally balanced,reward
+U800,2025-06-11 13:14:00,24.2,afternoon,56.8,1.5,-0.18,"['ai', 'coding', 'exam tips']",0.14,0.63,True,505.0,0.82,I feel tired but want to learn something,guilt
+U801,2025-06-11 02:46:00,20.8,late_night,58.9,1.3,-0.64,"['explanation', 'productivity', 'how to']",0.03,0.52,False,247.2,0.69,I want to stop wasting time,guilt
+U802,2025-06-11 05:38:00,54.2,late_night,17.6,2.7,-0.03,"['lifestyle', 'journaling', 'study with me']",0.07,0.47,False,579.5,0.7,I want to focus on studying,exhaustion
+U803,2025-06-11 23:55:00,64.6,night,43.2,1.8,-0.58,"['homework', 'coding', 'focus']",0.18,0.66,True,220.9,0.85,I just want to relax a bit,guilt
+U804,2025-06-11 22:09:00,72.0,night,40.6,1.7,-0.31,"['fail', 'conflict', 'prank']",0.24,0.24,False,336.2,0.75,I feel tired but want to learn something,anxious
+U805,2025-06-11 05:29:00,40.5,late_night,36.9,1.6,0.58,"['how to', 'productivity', 'study']",0.11,0.29,True,214.4,0.61,I want to stay emotionally balanced,guilt
+U806,2025-06-11 06:33:00,73.4,morning,16.8,2.3,-0.39,"['crush', 'cute couple', 'relationship']",0.24,0.41,False,599.8,0.69,I want to stay emotionally balanced,dependency
+U807,2025-06-11 04:26:00,56.1,late_night,45.7,2.1,-0.4,"['longing', 'social circle', 'texting drama']",0.24,0.38,False,506.1,0.69,I want to stop wasting time,dependency
+U808,2025-06-11 05:32:00,66.8,late_night,51.1,2.4,-0.24,"['deep talk', 'study with me', 'low energy']",0.07,0.25,False,222.1,0.75,I want to focus on studying,exhaustion
+U809,2025-06-11 21:24:00,34.5,night,51.6,0.7,0.28,"['gossip', 'crazy moment', 'fail']",0.03,0.54,False,541.6,0.62,I feel tired but want to learn something,anxious
+U810,2025-06-11 22:49:00,58.6,night,35.6,1.9,-0.07,"['prank', 'trending', 'fast edit']",0.02,0.67,True,338.2,0.89,I just want to relax a bit,anxious
+U811,2025-06-11 07:05:00,19.0,morning,55.4,0.7,-0.92,"['study with me', 'healing', 'sunset']",0.17,0.63,True,586.7,0.83,I feel tired but want to learn something,exhaustion
+U812,2025-06-11 21:11:00,79.8,night,16.1,1.1,-0.64,"['romantic', 'cute couple', 'therapy']",0.0,0.38,False,568.5,0.7,I want to stop wasting time,dependency
+U813,2025-06-11 13:54:00,36.5,afternoon,29.3,1.4,-0.04,"['pet video', 'nice edit', 'music clip']",0.21,0.45,True,303.1,0.69,I want to stop wasting time,reward
+U814,2025-06-11 15:23:00,16.1,afternoon,15.3,1.6,-0.74,"['nice edit', 'music clip', 'travel vlog']",0.04,0.64,False,581.7,0.67,I want to focus on studying,reward
+U815,2025-06-11 15:44:00,17.0,afternoon,49.8,1.0,-0.8,"['unboxing', 'cool trick', 'hack']",0.07,0.44,True,286.3,0.91,I just want to relax a bit,reward
+U816,2025-06-11 18:08:00,79.2,night,34.9,2.3,-0.19,"['funny', 'conflict', 'trending']",0.11,0.71,False,432.9,0.63,I want to focus on studying,anxious
+U817,2025-06-11 16:03:00,26.1,afternoon,30.2,2.3,0.45,"['meme', 'chaos', 'conflict']",0.01,0.79,False,204.1,0.63,I just want to relax a bit,anxious
+U818,2025-06-11 12:08:00,12.5,afternoon,22.0,2.7,-0.52,"['study vlog', 'focus', 'note taking']",0.26,0.54,False,358.4,0.78,I just want to relax a bit,guilt
+U819,2025-06-11 08:31:00,57.4,morning,51.7,1.2,0.16,"['true story', 'confession', 'vulnerability']",0.04,0.31,True,550.3,0.71,I want to focus on studying,dependency
+U820,2025-06-11 10:42:00,10.7,morning,10.9,1.8,-0.87,"['loneliness', 'lifestyle', 'cooking calmly']",0.05,0.58,False,367.3,0.67,I want to stop wasting time,exhaustion
+U821,2025-06-11 01:57:00,57.6,late_night,25.7,3.0,-0.63,"['meme', 'reaction', 'jump scare']",0.23,0.77,False,391.2,0.7,I want to focus on studying,anxious
+U822,2025-06-11 02:01:00,10.3,late_night,47.9,2.7,0.54,"['therapy', 'texting drama', 'romantic']",0.23,0.58,False,321.5,0.9,I want to stay emotionally balanced,dependency
+U823,2025-06-11 09:30:00,18.8,morning,53.9,2.3,0.33,"['slow vlog', 'quiet', 'well-being']",0.29,0.73,True,458.3,0.87,I want to stay emotionally balanced,exhaustion
+U824,2025-06-11 02:20:00,74.6,late_night,21.9,1.4,0.62,"['slow vlog', 'mental health', 'well-being']",0.11,0.51,False,255.1,0.88,I just want to relax a bit,exhaustion
+U825,2025-06-11 14:21:00,46.8,afternoon,39.8,1.0,0.36,"['productivity', 'tutorial', 'online course']",0.23,0.72,True,462.2,0.67,I want to focus on studying,guilt
+U826,2025-06-11 17:49:00,49.1,afternoon,43.4,0.7,-0.04,"['how to', 'exam tips', 'documentary']",0.28,0.79,True,492.3,0.88,I want to focus on studying,guilt
+U827,2025-06-11 17:01:00,55.8,afternoon,37.6,2.9,-0.09,"['deep talk', 'well-being', 'sleep aid']",0.27,0.38,False,490.3,0.78,I want to stay emotionally balanced,exhaustion
+U828,2025-06-11 09:30:00,62.5,morning,11.7,0.6,0.4,"['life tips', 'soft music', 'loneliness']",0.06,0.34,True,591.1,0.74,I want to focus on studying,exhaustion
+U829,2025-06-11 21:03:00,39.8,night,57.3,1.6,0.34,"['lifestyle', 'journaling', 'loneliness']",0.12,0.24,True,511.4,0.89,I feel tired but want to learn something,exhaustion
+U830,2025-06-11 15:58:00,55.7,afternoon,11.8,2.9,0.86,"['fun fact', 'music clip', 'satisfying']",0.24,0.26,False,491.3,0.73,I want to focus on studying,reward
+U831,2025-06-11 07:49:00,57.3,morning,19.8,0.6,-0.99,"['cute couple', 'confession', 'breakup']",0.05,0.79,False,237.4,0.81,I want to stay emotionally balanced,dependency
+U832,2025-06-11 14:42:00,65.6,afternoon,49.3,1.4,-0.43,"['academic', 'online course', 'study']",0.11,0.44,True,346.4,0.93,I want to stay emotionally balanced,guilt
+U833,2025-06-11 12:59:00,59.7,afternoon,29.9,2.4,-0.1,"['coding', 'documentary', 'ai']",0.07,0.39,False,221.3,0.89,I want to stop wasting time,guilt
+U834,2025-06-11 14:29:00,67.6,afternoon,49.6,2.4,0.49,"['healing', 'lifestyle', 'mental health']",0.19,0.7,True,478.0,0.94,I want to stop wasting time,exhaustion
+U835,2025-06-11 13:08:00,63.7,afternoon,59.9,2.5,-0.38,"['exam tips', 'education', 'ai']",0.17,0.42,False,294.6,0.83,I want to stay emotionally balanced,guilt
+U836,2025-06-11 01:37:00,32.1,late_night,31.6,2.2,-0.53,"['cooking calmly', 'no drama', 'low energy']",0.27,0.39,False,271.0,0.82,I want to stop wasting time,exhaustion
+U837,2025-06-11 20:56:00,54.5,night,22.6,1.8,-0.77,"['jump scare', 'gossip', 'trending']",0.04,0.7,True,359.2,0.89,I want to focus on studying,anxious
+U838,2025-06-11 01:44:00,46.0,late_night,20.5,3.0,0.82,"['focus', 'coding', 'tutorial']",0.29,0.23,False,288.6,0.76,I feel tired but want to learn something,guilt
+U839,2025-06-11 00:10:00,25.3,late_night,50.2,1.8,-0.19,"['win moment', 'cute animal', 'sports']",0.04,0.37,False,263.2,0.84,I want to stay emotionally balanced,reward
+U840,2025-06-11 12:31:00,48.9,afternoon,41.8,0.8,-0.31,"['travel vlog', 'cool trick', 'fun fact']",0.13,0.22,True,526.5,0.9,I feel tired but want to learn something,reward
+U841,2025-06-11 04:31:00,49.6,late_night,40.7,2.6,0.28,"['quiet', 'study with me', 'mental health']",0.15,0.33,True,268.3,0.87,I feel tired but want to learn something,exhaustion
+U842,2025-06-11 16:47:00,34.9,afternoon,43.2,1.3,-0.87,"['win moment', 'fun fact', 'music clip']",0.02,0.35,False,452.5,0.91,I feel tired but want to learn something,reward
+U843,2025-06-11 14:37:00,18.8,afternoon,23.9,1.5,-0.04,"['short meme', 'fun fact', 'music clip']",0.22,0.66,True,583.6,0.92,I want to stop wasting time,reward
+U844,2025-06-11 06:12:00,36.6,morning,35.8,0.9,0.53,"['coding', 'tutorial', 'school hacks']",0.05,0.42,True,495.7,0.76,I want to focus on studying,guilt
+U845,2025-06-11 12:19:00,74.6,afternoon,29.1,1.1,-0.93,"['intimacy', 'jealousy', 'emotional']",0.21,0.65,False,391.3,0.68,I just want to relax a bit,dependency
+U846,2025-06-11 18:53:00,86.8,night,50.5,2.8,-0.63,"['life tips', 'quiet', 'minimalism']",0.22,0.4,True,349.6,0.62,I want to focus on studying,exhaustion
+U847,2025-06-11 04:42:00,18.9,late_night,46.4,0.8,0.24,"['breakup', 'relationship', 'talking stage']",0.27,0.73,False,253.5,0.7,I want to focus on studying,dependency
+U848,2025-06-11 22:10:00,37.3,night,58.4,2.1,0.92,"['deep talk', 'study with me', 'quiet']",0.12,0.25,False,447.5,0.69,I want to stay emotionally balanced,exhaustion
+U849,2025-06-11 12:22:00,18.1,afternoon,15.3,2.1,0.21,"['fast edit', 'fail', 'crazy moment']",0.2,0.45,False,334.7,0.94,I want to focus on studying,anxious
+U850,2025-06-11 22:21:00,86.6,night,38.9,1.5,-0.24,"['study with me', 'sunset', 'no drama']",0.22,0.66,False,480.3,0.79,I want to stop wasting time,exhaustion
+U851,2025-06-11 14:29:00,73.2,afternoon,23.7,0.9,-0.09,"['flirting', 'social circle', 'relationship']",0.29,0.4,True,299.1,0.84,I just want to relax a bit,dependency
+U852,2025-06-11 07:19:00,51.3,morning,34.5,0.8,0.77,"['texting drama', 'jealousy', 'longing']",0.26,0.39,False,202.5,0.87,I feel tired but want to learn something,dependency
+U853,2025-06-11 17:25:00,68.9,afternoon,39.5,2.9,-0.5,"['food review', 'music clip', 'cool trick']",0.27,0.54,True,475.5,0.71,I just want to relax a bit,reward
+U854,2025-06-11 01:20:00,72.3,late_night,30.7,0.5,-0.68,"['well-being', 'slow vlog', 'deep talk']",0.11,0.32,False,491.4,0.66,I want to stay emotionally balanced,exhaustion
+U855,2025-06-11 17:45:00,67.6,afternoon,44.7,0.7,0.17,"['academic', 'study vlog', 'school hacks']",0.11,0.79,False,236.9,0.81,I want to stay emotionally balanced,guilt
+U856,2025-06-11 23:54:00,67.1,night,40.9,0.8,-0.87,"['loneliness', 'self reflection', 'cooking calmly']",0.07,0.66,True,524.1,0.82,I feel tired but want to learn something,exhaustion
+U857,2025-06-11 01:17:00,67.4,late_night,10.5,2.9,0.93,"['homework', 'explanation', 'documentary']",0.29,0.2,True,293.8,0.81,I feel tired but want to learn something,guilt
+U858,2025-06-11 10:50:00,33.7,morning,21.7,3.0,0.75,"['conflict', 'fast edit', 'fail']",0.29,0.48,False,451.4,0.78,I feel tired but want to learn something,anxious
+U859,2025-06-11 00:17:00,24.6,late_night,28.7,1.2,0.58,"['longing', 'emotional', 'intimacy']",0.02,0.7,False,227.5,0.91,I just want to relax a bit,dependency
+U860,2025-06-11 06:35:00,39.1,morning,51.2,2.6,0.68,"['science', 'lecture', 'brain tips']",0.15,0.65,True,445.9,0.73,I want to stop wasting time,guilt
+U861,2025-06-11 03:24:00,90.0,late_night,58.5,0.8,0.63,"['relationship', 'romantic', 'flirting']",0.17,0.38,True,482.4,0.67,I just want to relax a bit,dependency
+U862,2025-06-11 07:32:00,36.7,morning,36.9,1.4,0.97,"['hack', 'nice edit', 'win moment']",0.2,0.59,True,542.0,0.9,I want to focus on studying,reward
+U863,2025-06-11 05:46:00,72.8,late_night,30.4,2.1,-0.23,"['science', 'exam tips', 'study']",0.19,0.34,True,400.8,0.89,I feel tired but want to learn something,guilt
+U864,2025-06-11 10:23:00,46.6,morning,34.1,2.2,0.72,"['productivity', 'academic', 'study vlog']",0.09,0.27,False,414.7,0.67,I just want to relax a bit,guilt
+U865,2025-06-11 08:06:00,53.0,morning,58.8,0.6,0.03,"['travel vlog', 'jokes', 'food review']",0.17,0.7,True,306.0,0.84,I want to stay emotionally balanced,reward
+U866,2025-06-11 18:19:00,86.1,night,49.7,0.6,0.49,"['mental health', 'minimalism', 'sunset']",0.07,0.45,False,419.9,0.85,I feel tired but want to learn something,exhaustion
+U867,2025-06-11 21:45:00,30.8,night,26.7,2.6,-0.79,"['journaling', 'loneliness', 'slow vlog']",0.09,0.77,True,563.0,0.82,I want to focus on studying,exhaustion
+U868,2025-06-11 14:55:00,50.0,afternoon,57.4,1.4,-0.2,"['journaling', 'low energy', 'cooking calmly']",0.02,0.36,False,547.8,0.93,I want to focus on studying,exhaustion
+U869,2025-06-11 01:16:00,23.6,late_night,33.2,2.1,-0.99,"['documentary', 'ai', 'lecture']",0.08,0.49,True,325.7,0.95,I want to focus on studying,guilt
+U870,2025-06-11 21:57:00,53.7,night,56.5,2.2,0.13,"['short meme', 'nice edit', 'gameplay']",0.08,0.32,True,226.2,0.84,I want to stop wasting time,reward
+U871,2025-06-11 22:56:00,80.2,night,29.3,2.2,0.69,"['jump scare', 'comedy', 'gossip']",0.23,0.27,True,397.5,0.62,I want to stop wasting time,anxious
+U872,2025-06-11 10:23:00,56.8,morning,20.9,2.6,-0.02,"['sleep aid', 'cooking calmly', 'low energy']",0.21,0.22,True,293.5,0.87,I feel tired but want to learn something,exhaustion
+U873,2025-06-11 20:56:00,54.3,night,47.0,0.9,-0.79,"['cute couple', 'toxic love', 'social circle']",0.23,0.44,True,527.9,0.68,I want to stay emotionally balanced,dependency
+U874,2025-06-11 06:49:00,32.1,morning,28.5,1.7,-0.21,"['explanation', 'note taking', 'academic']",0.16,0.47,False,458.2,0.79,I want to stay emotionally balanced,guilt
+U875,2025-06-11 05:48:00,21.9,late_night,18.7,2.9,-0.16,"['sports', 'travel vlog', 'hack']",0.02,0.43,True,396.8,0.83,I want to focus on studying,reward
+U876,2025-06-11 13:26:00,45.6,afternoon,38.5,2.3,0.34,"['academic', 'homework', 'study vlog']",0.1,0.52,False,437.9,0.74,I want to stop wasting time,guilt
+U877,2025-06-11 02:15:00,28.4,late_night,35.6,1.2,-0.43,"['online course', 'academic', 'brain tips']",0.04,0.35,False,264.2,0.88,I want to stay emotionally balanced,guilt
+U878,2025-06-11 14:53:00,86.1,afternoon,11.4,0.6,-0.87,"['documentary', 'ai', 'academic']",0.12,0.31,True,333.7,0.74,I just want to relax a bit,guilt
+U879,2025-06-11 02:29:00,42.6,late_night,50.3,1.2,-0.64,"['academic', 'documentary', 'how to']",0.15,0.27,True,209.6,0.83,I want to stay emotionally balanced,guilt
+U880,2025-06-11 09:51:00,26.7,morning,17.2,2.2,-0.52,"['productivity', 'science', 'explanation']",0.02,0.27,True,512.1,0.78,I want to focus on studying,guilt
+U881,2025-06-11 16:04:00,57.2,afternoon,45.9,2.0,0.48,"['jealousy', 'true story', 'affection']",0.04,0.42,False,539.6,0.92,I want to focus on studying,dependency
+U882,2025-06-11 06:11:00,20.6,morning,19.8,2.2,-0.8,"['homework', 'exam tips', 'tutorial']",0.28,0.2,False,302.6,0.6,I want to focus on studying,guilt
+U883,2025-06-11 18:13:00,68.3,night,47.3,2.1,-0.01,"['lifestyle', 'well-being', 'soft music']",0.12,0.51,False,581.4,0.91,I want to stop wasting time,exhaustion
+U884,2025-06-11 07:57:00,55.6,morning,34.0,1.7,0.07,"['talking stage', 'affection', 'longing']",0.29,0.65,False,542.8,0.87,I want to focus on studying,dependency
+U885,2025-06-11 18:57:00,81.1,night,28.8,2.7,0.62,"['academic', 'note taking', 'tutorial']",0.2,0.49,True,309.0,0.84,I want to stop wasting time,guilt
+U886,2025-06-11 14:59:00,81.7,afternoon,29.6,1.8,-0.55,"['no drama', 'sunset', 'minimalism']",0.01,0.57,False,337.0,0.77,I want to stop wasting time,exhaustion
+U887,2025-06-11 15:13:00,55.1,afternoon,14.5,3.0,0.48,"['coding', 'ai', 'exam tips']",0.14,0.54,True,316.6,0.61,I want to focus on studying,guilt
+U888,2025-06-11 22:30:00,44.8,night,18.9,1.8,-0.08,"['social circle', 'romantic', 'relationship']",0.04,0.49,False,439.4,0.82,I just want to relax a bit,dependency
+U889,2025-06-11 07:59:00,61.2,morning,56.7,1.8,0.32,"['jokes', 'cute animal', 'art process']",0.29,0.45,False,259.4,0.88,I want to stop wasting time,reward
+U890,2025-06-11 03:08:00,29.2,late_night,33.0,1.8,0.7,"['emotional', 'vulnerability', 'flirting']",0.11,0.48,False,487.8,0.85,I want to stay emotionally balanced,dependency
+U891,2025-06-11 10:03:00,73.6,morning,17.5,2.2,-0.15,"['soft music', 'deep talk', 'healing']",0.12,0.35,True,373.0,0.9,I just want to relax a bit,exhaustion
+U892,2025-06-11 02:13:00,30.8,late_night,41.7,1.1,0.93,"['funny', 'reaction', 'prank']",0.1,0.56,True,354.8,0.67,I want to stay emotionally balanced,anxious
+U893,2025-06-11 20:47:00,82.0,night,12.2,2.4,0.36,"['science', 'tutorial', 'note taking']",0.16,0.57,True,295.2,0.77,I just want to relax a bit,guilt
+U894,2025-06-11 10:54:00,28.4,morning,10.6,2.0,0.61,"['school hacks', 'ai', 'science']",0.12,0.34,True,418.3,0.66,I want to focus on studying,guilt
+U895,2025-06-11 04:44:00,35.6,late_night,55.1,1.6,0.32,"['explanation', 'study', 'academic']",0.09,0.31,True,359.4,0.7,I want to focus on studying,guilt
+U896,2025-06-11 07:40:00,26.5,morning,49.1,1.6,0.77,"['deep talk', 'lifestyle', 'sleep aid']",0.27,0.5,True,283.5,0.8,I want to focus on studying,exhaustion
+U897,2025-06-11 07:49:00,23.8,morning,14.2,2.3,-0.51,"['meme', 'prank', 'drama']",0.12,0.33,True,579.5,0.65,I want to focus on studying,anxious
+U898,2025-06-11 12:35:00,27.8,afternoon,32.9,0.6,-0.19,"['short meme', 'dancing', 'fun fact']",0.13,0.27,False,252.1,0.8,I want to focus on studying,reward
+U899,2025-06-11 11:02:00,50.2,morning,20.8,0.9,-0.11,"['trending', 'drama', 'crazy moment']",0.16,0.32,False,369.9,0.62,I want to stay emotionally balanced,anxious
+U900,2025-06-11 14:29:00,84.0,afternoon,58.9,2.7,0.95,"['sunset', 'well-being', 'soft music']",0.27,0.36,True,573.2,0.75,I want to stop wasting time,exhaustion
+U901,2025-06-11 01:55:00,24.1,late_night,11.6,2.7,0.86,"['vulnerability', 'intimacy', 'jealousy']",0.2,0.55,True,484.4,0.83,I just want to relax a bit,dependency
+U902,2025-06-11 00:23:00,18.9,late_night,33.2,1.5,-0.06,"['education', 'science', 'brain tips']",0.06,0.38,True,385.7,0.61,I want to focus on studying,guilt
+U903,2025-06-11 03:02:00,36.1,late_night,11.7,2.7,-0.7,"['sleep aid', 'life tips', 'quiet']",0.24,0.43,True,419.6,0.71,I want to stop wasting time,exhaustion
+U904,2025-06-11 08:25:00,73.9,morning,39.8,0.6,-0.45,"['art process', 'win moment', 'fun fact']",0.03,0.56,False,429.6,0.69,I want to focus on studying,reward
+U905,2025-06-11 01:56:00,34.9,late_night,32.5,2.7,-0.46,"['crush', 'longing', 'therapy']",0.25,0.29,True,212.5,0.94,I want to stop wasting time,dependency
+U906,2025-06-11 01:39:00,77.1,late_night,33.6,0.6,0.54,"['funny', 'prank', 'rant']",0.17,0.63,True,584.0,0.67,I just want to relax a bit,anxious
+U907,2025-06-11 11:28:00,52.4,morning,56.8,2.6,-0.81,"['cool trick', 'dancing', 'pet video']",0.16,0.25,False,348.4,0.71,I want to focus on studying,reward
+U908,2025-06-11 11:25:00,80.0,morning,32.3,2.0,-0.86,"['true story', 'romantic', 'flirting']",0.03,0.24,True,500.6,0.78,I want to focus on studying,dependency
+U909,2025-06-11 09:05:00,64.8,morning,39.1,2.2,-0.76,"['jump scare', 'funny', 'trending']",0.2,0.21,True,344.3,0.88,I feel tired but want to learn something,anxious
+U910,2025-06-11 20:52:00,14.9,night,46.9,0.9,0.19,"['dancing', 'pop song', 'asmr']",0.09,0.76,False,596.4,0.84,I want to stay emotionally balanced,reward
+U911,2025-06-11 13:44:00,54.8,afternoon,44.3,0.5,-0.74,"['study vlog', 'science', 'online course']",0.05,0.78,True,273.4,0.95,I want to focus on studying,guilt
+U912,2025-06-11 13:06:00,19.9,afternoon,55.2,1.7,0.23,"['travel vlog', 'short meme', 'dancing']",0.2,0.67,True,427.5,0.87,I want to stop wasting time,reward
+U913,2025-06-11 16:14:00,89.2,afternoon,25.0,1.8,-0.79,"['texting drama', 'emotional', 'breakup']",0.29,0.27,True,594.0,0.86,I want to stay emotionally balanced,dependency
+U914,2025-06-11 20:55:00,38.3,night,10.4,3.0,0.77,"['satisfying', 'gameplay', 'fun fact']",0.0,0.65,False,402.7,0.71,I feel tired but want to learn something,reward
+U915,2025-06-11 15:50:00,89.4,afternoon,48.8,1.7,0.51,"['minimalism', 'calm voice', 'well-being']",0.2,0.78,True,500.8,0.88,I feel tired but want to learn something,exhaustion
+U916,2025-06-11 20:53:00,84.1,night,25.7,2.0,0.32,"['drama', 'crazy moment', 'prank']",0.06,0.55,True,394.6,0.77,I want to stay emotionally balanced,anxious
+U917,2025-06-11 21:16:00,54.4,night,44.6,2.6,-0.07,"['jokes', 'cute animal', 'unboxing']",0.24,0.29,True,546.0,0.75,I want to stop wasting time,reward
+U918,2025-06-11 06:56:00,17.9,morning,23.6,1.9,0.14,"['calm voice', 'life tips', 'low energy']",0.21,0.69,True,593.5,0.86,I want to focus on studying,exhaustion
+U919,2025-06-11 20:15:00,13.2,night,25.5,1.3,-0.16,"['jokes', 'pet video', 'music clip']",0.26,0.75,False,480.0,0.72,I just want to relax a bit,reward
+U920,2025-06-11 15:46:00,64.0,afternoon,59.6,3.0,-0.01,"['lifestyle', 'mental health', 'cooking calmly']",0.01,0.31,True,583.9,0.91,I just want to relax a bit,exhaustion
+U921,2025-06-11 10:32:00,88.2,morning,28.0,2.6,-0.46,"['travel vlog', 'hack', 'nice edit']",0.23,0.79,False,514.1,0.66,I feel tired but want to learn something,reward
+U922,2025-06-11 11:42:00,44.6,morning,18.1,1.8,-0.36,"['true story', 'relationship', 'romantic']",0.16,0.62,True,557.9,0.84,I want to stop wasting time,dependency
+U923,2025-06-11 03:27:00,12.1,late_night,20.6,2.0,0.7,"['social circle', 'therapy', 'emotional']",0.12,0.7,True,503.2,0.91,I want to stay emotionally balanced,dependency
+U924,2025-06-11 05:36:00,16.4,late_night,31.4,2.3,0.51,"['cool trick', 'cute animal', 'unboxing']",0.19,0.38,True,512.3,0.88,I want to stay emotionally balanced,reward
+U925,2025-06-11 18:08:00,35.8,night,29.1,2.5,-0.76,"['social circle', 'emotional', 'toxic love']",0.07,0.63,True,493.4,0.93,I just want to relax a bit,dependency
+U926,2025-06-11 11:12:00,49.9,morning,24.2,0.6,0.05,"['slow vlog', 'life tips', 'loneliness']",0.17,0.52,False,274.6,0.75,I just want to relax a bit,exhaustion
+U927,2025-06-11 09:40:00,32.7,morning,28.4,2.4,-0.81,"['explanation', 'academic', 'brain tips']",0.21,0.26,True,329.5,0.65,I want to stay emotionally balanced,guilt
+U928,2025-06-11 18:48:00,63.6,night,42.4,1.9,0.92,"['funny', 'meme', 'surprise']",0.13,0.75,True,580.1,0.72,I want to stop wasting time,anxious
+U929,2025-06-11 08:29:00,26.8,morning,32.0,1.1,-0.6,"['win moment', 'cute animal', 'sports']",0.09,0.37,False,472.5,0.92,I feel tired but want to learn something,reward
+U930,2025-06-11 19:14:00,11.7,night,21.7,1.6,0.34,"['pop song', 'sports', 'music clip']",0.22,0.48,False,450.6,0.65,I feel tired but want to learn something,reward
+U931,2025-06-11 21:17:00,18.1,night,18.8,2.5,0.49,"['well-being', 'mental health', 'no drama']",0.05,0.48,False,591.0,0.67,I just want to relax a bit,exhaustion
+U932,2025-06-11 12:32:00,74.2,afternoon,27.1,1.6,-0.59,"['pet video', 'food review', 'music clip']",0.13,0.65,True,450.5,0.93,I feel tired but want to learn something,reward
+U933,2025-06-11 10:21:00,82.6,morning,38.3,1.7,-0.43,"['no drama', 'healing', 'lifestyle']",0.15,0.72,False,459.4,0.88,I want to stay emotionally balanced,exhaustion
+U934,2025-06-11 11:29:00,53.5,morning,54.6,1.9,-0.84,"['brain tips', 'school hacks', 'how to']",0.14,0.75,False,527.5,0.76,I want to stop wasting time,guilt
+U935,2025-06-11 04:49:00,68.8,late_night,17.0,2.7,0.59,"['parody', 'conflict', 'rant']",0.28,0.51,True,354.4,0.86,I want to stay emotionally balanced,anxious
+U936,2025-06-11 02:32:00,49.1,late_night,35.0,2.8,0.29,"['affection', 'relationship', 'toxic love']",0.14,0.32,False,256.9,0.79,I feel tired but want to learn something,dependency
+U937,2025-06-11 12:07:00,30.3,afternoon,26.6,1.8,-0.38,"['life tips', 'lifestyle', 'no drama']",0.15,0.21,True,366.6,0.63,I want to focus on studying,exhaustion
+U938,2025-06-11 00:48:00,63.2,late_night,52.0,2.3,-0.88,"['cool trick', 'cute animal', 'pop song']",0.3,0.61,False,250.6,0.62,I want to stay emotionally balanced,reward
+U939,2025-06-11 00:45:00,48.1,late_night,23.3,1.3,-0.09,"['loneliness', 'no drama', 'calm voice']",0.27,0.63,True,597.6,0.89,I want to focus on studying,exhaustion
+U940,2025-06-11 02:36:00,31.2,late_night,42.1,1.4,-0.78,"['exam tips', 'homework', 'note taking']",0.17,0.69,False,571.2,0.66,I want to stop wasting time,guilt
+U941,2025-06-11 07:53:00,32.8,morning,18.7,0.5,0.44,"['low energy', 'loneliness', 'slow vlog']",0.17,0.43,False,452.6,0.73,I want to stay emotionally balanced,exhaustion
+U942,2025-06-11 05:42:00,88.0,late_night,25.3,1.6,-0.81,"['well-being', 'cooking calmly', 'mental health']",0.03,0.63,False,476.5,0.71,I want to focus on studying,exhaustion
+U943,2025-06-11 20:46:00,38.9,night,37.1,1.0,-0.64,"['study with me', 'self reflection', 'slow vlog']",0.13,0.37,True,532.5,0.94,I feel tired but want to learn something,exhaustion
+U944,2025-06-11 17:41:00,82.4,afternoon,15.5,2.5,0.85,"['how to', 'school hacks', 'study']",0.24,0.21,True,595.5,0.74,I want to focus on studying,guilt
+U945,2025-06-11 13:08:00,19.2,afternoon,26.3,1.3,-0.16,"['romantic', 'crush', 'affection']",0.23,0.56,True,241.1,0.94,I feel tired but want to learn something,dependency
+U946,2025-06-11 01:56:00,53.1,late_night,53.7,1.7,-0.68,"['funny', 'jump scare', 'parody']",0.16,0.54,True,351.2,0.79,I just want to relax a bit,anxious
+U947,2025-06-11 02:12:00,32.9,late_night,57.9,2.8,0.34,"['low energy', 'study with me', 'mental health']",0.05,0.51,False,332.2,0.73,I just want to relax a bit,exhaustion
+U948,2025-06-11 21:19:00,38.5,night,48.8,1.0,-0.45,"['relationship', 'breakup', 'intimacy']",0.24,0.49,True,426.9,0.71,I want to stop wasting time,dependency
+U949,2025-06-11 15:30:00,87.1,afternoon,53.2,2.6,0.74,"['school hacks', 'brain tips', 'academic']",0.27,0.8,True,559.0,0.79,I just want to relax a bit,guilt
+U950,2025-06-11 00:09:00,83.6,late_night,41.1,1.7,0.31,"['science', 'focus', 'online course']",0.11,0.5,True,535.2,0.67,I just want to relax a bit,guilt
+U951,2025-06-11 09:19:00,44.7,morning,51.0,0.7,-0.83,"['relationship', 'talking stage', 'romantic']",0.06,0.22,True,585.0,0.78,I feel tired but want to learn something,dependency
+U952,2025-06-11 11:39:00,18.3,morning,30.5,1.2,0.84,"['funny', 'prank', 'jump scare']",0.22,0.44,False,366.0,0.64,I just want to relax a bit,anxious
+U953,2025-06-11 23:39:00,24.3,night,50.1,1.0,-0.51,"['intimacy', 'therapy', 'longing']",0.26,0.43,True,318.1,0.91,I want to stop wasting time,dependency
+U954,2025-06-11 02:19:00,33.2,late_night,17.3,1.1,0.38,"['minimalism', 'sleep aid', 'mental health']",0.26,0.68,True,373.3,0.91,I want to focus on studying,exhaustion
+U955,2025-06-11 12:26:00,30.4,afternoon,12.5,2.8,0.64,"['brain tips', 'school hacks', 'science']",0.12,0.73,False,452.2,0.84,I feel tired but want to learn something,guilt
+U956,2025-06-11 00:55:00,49.7,late_night,32.7,3.0,0.14,"['crush', 'texting drama', 'breakup']",0.05,0.62,True,416.6,0.75,I want to focus on studying,dependency
+U957,2025-06-11 10:48:00,25.6,morning,28.1,1.8,0.18,"['dancing', 'pop song', 'asmr']",0.21,0.71,True,558.8,0.79,I want to focus on studying,reward
+U958,2025-06-11 00:18:00,31.2,late_night,29.2,2.5,0.35,"['sports', 'win moment', 'travel vlog']",0.28,0.43,True,586.7,0.68,I just want to relax a bit,reward
+U959,2025-06-11 09:51:00,24.1,morning,23.1,1.8,-0.81,"['win moment', 'pet video', 'short meme']",0.19,0.26,True,569.1,0.65,I just want to relax a bit,reward
+U960,2025-06-11 07:25:00,34.4,morning,39.1,1.8,-0.62,"['flirting', 'confession', 'affection']",0.25,0.52,True,532.6,0.92,I just want to relax a bit,dependency
+U961,2025-06-11 09:45:00,16.9,morning,55.5,1.8,0.54,"['note taking', 'brain tips', 'focus']",0.12,0.41,False,433.4,0.7,I want to stop wasting time,guilt
+U962,2025-06-11 14:27:00,43.8,afternoon,40.9,1.0,0.94,"['chaos', 'meme', 'jump scare']",0.16,0.21,False,279.2,0.9,I want to focus on studying,anxious
+U963,2025-06-11 06:29:00,38.9,morning,12.5,2.8,0.09,"['academic', 'homework', 'study']",0.23,0.56,False,395.2,0.8,I want to stay emotionally balanced,guilt
+U964,2025-06-11 21:48:00,51.7,night,53.5,1.3,-0.82,"['asmr', 'win moment', 'cool trick']",0.13,0.39,False,365.1,0.88,I just want to relax a bit,reward
+U965,2025-06-11 19:12:00,52.3,night,30.7,1.0,-0.53,"['meme', 'trending', 'crazy moment']",0.03,0.65,True,393.4,0.94,I want to stop wasting time,anxious
+U966,2025-06-11 10:06:00,55.0,morning,25.7,0.9,-0.11,"['brain tips', 'homework', 'education']",0.03,0.39,False,356.3,0.94,I want to stop wasting time,guilt
+U967,2025-06-11 01:58:00,43.1,late_night,54.2,1.1,-0.38,"['trending', 'jump scare', 'prank']",0.27,0.78,False,476.4,0.91,I want to stay emotionally balanced,anxious
+U968,2025-06-11 10:55:00,50.4,morning,19.7,2.9,-0.4,"['coding', 'explanation', 'study']",0.16,0.44,False,573.1,0.86,I want to stay emotionally balanced,guilt
+U969,2025-06-11 02:09:00,81.6,late_night,43.5,2.2,-0.03,"['jump scare', 'chaos', 'trending']",0.02,0.65,True,510.9,0.61,I want to focus on studying,anxious
+U970,2025-06-11 00:03:00,60.2,late_night,27.4,1.3,-0.37,"['focus', 'science', 'study']",0.08,0.35,True,362.1,0.65,I want to focus on studying,guilt
+U971,2025-06-11 16:57:00,69.9,afternoon,14.1,1.8,0.64,"['ai', 'explanation', 'school hacks']",0.14,0.68,True,434.2,0.66,I feel tired but want to learn something,guilt
+U972,2025-06-11 00:13:00,77.1,late_night,14.3,2.3,0.8,"['minimalism', 'slow vlog', 'journaling']",0.29,0.54,False,445.7,0.89,I want to stay emotionally balanced,exhaustion
+U973,2025-06-11 01:10:00,14.3,late_night,16.2,1.3,-0.51,"['journaling', 'well-being', 'sunset']",0.26,0.72,True,411.1,0.87,I feel tired but want to learn something,exhaustion
+U974,2025-06-11 00:23:00,30.9,late_night,19.4,1.1,0.71,"['academic', 'homework', 'online course']",0.27,0.68,True,386.8,0.77,I want to stop wasting time,guilt
+U975,2025-06-11 18:35:00,79.1,night,17.9,1.9,0.89,"['therapy', 'romantic', 'relationship']",0.13,0.71,False,338.3,0.78,I want to focus on studying,dependency
+U976,2025-06-11 04:06:00,13.8,late_night,17.9,2.2,0.75,"['brain tips', 'science', 'note taking']",0.2,0.42,False,432.0,0.61,I want to stop wasting time,guilt
+U977,2025-06-11 06:03:00,72.0,morning,21.8,0.8,0.3,"['romantic', 'intimacy', 'social circle']",0.03,0.52,False,367.4,0.85,I want to focus on studying,dependency
+U978,2025-06-11 00:26:00,80.8,late_night,15.2,1.6,-1.0,"['short meme', 'food review', 'pop song']",0.19,0.77,True,236.7,0.89,I feel tired but want to learn something,reward
+U979,2025-06-11 20:38:00,57.3,night,18.6,1.4,0.84,"['art process', 'asmr', 'cool trick']",0.07,0.39,False,409.0,0.8,I feel tired but want to learn something,reward
+U980,2025-06-11 17:34:00,23.2,afternoon,22.1,2.2,0.17,"['science', 'homework', 'ai']",0.15,0.58,False,288.9,0.63,I want to stop wasting time,guilt
+U981,2025-06-11 05:03:00,70.3,late_night,43.7,2.9,-0.45,"['pet video', 'hack', 'cute animal']",0.2,0.35,True,282.7,0.76,I just want to relax a bit,reward
+U982,2025-06-11 07:28:00,77.0,morning,42.3,1.7,-0.76,"['fast edit', 'fail', 'parody']",0.21,0.26,True,392.9,0.72,I feel tired but want to learn something,anxious
+U983,2025-06-11 00:14:00,78.6,late_night,59.6,0.8,-0.24,"['talking stage', 'texting drama', 'true story']",0.1,0.71,False,396.9,0.64,I want to stay emotionally balanced,dependency
+U984,2025-06-11 19:34:00,51.2,night,57.7,1.9,-0.35,"['funny', 'rant', 'fast edit']",0.28,0.75,True,238.8,0.61,I want to stay emotionally balanced,anxious
+U985,2025-06-11 14:58:00,85.4,afternoon,43.0,1.9,0.54,"['jealousy', 'crush', 'romantic']",0.15,0.52,False,432.9,0.73,I just want to relax a bit,dependency
+U986,2025-06-11 06:59:00,27.3,morning,11.4,2.1,0.1,"['documentary', 'brain tips', 'how to']",0.12,0.51,True,361.8,0.79,I want to stay emotionally balanced,guilt
+U987,2025-06-11 02:37:00,45.8,late_night,51.6,2.9,-0.74,"['fast edit', 'gossip', 'rant']",0.08,0.8,False,367.6,0.76,I want to stop wasting time,anxious
+U988,2025-06-11 01:23:00,58.2,late_night,31.6,0.9,0.45,"['cute couple', 'affection', 'romantic']",0.21,0.62,False,242.5,0.88,I just want to relax a bit,dependency
+U989,2025-06-11 11:13:00,68.1,morning,34.5,1.4,0.3,"['flirting', 'social circle', 'talking stage']",0.1,0.72,False,545.1,0.69,I feel tired but want to learn something,dependency
+U990,2025-06-11 11:08:00,20.3,morning,23.3,0.6,-0.49,"['jealousy', 'texting drama', 'relationship']",0.09,0.79,False,559.4,0.69,I want to focus on studying,dependency
+U991,2025-06-11 18:20:00,26.1,night,42.8,2.2,0.53,"['fun fact', 'cute animal', 'satisfying']",0.19,0.6,True,337.0,0.65,I want to stay emotionally balanced,reward
+U992,2025-06-11 21:59:00,76.7,night,24.6,2.5,-0.4,"['vulnerability', 'true story', 'jealousy']",0.05,0.38,True,406.4,0.62,I want to stay emotionally balanced,dependency
+U993,2025-06-11 02:32:00,34.5,late_night,53.2,2.7,-0.06,"['short meme', 'music clip', 'cute animal']",0.05,0.51,False,394.2,0.62,I want to stay emotionally balanced,reward
+U994,2025-06-11 03:39:00,14.1,late_night,11.0,2.3,-0.93,"['no drama', 'life tips', 'study with me']",0.24,0.77,False,366.2,0.62,I want to stay emotionally balanced,exhaustion
+U995,2025-06-11 16:14:00,40.4,afternoon,36.9,1.3,-0.42,"['asmr', 'dancing', 'cute animal']",0.15,0.7,True,521.8,0.62,I feel tired but want to learn something,reward
+U996,2025-06-11 09:21:00,80.7,morning,34.0,0.8,0.42,"['academic', 'note taking', 'education']",0.2,0.46,True,397.6,0.72,I want to focus on studying,guilt
+U997,2025-06-11 07:10:00,58.5,morning,36.2,2.2,0.83,"['music clip', 'dancing', 'satisfying']",0.28,0.61,True,499.5,0.91,I feel tired but want to learn something,reward
+U998,2025-06-11 16:05:00,11.5,afternoon,11.1,0.8,0.12,"['short meme', 'nice edit', 'asmr']",0.2,0.3,False,465.2,0.88,I just want to relax a bit,reward
+U999,2025-06-11 22:25:00,28.7,night,59.0,1.9,0.95,"['nice edit', 'pet video', 'cute animal']",0.02,0.72,False,274.4,0.69,I want to focus on studying,reward

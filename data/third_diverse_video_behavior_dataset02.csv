@@ -1,0 +1,1001 @@
+user_id,session_start_time,session_duration_min,active_period_label,avg_video_duration_sec,switch_frequency,content_emotion_score,content_type_keywords,repeated_viewing_ratio,skipped_intro_ratio,saved_to_favorites,3_day_total_watch_time,short_video_ratio,self_reported_goal,psych_state_label
+U_THIRD000,2025-06-13 22:04:00,61.0,night,70.7,0.6,-0.64,"['wifi need', 'routine doom', 'endless scroll']",0.4,0.32,False,561.3,0.97,I want to reduce my reliance on content,dependency
+U_THIRD001,2025-06-13 07:15:00,58.9,morning,49.9,3.2,0.31,"['scary fact', 'danger trend', 'breaking alert']",0.14,0.27,False,258.6,0.65,I feel overwhelmed by bad content,anxious
+U_THIRD002,2025-06-13 06:38:00,94.4,morning,67.3,2.9,-0.46,"['loss highlight', 'could’ve done better', 'missed opportunity']",0.12,0.26,True,177.9,0.68,I hope to make better choices,guilt
+U_THIRD003,2025-06-13 22:34:00,76.9,night,34.9,1.2,0.5,"['finally success', 'motivation win', 'goal achieved']",0.21,0.34,False,462.3,0.89,I deserve to celebrate,reward
+U_THIRD004,2025-06-13 09:22:00,84.8,morning,62.9,3.0,0.75,"['routine doom', 'endless scroll', 'loop habit']",0.13,0.34,True,439.6,0.87,I want to gain control of my scrolling,dependency
+U_THIRD005,2025-06-13 12:38:00,70.3,afternoon,45.4,0.8,-0.54,"['crash reel', 'overstim edit', 'overload speech']",0.25,0.58,True,508.3,0.52,I need more mental rest,exhaustion
+U_THIRD006,2025-06-13 20:23:00,36.5,night,66.9,0.7,0.71,"['check phone', 'routine doom', 'habitual checking']",0.16,0.82,False,550.2,0.53,I want to gain control of my scrolling,dependency
+U_THIRD007,2025-06-13 19:49:00,53.7,night,20.6,2.2,-0.04,"['scary fact', 'stressful scene', 'danger trend']",0.32,0.36,True,376.8,0.8,I want to slow down my mind,anxious
+U_THIRD008,2025-06-13 10:15:00,76.4,morning,74.8,3.3,-0.56,"['responsibility talk', 'regret stories', 'disappointing moment']",0.38,0.41,True,308.6,0.91,I want to turn regret into action,guilt
+U_THIRD009,2025-06-13 08:53:00,15.3,morning,48.5,0.6,-0.87,"['paranoia news', 'emergency warning', 'danger trend']",0.34,0.17,False,489.5,0.7,I want to slow down my mind,anxious
+U_THIRD010,2025-06-13 22:23:00,80.9,night,12.2,2.3,0.67,"[""can't stop watching"", 'loop habit', 'FOMO wave']",0.13,0.62,False,740.1,0.74,I want to gain control of my scrolling,dependency
+U_THIRD011,2025-06-13 21:50:00,83.9,night,36.7,0.6,-0.72,"['check phone', 'endless scroll', 'FOMO wave']",0.36,0.79,False,239.1,0.6,I want to gain control of my scrolling,dependency
+U_THIRD012,2025-06-13 17:22:00,59.5,afternoon,36.5,3.7,0.36,"['scary fact', 'paranoia news', 'breaking alert']",0.1,0.64,False,628.7,0.72,I want to slow down my mind,anxious
+U_THIRD013,2025-06-13 13:43:00,60.6,afternoon,65.9,1.7,-0.21,"['disappointing moment', 'regret stories', 'bad ending']",0.07,0.86,True,682.9,0.81,I want to turn regret into action,guilt
+U_THIRD014,2025-06-13 16:51:00,20.8,afternoon,60.8,1.7,-0.65,"['routine doom', 'loop habit', 'wifi need']",0.19,0.57,False,506.6,0.61,I want to reduce my reliance on content,dependency
+U_THIRD015,2025-06-13 14:24:00,75.4,afternoon,17.1,2.1,0.07,"['work burnout', 'sleep vlog', 'fatigue diary']",0.03,0.54,False,189.0,0.87,I need more mental rest,exhaustion
+U_THIRD016,2025-06-13 00:44:00,87.4,late_night,35.8,1.6,-0.97,"['wifi need', 'autoplay trap', 'FOMO wave']",0.26,0.8,True,462.4,0.82,I want to reduce my reliance on content,dependency
+U_THIRD017,2025-06-13 07:13:00,82.9,morning,74.2,0.4,-0.34,"['sleep vlog', 'crash reel', 'work burnout']",0.09,0.69,False,350.3,0.94,I feel drained and need space,exhaustion
+U_THIRD018,2025-06-13 02:51:00,99.4,late_night,12.9,3.6,-0.16,"['emergency warning', 'fear trigger', 'stressful scene']",0.08,0.75,True,359.1,0.67,I feel overwhelmed by bad content,anxious
+U_THIRD019,2025-06-13 19:17:00,20.7,night,23.5,2.8,-0.7,"['happy scream', 'goal achieved', 'proud moment']",0.06,0.43,False,500.2,0.57,I want to reward myself with positivity,reward
+U_THIRD020,2025-06-13 11:49:00,76.0,morning,67.9,1.4,0.82,"['stressful scene', 'emergency warning', 'paranoia news']",0.18,0.89,True,405.0,0.77,I want to slow down my mind,anxious
+U_THIRD021,2025-06-13 03:29:00,15.6,late_night,6.0,0.9,0.04,"['feel good story', 'goal achieved', 'reward day']",0.34,0.39,True,313.9,0.9,I deserve to celebrate,reward
+U_THIRD022,2025-06-13 16:31:00,67.7,afternoon,72.1,3.2,-0.21,"['bad ending', 'embarrassing fail', 'disappointing moment']",0.08,0.35,True,597.6,0.88,I want to turn regret into action,guilt
+U_THIRD023,2025-06-13 02:35:00,77.4,late_night,21.1,0.7,0.26,"['celebration edit', 'happy scream', 'reward day']",0.15,0.38,False,429.7,0.83,I deserve to celebrate,reward
+U_THIRD024,2025-06-13 05:16:00,45.1,late_night,22.9,1.9,0.56,"['check phone', 'routine doom', 'habitual checking']",0.19,0.15,True,726.7,0.65,I want to reduce my reliance on content,dependency
+U_THIRD025,2025-06-13 22:35:00,56.0,night,60.8,0.7,0.57,"['crash reel', 'sleep vlog', 'overload speech']",0.36,0.72,False,563.8,0.68,I feel drained and need space,exhaustion
+U_THIRD026,2025-06-13 01:43:00,48.2,late_night,51.4,0.5,0.24,"['sleep vlog', 'overstim edit', 'work burnout']",0.36,0.5,False,223.1,0.9,I need more mental rest,exhaustion
+U_THIRD027,2025-06-13 07:12:00,9.5,morning,18.9,2.2,-0.45,"['missed opportunity', 'loss highlight', 'bad ending']",0.32,0.39,False,658.3,0.89,I want to turn regret into action,guilt
+U_THIRD028,2025-06-13 15:51:00,95.2,afternoon,11.6,2.0,-0.56,"['loss highlight', 'could’ve done better', 'responsibility talk']",0.01,0.83,True,200.3,0.61,I hope to make better choices,guilt
+U_THIRD029,2025-06-13 02:52:00,19.2,late_night,5.1,0.9,-0.38,"['paranoia news', 'horror edit', 'dark theory']",0.1,0.76,False,336.0,0.86,I want to slow down my mind,anxious
+U_THIRD030,2025-06-13 20:34:00,74.2,night,63.1,2.5,-0.3,"['thankful post', 'celebration edit', 'happy scream']",0.3,0.8,True,504.0,0.88,I deserve to celebrate,reward
+U_THIRD031,2025-06-13 08:38:00,36.9,morning,65.0,3.4,0.81,"['daily addiction', 'check phone', 'routine doom']",0.32,0.63,True,206.1,0.55,I want to gain control of my scrolling,dependency
+U_THIRD032,2025-06-13 05:26:00,13.9,late_night,11.8,2.5,-0.67,"['fear trigger', 'paranoia news', 'crisis footage']",0.05,0.28,False,633.1,0.9,I feel overwhelmed by bad content,anxious
+U_THIRD033,2025-06-13 06:35:00,49.2,morning,26.9,2.9,0.07,"['napping cat', 'work burnout', 'overstim edit']",0.24,0.57,False,713.5,0.62,I need more mental rest,exhaustion
+U_THIRD034,2025-06-13 23:58:00,99.5,night,15.8,1.4,-0.54,"['habitual checking', 'daily addiction', 'routine doom']",0.24,0.66,True,719.3,0.56,I want to reduce my reliance on content,dependency
+U_THIRD035,2025-06-13 13:49:00,69.8,afternoon,60.8,3.5,-0.64,"['danger trend', 'stressful scene', 'scary fact']",0.37,0.56,False,357.4,0.56,I feel overwhelmed by bad content,anxious
+U_THIRD036,2025-06-13 11:08:00,41.2,morning,18.8,1.3,-0.56,"['finally success', 'happy scream', 'feel good story']",0.36,0.57,False,742.8,0.76,I deserve to celebrate,reward
+U_THIRD037,2025-06-13 19:44:00,78.2,night,55.7,2.7,-0.14,"['embarrassing fail', 'loss highlight', 'responsibility talk']",0.12,0.5,False,392.5,0.64,I hope to make better choices,guilt
+U_THIRD038,2025-06-13 03:10:00,20.9,late_night,24.3,0.6,-0.65,"['could’ve done better', 'disappointing moment', 'shame reel']",0.1,0.33,True,664.1,0.63,I hope to make better choices,guilt
+U_THIRD039,2025-06-13 02:21:00,13.3,late_night,74.2,2.9,-0.8,"['routine doom', 'FOMO wave', 'daily addiction']",0.15,0.5,True,580.7,0.72,I want to gain control of my scrolling,dependency
+U_THIRD040,2025-06-13 22:58:00,11.2,night,47.6,2.7,-0.22,"['loop habit', 'routine doom', 'daily addiction']",0.21,0.52,False,212.5,0.78,I want to reduce my reliance on content,dependency
+U_THIRD041,2025-06-13 07:56:00,10.6,morning,71.8,0.5,-0.61,"['FOMO wave', 'habitual checking', 'daily addiction']",0.03,0.29,False,272.9,0.77,I want to reduce my reliance on content,dependency
+U_THIRD042,2025-06-13 20:31:00,92.5,night,54.2,2.2,-0.7,"['finally success', 'goal achieved', 'thankful post']",0.14,0.67,True,259.4,0.96,I want to reward myself with positivity,reward
+U_THIRD043,2025-06-13 03:51:00,53.7,late_night,5.1,1.0,0.37,"['overstim edit', 'fatigue diary', 'overload speech']",0.12,0.72,True,283.7,0.51,I need more mental rest,exhaustion
+U_THIRD044,2025-06-13 17:15:00,25.0,afternoon,43.5,3.2,-0.85,"['habitual checking', 'wifi need', 'autoplay trap']",0.27,0.59,False,429.0,0.75,I want to gain control of my scrolling,dependency
+U_THIRD045,2025-06-13 05:56:00,35.4,late_night,17.7,1.4,-0.97,"['wifi need', 'check phone', 'FOMO wave']",0.31,0.86,True,647.6,0.95,I want to reduce my reliance on content,dependency
+U_THIRD046,2025-06-13 06:00:00,67.8,morning,53.8,2.2,0.11,"['habitual checking', 'routine doom', ""can't stop watching""]",0.34,0.51,True,329.1,0.93,I want to reduce my reliance on content,dependency
+U_THIRD047,2025-06-13 19:30:00,39.0,night,72.2,2.2,-0.55,"['scary fact', 'emergency warning', 'dark theory']",0.26,0.87,True,304.8,0.6,I want to slow down my mind,anxious
+U_THIRD048,2025-06-13 00:31:00,17.7,late_night,34.2,0.5,-0.49,"['FOMO wave', 'loop habit', ""can't stop watching""]",0.29,0.84,True,433.8,0.55,I want to reduce my reliance on content,dependency
+U_THIRD049,2025-06-13 14:43:00,21.7,afternoon,5.7,1.4,-0.86,"['crash reel', 'work burnout', 'zoning out']",0.11,0.89,True,310.2,0.82,I need more mental rest,exhaustion
+U_THIRD050,2025-06-13 20:25:00,62.7,night,33.0,2.1,-0.31,"['habitual checking', 'routine doom', 'endless scroll']",0.17,0.38,True,406.4,0.6,I want to reduce my reliance on content,dependency
+U_THIRD051,2025-06-13 22:05:00,43.9,night,29.0,2.7,-0.2,"['fear trigger', 'dark theory', 'scary fact']",0.12,0.85,True,489.5,0.9,I feel overwhelmed by bad content,anxious
+U_THIRD052,2025-06-13 11:54:00,36.5,morning,9.7,1.2,0.46,"['habitual checking', 'endless scroll', 'daily addiction']",0.27,0.6,False,213.1,0.9,I want to gain control of my scrolling,dependency
+U_THIRD053,2025-06-13 12:06:00,56.5,afternoon,19.6,2.7,-0.28,"['disappointing moment', 'responsibility talk', 'embarrassing fail']",0.17,0.19,True,554.6,0.92,I want to turn regret into action,guilt
+U_THIRD054,2025-06-13 04:27:00,51.2,late_night,34.2,2.4,0.11,"['embarrassing fail', 'bad ending', 'disappointing moment']",0.07,0.29,True,591.2,0.81,I want to turn regret into action,guilt
+U_THIRD055,2025-06-13 18:21:00,37.7,night,67.6,1.5,-0.6,"['danger trend', 'horror edit', 'dark theory']",0.18,0.24,True,710.6,0.97,I want to slow down my mind,anxious
+U_THIRD056,2025-06-13 21:00:00,60.1,night,44.9,3.2,-0.98,"['motivation win', 'feel good story', 'proud moment']",0.13,0.64,False,608.9,0.91,I want to reward myself with positivity,reward
+U_THIRD057,2025-06-13 15:13:00,28.1,afternoon,68.5,2.5,0.94,"['reward day', 'motivation win', 'goal achieved']",0.09,0.87,False,328.7,0.84,I want to reward myself with positivity,reward
+U_THIRD058,2025-06-13 11:07:00,31.2,morning,10.2,1.6,0.49,"['zoning out', 'work burnout', 'sleep vlog']",0.18,0.61,False,504.4,0.98,I feel drained and need space,exhaustion
+U_THIRD059,2025-06-13 02:14:00,8.8,late_night,48.3,2.5,-0.52,"['napping cat', 'overstim edit', 'overload speech']",0.26,0.67,False,557.6,0.64,I need more mental rest,exhaustion
+U_THIRD060,2025-06-13 04:15:00,60.0,late_night,69.9,1.8,0.35,"['stressful scene', 'fear trigger', 'scary fact']",0.17,0.69,False,687.0,0.83,I want to slow down my mind,anxious
+U_THIRD061,2025-06-13 19:07:00,34.5,night,70.2,1.1,0.06,"['endless scroll', 'autoplay trap', 'routine doom']",0.2,0.27,True,597.3,0.89,I want to gain control of my scrolling,dependency
+U_THIRD062,2025-06-13 17:06:00,33.1,afternoon,22.8,2.0,0.91,"['loop habit', 'FOMO wave', 'endless scroll']",0.15,0.46,False,643.4,0.84,I want to gain control of my scrolling,dependency
+U_THIRD063,2025-06-13 00:35:00,50.6,late_night,13.2,3.8,-0.96,"['routine doom', ""can't stop watching"", 'check phone']",0.2,0.79,False,660.8,0.56,I want to gain control of my scrolling,dependency
+U_THIRD064,2025-06-13 16:21:00,29.9,afternoon,74.6,0.5,0.49,"['horror edit', 'crisis footage', 'emergency warning']",0.13,0.86,True,282.8,0.52,I feel overwhelmed by bad content,anxious
+U_THIRD065,2025-06-13 20:23:00,80.5,night,34.4,2.7,-0.21,"['FOMO wave', 'loop habit', 'wifi need']",0.07,0.6,False,341.5,0.86,I want to gain control of my scrolling,dependency
+U_THIRD066,2025-06-13 07:25:00,74.3,morning,44.1,1.4,-0.18,"['horror edit', 'stressful scene', 'crisis footage']",0.06,0.16,True,271.5,0.73,I want to slow down my mind,anxious
+U_THIRD067,2025-06-13 17:37:00,66.0,afternoon,26.6,2.5,0.68,"['paranoia news', 'danger trend', 'emergency warning']",0.19,0.23,False,273.5,0.79,I feel overwhelmed by bad content,anxious
+U_THIRD068,2025-06-13 10:46:00,21.4,morning,36.8,3.6,-0.4,"['FOMO wave', 'loop habit', ""can't stop watching""]",0.33,0.25,True,626.1,0.98,I want to reduce my reliance on content,dependency
+U_THIRD069,2025-06-13 06:22:00,45.2,morning,44.8,3.0,0.08,"['overload speech', 'eye strain', 'work burnout']",0.23,0.77,False,278.4,0.95,I feel drained and need space,exhaustion
+U_THIRD070,2025-06-13 07:04:00,69.9,morning,58.8,0.7,0.58,"['zoning out', 'overload speech', 'work burnout']",0.09,0.37,True,238.5,0.58,I feel drained and need space,exhaustion
+U_THIRD071,2025-06-13 23:59:00,29.5,night,30.6,3.5,-0.32,"['paranoia news', 'dark theory', 'emergency warning']",0.16,0.42,True,543.7,0.52,I feel overwhelmed by bad content,anxious
+U_THIRD072,2025-06-13 14:12:00,17.3,afternoon,70.8,2.5,-0.48,"['goal achieved', 'proud moment', 'thankful post']",0.07,0.74,True,738.2,0.81,I want to reward myself with positivity,reward
+U_THIRD073,2025-06-13 13:07:00,71.0,afternoon,23.9,1.4,-1.0,"['guilt meme', 'embarrassing fail', 'shame reel']",0.39,0.46,True,214.0,0.78,I hope to make better choices,guilt
+U_THIRD074,2025-06-13 15:17:00,14.9,afternoon,70.2,3.4,0.31,"['endless scroll', 'habitual checking', 'check phone']",0.25,0.42,False,429.9,0.72,I want to reduce my reliance on content,dependency
+U_THIRD075,2025-06-13 20:55:00,84.4,night,31.8,2.7,-0.03,"['goal achieved', 'motivation win', 'feel good story']",0.0,0.82,True,504.1,0.68,I want to reward myself with positivity,reward
+U_THIRD076,2025-06-13 23:36:00,87.0,night,28.5,0.6,1.0,"['stressful scene', 'scary fact', 'emergency warning']",0.39,0.68,True,255.0,0.77,I want to slow down my mind,anxious
+U_THIRD077,2025-06-13 17:44:00,32.9,afternoon,69.6,1.7,-0.14,"['feel good story', 'goal achieved', 'reward day']",0.34,0.85,False,457.3,0.56,I want to reward myself with positivity,reward
+U_THIRD078,2025-06-13 00:59:00,85.0,late_night,57.7,1.5,0.53,"['regret stories', 'loss highlight', 'disappointing moment']",0.31,0.7,True,610.3,0.92,I hope to make better choices,guilt
+U_THIRD079,2025-06-13 20:26:00,52.2,night,44.7,2.9,0.11,"['embarrassing fail', 'regret stories', 'guilt meme']",0.14,0.46,True,263.6,0.83,I hope to make better choices,guilt
+U_THIRD080,2025-06-13 05:12:00,96.1,late_night,5.1,3.0,0.76,"['disappointing moment', 'bad ending', 'guilt meme']",0.1,0.63,True,469.7,0.84,I hope to make better choices,guilt
+U_THIRD081,2025-06-13 14:50:00,11.5,afternoon,64.7,1.4,0.09,"['dark theory', 'emergency warning', 'stressful scene']",0.29,0.21,True,373.3,0.52,I feel overwhelmed by bad content,anxious
+U_THIRD082,2025-06-13 18:35:00,87.1,night,68.3,3.3,-0.18,"['endless scroll', 'FOMO wave', 'habitual checking']",0.33,0.35,False,736.2,0.87,I want to gain control of my scrolling,dependency
+U_THIRD083,2025-06-13 21:02:00,55.3,night,51.4,2.5,0.72,"['happy scream', 'motivation win', 'celebration edit']",0.12,0.72,False,260.3,0.85,I deserve to celebrate,reward
+U_THIRD084,2025-06-13 05:28:00,14.4,late_night,48.1,2.5,0.18,"['routine doom', 'FOMO wave', 'loop habit']",0.19,0.64,True,169.4,0.71,I want to gain control of my scrolling,dependency
+U_THIRD085,2025-06-13 15:57:00,36.1,afternoon,10.8,3.7,-0.87,"['bad ending', 'disappointing moment', 'embarrassing fail']",0.0,0.46,True,279.0,0.87,I hope to make better choices,guilt
+U_THIRD086,2025-06-13 05:06:00,89.7,late_night,13.1,0.7,-0.58,"['finally success', 'feel good story', 'motivation win']",0.2,0.79,False,368.7,0.64,I want to reward myself with positivity,reward
+U_THIRD087,2025-06-13 02:11:00,98.3,late_night,26.3,1.4,0.42,"['horror edit', 'paranoia news', 'breaking alert']",0.21,0.29,False,188.4,0.69,I want to slow down my mind,anxious
+U_THIRD088,2025-06-13 16:33:00,90.3,afternoon,35.3,1.9,-0.11,"['feel good story', 'finally success', 'goal achieved']",0.32,0.66,True,226.8,0.59,I want to reward myself with positivity,reward
+U_THIRD089,2025-06-13 07:47:00,76.9,morning,47.3,1.7,0.79,"['wifi need', 'endless scroll', 'daily addiction']",0.03,0.43,False,182.2,0.7,I want to gain control of my scrolling,dependency
+U_THIRD090,2025-06-13 16:02:00,73.9,afternoon,63.4,2.8,0.68,"['celebration edit', 'goal achieved', 'finally success']",0.06,0.19,False,214.3,0.75,I want to reward myself with positivity,reward
+U_THIRD091,2025-06-13 01:29:00,38.1,late_night,54.7,1.3,0.62,"['heavy brain', 'overstim edit', 'sleep vlog']",0.14,0.26,True,299.2,0.55,I feel drained and need space,exhaustion
+U_THIRD092,2025-06-13 03:33:00,34.4,late_night,18.8,0.5,-0.73,"['wifi need', 'habitual checking', 'daily addiction']",0.39,0.76,False,239.6,0.52,I want to reduce my reliance on content,dependency
+U_THIRD093,2025-06-13 02:35:00,94.0,late_night,15.6,0.9,-0.13,"['responsibility talk', 'regret stories', 'embarrassing fail']",0.0,0.75,False,440.1,0.81,I want to turn regret into action,guilt
+U_THIRD094,2025-06-13 21:29:00,71.0,night,23.5,2.5,0.99,"['work burnout', 'zoning out', 'overstim edit']",0.05,0.37,False,747.4,0.54,I need more mental rest,exhaustion
+U_THIRD095,2025-06-13 22:53:00,59.9,night,13.5,2.2,-0.46,"['could’ve done better', 'missed opportunity', 'loss highlight']",0.1,0.23,True,448.4,0.78,I hope to make better choices,guilt
+U_THIRD096,2025-06-13 03:04:00,54.6,late_night,67.2,1.6,-0.21,"['goal achieved', 'fun time', 'reward day']",0.12,0.7,False,663.0,0.93,I want to reward myself with positivity,reward
+U_THIRD097,2025-06-13 22:41:00,49.7,night,30.8,0.8,-0.34,"['habitual checking', 'FOMO wave', 'endless scroll']",0.35,0.78,True,703.1,0.54,I want to reduce my reliance on content,dependency
+U_THIRD098,2025-06-13 03:42:00,79.2,late_night,34.5,0.5,-0.36,"['zoning out', 'overstim edit', 'eye strain']",0.16,0.88,False,664.6,0.98,I need more mental rest,exhaustion
+U_THIRD099,2025-06-13 01:53:00,72.3,late_night,66.6,1.2,-0.14,"['wifi need', 'habitual checking', 'routine doom']",0.07,0.27,False,669.1,0.54,I want to gain control of my scrolling,dependency
+U_THIRD100,2025-06-13 20:00:00,73.5,night,14.5,1.3,-0.69,"['feel good story', 'reward day', 'thankful post']",0.16,0.83,True,673.0,0.9,I want to reward myself with positivity,reward
+U_THIRD101,2025-06-13 03:22:00,55.4,late_night,54.6,2.1,-0.65,"['fun time', 'thankful post', 'proud moment']",0.25,0.27,False,154.1,0.57,I want to reward myself with positivity,reward
+U_THIRD102,2025-06-13 06:09:00,8.2,morning,18.6,1.7,-0.03,"['finally success', 'thankful post', 'proud moment']",0.24,0.64,True,468.6,0.53,I deserve to celebrate,reward
+U_THIRD103,2025-06-13 09:06:00,20.9,morning,72.0,2.0,0.83,"['danger trend', 'dark theory', 'crisis footage']",0.02,0.89,True,382.6,0.85,I want to slow down my mind,anxious
+U_THIRD104,2025-06-13 06:23:00,64.9,morning,22.5,3.2,0.04,"['daily addiction', 'habitual checking', ""can't stop watching""]",0.09,0.59,False,422.5,0.8,I want to reduce my reliance on content,dependency
+U_THIRD105,2025-06-13 18:08:00,30.4,night,7.1,3.6,-0.75,"['endless scroll', 'FOMO wave', 'check phone']",0.24,0.46,False,350.9,0.78,I want to gain control of my scrolling,dependency
+U_THIRD106,2025-06-13 19:57:00,35.3,night,35.5,3.1,-0.07,"['proud moment', 'finally success', 'fun time']",0.18,0.31,True,157.0,0.53,I want to reward myself with positivity,reward
+U_THIRD107,2025-06-13 00:12:00,21.8,late_night,31.3,1.8,0.04,"['FOMO wave', 'autoplay trap', 'routine doom']",0.01,0.16,True,483.7,0.75,I want to reduce my reliance on content,dependency
+U_THIRD108,2025-06-13 10:04:00,72.3,morning,29.1,2.0,-0.54,"['thankful post', 'fun time', 'proud moment']",0.28,0.52,True,577.8,0.71,I deserve to celebrate,reward
+U_THIRD109,2025-06-13 14:07:00,26.0,afternoon,25.1,0.7,0.64,"['motivation win', 'finally success', 'feel good story']",0.24,0.89,False,180.0,0.71,I want to reward myself with positivity,reward
+U_THIRD110,2025-06-13 05:25:00,51.2,late_night,25.0,3.2,-0.26,"['paranoia news', 'emergency warning', 'stressful scene']",0.19,0.28,True,605.8,0.78,I want to slow down my mind,anxious
+U_THIRD111,2025-06-13 11:51:00,87.8,morning,60.0,1.7,-0.97,"['could’ve done better', 'loss highlight', 'guilt meme']",0.24,0.56,False,191.7,0.66,I hope to make better choices,guilt
+U_THIRD112,2025-06-13 02:36:00,87.0,late_night,27.1,3.8,-0.97,"['happy scream', 'fun time', 'thankful post']",0.07,0.31,False,176.5,0.94,I deserve to celebrate,reward
+U_THIRD113,2025-06-13 11:52:00,85.2,morning,26.7,2.0,-0.91,"['celebration edit', 'thankful post', 'proud moment']",0.34,0.46,True,729.8,0.55,I deserve to celebrate,reward
+U_THIRD114,2025-06-13 22:41:00,46.0,night,41.8,3.4,0.36,"['napping cat', 'crash reel', 'overstim edit']",0.16,0.3,True,224.6,0.78,I feel drained and need space,exhaustion
+U_THIRD115,2025-06-13 09:15:00,39.3,morning,70.0,0.9,0.97,"['goal achieved', 'feel good story', 'reward day']",0.13,0.6,False,580.4,0.93,I want to reward myself with positivity,reward
+U_THIRD116,2025-06-13 11:08:00,23.8,morning,5.4,1.2,0.8,"['emergency warning', 'scary fact', 'breaking alert']",0.03,0.49,False,237.7,0.73,I want to slow down my mind,anxious
+U_THIRD117,2025-06-13 16:59:00,18.9,afternoon,45.9,1.1,-0.23,"['habitual checking', 'endless scroll', ""can't stop watching""]",0.37,0.8,True,161.7,0.89,I want to gain control of my scrolling,dependency
+U_THIRD118,2025-06-13 04:05:00,47.2,late_night,68.2,3.7,0.32,"['heavy brain', 'fatigue diary', 'zoning out']",0.29,0.36,False,234.3,0.65,I need more mental rest,exhaustion
+U_THIRD119,2025-06-13 05:04:00,65.9,late_night,60.8,3.3,0.53,"['embarrassing fail', 'bad ending', 'shame reel']",0.09,0.32,True,579.8,0.57,I hope to make better choices,guilt
+U_THIRD120,2025-06-13 15:26:00,52.1,afternoon,9.8,2.6,0.68,"['overstim edit', 'overload speech', 'work burnout']",0.23,0.34,False,366.0,0.9,I feel drained and need space,exhaustion
+U_THIRD121,2025-06-13 04:43:00,76.8,late_night,39.9,1.4,-0.09,"['overload speech', 'heavy brain', 'napping cat']",0.01,0.18,True,459.6,0.59,I need more mental rest,exhaustion
+U_THIRD122,2025-06-13 01:55:00,12.7,late_night,64.6,2.8,-0.14,"['guilt meme', 'shame reel', 'embarrassing fail']",0.34,0.48,False,294.9,0.76,I want to turn regret into action,guilt
+U_THIRD123,2025-06-13 08:25:00,87.5,morning,9.5,3.2,0.1,"['eye strain', 'crash reel', 'fatigue diary']",0.24,0.39,True,535.6,0.84,I feel drained and need space,exhaustion
+U_THIRD124,2025-06-13 09:09:00,39.0,morning,54.8,2.8,-0.99,"['regret stories', 'shame reel', 'embarrassing fail']",0.27,0.4,False,632.0,0.65,I hope to make better choices,guilt
+U_THIRD125,2025-06-13 23:17:00,88.3,night,6.4,1.7,0.2,"['napping cat', 'crash reel', 'eye strain']",0.2,0.31,True,506.1,0.88,I feel drained and need space,exhaustion
+U_THIRD126,2025-06-13 00:54:00,93.4,late_night,31.7,0.5,0.34,"['scary fact', 'dark theory', 'emergency warning']",0.25,0.17,False,171.7,0.83,I want to slow down my mind,anxious
+U_THIRD127,2025-06-13 22:53:00,43.6,night,27.0,3.2,-0.85,"['routine doom', 'endless scroll', 'loop habit']",0.31,0.66,False,373.6,0.89,I want to gain control of my scrolling,dependency
+U_THIRD128,2025-06-13 16:53:00,26.7,afternoon,41.6,2.6,0.84,"['goal achieved', 'reward day', 'feel good story']",0.38,0.28,True,432.3,0.92,I deserve to celebrate,reward
+U_THIRD129,2025-06-13 14:33:00,71.3,afternoon,62.4,2.6,0.47,"['stressful scene', 'crisis footage', 'danger trend']",0.1,0.33,False,281.0,0.73,I want to slow down my mind,anxious
+U_THIRD130,2025-06-13 06:15:00,95.0,morning,19.9,3.5,-0.46,"['routine doom', 'loop habit', 'autoplay trap']",0.13,0.56,False,533.4,0.79,I want to gain control of my scrolling,dependency
+U_THIRD131,2025-06-13 17:26:00,41.9,afternoon,14.8,3.2,0.2,"['fear trigger', 'horror edit', 'breaking alert']",0.25,0.88,False,349.5,0.68,I feel overwhelmed by bad content,anxious
+U_THIRD132,2025-06-13 22:53:00,86.9,night,47.1,2.9,0.16,"['guilt meme', 'regret stories', 'missed opportunity']",0.38,0.55,True,669.2,0.89,I want to turn regret into action,guilt
+U_THIRD133,2025-06-13 07:53:00,27.3,morning,40.4,1.8,-0.92,"['scary fact', 'fear trigger', 'horror edit']",0.37,0.62,True,425.6,0.77,I feel overwhelmed by bad content,anxious
+U_THIRD134,2025-06-13 23:26:00,43.6,night,68.5,1.6,-0.96,"['emergency warning', 'dark theory', 'paranoia news']",0.11,0.21,False,605.1,0.6,I feel overwhelmed by bad content,anxious
+U_THIRD135,2025-06-13 18:20:00,11.3,night,36.9,1.6,-0.1,"['goal achieved', 'thankful post', 'celebration edit']",0.03,0.6,True,519.1,0.55,I want to reward myself with positivity,reward
+U_THIRD136,2025-06-13 06:32:00,28.4,morning,28.8,3.6,-0.84,"['fatigue diary', 'napping cat', 'crash reel']",0.36,0.78,False,619.2,0.84,I need more mental rest,exhaustion
+U_THIRD137,2025-06-13 04:24:00,92.8,late_night,67.5,1.6,0.87,"['work burnout', 'eye strain', 'overload speech']",0.38,0.46,True,440.7,0.74,I feel drained and need space,exhaustion
+U_THIRD138,2025-06-13 19:26:00,82.4,night,12.6,2.7,1.0,"['heavy brain', 'napping cat', 'eye strain']",0.36,0.49,True,644.2,0.82,I need more mental rest,exhaustion
+U_THIRD139,2025-06-13 10:37:00,25.1,morning,72.4,3.2,0.27,"['could’ve done better', 'missed opportunity', 'disappointing moment']",0.39,0.49,True,421.7,0.63,I want to turn regret into action,guilt
+U_THIRD140,2025-06-13 03:09:00,9.3,late_night,66.9,0.5,-0.47,"['work burnout', 'crash reel', 'overload speech']",0.04,0.16,False,728.6,0.55,I need more mental rest,exhaustion
+U_THIRD141,2025-06-13 07:24:00,9.7,morning,49.0,1.1,-0.1,"['heavy brain', 'overload speech', 'napping cat']",0.36,0.71,True,629.1,0.6,I need more mental rest,exhaustion
+U_THIRD142,2025-06-13 11:03:00,84.3,morning,6.2,1.1,-0.92,"['crisis footage', 'fear trigger', 'scary fact']",0.01,0.37,True,747.7,0.75,I feel overwhelmed by bad content,anxious
+U_THIRD143,2025-06-13 22:14:00,37.9,night,10.1,2.4,-0.43,"['work burnout', 'crash reel', 'heavy brain']",0.15,0.42,True,668.9,0.79,I feel drained and need space,exhaustion
+U_THIRD144,2025-06-13 07:24:00,58.3,morning,21.3,0.9,-0.44,"['reward day', 'fun time', 'celebration edit']",0.34,0.5,True,290.5,0.54,I deserve to celebrate,reward
+U_THIRD145,2025-06-13 21:02:00,19.2,night,17.2,1.4,0.27,"['bad ending', 'embarrassing fail', 'loss highlight']",0.37,0.17,True,646.4,0.93,I hope to make better choices,guilt
+U_THIRD146,2025-06-13 08:15:00,27.7,morning,69.2,2.2,-0.3,"['guilt meme', 'embarrassing fail', 'regret stories']",0.13,0.37,True,151.3,0.67,I want to turn regret into action,guilt
+U_THIRD147,2025-06-13 13:19:00,59.5,afternoon,43.5,0.6,-0.06,"['habitual checking', 'loop habit', 'FOMO wave']",0.21,0.84,True,266.3,0.57,I want to reduce my reliance on content,dependency
+U_THIRD148,2025-06-13 17:56:00,13.2,afternoon,22.4,1.6,-0.4,"['paranoia news', 'danger trend', 'scary fact']",0.39,0.5,True,533.1,0.55,I want to slow down my mind,anxious
+U_THIRD149,2025-06-13 20:18:00,51.2,night,43.5,1.2,-0.1,"['reward day', 'goal achieved', 'finally success']",0.17,0.15,False,454.3,0.74,I want to reward myself with positivity,reward
+U_THIRD150,2025-06-13 20:58:00,91.0,night,46.8,1.2,0.73,"['autoplay trap', 'FOMO wave', 'daily addiction']",0.29,0.53,True,241.1,0.65,I want to reduce my reliance on content,dependency
+U_THIRD151,2025-06-13 05:56:00,38.8,late_night,17.5,2.7,-0.59,"['autoplay trap', 'routine doom', 'wifi need']",0.12,0.2,True,489.9,0.83,I want to reduce my reliance on content,dependency
+U_THIRD152,2025-06-13 06:06:00,56.2,morning,53.9,3.3,0.55,"['overload speech', 'overstim edit', 'zoning out']",0.4,0.61,True,644.9,0.58,I need more mental rest,exhaustion
+U_THIRD153,2025-06-13 18:21:00,18.5,night,47.1,3.0,0.41,"['motivation win', 'proud moment', 'reward day']",0.01,0.48,True,180.8,0.78,I deserve to celebrate,reward
+U_THIRD154,2025-06-13 00:39:00,86.6,late_night,74.3,2.7,-0.21,"['endless scroll', 'routine doom', 'loop habit']",0.3,0.52,False,329.4,0.91,I want to gain control of my scrolling,dependency
+U_THIRD155,2025-06-13 00:57:00,90.3,late_night,23.4,3.7,0.39,"['fear trigger', 'stressful scene', 'horror edit']",0.23,0.77,False,199.1,0.56,I feel overwhelmed by bad content,anxious
+U_THIRD156,2025-06-13 09:25:00,93.5,morning,65.8,1.9,0.82,"['fun time', 'feel good story', 'thankful post']",0.31,0.38,False,381.6,0.83,I want to reward myself with positivity,reward
+U_THIRD157,2025-06-13 23:46:00,63.5,night,66.7,1.7,-0.37,"['napping cat', 'sleep vlog', 'work burnout']",0.4,0.22,True,548.5,0.96,I need more mental rest,exhaustion
+U_THIRD158,2025-06-13 00:08:00,59.4,late_night,29.8,1.7,0.66,"['eye strain', 'overload speech', 'overstim edit']",0.05,0.74,False,687.3,0.54,I need more mental rest,exhaustion
+U_THIRD159,2025-06-13 10:49:00,42.3,morning,20.4,2.8,0.31,"['regret stories', 'disappointing moment', 'shame reel']",0.16,0.38,True,659.9,0.66,I want to turn regret into action,guilt
+U_THIRD160,2025-06-13 12:55:00,94.9,afternoon,30.9,3.0,-0.67,"['thankful post', 'celebration edit', 'fun time']",0.02,0.2,False,205.0,0.56,I want to reward myself with positivity,reward
+U_THIRD161,2025-06-13 21:32:00,18.1,night,42.3,3.5,-0.87,"['fatigue diary', 'zoning out', 'work burnout']",0.13,0.51,False,285.2,0.67,I need more mental rest,exhaustion
+U_THIRD162,2025-06-13 16:52:00,20.1,afternoon,8.1,3.4,0.85,"['zoning out', 'overstim edit', 'overload speech']",0.02,0.52,False,647.4,0.95,I feel drained and need space,exhaustion
+U_THIRD163,2025-06-13 01:05:00,51.0,late_night,34.9,3.4,-0.06,"['fear trigger', 'danger trend', 'crisis footage']",0.12,0.18,True,731.5,0.61,I feel overwhelmed by bad content,anxious
+U_THIRD164,2025-06-13 12:28:00,40.3,afternoon,74.4,0.4,0.3,"['danger trend', 'scary fact', 'paranoia news']",0.36,0.26,False,635.3,0.94,I feel overwhelmed by bad content,anxious
+U_THIRD165,2025-06-13 22:12:00,69.9,night,64.6,2.3,-0.68,"['fear trigger', 'breaking alert', 'scary fact']",0.34,0.2,True,403.8,0.89,I feel overwhelmed by bad content,anxious
+U_THIRD166,2025-06-13 07:09:00,40.3,morning,24.9,2.4,0.3,"['could’ve done better', 'regret stories', 'bad ending']",0.28,0.85,True,352.8,0.76,I hope to make better choices,guilt
+U_THIRD167,2025-06-13 10:26:00,9.8,morning,56.5,0.7,-0.89,"['shame reel', 'bad ending', 'loss highlight']",0.18,0.3,True,473.3,0.85,I hope to make better choices,guilt
+U_THIRD168,2025-06-13 22:36:00,9.3,night,27.8,0.6,0.5,"['loss highlight', 'embarrassing fail', 'responsibility talk']",0.05,0.26,True,617.6,0.61,I want to turn regret into action,guilt
+U_THIRD169,2025-06-13 11:33:00,28.9,morning,54.4,0.4,-0.3,"['could’ve done better', 'responsibility talk', 'missed opportunity']",0.37,0.49,False,267.4,0.95,I want to turn regret into action,guilt
+U_THIRD170,2025-06-13 05:39:00,82.2,late_night,20.9,0.6,0.92,"['fun time', 'feel good story', 'reward day']",0.22,0.26,False,640.9,0.85,I want to reward myself with positivity,reward
+U_THIRD171,2025-06-13 07:57:00,76.2,morning,16.7,3.0,0.33,"['loop habit', ""can't stop watching"", 'autoplay trap']",0.33,0.55,True,662.5,0.53,I want to reduce my reliance on content,dependency
+U_THIRD172,2025-06-13 15:59:00,12.3,afternoon,7.9,1.8,-0.12,"[""can't stop watching"", 'endless scroll', 'wifi need']",0.13,0.59,False,181.4,0.75,I want to reduce my reliance on content,dependency
+U_THIRD173,2025-06-13 06:01:00,42.9,morning,48.7,3.7,0.53,"['shame reel', 'loss highlight', 'bad ending']",0.22,0.77,True,269.8,0.5,I hope to make better choices,guilt
+U_THIRD174,2025-06-13 06:29:00,66.8,morning,27.7,0.7,-0.37,"['FOMO wave', 'check phone', 'wifi need']",0.07,0.68,False,339.2,0.61,I want to gain control of my scrolling,dependency
+U_THIRD175,2025-06-13 02:31:00,61.5,late_night,13.7,1.3,-0.39,"['shame reel', 'guilt meme', 'embarrassing fail']",0.09,0.42,True,532.9,0.72,I hope to make better choices,guilt
+U_THIRD176,2025-06-13 17:49:00,96.8,afternoon,21.7,2.8,0.7,"['wifi need', 'routine doom', 'FOMO wave']",0.29,0.46,True,535.2,0.51,I want to reduce my reliance on content,dependency
+U_THIRD177,2025-06-13 20:43:00,62.2,night,68.1,3.8,-0.99,"['dark theory', 'fear trigger', 'danger trend']",0.29,0.63,False,241.1,0.68,I want to slow down my mind,anxious
+U_THIRD178,2025-06-13 20:50:00,96.9,night,27.6,3.6,0.06,"['motivation win', 'fun time', 'celebration edit']",0.11,0.89,False,508.0,0.69,I deserve to celebrate,reward
+U_THIRD179,2025-06-13 01:04:00,63.1,late_night,60.4,0.9,-0.51,"['proud moment', 'feel good story', 'goal achieved']",0.23,0.72,True,194.2,0.95,I deserve to celebrate,reward
+U_THIRD180,2025-06-13 01:18:00,61.4,late_night,56.2,0.8,0.39,"['crisis footage', 'horror edit', 'emergency warning']",0.38,0.56,False,326.5,0.54,I want to slow down my mind,anxious
+U_THIRD181,2025-06-13 16:14:00,23.8,afternoon,68.7,1.4,0.28,"['bad ending', 'responsibility talk', 'regret stories']",0.08,0.83,True,532.3,0.87,I hope to make better choices,guilt
+U_THIRD182,2025-06-13 18:55:00,36.3,night,63.3,2.4,-0.65,"['napping cat', 'eye strain', 'overstim edit']",0.37,0.43,True,576.3,0.9,I need more mental rest,exhaustion
+U_THIRD183,2025-06-13 12:04:00,73.5,afternoon,68.2,1.3,0.54,"['crisis footage', 'emergency warning', 'horror edit']",0.04,0.88,True,707.5,0.67,I want to slow down my mind,anxious
+U_THIRD184,2025-06-13 15:24:00,40.5,afternoon,9.2,2.3,-0.46,"['horror edit', 'scary fact', 'emergency warning']",0.23,0.44,True,695.9,0.72,I feel overwhelmed by bad content,anxious
+U_THIRD185,2025-06-13 23:01:00,43.7,night,46.2,2.6,-0.43,"['fatigue diary', 'zoning out', 'heavy brain']",0.35,0.57,True,745.0,0.76,I need more mental rest,exhaustion
+U_THIRD186,2025-06-13 07:04:00,56.1,morning,10.0,0.6,0.88,"['responsibility talk', 'missed opportunity', 'guilt meme']",0.4,0.88,True,742.8,0.66,I want to turn regret into action,guilt
+U_THIRD187,2025-06-13 17:07:00,74.8,afternoon,16.8,0.9,0.1,"['work burnout', 'overload speech', 'fatigue diary']",0.13,0.28,False,589.7,0.6,I feel drained and need space,exhaustion
+U_THIRD188,2025-06-13 15:52:00,11.0,afternoon,29.8,2.7,-0.36,"['habitual checking', 'autoplay trap', 'routine doom']",0.33,0.86,False,357.5,0.76,I want to gain control of my scrolling,dependency
+U_THIRD189,2025-06-13 21:54:00,46.6,night,42.8,3.7,-0.91,"['danger trend', 'emergency warning', 'breaking alert']",0.25,0.58,False,440.5,0.69,I feel overwhelmed by bad content,anxious
+U_THIRD190,2025-06-13 18:39:00,35.5,night,71.1,2.5,0.99,"['motivation win', 'goal achieved', 'thankful post']",0.13,0.52,False,323.1,0.71,I want to reward myself with positivity,reward
+U_THIRD191,2025-06-13 16:04:00,11.0,afternoon,20.2,3.0,-0.97,"['fun time', 'happy scream', 'motivation win']",0.33,0.37,True,259.8,0.74,I deserve to celebrate,reward
+U_THIRD192,2025-06-13 16:54:00,29.8,afternoon,11.5,0.6,-0.54,"['thankful post', 'feel good story', 'motivation win']",0.13,0.39,True,733.0,0.81,I want to reward myself with positivity,reward
+U_THIRD193,2025-06-13 15:55:00,50.8,afternoon,72.1,3.6,0.11,"['fatigue diary', 'eye strain', 'overload speech']",0.08,0.72,True,549.1,0.91,I need more mental rest,exhaustion
+U_THIRD194,2025-06-13 11:18:00,76.7,morning,62.4,1.9,0.84,"['embarrassing fail', 'guilt meme', 'missed opportunity']",0.24,0.77,True,520.2,0.96,I want to turn regret into action,guilt
+U_THIRD195,2025-06-13 09:16:00,69.5,morning,50.6,1.2,0.24,"['guilt meme', 'responsibility talk', 'shame reel']",0.15,0.39,False,478.7,0.67,I want to turn regret into action,guilt
+U_THIRD196,2025-06-13 21:33:00,29.4,night,12.0,0.6,0.67,"['crisis footage', 'horror edit', 'paranoia news']",0.26,0.71,True,692.1,0.96,I want to slow down my mind,anxious
+U_THIRD197,2025-06-13 03:23:00,63.9,late_night,15.9,0.9,-0.55,"['horror edit', 'breaking alert', 'stressful scene']",0.08,0.47,True,412.3,0.72,I want to slow down my mind,anxious
+U_THIRD198,2025-06-13 08:29:00,16.3,morning,44.5,3.2,-0.71,"['missed opportunity', 'embarrassing fail', 'guilt meme']",0.04,0.61,True,328.0,0.87,I want to turn regret into action,guilt
+U_THIRD199,2025-06-13 15:34:00,71.2,afternoon,22.4,1.2,-0.23,"['daily addiction', 'routine doom', 'wifi need']",0.03,0.5,False,249.7,0.92,I want to reduce my reliance on content,dependency
+U_THIRD200,2025-06-13 23:08:00,74.7,night,31.5,0.9,-0.22,"['happy scream', 'goal achieved', 'reward day']",0.33,0.71,False,209.8,0.56,I want to reward myself with positivity,reward
+U_THIRD201,2025-06-13 19:18:00,56.2,night,56.1,3.5,-0.05,"['thankful post', 'happy scream', 'motivation win']",0.05,0.47,False,213.7,0.79,I deserve to celebrate,reward
+U_THIRD202,2025-06-13 10:14:00,22.6,morning,52.5,2.1,0.39,"['loop habit', 'daily addiction', 'endless scroll']",0.32,0.63,False,533.6,0.93,I want to gain control of my scrolling,dependency
+U_THIRD203,2025-06-13 18:32:00,48.2,night,30.6,1.0,-0.09,"['crisis footage', 'fear trigger', 'emergency warning']",0.21,0.62,True,486.0,0.57,I feel overwhelmed by bad content,anxious
+U_THIRD204,2025-06-13 02:43:00,93.1,late_night,34.7,3.8,0.15,"['disappointing moment', 'responsibility talk', 'bad ending']",0.11,0.65,True,207.9,0.67,I hope to make better choices,guilt
+U_THIRD205,2025-06-13 06:11:00,99.2,morning,73.2,2.1,0.61,"['loop habit', 'FOMO wave', 'routine doom']",0.36,0.38,True,233.3,0.53,I want to reduce my reliance on content,dependency
+U_THIRD206,2025-06-13 12:33:00,45.9,afternoon,53.9,0.6,-0.94,"['check phone', 'routine doom', 'daily addiction']",0.28,0.84,False,675.9,0.8,I want to gain control of my scrolling,dependency
+U_THIRD207,2025-06-13 15:25:00,14.6,afternoon,70.9,3.8,-0.6,"['emergency warning', 'horror edit', 'paranoia news']",0.27,0.77,False,689.0,0.69,I feel overwhelmed by bad content,anxious
+U_THIRD208,2025-06-13 06:07:00,51.1,morning,40.9,2.3,-0.12,"['breaking alert', 'emergency warning', 'dark theory']",0.18,0.41,False,520.3,0.6,I want to slow down my mind,anxious
+U_THIRD209,2025-06-13 02:28:00,12.3,late_night,32.4,1.4,-0.43,"['heavy brain', 'napping cat', 'zoning out']",0.1,0.42,True,627.7,0.73,I need more mental rest,exhaustion
+U_THIRD210,2025-06-13 03:43:00,39.0,late_night,17.5,3.0,0.16,"['routine doom', ""can't stop watching"", 'daily addiction']",0.06,0.87,True,220.2,0.65,I want to reduce my reliance on content,dependency
+U_THIRD211,2025-06-13 03:35:00,38.6,late_night,9.1,3.0,-0.3,"['loop habit', 'daily addiction', 'routine doom']",0.04,0.4,True,432.9,0.57,I want to gain control of my scrolling,dependency
+U_THIRD212,2025-06-13 02:47:00,39.6,late_night,30.7,2.0,0.36,"['autoplay trap', 'FOMO wave', 'habitual checking']",0.37,0.82,True,549.8,0.62,I want to gain control of my scrolling,dependency
+U_THIRD213,2025-06-13 14:10:00,61.9,afternoon,6.3,1.8,-0.41,"['finally success', 'proud moment', 'celebration edit']",0.07,0.75,True,732.1,0.78,I deserve to celebrate,reward
+U_THIRD214,2025-06-13 09:05:00,87.1,morning,20.9,1.4,0.35,"['breaking alert', 'scary fact', 'fear trigger']",0.03,0.46,True,583.7,0.78,I want to slow down my mind,anxious
+U_THIRD215,2025-06-13 19:26:00,88.1,night,27.0,1.4,0.31,"['guilt meme', 'shame reel', 'missed opportunity']",0.13,0.33,False,315.1,0.83,I want to turn regret into action,guilt
+U_THIRD216,2025-06-13 16:12:00,15.0,afternoon,20.3,1.8,0.77,"['motivation win', 'celebration edit', 'finally success']",0.38,0.29,True,504.0,0.54,I deserve to celebrate,reward
+U_THIRD217,2025-06-13 19:27:00,52.4,night,28.6,3.3,-0.19,"['loss highlight', 'guilt meme', 'missed opportunity']",0.21,0.45,True,246.7,0.67,I hope to make better choices,guilt
+U_THIRD218,2025-06-13 14:16:00,90.5,afternoon,13.0,2.4,-0.38,"['embarrassing fail', 'guilt meme', 'shame reel']",0.14,0.56,False,527.7,0.85,I want to turn regret into action,guilt
+U_THIRD219,2025-06-13 04:21:00,16.5,late_night,72.6,2.2,-0.42,"['finally success', 'motivation win', 'goal achieved']",0.07,0.35,True,703.4,0.82,I deserve to celebrate,reward
+U_THIRD220,2025-06-13 23:26:00,48.2,night,45.6,0.6,-0.8,"['eye strain', 'sleep vlog', 'zoning out']",0.28,0.41,True,466.3,0.83,I need more mental rest,exhaustion
+U_THIRD221,2025-06-13 05:01:00,25.5,late_night,50.1,3.2,0.5,"['FOMO wave', 'wifi need', 'routine doom']",0.38,0.23,False,254.9,0.77,I want to gain control of my scrolling,dependency
+U_THIRD222,2025-06-13 14:51:00,72.5,afternoon,6.6,1.0,-0.76,"['happy scream', 'celebration edit', 'reward day']",0.22,0.46,True,246.4,0.68,I deserve to celebrate,reward
+U_THIRD223,2025-06-13 18:37:00,60.5,night,61.9,3.6,-0.8,"['crisis footage', 'dark theory', 'scary fact']",0.16,0.22,True,221.7,0.98,I feel overwhelmed by bad content,anxious
+U_THIRD224,2025-06-13 13:13:00,57.4,afternoon,69.5,0.8,0.49,"['emergency warning', 'paranoia news', 'danger trend']",0.23,0.86,False,488.3,0.61,I feel overwhelmed by bad content,anxious
+U_THIRD225,2025-06-13 19:01:00,9.4,night,47.6,2.6,-0.31,"['fun time', 'reward day', 'celebration edit']",0.2,0.75,True,275.3,0.62,I deserve to celebrate,reward
+U_THIRD226,2025-06-13 01:59:00,22.6,late_night,46.0,2.7,-0.8,"['loss highlight', 'shame reel', 'missed opportunity']",0.34,0.37,False,308.6,0.69,I hope to make better choices,guilt
+U_THIRD227,2025-06-13 01:26:00,94.2,late_night,50.5,3.8,0.98,"['endless scroll', 'habitual checking', 'wifi need']",0.21,0.31,True,453.4,0.53,I want to gain control of my scrolling,dependency
+U_THIRD228,2025-06-13 21:12:00,84.8,night,63.6,0.7,0.9,"['crash reel', 'overload speech', 'eye strain']",0.08,0.2,False,738.7,0.5,I need more mental rest,exhaustion
+U_THIRD229,2025-06-13 07:05:00,26.5,morning,55.8,1.9,-0.51,"['zoning out', 'crash reel', 'fatigue diary']",0.07,0.27,True,251.7,0.61,I feel drained and need space,exhaustion
+U_THIRD230,2025-06-13 15:25:00,46.7,afternoon,58.8,2.0,0.75,"['loss highlight', 'bad ending', 'could’ve done better']",0.16,0.88,True,174.3,0.52,I hope to make better choices,guilt
+U_THIRD231,2025-06-13 15:28:00,34.6,afternoon,54.2,2.4,-0.72,"['loss highlight', 'disappointing moment', 'shame reel']",0.23,0.6,False,205.6,0.83,I hope to make better choices,guilt
+U_THIRD232,2025-06-13 12:50:00,74.0,afternoon,14.8,0.5,0.27,"['finally success', 'thankful post', 'motivation win']",0.1,0.49,True,275.0,0.74,I want to reward myself with positivity,reward
+U_THIRD233,2025-06-13 10:25:00,34.0,morning,19.9,1.1,-0.22,"['motivation win', 'thankful post', 'proud moment']",0.28,0.52,True,320.1,0.6,I want to reward myself with positivity,reward
+U_THIRD234,2025-06-13 05:05:00,65.6,late_night,49.9,3.3,-0.15,"['loss highlight', 'missed opportunity', 'shame reel']",0.4,0.58,False,711.2,0.56,I want to turn regret into action,guilt
+U_THIRD235,2025-06-13 09:45:00,38.6,morning,49.0,3.5,-0.38,"['reward day', 'finally success', 'celebration edit']",0.15,0.73,False,179.3,0.54,I deserve to celebrate,reward
+U_THIRD236,2025-06-13 09:26:00,92.7,morning,49.1,2.5,0.11,"['celebration edit', 'fun time', 'happy scream']",0.23,0.26,True,568.3,0.91,I want to reward myself with positivity,reward
+U_THIRD237,2025-06-13 14:44:00,40.3,afternoon,56.8,2.2,0.58,"['guilt meme', 'regret stories', 'loss highlight']",0.11,0.35,True,218.1,0.73,I hope to make better choices,guilt
+U_THIRD238,2025-06-13 09:58:00,31.8,morning,63.5,2.7,0.97,"['routine doom', ""can't stop watching"", 'daily addiction']",0.39,0.67,True,223.7,0.66,I want to gain control of my scrolling,dependency
+U_THIRD239,2025-06-13 08:50:00,59.0,morning,73.8,3.6,0.61,"['could’ve done better', 'responsibility talk', 'bad ending']",0.36,0.84,True,161.5,0.65,I want to turn regret into action,guilt
+U_THIRD240,2025-06-13 18:19:00,55.4,night,61.6,2.8,0.88,"['disappointing moment', 'responsibility talk', 'embarrassing fail']",0.16,0.59,False,372.5,0.52,I hope to make better choices,guilt
+U_THIRD241,2025-06-13 20:06:00,71.9,night,46.2,0.5,0.99,"['overload speech', 'napping cat', 'sleep vlog']",0.21,0.66,False,493.7,0.91,I need more mental rest,exhaustion
+U_THIRD242,2025-06-13 00:52:00,82.0,late_night,30.3,2.7,-0.34,"['daily addiction', 'endless scroll', 'wifi need']",0.12,0.53,True,683.2,0.75,I want to gain control of my scrolling,dependency
+U_THIRD243,2025-06-13 01:30:00,78.7,late_night,46.4,0.5,-0.44,"['wifi need', 'habitual checking', ""can't stop watching""]",0.31,0.82,True,554.8,0.8,I want to reduce my reliance on content,dependency
+U_THIRD244,2025-06-13 07:36:00,47.9,morning,9.9,3.5,-0.76,"['reward day', 'proud moment', 'fun time']",0.25,0.86,True,504.7,0.74,I want to reward myself with positivity,reward
+U_THIRD245,2025-06-13 07:42:00,90.9,morning,52.9,2.9,-0.0,"['fear trigger', 'crisis footage', 'emergency warning']",0.24,0.61,False,607.2,0.84,I want to slow down my mind,anxious
+U_THIRD246,2025-06-13 21:28:00,17.3,night,31.8,0.8,0.79,"['finally success', 'thankful post', 'fun time']",0.32,0.59,False,677.4,0.9,I deserve to celebrate,reward
+U_THIRD247,2025-06-13 01:37:00,58.1,late_night,40.6,2.3,-0.31,"['horror edit', 'stressful scene', 'emergency warning']",0.03,0.83,False,629.1,0.85,I want to slow down my mind,anxious
+U_THIRD248,2025-06-13 06:33:00,68.0,morning,16.3,2.1,0.69,"['overstim edit', 'work burnout', 'overload speech']",0.03,0.87,False,730.4,0.72,I need more mental rest,exhaustion
+U_THIRD249,2025-06-13 01:46:00,29.8,late_night,52.9,0.5,-0.11,"['missed opportunity', 'bad ending', 'guilt meme']",0.4,0.45,False,563.2,0.73,I want to turn regret into action,guilt
+U_THIRD250,2025-06-13 07:09:00,64.9,morning,24.2,2.5,0.31,"['zoning out', 'work burnout', 'heavy brain']",0.27,0.27,False,397.4,0.67,I feel drained and need space,exhaustion
+U_THIRD251,2025-06-13 05:25:00,53.1,late_night,66.0,3.4,0.63,"['heavy brain', 'zoning out', 'overstim edit']",0.19,0.56,False,161.0,0.91,I need more mental rest,exhaustion
+U_THIRD252,2025-06-13 23:14:00,15.3,night,74.5,1.0,0.81,"['happy scream', 'feel good story', 'reward day']",0.23,0.58,False,696.0,0.94,I want to reward myself with positivity,reward
+U_THIRD253,2025-06-13 12:00:00,94.6,afternoon,59.1,0.8,-0.24,"['breaking alert', 'stressful scene', 'paranoia news']",0.35,0.58,True,220.8,0.9,I want to slow down my mind,anxious
+U_THIRD254,2025-06-13 06:08:00,53.7,morning,60.9,2.3,-0.52,"[""can't stop watching"", 'wifi need', 'routine doom']",0.21,0.83,True,321.7,0.66,I want to reduce my reliance on content,dependency
+U_THIRD255,2025-06-13 19:07:00,36.9,night,12.6,2.8,0.67,"['fatigue diary', 'napping cat', 'crash reel']",0.04,0.87,True,464.9,0.55,I feel drained and need space,exhaustion
+U_THIRD256,2025-06-13 13:34:00,71.2,afternoon,36.7,2.7,0.09,"['breaking alert', 'fear trigger', 'emergency warning']",0.18,0.58,True,431.3,0.53,I want to slow down my mind,anxious
+U_THIRD257,2025-06-13 16:48:00,85.0,afternoon,49.4,1.5,0.12,"['endless scroll', ""can't stop watching"", 'check phone']",0.23,0.71,True,639.5,0.78,I want to reduce my reliance on content,dependency
+U_THIRD258,2025-06-13 05:37:00,55.4,late_night,17.7,3.0,-0.82,"['horror edit', 'dark theory', 'stressful scene']",0.24,0.36,True,581.3,0.64,I want to slow down my mind,anxious
+U_THIRD259,2025-06-13 05:43:00,68.2,late_night,15.1,2.4,-0.26,"['fatigue diary', 'sleep vlog', 'napping cat']",0.26,0.22,True,601.1,0.59,I feel drained and need space,exhaustion
+U_THIRD260,2025-06-13 14:44:00,38.8,afternoon,65.9,0.5,0.44,"['celebration edit', 'happy scream', 'finally success']",0.14,0.52,True,673.2,0.79,I want to reward myself with positivity,reward
+U_THIRD261,2025-06-13 13:23:00,89.2,afternoon,42.2,1.0,-0.22,"['missed opportunity', 'disappointing moment', 'embarrassing fail']",0.25,0.72,True,665.1,0.61,I hope to make better choices,guilt
+U_THIRD262,2025-06-13 07:27:00,37.7,morning,69.7,2.8,1.0,"['feel good story', 'motivation win', 'happy scream']",0.37,0.59,False,560.0,0.5,I deserve to celebrate,reward
+U_THIRD263,2025-06-13 17:57:00,48.0,afternoon,40.4,1.0,-0.83,"['crash reel', 'overload speech', 'fatigue diary']",0.38,0.79,True,534.8,0.87,I feel drained and need space,exhaustion
+U_THIRD264,2025-06-13 10:28:00,53.7,morning,17.5,1.7,0.48,"['crisis footage', 'stressful scene', 'dark theory']",0.18,0.77,False,659.4,0.79,I feel overwhelmed by bad content,anxious
+U_THIRD265,2025-06-13 22:02:00,57.8,night,55.4,0.6,0.2,"['guilt meme', 'bad ending', 'embarrassing fail']",0.33,0.39,True,214.8,0.53,I hope to make better choices,guilt
+U_THIRD266,2025-06-13 08:06:00,96.2,morning,21.9,1.1,-0.6,"['proud moment', 'thankful post', 'fun time']",0.26,0.63,True,626.2,0.86,I want to reward myself with positivity,reward
+U_THIRD267,2025-06-13 00:38:00,99.5,late_night,52.9,1.5,0.51,"['danger trend', 'paranoia news', 'fear trigger']",0.25,0.39,True,745.6,0.97,I want to slow down my mind,anxious
+U_THIRD268,2025-06-13 12:58:00,78.4,afternoon,5.8,2.6,-0.61,"['fun time', 'happy scream', 'reward day']",0.04,0.7,False,553.7,0.95,I want to reward myself with positivity,reward
+U_THIRD269,2025-06-13 09:23:00,80.8,morning,27.1,3.6,1.0,"['daily addiction', 'FOMO wave', 'endless scroll']",0.14,0.21,False,158.2,0.94,I want to reduce my reliance on content,dependency
+U_THIRD270,2025-06-13 13:02:00,89.4,afternoon,19.0,3.8,0.05,"['endless scroll', 'check phone', 'habitual checking']",0.05,0.25,True,265.5,0.64,I want to gain control of my scrolling,dependency
+U_THIRD271,2025-06-13 00:04:00,39.1,late_night,59.6,3.6,-0.83,"['missed opportunity', 'guilt meme', 'loss highlight']",0.31,0.64,True,411.3,0.93,I hope to make better choices,guilt
+U_THIRD272,2025-06-13 08:51:00,71.7,morning,69.4,1.5,-0.92,"['danger trend', 'crisis footage', 'horror edit']",0.07,0.58,False,571.5,0.7,I feel overwhelmed by bad content,anxious
+U_THIRD273,2025-06-13 23:56:00,79.0,night,70.9,3.2,-0.17,"['habitual checking', 'daily addiction', 'check phone']",0.34,0.2,True,475.5,0.83,I want to gain control of my scrolling,dependency
+U_THIRD274,2025-06-13 03:21:00,83.2,late_night,32.5,0.6,-0.66,"['habitual checking', 'loop habit', 'wifi need']",0.12,0.59,True,198.0,0.67,I want to gain control of my scrolling,dependency
+U_THIRD275,2025-06-13 16:48:00,34.2,afternoon,53.8,0.7,-0.45,"[""can't stop watching"", 'check phone', 'daily addiction']",0.26,0.62,True,368.8,0.52,I want to reduce my reliance on content,dependency
+U_THIRD276,2025-06-13 11:32:00,10.9,morning,71.4,2.1,0.54,"['danger trend', 'paranoia news', 'crisis footage']",0.4,0.48,False,314.2,0.52,I feel overwhelmed by bad content,anxious
+U_THIRD277,2025-06-13 22:35:00,37.4,night,61.7,2.3,0.22,"['wifi need', 'daily addiction', 'loop habit']",0.12,0.86,False,234.1,0.87,I want to gain control of my scrolling,dependency
+U_THIRD278,2025-06-13 02:54:00,62.3,late_night,6.6,2.8,0.76,"['fun time', 'motivation win', 'goal achieved']",0.21,0.2,True,313.8,0.92,I want to reward myself with positivity,reward
+U_THIRD279,2025-06-13 11:15:00,92.6,morning,12.9,2.0,0.51,"['regret stories', 'guilt meme', 'missed opportunity']",0.17,0.66,False,328.9,0.88,I hope to make better choices,guilt
+U_THIRD280,2025-06-13 16:40:00,31.6,afternoon,11.1,1.5,0.63,"['heavy brain', 'sleep vlog', 'crash reel']",0.04,0.35,False,340.8,0.86,I feel drained and need space,exhaustion
+U_THIRD281,2025-06-13 13:46:00,83.1,afternoon,53.2,2.0,0.45,"['overload speech', 'fatigue diary', 'work burnout']",0.16,0.81,True,211.1,0.91,I feel drained and need space,exhaustion
+U_THIRD282,2025-06-13 03:46:00,60.8,late_night,40.2,0.9,-0.59,"['work burnout', 'crash reel', 'fatigue diary']",0.34,0.52,False,463.8,0.88,I feel drained and need space,exhaustion
+U_THIRD283,2025-06-13 02:51:00,52.3,late_night,12.2,3.4,-0.36,"[""can't stop watching"", 'autoplay trap', 'wifi need']",0.05,0.67,False,427.4,0.85,I want to gain control of my scrolling,dependency
+U_THIRD284,2025-06-13 04:56:00,90.3,late_night,10.2,3.7,-0.19,"['fear trigger', 'scary fact', 'dark theory']",0.01,0.6,True,199.9,0.74,I want to slow down my mind,anxious
+U_THIRD285,2025-06-13 15:49:00,31.1,afternoon,35.5,3.3,-0.72,"[""can't stop watching"", 'autoplay trap', 'check phone']",0.25,0.27,True,175.8,0.72,I want to reduce my reliance on content,dependency
+U_THIRD286,2025-06-13 15:16:00,67.7,afternoon,42.5,3.7,0.31,"['proud moment', 'motivation win', 'feel good story']",0.26,0.8,False,739.6,0.51,I deserve to celebrate,reward
+U_THIRD287,2025-06-13 14:13:00,33.2,afternoon,69.7,0.7,0.12,"['fear trigger', 'emergency warning', 'scary fact']",0.26,0.88,False,470.7,0.71,I want to slow down my mind,anxious
+U_THIRD288,2025-06-13 11:44:00,57.7,morning,11.2,3.7,0.31,"['paranoia news', 'dark theory', 'emergency warning']",0.39,0.53,False,469.0,0.76,I feel overwhelmed by bad content,anxious
+U_THIRD289,2025-06-13 15:46:00,94.2,afternoon,46.5,0.8,0.45,"['zoning out', 'sleep vlog', 'heavy brain']",0.37,0.15,True,732.3,0.79,I feel drained and need space,exhaustion
+U_THIRD290,2025-06-13 01:56:00,83.8,late_night,66.8,3.2,-0.59,"['routine doom', ""can't stop watching"", 'daily addiction']",0.2,0.5,True,548.8,0.94,I want to gain control of my scrolling,dependency
+U_THIRD291,2025-06-13 16:23:00,88.0,afternoon,15.9,1.9,0.03,"['danger trend', 'breaking alert', 'paranoia news']",0.0,0.52,False,642.7,0.88,I feel overwhelmed by bad content,anxious
+U_THIRD292,2025-06-13 11:52:00,60.7,morning,47.7,1.1,0.33,"['reward day', 'goal achieved', 'proud moment']",0.25,0.35,False,366.6,0.69,I want to reward myself with positivity,reward
+U_THIRD293,2025-06-13 16:18:00,80.6,afternoon,68.3,3.2,0.84,"['check phone', 'endless scroll', 'habitual checking']",0.05,0.49,False,388.5,0.65,I want to gain control of my scrolling,dependency
+U_THIRD294,2025-06-13 14:08:00,62.8,afternoon,8.0,2.3,-0.69,"['disappointing moment', 'loss highlight', 'missed opportunity']",0.13,0.81,False,482.0,0.6,I want to turn regret into action,guilt
+U_THIRD295,2025-06-13 07:28:00,99.5,morning,33.1,2.0,-0.06,"['missed opportunity', 'could’ve done better', 'responsibility talk']",0.06,0.43,True,373.5,0.82,I hope to make better choices,guilt
+U_THIRD296,2025-06-13 10:59:00,51.0,morning,12.6,2.4,-0.89,"['guilt meme', 'embarrassing fail', 'disappointing moment']",0.26,0.16,True,453.6,0.84,I hope to make better choices,guilt
+U_THIRD297,2025-06-13 17:33:00,59.1,afternoon,6.6,2.6,-0.52,"['dark theory', 'crisis footage', 'stressful scene']",0.31,0.32,False,226.8,0.78,I feel overwhelmed by bad content,anxious
+U_THIRD298,2025-06-13 00:21:00,17.3,late_night,64.7,1.2,0.93,"['fatigue diary', 'eye strain', 'zoning out']",0.08,0.33,False,259.9,0.6,I need more mental rest,exhaustion
+U_THIRD299,2025-06-13 15:38:00,24.5,afternoon,31.7,1.3,0.91,"['overload speech', 'crash reel', 'eye strain']",0.16,0.81,False,397.8,0.95,I need more mental rest,exhaustion
+U_THIRD300,2025-06-13 13:56:00,99.1,afternoon,60.5,2.3,-0.68,"['bad ending', 'loss highlight', 'responsibility talk']",0.34,0.71,True,591.6,0.76,I want to turn regret into action,guilt
+U_THIRD301,2025-06-13 12:28:00,25.6,afternoon,43.4,3.6,0.47,"['zoning out', 'fatigue diary', 'sleep vlog']",0.18,0.75,False,427.9,0.66,I feel drained and need space,exhaustion
+U_THIRD302,2025-06-13 23:12:00,98.5,night,26.0,2.3,0.76,"['missed opportunity', 'regret stories', 'loss highlight']",0.35,0.28,False,529.9,0.85,I hope to make better choices,guilt
+U_THIRD303,2025-06-13 15:28:00,55.0,afternoon,11.1,2.8,0.66,"['autoplay trap', 'FOMO wave', 'routine doom']",0.13,0.29,True,655.3,0.72,I want to gain control of my scrolling,dependency
+U_THIRD304,2025-06-13 18:13:00,78.4,night,68.7,3.0,-0.52,"['fatigue diary', 'work burnout', 'overload speech']",0.35,0.76,False,153.4,0.51,I need more mental rest,exhaustion
+U_THIRD305,2025-06-13 15:09:00,97.0,afternoon,15.8,3.5,-0.17,"[""can't stop watching"", 'autoplay trap', 'routine doom']",0.23,0.56,True,489.6,0.6,I want to gain control of my scrolling,dependency
+U_THIRD306,2025-06-13 08:21:00,10.6,morning,28.5,0.9,0.07,"['embarrassing fail', 'bad ending', 'responsibility talk']",0.35,0.17,True,743.4,0.85,I hope to make better choices,guilt
+U_THIRD307,2025-06-13 05:08:00,64.9,late_night,21.8,1.7,-0.84,"['zoning out', 'fatigue diary', 'eye strain']",0.03,0.46,False,375.9,0.55,I need more mental rest,exhaustion
+U_THIRD308,2025-06-13 14:59:00,73.7,afternoon,17.3,1.8,0.23,"['overstim edit', 'work burnout', 'zoning out']",0.08,0.24,True,586.6,0.71,I feel drained and need space,exhaustion
+U_THIRD309,2025-06-13 20:23:00,12.9,night,62.1,0.7,-0.12,"['paranoia news', 'horror edit', 'fear trigger']",0.32,0.57,True,430.9,0.92,I feel overwhelmed by bad content,anxious
+U_THIRD310,2025-06-13 06:16:00,20.1,morning,59.6,1.4,0.54,"['napping cat', 'overload speech', 'crash reel']",0.22,0.36,True,673.2,0.96,I feel drained and need space,exhaustion
+U_THIRD311,2025-06-13 11:41:00,22.4,morning,45.0,1.3,-0.65,"['zoning out', 'eye strain', 'overload speech']",0.13,0.2,True,607.9,0.6,I need more mental rest,exhaustion
+U_THIRD312,2025-06-13 22:20:00,70.1,night,22.4,1.7,0.29,"['heavy brain', 'work burnout', 'zoning out']",0.01,0.39,True,726.8,0.77,I feel drained and need space,exhaustion
+U_THIRD313,2025-06-13 23:41:00,97.1,night,17.5,0.8,-0.81,"[""can't stop watching"", 'routine doom', 'loop habit']",0.33,0.3,False,479.7,0.78,I want to gain control of my scrolling,dependency
+U_THIRD314,2025-06-13 00:17:00,78.4,late_night,15.0,0.9,0.58,"['reward day', 'fun time', 'proud moment']",0.04,0.35,True,259.0,0.84,I deserve to celebrate,reward
+U_THIRD315,2025-06-13 21:05:00,57.6,night,68.6,3.3,-0.53,"['feel good story', 'celebration edit', 'proud moment']",0.09,0.24,True,677.9,0.85,I deserve to celebrate,reward
+U_THIRD316,2025-06-13 19:40:00,92.9,night,10.7,2.6,-0.75,"['regret stories', 'bad ending', 'disappointing moment']",0.13,0.33,False,540.3,0.92,I want to turn regret into action,guilt
+U_THIRD317,2025-06-13 09:26:00,83.2,morning,19.2,3.0,0.69,"['goal achieved', 'feel good story', 'thankful post']",0.25,0.17,True,701.4,0.85,I want to reward myself with positivity,reward
+U_THIRD318,2025-06-13 02:44:00,59.5,late_night,67.9,1.5,-0.32,"['work burnout', 'sleep vlog', 'overstim edit']",0.26,0.64,True,376.3,0.76,I feel drained and need space,exhaustion
+U_THIRD319,2025-06-13 10:46:00,45.0,morning,41.9,3.0,0.46,"['scary fact', 'fear trigger', 'crisis footage']",0.39,0.17,False,514.8,0.79,I want to slow down my mind,anxious
+U_THIRD320,2025-06-13 13:01:00,69.0,afternoon,36.7,1.6,-0.39,"['celebration edit', 'reward day', 'feel good story']",0.35,0.44,True,661.8,0.92,I want to reward myself with positivity,reward
+U_THIRD321,2025-06-13 15:42:00,55.1,afternoon,41.3,1.8,0.81,"['heavy brain', 'overstim edit', 'fatigue diary']",0.24,0.29,False,378.4,0.72,I feel drained and need space,exhaustion
+U_THIRD322,2025-06-13 18:55:00,80.9,night,57.9,3.6,-0.21,"['goal achieved', 'thankful post', 'motivation win']",0.03,0.88,True,508.5,0.64,I want to reward myself with positivity,reward
+U_THIRD323,2025-06-13 08:47:00,65.3,morning,27.5,1.6,0.77,"['habitual checking', 'daily addiction', 'autoplay trap']",0.14,0.66,False,354.7,0.59,I want to reduce my reliance on content,dependency
+U_THIRD324,2025-06-13 05:33:00,28.2,late_night,11.4,1.3,0.63,"[""can't stop watching"", 'FOMO wave', 'loop habit']",0.13,0.78,False,584.0,0.72,I want to gain control of my scrolling,dependency
+U_THIRD325,2025-06-13 15:38:00,85.2,afternoon,60.4,0.6,-0.58,"['endless scroll', 'wifi need', ""can't stop watching""]",0.37,0.48,False,394.7,0.9,I want to gain control of my scrolling,dependency
+U_THIRD326,2025-06-13 13:19:00,35.2,afternoon,64.7,3.7,0.19,"['proud moment', 'thankful post', 'reward day']",0.23,0.84,True,715.4,0.53,I want to reward myself with positivity,reward
+U_THIRD327,2025-06-13 14:46:00,17.1,afternoon,42.8,1.4,-0.78,"['stressful scene', 'emergency warning', 'dark theory']",0.36,0.32,True,723.3,0.66,I feel overwhelmed by bad content,anxious
+U_THIRD328,2025-06-13 11:36:00,23.3,morning,5.1,3.2,-0.85,"['sleep vlog', 'fatigue diary', 'napping cat']",0.27,0.69,True,317.5,0.85,I need more mental rest,exhaustion
+U_THIRD329,2025-06-13 09:08:00,43.3,morning,37.6,0.9,0.77,"['fear trigger', 'stressful scene', 'paranoia news']",0.16,0.22,False,246.8,0.87,I want to slow down my mind,anxious
+U_THIRD330,2025-06-13 08:57:00,99.2,morning,72.1,3.2,0.79,"['scary fact', 'stressful scene', 'paranoia news']",0.11,0.47,False,444.6,0.83,I feel overwhelmed by bad content,anxious
+U_THIRD331,2025-06-13 00:53:00,42.7,late_night,11.3,3.7,-0.32,"['stressful scene', 'horror edit', 'fear trigger']",0.36,0.71,True,693.7,0.95,I want to slow down my mind,anxious
+U_THIRD332,2025-06-13 13:28:00,85.2,afternoon,44.4,3.3,-0.89,"['horror edit', 'dark theory', 'emergency warning']",0.33,0.68,True,439.0,0.9,I feel overwhelmed by bad content,anxious
+U_THIRD333,2025-06-13 21:23:00,8.9,night,36.4,2.6,-0.76,"['could’ve done better', 'shame reel', 'regret stories']",0.11,0.85,False,350.1,0.84,I hope to make better choices,guilt
+U_THIRD334,2025-06-13 00:23:00,8.5,late_night,65.5,2.4,-0.49,"['endless scroll', ""can't stop watching"", 'autoplay trap']",0.05,0.41,False,398.6,0.76,I want to reduce my reliance on content,dependency
+U_THIRD335,2025-06-13 12:27:00,62.5,afternoon,41.6,3.6,-0.13,"['celebration edit', 'motivation win', 'happy scream']",0.02,0.32,False,725.3,0.91,I deserve to celebrate,reward
+U_THIRD336,2025-06-13 10:15:00,39.9,morning,40.2,2.6,-0.51,"['loss highlight', 'regret stories', 'guilt meme']",0.29,0.67,True,624.3,0.81,I hope to make better choices,guilt
+U_THIRD337,2025-06-13 14:44:00,19.7,afternoon,5.7,3.6,0.6,"['emergency warning', 'breaking alert', 'stressful scene']",0.28,0.26,False,467.8,0.55,I want to slow down my mind,anxious
+U_THIRD338,2025-06-13 18:27:00,40.7,night,57.6,2.5,0.72,"['napping cat', 'work burnout', 'sleep vlog']",0.38,0.2,False,510.5,0.87,I feel drained and need space,exhaustion
+U_THIRD339,2025-06-13 21:05:00,62.3,night,54.7,3.8,0.89,"['horror edit', 'scary fact', 'fear trigger']",0.06,0.17,True,412.9,0.87,I want to slow down my mind,anxious
+U_THIRD340,2025-06-13 11:18:00,8.7,morning,70.2,3.6,-0.62,"['goal achieved', 'fun time', 'proud moment']",0.15,0.79,False,620.6,0.92,I deserve to celebrate,reward
+U_THIRD341,2025-06-13 10:37:00,93.8,morning,67.0,0.6,0.41,"['could’ve done better', 'responsibility talk', 'embarrassing fail']",0.04,0.52,True,180.2,0.71,I hope to make better choices,guilt
+U_THIRD342,2025-06-13 04:14:00,60.8,late_night,17.2,2.7,0.33,"['feel good story', 'thankful post', 'finally success']",0.09,0.49,False,726.7,0.58,I want to reward myself with positivity,reward
+U_THIRD343,2025-06-13 15:47:00,75.4,afternoon,31.9,3.6,0.86,"['overstim edit', 'napping cat', 'crash reel']",0.15,0.79,False,268.8,0.57,I need more mental rest,exhaustion
+U_THIRD344,2025-06-13 00:52:00,38.1,late_night,35.5,1.9,0.13,"['FOMO wave', 'endless scroll', 'routine doom']",0.32,0.27,True,582.6,0.75,I want to reduce my reliance on content,dependency
+U_THIRD345,2025-06-13 20:01:00,47.7,night,44.2,2.0,-0.04,"['endless scroll', 'autoplay trap', 'routine doom']",0.11,0.46,False,523.9,0.56,I want to reduce my reliance on content,dependency
+U_THIRD346,2025-06-13 16:21:00,94.9,afternoon,17.7,1.5,0.98,"['dark theory', 'crisis footage', 'stressful scene']",0.21,0.37,True,345.4,0.94,I feel overwhelmed by bad content,anxious
+U_THIRD347,2025-06-13 13:52:00,95.5,afternoon,62.4,0.5,0.21,"['reward day', 'thankful post', 'goal achieved']",0.07,0.72,True,244.3,0.9,I deserve to celebrate,reward
+U_THIRD348,2025-06-13 01:41:00,23.9,late_night,42.1,3.1,-0.13,"['reward day', 'thankful post', 'fun time']",0.3,0.74,False,646.8,0.73,I want to reward myself with positivity,reward
+U_THIRD349,2025-06-13 17:14:00,45.0,afternoon,53.5,0.8,0.42,"['wifi need', 'routine doom', 'habitual checking']",0.1,0.19,False,512.2,0.72,I want to reduce my reliance on content,dependency
+U_THIRD350,2025-06-13 15:08:00,14.3,afternoon,66.9,2.2,-0.17,"['celebration edit', 'happy scream', 'motivation win']",0.02,0.81,False,592.0,0.92,I deserve to celebrate,reward
+U_THIRD351,2025-06-13 01:59:00,79.2,late_night,30.6,3.5,-0.83,"['horror edit', 'fear trigger', 'dark theory']",0.02,0.29,False,526.1,0.88,I want to slow down my mind,anxious
+U_THIRD352,2025-06-13 12:53:00,37.4,afternoon,36.1,1.3,-0.72,"['guilt meme', 'could’ve done better', 'loss highlight']",0.19,0.84,True,577.6,0.61,I hope to make better choices,guilt
+U_THIRD353,2025-06-13 17:41:00,45.8,afternoon,42.0,2.5,0.49,"['celebration edit', 'finally success', 'goal achieved']",0.38,0.37,True,323.5,0.74,I want to reward myself with positivity,reward
+U_THIRD354,2025-06-13 01:57:00,69.5,late_night,41.4,1.5,0.62,"['proud moment', 'reward day', 'thankful post']",0.04,0.75,False,364.6,0.62,I want to reward myself with positivity,reward
+U_THIRD355,2025-06-13 23:11:00,59.2,night,48.1,2.9,0.59,"['thankful post', 'motivation win', 'finally success']",0.33,0.37,False,734.0,0.82,I want to reward myself with positivity,reward
+U_THIRD356,2025-06-13 11:45:00,19.1,morning,64.4,1.5,0.99,"['disappointing moment', 'shame reel', 'bad ending']",0.12,0.54,False,556.5,0.62,I hope to make better choices,guilt
+U_THIRD357,2025-06-13 20:10:00,98.4,night,66.9,2.2,0.72,"['loop habit', 'endless scroll', 'wifi need']",0.33,0.65,True,327.5,0.93,I want to gain control of my scrolling,dependency
+U_THIRD358,2025-06-13 19:21:00,34.5,night,28.5,2.7,-0.03,"['could’ve done better', 'loss highlight', 'missed opportunity']",0.22,0.73,False,170.6,0.72,I want to turn regret into action,guilt
+U_THIRD359,2025-06-13 11:04:00,56.5,morning,19.8,2.4,0.82,"['overstim edit', 'work burnout', 'eye strain']",0.29,0.9,True,225.1,0.98,I need more mental rest,exhaustion
+U_THIRD360,2025-06-13 14:49:00,54.4,afternoon,45.8,1.3,-0.74,"['fear trigger', 'horror edit', 'breaking alert']",0.11,0.29,False,712.5,0.88,I want to slow down my mind,anxious
+U_THIRD361,2025-06-13 19:48:00,24.7,night,9.3,1.8,-0.78,"['overload speech', 'heavy brain', 'sleep vlog']",0.27,0.6,True,310.6,0.86,I feel drained and need space,exhaustion
+U_THIRD362,2025-06-13 19:51:00,83.0,night,16.4,1.1,0.02,"['check phone', 'FOMO wave', 'routine doom']",0.09,0.17,True,200.7,0.8,I want to reduce my reliance on content,dependency
+U_THIRD363,2025-06-13 05:25:00,68.8,late_night,32.1,3.8,0.79,"['horror edit', 'paranoia news', 'breaking alert']",0.32,0.19,True,593.7,0.97,I want to slow down my mind,anxious
+U_THIRD364,2025-06-13 05:49:00,34.3,late_night,38.7,2.7,-0.87,"['crisis footage', 'dark theory', 'stressful scene']",0.38,0.41,True,571.0,0.53,I want to slow down my mind,anxious
+U_THIRD365,2025-06-13 17:49:00,8.5,afternoon,32.7,3.0,-0.09,"[""can't stop watching"", 'wifi need', 'daily addiction']",0.03,0.18,False,719.6,0.56,I want to reduce my reliance on content,dependency
+U_THIRD366,2025-06-13 02:23:00,65.6,late_night,18.5,1.9,0.07,"['proud moment', 'feel good story', 'celebration edit']",0.14,0.8,False,235.7,0.54,I want to reward myself with positivity,reward
+U_THIRD367,2025-06-13 09:17:00,17.9,morning,51.7,3.7,0.26,"['fear trigger', 'dark theory', 'danger trend']",0.35,0.19,True,584.9,0.63,I feel overwhelmed by bad content,anxious
+U_THIRD368,2025-06-13 17:27:00,11.0,afternoon,42.0,1.6,-0.58,"['daily addiction', 'endless scroll', 'routine doom']",0.11,0.53,True,432.6,0.94,I want to reduce my reliance on content,dependency
+U_THIRD369,2025-06-13 00:21:00,96.4,late_night,18.7,2.9,-0.1,"['finally success', 'motivation win', 'goal achieved']",0.26,0.2,False,571.6,0.65,I deserve to celebrate,reward
+U_THIRD370,2025-06-13 22:45:00,35.4,night,45.4,1.9,0.17,"['work burnout', 'heavy brain', 'sleep vlog']",0.12,0.15,False,431.4,0.87,I feel drained and need space,exhaustion
+U_THIRD371,2025-06-13 06:35:00,41.5,morning,37.6,0.6,-0.87,"['sleep vlog', 'fatigue diary', 'overload speech']",0.09,0.22,True,739.3,0.75,I need more mental rest,exhaustion
+U_THIRD372,2025-06-13 18:16:00,17.2,night,17.9,0.8,0.54,"['autoplay trap', 'endless scroll', 'daily addiction']",0.17,0.9,False,673.5,0.52,I want to gain control of my scrolling,dependency
+U_THIRD373,2025-06-13 00:02:00,47.5,late_night,36.5,1.4,0.5,"['daily addiction', 'wifi need', 'loop habit']",0.18,0.85,False,259.0,0.71,I want to gain control of my scrolling,dependency
+U_THIRD374,2025-06-13 15:10:00,17.6,afternoon,29.5,0.9,0.76,"['proud moment', 'feel good story', 'goal achieved']",0.39,0.31,False,343.1,0.66,I deserve to celebrate,reward
+U_THIRD375,2025-06-13 18:01:00,59.8,night,52.4,2.0,-0.19,"['celebration edit', 'thankful post', 'goal achieved']",0.03,0.84,True,502.1,0.55,I deserve to celebrate,reward
+U_THIRD376,2025-06-13 15:19:00,44.3,afternoon,38.1,2.1,-0.02,"['dark theory', 'scary fact', 'danger trend']",0.32,0.81,False,386.4,0.88,I feel overwhelmed by bad content,anxious
+U_THIRD377,2025-06-13 16:37:00,90.0,afternoon,41.9,3.7,0.27,"['crisis footage', 'scary fact', 'breaking alert']",0.14,0.9,False,195.4,0.59,I feel overwhelmed by bad content,anxious
+U_THIRD378,2025-06-13 04:59:00,19.1,late_night,34.8,2.3,0.84,"['proud moment', 'fun time', 'reward day']",0.05,0.49,False,609.5,0.5,I want to reward myself with positivity,reward
+U_THIRD379,2025-06-13 05:52:00,97.4,late_night,51.9,3.1,0.64,"['habitual checking', 'wifi need', 'FOMO wave']",0.36,0.62,False,676.5,0.89,I want to reduce my reliance on content,dependency
+U_THIRD380,2025-06-13 20:22:00,20.9,night,37.2,1.3,0.61,"['emergency warning', 'danger trend', 'scary fact']",0.21,0.85,False,175.4,0.69,I want to slow down my mind,anxious
+U_THIRD381,2025-06-13 10:46:00,74.9,morning,73.7,2.7,0.6,"['paranoia news', 'fear trigger', 'scary fact']",0.08,0.57,False,649.9,0.74,I feel overwhelmed by bad content,anxious
+U_THIRD382,2025-06-13 01:16:00,94.9,late_night,15.7,3.0,-0.93,"['crash reel', 'overload speech', 'work burnout']",0.23,0.36,True,678.6,0.79,I feel drained and need space,exhaustion
+U_THIRD383,2025-06-13 03:55:00,17.6,late_night,68.2,0.8,0.52,"['paranoia news', 'crisis footage', 'scary fact']",0.35,0.8,False,256.8,0.75,I feel overwhelmed by bad content,anxious
+U_THIRD384,2025-06-13 18:25:00,69.8,night,10.3,3.1,0.55,"['eye strain', 'heavy brain', 'zoning out']",0.31,0.3,False,440.1,0.57,I need more mental rest,exhaustion
+U_THIRD385,2025-06-13 00:33:00,13.4,late_night,26.8,1.2,0.4,"['daily addiction', ""can't stop watching"", 'wifi need']",0.15,0.7,True,424.4,0.96,I want to gain control of my scrolling,dependency
+U_THIRD386,2025-06-13 17:29:00,54.8,afternoon,7.7,2.4,0.89,"['proud moment', 'celebration edit', 'motivation win']",0.39,0.17,True,311.7,0.91,I want to reward myself with positivity,reward
+U_THIRD387,2025-06-13 13:16:00,50.2,afternoon,18.2,1.2,-0.6,"['horror edit', 'crisis footage', 'scary fact']",0.26,0.39,False,654.1,0.96,I feel overwhelmed by bad content,anxious
+U_THIRD388,2025-06-13 01:54:00,64.2,late_night,6.4,1.4,0.81,"['proud moment', 'feel good story', 'celebration edit']",0.17,0.35,False,203.5,0.98,I deserve to celebrate,reward
+U_THIRD389,2025-06-13 01:46:00,88.7,late_night,11.2,0.8,0.07,"['crash reel', 'napping cat', 'work burnout']",0.09,0.55,True,213.4,0.51,I feel drained and need space,exhaustion
+U_THIRD390,2025-06-13 08:34:00,91.4,morning,66.8,3.7,-0.18,"['loss highlight', 'guilt meme', 'could’ve done better']",0.04,0.29,False,530.6,0.65,I want to turn regret into action,guilt
+U_THIRD391,2025-06-13 21:32:00,61.9,night,66.0,2.3,-0.22,"['breaking alert', 'scary fact', 'fear trigger']",0.16,0.76,False,585.1,0.69,I feel overwhelmed by bad content,anxious
+U_THIRD392,2025-06-13 04:29:00,48.5,late_night,54.2,3.7,0.03,"['embarrassing fail', 'regret stories', 'disappointing moment']",0.23,0.67,False,191.9,0.8,I hope to make better choices,guilt
+U_THIRD393,2025-06-13 17:48:00,90.5,afternoon,59.0,3.7,-0.05,"['FOMO wave', 'habitual checking', 'routine doom']",0.27,0.6,True,509.6,0.72,I want to reduce my reliance on content,dependency
+U_THIRD394,2025-06-13 23:59:00,15.5,night,35.2,0.8,0.77,"['regret stories', 'guilt meme', 'embarrassing fail']",0.31,0.73,True,340.3,0.64,I want to turn regret into action,guilt
+U_THIRD395,2025-06-13 11:21:00,97.8,morning,29.2,1.9,0.38,"['daily addiction', 'wifi need', 'loop habit']",0.28,0.17,False,384.3,0.86,I want to reduce my reliance on content,dependency
+U_THIRD396,2025-06-13 17:36:00,49.3,afternoon,35.6,0.6,-0.58,"['could’ve done better', 'responsibility talk', 'disappointing moment']",0.31,0.78,True,181.4,0.86,I want to turn regret into action,guilt
+U_THIRD397,2025-06-13 03:40:00,24.7,late_night,31.5,1.8,-0.48,"['wifi need', 'autoplay trap', 'routine doom']",0.22,0.6,False,287.3,0.83,I want to reduce my reliance on content,dependency
+U_THIRD398,2025-06-13 11:39:00,89.0,morning,56.6,2.0,0.12,"['thankful post', 'proud moment', 'feel good story']",0.23,0.64,False,551.9,0.77,I want to reward myself with positivity,reward
+U_THIRD399,2025-06-13 23:08:00,34.4,night,23.4,3.7,-0.72,"['work burnout', 'overload speech', 'heavy brain']",0.07,0.79,True,182.5,0.62,I need more mental rest,exhaustion
+U_THIRD400,2025-06-13 13:48:00,19.1,afternoon,10.3,2.0,-0.21,"['proud moment', 'finally success', 'celebration edit']",0.4,0.2,False,472.2,0.58,I want to reward myself with positivity,reward
+U_THIRD401,2025-06-13 09:06:00,33.4,morning,38.3,2.0,-0.34,"['dark theory', 'fear trigger', 'breaking alert']",0.3,0.22,False,734.3,0.69,I want to slow down my mind,anxious
+U_THIRD402,2025-06-13 03:38:00,22.4,late_night,28.1,3.0,-0.84,"['embarrassing fail', 'missed opportunity', 'regret stories']",0.2,0.16,True,535.5,0.53,I hope to make better choices,guilt
+U_THIRD403,2025-06-13 05:20:00,55.3,late_night,47.2,1.3,0.22,"['goal achieved', 'reward day', 'thankful post']",0.36,0.42,True,234.2,0.58,I want to reward myself with positivity,reward
+U_THIRD404,2025-06-13 07:50:00,69.8,morning,74.2,3.2,0.48,"['stressful scene', 'emergency warning', 'paranoia news']",0.38,0.34,True,667.8,0.53,I want to slow down my mind,anxious
+U_THIRD405,2025-06-13 19:43:00,83.5,night,68.0,2.5,-0.77,"['proud moment', 'thankful post', 'finally success']",0.34,0.7,False,518.7,0.65,I deserve to celebrate,reward
+U_THIRD406,2025-06-13 02:19:00,62.6,late_night,62.9,1.7,-0.96,"['fun time', 'thankful post', 'feel good story']",0.23,0.88,False,325.5,0.6,I want to reward myself with positivity,reward
+U_THIRD407,2025-06-13 23:46:00,65.9,night,21.9,3.5,-0.48,"['fear trigger', 'danger trend', 'crisis footage']",0.34,0.83,False,305.4,0.59,I feel overwhelmed by bad content,anxious
+U_THIRD408,2025-06-13 04:05:00,67.6,late_night,70.8,3.2,0.41,"['fear trigger', 'breaking alert', 'horror edit']",0.09,0.66,True,449.0,0.95,I feel overwhelmed by bad content,anxious
+U_THIRD409,2025-06-13 18:26:00,62.9,night,25.5,0.9,-0.22,"['missed opportunity', 'loss highlight', 'responsibility talk']",0.26,0.23,True,647.6,0.85,I hope to make better choices,guilt
+U_THIRD410,2025-06-13 23:50:00,98.7,night,33.9,1.0,-0.63,"['crisis footage', 'danger trend', 'fear trigger']",0.3,0.9,False,594.2,0.75,I feel overwhelmed by bad content,anxious
+U_THIRD411,2025-06-13 19:26:00,64.1,night,68.3,0.6,0.34,"['autoplay trap', 'habitual checking', 'FOMO wave']",0.14,0.52,False,498.5,0.65,I want to gain control of my scrolling,dependency
+U_THIRD412,2025-06-13 02:15:00,84.1,late_night,63.3,1.8,-0.82,"['emergency warning', 'fear trigger', 'stressful scene']",0.33,0.26,True,524.7,0.9,I feel overwhelmed by bad content,anxious
+U_THIRD413,2025-06-13 06:52:00,27.9,morning,64.7,1.4,-0.29,"['loop habit', 'wifi need', 'habitual checking']",0.12,0.82,False,422.2,0.73,I want to reduce my reliance on content,dependency
+U_THIRD414,2025-06-13 01:49:00,90.5,late_night,73.9,3.5,-0.86,"['routine doom', 'FOMO wave', 'check phone']",0.04,0.58,True,635.1,0.85,I want to gain control of my scrolling,dependency
+U_THIRD415,2025-06-13 03:55:00,83.0,late_night,41.7,2.7,-0.03,"['crisis footage', 'paranoia news', 'scary fact']",0.36,0.56,True,192.4,0.59,I want to slow down my mind,anxious
+U_THIRD416,2025-06-13 16:43:00,12.8,afternoon,72.7,1.9,0.64,"['celebration edit', 'thankful post', 'reward day']",0.17,0.4,False,403.6,0.6,I deserve to celebrate,reward
+U_THIRD417,2025-06-13 04:20:00,45.7,late_night,68.9,1.9,0.97,"['habitual checking', 'autoplay trap', 'check phone']",0.01,0.85,True,395.3,0.91,I want to gain control of my scrolling,dependency
+U_THIRD418,2025-06-13 19:02:00,62.6,night,63.1,2.4,1.0,"['wifi need', 'habitual checking', 'loop habit']",0.13,0.44,False,439.0,0.68,I want to reduce my reliance on content,dependency
+U_THIRD419,2025-06-13 04:07:00,18.8,late_night,23.9,3.7,-0.76,"['proud moment', 'goal achieved', 'feel good story']",0.29,0.59,False,546.0,0.59,I deserve to celebrate,reward
+U_THIRD420,2025-06-13 07:36:00,41.6,morning,55.8,2.6,-0.87,"['overload speech', 'crash reel', 'zoning out']",0.19,0.87,False,535.4,0.82,I feel drained and need space,exhaustion
+U_THIRD421,2025-06-13 15:53:00,70.1,afternoon,34.2,2.1,-0.16,"['horror edit', 'fear trigger', 'danger trend']",0.03,0.36,False,363.5,0.77,I feel overwhelmed by bad content,anxious
+U_THIRD422,2025-06-13 03:44:00,12.2,late_night,60.8,2.1,0.22,"['motivation win', 'proud moment', 'goal achieved']",0.24,0.38,False,564.0,0.52,I want to reward myself with positivity,reward
+U_THIRD423,2025-06-13 02:09:00,69.4,late_night,18.5,0.8,0.25,"['embarrassing fail', 'guilt meme', 'bad ending']",0.11,0.42,True,490.3,0.92,I want to turn regret into action,guilt
+U_THIRD424,2025-06-13 20:56:00,24.4,night,6.3,1.5,0.76,"['loop habit', 'check phone', 'routine doom']",0.36,0.25,True,373.5,0.88,I want to reduce my reliance on content,dependency
+U_THIRD425,2025-06-13 02:20:00,42.1,late_night,54.4,1.6,-0.76,"['scary fact', 'danger trend', 'emergency warning']",0.28,0.83,True,490.4,0.79,I want to slow down my mind,anxious
+U_THIRD426,2025-06-13 21:54:00,82.9,night,56.8,1.2,-0.18,"['routine doom', 'daily addiction', 'FOMO wave']",0.12,0.6,False,291.6,0.91,I want to gain control of my scrolling,dependency
+U_THIRD427,2025-06-13 22:07:00,32.6,night,16.7,0.9,-0.44,"['wifi need', 'autoplay trap', 'endless scroll']",0.17,0.46,False,361.6,0.83,I want to reduce my reliance on content,dependency
+U_THIRD428,2025-06-13 03:13:00,52.7,late_night,42.4,0.8,-0.82,"['regret stories', 'embarrassing fail', 'could’ve done better']",0.24,0.83,True,169.9,0.52,I hope to make better choices,guilt
+U_THIRD429,2025-06-13 23:32:00,23.1,night,46.6,2.4,-0.21,"['embarrassing fail', 'guilt meme', 'responsibility talk']",0.09,0.39,True,642.6,0.77,I want to turn regret into action,guilt
+U_THIRD430,2025-06-13 20:01:00,72.7,night,73.5,1.0,-0.55,"['eye strain', 'crash reel', 'heavy brain']",0.0,0.85,True,293.3,0.67,I need more mental rest,exhaustion
+U_THIRD431,2025-06-13 01:55:00,19.4,late_night,25.4,0.7,-0.49,"['check phone', 'endless scroll', 'wifi need']",0.08,0.16,True,440.0,0.66,I want to reduce my reliance on content,dependency
+U_THIRD432,2025-06-13 15:23:00,77.7,afternoon,13.2,0.5,-0.32,"['emergency warning', 'breaking alert', 'horror edit']",0.0,0.81,True,212.8,0.64,I want to slow down my mind,anxious
+U_THIRD433,2025-06-13 04:13:00,37.8,late_night,23.1,0.4,0.76,"['overstim edit', 'overload speech', 'napping cat']",0.02,0.15,True,553.9,0.65,I need more mental rest,exhaustion
+U_THIRD434,2025-06-13 03:15:00,24.7,late_night,50.2,1.1,-0.35,"['breaking alert', 'fear trigger', 'dark theory']",0.26,0.2,False,701.3,0.7,I feel overwhelmed by bad content,anxious
+U_THIRD435,2025-06-13 11:24:00,47.5,morning,26.0,0.5,-0.19,"['could’ve done better', 'embarrassing fail', 'missed opportunity']",0.12,0.32,False,294.6,0.93,I want to turn regret into action,guilt
+U_THIRD436,2025-06-13 08:35:00,78.0,morning,68.3,2.0,0.81,"['responsibility talk', 'missed opportunity', 'loss highlight']",0.4,0.51,False,278.5,0.65,I hope to make better choices,guilt
+U_THIRD437,2025-06-13 15:11:00,41.2,afternoon,27.3,3.5,-0.57,"['shame reel', 'bad ending', 'regret stories']",0.28,0.57,True,537.2,0.64,I hope to make better choices,guilt
+U_THIRD438,2025-06-13 16:26:00,63.3,afternoon,35.8,0.6,0.19,"['overload speech', 'sleep vlog', 'work burnout']",0.03,0.31,True,554.4,0.93,I feel drained and need space,exhaustion
+U_THIRD439,2025-06-13 12:22:00,18.1,afternoon,66.0,1.8,0.52,"['missed opportunity', 'embarrassing fail', 'bad ending']",0.34,0.53,False,581.4,0.89,I hope to make better choices,guilt
+U_THIRD440,2025-06-13 09:31:00,60.1,morning,46.5,3.3,-0.96,"['bad ending', 'responsibility talk', 'shame reel']",0.37,0.21,True,444.7,0.53,I want to turn regret into action,guilt
+U_THIRD441,2025-06-13 23:22:00,37.7,night,16.9,2.8,-0.29,"['check phone', 'habitual checking', 'loop habit']",0.38,0.39,True,445.5,0.92,I want to reduce my reliance on content,dependency
+U_THIRD442,2025-06-13 15:31:00,96.1,afternoon,6.5,2.5,0.33,"['crisis footage', 'dark theory', 'paranoia news']",0.3,0.52,True,722.3,0.52,I feel overwhelmed by bad content,anxious
+U_THIRD443,2025-06-13 13:17:00,73.6,afternoon,44.4,2.9,-0.98,"['shame reel', 'guilt meme', 'disappointing moment']",0.19,0.53,True,741.3,0.53,I want to turn regret into action,guilt
+U_THIRD444,2025-06-13 20:14:00,55.0,night,69.4,1.2,0.15,"['crisis footage', 'stressful scene', 'fear trigger']",0.14,0.32,False,434.4,0.57,I want to slow down my mind,anxious
+U_THIRD445,2025-06-13 21:13:00,31.8,night,46.6,3.0,-0.75,"['sleep vlog', 'overload speech', 'fatigue diary']",0.02,0.66,False,340.1,0.71,I feel drained and need space,exhaustion
+U_THIRD446,2025-06-13 08:24:00,90.8,morning,42.1,0.8,-0.98,"['zoning out', 'eye strain', 'fatigue diary']",0.23,0.73,False,715.7,0.62,I need more mental rest,exhaustion
+U_THIRD447,2025-06-13 20:45:00,31.8,night,31.8,2.4,-0.46,"['fatigue diary', 'napping cat', 'zoning out']",0.06,0.56,True,303.2,0.51,I need more mental rest,exhaustion
+U_THIRD448,2025-06-13 09:30:00,45.9,morning,59.9,0.4,-0.46,"['sleep vlog', 'overload speech', 'napping cat']",0.0,0.17,False,315.2,0.76,I need more mental rest,exhaustion
+U_THIRD449,2025-06-13 06:30:00,15.5,morning,68.0,1.2,0.32,"['guilt meme', 'embarrassing fail', 'missed opportunity']",0.38,0.55,False,483.7,0.75,I hope to make better choices,guilt
+U_THIRD450,2025-06-13 10:03:00,87.2,morning,23.8,0.9,-0.73,"['breaking alert', 'danger trend', 'crisis footage']",0.07,0.72,False,216.8,0.87,I want to slow down my mind,anxious
+U_THIRD451,2025-06-13 16:58:00,42.7,afternoon,56.8,3.0,0.69,"['guilt meme', 'responsibility talk', 'shame reel']",0.01,0.75,True,589.0,0.58,I want to turn regret into action,guilt
+U_THIRD452,2025-06-13 21:46:00,25.3,night,7.9,0.6,0.49,"['emergency warning', 'paranoia news', 'breaking alert']",0.09,0.58,True,553.6,0.93,I want to slow down my mind,anxious
+U_THIRD453,2025-06-13 10:38:00,96.5,morning,71.0,1.3,0.45,"['zoning out', 'heavy brain', 'eye strain']",0.12,0.82,False,441.4,0.66,I feel drained and need space,exhaustion
+U_THIRD454,2025-06-13 09:02:00,8.4,morning,17.9,2.8,-0.61,"['dark theory', 'horror edit', 'crisis footage']",0.31,0.62,False,510.6,0.56,I want to slow down my mind,anxious
+U_THIRD455,2025-06-13 14:54:00,25.0,afternoon,58.6,1.6,-0.25,"['thankful post', 'reward day', 'fun time']",0.19,0.7,True,265.9,0.84,I deserve to celebrate,reward
+U_THIRD456,2025-06-13 10:08:00,12.0,morning,6.8,2.5,-0.26,"['scary fact', 'breaking alert', 'fear trigger']",0.28,0.49,False,716.5,0.74,I feel overwhelmed by bad content,anxious
+U_THIRD457,2025-06-13 00:16:00,36.7,late_night,63.8,2.7,-0.11,"['shame reel', 'bad ending', 'loss highlight']",0.18,0.48,False,416.6,0.55,I hope to make better choices,guilt
+U_THIRD458,2025-06-13 06:37:00,90.8,morning,32.5,0.7,0.2,"['eye strain', 'overstim edit', 'fatigue diary']",0.32,0.17,False,492.5,0.71,I need more mental rest,exhaustion
+U_THIRD459,2025-06-13 09:26:00,81.3,morning,26.7,3.4,0.94,"['napping cat', 'zoning out', 'sleep vlog']",0.31,0.79,False,372.4,0.81,I feel drained and need space,exhaustion
+U_THIRD460,2025-06-13 13:30:00,11.9,afternoon,35.7,2.4,0.57,"['emergency warning', 'stressful scene', 'paranoia news']",0.4,0.5,False,492.3,0.91,I want to slow down my mind,anxious
+U_THIRD461,2025-06-13 18:06:00,95.6,night,14.6,1.1,0.16,"['heavy brain', 'eye strain', 'fatigue diary']",0.19,0.25,True,516.8,0.87,I feel drained and need space,exhaustion
+U_THIRD462,2025-06-13 18:26:00,9.1,night,7.6,2.2,-0.68,"['fatigue diary', 'napping cat', 'eye strain']",0.28,0.49,False,559.8,0.73,I feel drained and need space,exhaustion
+U_THIRD463,2025-06-13 15:58:00,93.3,afternoon,11.3,0.5,0.67,"['crash reel', 'fatigue diary', 'work burnout']",0.34,0.55,False,205.1,0.82,I feel drained and need space,exhaustion
+U_THIRD464,2025-06-13 18:15:00,52.9,night,58.0,0.7,0.03,"['celebration edit', 'goal achieved', 'reward day']",0.24,0.7,True,227.7,0.79,I deserve to celebrate,reward
+U_THIRD465,2025-06-13 09:28:00,47.6,morning,31.5,2.8,-0.29,"['scary fact', 'danger trend', 'crisis footage']",0.2,0.24,True,736.6,0.89,I want to slow down my mind,anxious
+U_THIRD466,2025-06-13 14:44:00,91.3,afternoon,29.4,3.6,0.92,"['thankful post', 'reward day', 'goal achieved']",0.03,0.43,False,635.4,0.78,I deserve to celebrate,reward
+U_THIRD467,2025-06-13 04:40:00,84.8,late_night,62.0,1.6,0.89,"['zoning out', 'napping cat', 'overstim edit']",0.24,0.3,True,272.9,0.89,I feel drained and need space,exhaustion
+U_THIRD468,2025-06-13 09:47:00,38.9,morning,34.4,2.3,0.49,"['reward day', 'goal achieved', 'finally success']",0.01,0.87,False,478.6,0.83,I deserve to celebrate,reward
+U_THIRD469,2025-06-13 01:04:00,49.3,late_night,45.1,0.7,0.36,"['dark theory', 'fear trigger', 'crisis footage']",0.02,0.72,False,686.0,0.79,I feel overwhelmed by bad content,anxious
+U_THIRD470,2025-06-13 19:25:00,54.6,night,54.8,1.9,0.36,"['dark theory', 'fear trigger', 'paranoia news']",0.34,0.34,False,592.1,0.68,I feel overwhelmed by bad content,anxious
+U_THIRD471,2025-06-13 08:13:00,54.6,morning,30.8,3.4,-0.18,"['responsibility talk', 'guilt meme', 'regret stories']",0.12,0.19,True,649.6,0.68,I want to turn regret into action,guilt
+U_THIRD472,2025-06-13 09:55:00,22.0,morning,74.4,2.5,0.82,"['scary fact', 'paranoia news', 'horror edit']",0.39,0.38,True,493.8,0.63,I want to slow down my mind,anxious
+U_THIRD473,2025-06-13 01:59:00,88.3,late_night,20.9,2.7,0.66,"['zoning out', 'napping cat', 'overload speech']",0.22,0.4,True,688.4,0.62,I feel drained and need space,exhaustion
+U_THIRD474,2025-06-13 11:45:00,72.4,morning,45.8,0.6,-0.77,"[""can't stop watching"", 'endless scroll', 'check phone']",0.2,0.89,False,746.5,0.77,I want to reduce my reliance on content,dependency
+U_THIRD475,2025-06-13 08:05:00,56.8,morning,35.7,2.1,0.93,"['endless scroll', 'wifi need', ""can't stop watching""]",0.19,0.28,True,402.3,0.6,I want to reduce my reliance on content,dependency
+U_THIRD476,2025-06-13 00:29:00,63.2,late_night,16.1,0.8,-0.03,"['proud moment', 'celebration edit', 'fun time']",0.32,0.34,True,276.0,0.95,I want to reward myself with positivity,reward
+U_THIRD477,2025-06-13 13:27:00,96.5,afternoon,16.3,1.5,0.8,"['eye strain', 'overstim edit', 'work burnout']",0.32,0.25,True,593.3,0.91,I feel drained and need space,exhaustion
+U_THIRD478,2025-06-13 03:03:00,74.7,late_night,46.6,2.2,-0.79,"['fatigue diary', 'zoning out', 'work burnout']",0.14,0.46,False,394.4,0.98,I feel drained and need space,exhaustion
+U_THIRD479,2025-06-13 07:29:00,23.6,morning,51.4,3.0,0.2,"['thankful post', 'proud moment', 'finally success']",0.35,0.73,True,581.4,0.68,I want to reward myself with positivity,reward
+U_THIRD480,2025-06-13 19:16:00,52.5,night,55.7,3.3,-0.28,"['happy scream', 'thankful post', 'motivation win']",0.19,0.29,False,310.3,0.61,I want to reward myself with positivity,reward
+U_THIRD481,2025-06-13 11:54:00,16.8,morning,19.1,1.9,-0.42,"['endless scroll', 'FOMO wave', 'check phone']",0.31,0.55,True,364.9,0.96,I want to reduce my reliance on content,dependency
+U_THIRD482,2025-06-13 05:43:00,54.8,late_night,60.5,1.8,0.23,"['heavy brain', 'overload speech', 'zoning out']",0.33,0.28,False,230.5,0.94,I need more mental rest,exhaustion
+U_THIRD483,2025-06-13 00:28:00,24.5,late_night,73.3,1.1,0.89,"['napping cat', 'heavy brain', 'fatigue diary']",0.36,0.43,False,660.7,0.6,I need more mental rest,exhaustion
+U_THIRD484,2025-06-13 07:24:00,28.0,morning,24.3,2.5,0.57,"['heavy brain', 'work burnout', 'sleep vlog']",0.23,0.27,False,544.5,0.7,I feel drained and need space,exhaustion
+U_THIRD485,2025-06-13 06:49:00,87.6,morning,54.0,2.1,-0.7,"['stressful scene', 'horror edit', 'scary fact']",0.28,0.81,False,221.2,0.68,I want to slow down my mind,anxious
+U_THIRD486,2025-06-13 05:34:00,8.1,late_night,45.4,3.4,0.62,"['reward day', 'feel good story', 'happy scream']",0.12,0.31,False,493.2,0.53,I want to reward myself with positivity,reward
+U_THIRD487,2025-06-13 12:03:00,25.4,afternoon,10.3,1.1,-0.92,"['work burnout', 'overstim edit', 'crash reel']",0.37,0.6,False,385.7,0.93,I need more mental rest,exhaustion
+U_THIRD488,2025-06-13 17:22:00,90.2,afternoon,69.1,2.4,0.25,"['embarrassing fail', 'missed opportunity', 'responsibility talk']",0.19,0.85,True,261.2,0.94,I hope to make better choices,guilt
+U_THIRD489,2025-06-13 00:32:00,97.2,late_night,61.8,1.9,-0.7,"['sleep vlog', 'zoning out', 'fatigue diary']",0.32,0.44,True,309.2,0.73,I need more mental rest,exhaustion
+U_THIRD490,2025-06-13 19:15:00,37.1,night,44.2,3.3,-0.95,"['overstim edit', 'sleep vlog', 'crash reel']",0.1,0.42,False,667.1,0.72,I feel drained and need space,exhaustion
+U_THIRD491,2025-06-13 03:36:00,18.5,late_night,32.3,1.0,0.01,"['disappointing moment', 'guilt meme', 'shame reel']",0.35,0.62,False,263.3,0.7,I want to turn regret into action,guilt
+U_THIRD492,2025-06-13 02:55:00,44.2,late_night,25.0,0.8,0.57,"['responsibility talk', 'embarrassing fail', 'loss highlight']",0.33,0.41,True,243.1,0.57,I hope to make better choices,guilt
+U_THIRD493,2025-06-13 14:07:00,51.2,afternoon,50.5,2.7,-0.85,"['regret stories', 'disappointing moment', 'shame reel']",0.19,0.22,True,213.5,0.68,I hope to make better choices,guilt
+U_THIRD494,2025-06-13 14:47:00,40.9,afternoon,9.1,3.6,0.33,"['fatigue diary', 'crash reel', 'eye strain']",0.05,0.23,False,330.4,0.62,I feel drained and need space,exhaustion
+U_THIRD495,2025-06-13 17:20:00,17.5,afternoon,45.2,3.5,-0.01,"['daily addiction', 'loop habit', 'habitual checking']",0.17,0.43,False,353.9,0.67,I want to gain control of my scrolling,dependency
+U_THIRD496,2025-06-13 23:23:00,92.2,night,59.4,1.2,0.54,"['bad ending', 'guilt meme', 'could’ve done better']",0.0,0.78,False,211.5,0.64,I hope to make better choices,guilt
+U_THIRD497,2025-06-13 02:20:00,82.0,late_night,45.2,0.6,0.16,"['zoning out', 'napping cat', 'heavy brain']",0.36,0.53,True,257.2,0.63,I feel drained and need space,exhaustion
+U_THIRD498,2025-06-13 13:09:00,59.0,afternoon,18.0,1.9,0.88,"['responsibility talk', 'embarrassing fail', 'loss highlight']",0.39,0.6,True,410.1,0.51,I hope to make better choices,guilt
+U_THIRD499,2025-06-13 18:20:00,10.0,night,31.4,1.1,-0.5,"[""can't stop watching"", 'loop habit', 'FOMO wave']",0.34,0.65,False,332.9,0.86,I want to gain control of my scrolling,dependency
+U_THIRD500,2025-06-13 15:21:00,24.9,afternoon,62.9,2.1,0.27,"['bad ending', 'responsibility talk', 'embarrassing fail']",0.12,0.66,True,450.6,0.53,I want to turn regret into action,guilt
+U_THIRD501,2025-06-13 20:16:00,78.0,night,7.4,2.7,-0.22,"['work burnout', 'zoning out', 'napping cat']",0.23,0.69,False,683.4,0.55,I feel drained and need space,exhaustion
+U_THIRD502,2025-06-13 02:33:00,62.6,late_night,32.7,3.0,-0.17,"['overstim edit', 'overload speech', 'zoning out']",0.28,0.48,False,534.7,0.67,I need more mental rest,exhaustion
+U_THIRD503,2025-06-13 00:12:00,35.6,late_night,57.6,1.2,0.22,"['motivation win', 'proud moment', 'celebration edit']",0.37,0.27,False,546.7,0.75,I deserve to celebrate,reward
+U_THIRD504,2025-06-13 16:08:00,47.2,afternoon,30.2,2.5,-0.66,"['FOMO wave', 'routine doom', 'check phone']",0.37,0.64,False,289.7,0.95,I want to gain control of my scrolling,dependency
+U_THIRD505,2025-06-13 20:43:00,82.0,night,23.7,1.5,0.21,"['work burnout', 'overload speech', 'overstim edit']",0.24,0.77,True,563.9,0.75,I need more mental rest,exhaustion
+U_THIRD506,2025-06-13 01:08:00,38.2,late_night,40.3,0.9,-0.93,"['responsibility talk', 'embarrassing fail', 'bad ending']",0.2,0.43,True,192.9,0.85,I hope to make better choices,guilt
+U_THIRD507,2025-06-13 08:31:00,20.9,morning,62.3,2.8,0.25,"['overstim edit', 'zoning out', 'heavy brain']",0.04,0.68,True,477.4,0.9,I feel drained and need space,exhaustion
+U_THIRD508,2025-06-13 16:03:00,62.0,afternoon,52.0,1.9,0.54,"['guilt meme', 'regret stories', 'disappointing moment']",0.38,0.84,True,558.9,0.92,I want to turn regret into action,guilt
+U_THIRD509,2025-06-13 00:40:00,24.1,late_night,24.4,3.2,0.87,"['regret stories', 'disappointing moment', 'bad ending']",0.15,0.78,True,262.2,0.96,I want to turn regret into action,guilt
+U_THIRD510,2025-06-13 19:56:00,65.7,night,58.1,1.0,0.37,"[""can't stop watching"", 'routine doom', 'autoplay trap']",0.03,0.77,True,619.9,0.87,I want to gain control of my scrolling,dependency
+U_THIRD511,2025-06-13 22:37:00,27.6,night,16.8,1.2,-0.38,"['loss highlight', 'guilt meme', 'shame reel']",0.28,0.52,False,537.9,0.71,I hope to make better choices,guilt
+U_THIRD512,2025-06-13 13:30:00,95.9,afternoon,18.4,2.1,0.88,"['emergency warning', 'stressful scene', 'paranoia news']",0.23,0.67,False,712.5,0.64,I want to slow down my mind,anxious
+U_THIRD513,2025-06-13 15:23:00,30.5,afternoon,17.7,1.4,-0.99,"['emergency warning', 'breaking alert', 'stressful scene']",0.21,0.83,False,508.5,0.76,I feel overwhelmed by bad content,anxious
+U_THIRD514,2025-06-13 12:57:00,75.8,afternoon,13.0,0.8,0.1,"['fear trigger', 'dark theory', 'breaking alert']",0.0,0.76,False,709.4,0.84,I feel overwhelmed by bad content,anxious
+U_THIRD515,2025-06-13 19:33:00,93.4,night,59.4,1.4,-0.97,"['fun time', 'feel good story', 'goal achieved']",0.18,0.73,False,502.0,0.7,I deserve to celebrate,reward
+U_THIRD516,2025-06-13 10:31:00,77.2,morning,21.5,3.6,-0.48,"['disappointing moment', 'embarrassing fail', 'shame reel']",0.05,0.2,False,375.1,0.54,I want to turn regret into action,guilt
+U_THIRD517,2025-06-13 17:48:00,75.3,afternoon,5.5,3.5,-0.06,"['loss highlight', 'guilt meme', 'disappointing moment']",0.24,0.53,False,490.3,0.91,I want to turn regret into action,guilt
+U_THIRD518,2025-06-13 19:45:00,11.0,night,71.4,2.0,0.94,"['proud moment', 'fun time', 'motivation win']",0.24,0.7,False,466.6,0.62,I deserve to celebrate,reward
+U_THIRD519,2025-06-13 02:02:00,79.2,late_night,24.5,1.3,-0.35,"['loss highlight', 'could’ve done better', 'guilt meme']",0.36,0.78,False,501.2,0.91,I hope to make better choices,guilt
+U_THIRD520,2025-06-13 08:09:00,71.9,morning,46.1,3.7,0.8,"['zoning out', 'heavy brain', 'napping cat']",0.06,0.9,False,543.9,0.79,I feel drained and need space,exhaustion
+U_THIRD521,2025-06-13 01:08:00,41.9,late_night,38.6,2.3,-0.23,"['responsibility talk', 'guilt meme', 'shame reel']",0.25,0.85,False,378.5,0.79,I hope to make better choices,guilt
+U_THIRD522,2025-06-13 08:53:00,56.7,morning,39.1,0.8,-0.51,"['feel good story', 'fun time', 'motivation win']",0.03,0.47,True,651.6,0.53,I want to reward myself with positivity,reward
+U_THIRD523,2025-06-13 07:16:00,15.6,morning,8.0,1.4,-0.17,"['crisis footage', 'emergency warning', 'scary fact']",0.14,0.4,False,620.9,0.68,I feel overwhelmed by bad content,anxious
+U_THIRD524,2025-06-13 23:27:00,73.1,night,73.1,1.1,-0.46,"['FOMO wave', 'endless scroll', 'loop habit']",0.2,0.27,False,674.6,0.6,I want to reduce my reliance on content,dependency
+U_THIRD525,2025-06-13 01:35:00,79.1,late_night,30.5,1.7,-0.68,"['goal achieved', 'reward day', 'fun time']",0.2,0.42,False,613.5,0.75,I deserve to celebrate,reward
+U_THIRD526,2025-06-13 23:46:00,43.1,night,49.4,1.2,0.97,"['finally success', 'fun time', 'reward day']",0.21,0.15,True,464.5,0.76,I want to reward myself with positivity,reward
+U_THIRD527,2025-06-13 07:58:00,86.7,morning,51.1,2.6,-0.82,"['wifi need', 'check phone', 'routine doom']",0.39,0.58,False,203.2,0.58,I want to reduce my reliance on content,dependency
+U_THIRD528,2025-06-13 18:09:00,29.1,night,23.1,1.0,-0.3,"['embarrassing fail', 'responsibility talk', 'disappointing moment']",0.29,0.86,True,568.4,0.78,I want to turn regret into action,guilt
+U_THIRD529,2025-06-13 06:30:00,93.3,morning,13.0,0.7,0.53,"['responsibility talk', 'loss highlight', 'shame reel']",0.02,0.29,True,594.6,0.73,I hope to make better choices,guilt
+U_THIRD530,2025-06-13 16:32:00,76.7,afternoon,31.4,0.9,0.17,"['guilt meme', 'disappointing moment', 'loss highlight']",0.36,0.18,False,500.3,0.74,I hope to make better choices,guilt
+U_THIRD531,2025-06-13 23:33:00,40.3,night,66.9,1.5,-0.52,"['thankful post', 'proud moment', 'happy scream']",0.24,0.64,False,258.1,0.54,I deserve to celebrate,reward
+U_THIRD532,2025-06-13 02:56:00,76.7,late_night,68.1,3.1,-0.57,"['heavy brain', 'eye strain', 'sleep vlog']",0.1,0.16,False,556.8,0.76,I need more mental rest,exhaustion
+U_THIRD533,2025-06-13 05:02:00,61.0,late_night,67.6,3.4,0.18,"['scary fact', 'emergency warning', 'breaking alert']",0.09,0.6,False,542.1,0.76,I feel overwhelmed by bad content,anxious
+U_THIRD534,2025-06-13 19:16:00,60.2,night,56.0,2.7,-0.42,"['motivation win', 'fun time', 'thankful post']",0.26,0.64,True,643.1,0.8,I want to reward myself with positivity,reward
+U_THIRD535,2025-06-13 13:56:00,21.3,afternoon,69.6,2.4,0.73,"['guilt meme', 'disappointing moment', 'bad ending']",0.39,0.3,False,570.2,0.61,I want to turn regret into action,guilt
+U_THIRD536,2025-06-13 05:01:00,33.1,late_night,25.8,2.9,-0.18,"['shame reel', 'bad ending', 'disappointing moment']",0.39,0.68,False,649.5,0.91,I hope to make better choices,guilt
+U_THIRD537,2025-06-13 15:37:00,87.0,afternoon,48.8,1.5,-0.35,"['goal achieved', 'celebration edit', 'feel good story']",0.1,0.67,False,423.7,0.58,I want to reward myself with positivity,reward
+U_THIRD538,2025-06-13 10:02:00,47.4,morning,43.4,2.1,-0.5,"['thankful post', 'finally success', 'reward day']",0.1,0.37,False,446.1,0.96,I want to reward myself with positivity,reward
+U_THIRD539,2025-06-13 22:49:00,72.8,night,56.2,0.5,-0.08,"['autoplay trap', 'endless scroll', 'check phone']",0.2,0.68,False,216.8,0.94,I want to gain control of my scrolling,dependency
+U_THIRD540,2025-06-13 03:12:00,96.3,late_night,53.8,2.1,-0.18,"['reward day', 'finally success', 'fun time']",0.37,0.23,False,713.6,0.92,I deserve to celebrate,reward
+U_THIRD541,2025-06-13 16:59:00,36.8,afternoon,63.4,2.6,0.71,"['bad ending', 'regret stories', 'guilt meme']",0.38,0.15,False,386.2,0.9,I want to turn regret into action,guilt
+U_THIRD542,2025-06-13 05:35:00,58.5,late_night,44.4,0.8,-0.58,"['eye strain', 'fatigue diary', 'heavy brain']",0.13,0.5,False,593.0,0.53,I feel drained and need space,exhaustion
+U_THIRD543,2025-06-13 01:12:00,96.0,late_night,73.7,3.3,0.45,"['bad ending', 'embarrassing fail', 'loss highlight']",0.04,0.23,True,701.3,0.78,I want to turn regret into action,guilt
+U_THIRD544,2025-06-13 15:16:00,49.5,afternoon,12.4,1.2,0.63,"['work burnout', 'heavy brain', 'sleep vlog']",0.09,0.34,False,533.9,0.75,I need more mental rest,exhaustion
+U_THIRD545,2025-06-13 18:04:00,20.1,night,65.7,3.1,0.95,"['fear trigger', 'crisis footage', 'paranoia news']",0.18,0.87,False,621.4,0.67,I want to slow down my mind,anxious
+U_THIRD546,2025-06-13 00:54:00,49.5,late_night,55.0,1.5,1.0,"['check phone', 'endless scroll', 'loop habit']",0.28,0.58,False,307.2,0.58,I want to reduce my reliance on content,dependency
+U_THIRD547,2025-06-13 21:42:00,36.1,night,9.8,1.0,0.04,"['fun time', 'feel good story', 'finally success']",0.14,0.29,True,303.4,0.7,I deserve to celebrate,reward
+U_THIRD548,2025-06-13 13:40:00,27.0,afternoon,37.5,3.2,-0.78,"['paranoia news', 'dark theory', 'scary fact']",0.11,0.25,False,631.9,0.72,I feel overwhelmed by bad content,anxious
+U_THIRD549,2025-06-13 18:47:00,91.2,night,52.8,2.1,0.26,"['shame reel', 'bad ending', 'regret stories']",0.18,0.6,False,169.7,0.81,I hope to make better choices,guilt
+U_THIRD550,2025-06-13 04:52:00,45.6,late_night,18.4,0.7,0.98,"['crash reel', 'work burnout', 'napping cat']",0.32,0.83,True,214.1,0.65,I need more mental rest,exhaustion
+U_THIRD551,2025-06-13 03:46:00,89.0,late_night,73.2,1.9,0.83,"['overstim edit', 'eye strain', 'fatigue diary']",0.24,0.24,False,632.9,0.65,I feel drained and need space,exhaustion
+U_THIRD552,2025-06-13 22:17:00,99.9,night,31.5,1.8,0.82,"[""can't stop watching"", 'FOMO wave', 'routine doom']",0.31,0.82,True,552.5,0.73,I want to reduce my reliance on content,dependency
+U_THIRD553,2025-06-13 23:32:00,54.2,night,21.9,1.9,-0.16,"['FOMO wave', 'check phone', 'routine doom']",0.32,0.22,True,387.9,0.92,I want to reduce my reliance on content,dependency
+U_THIRD554,2025-06-13 12:40:00,9.2,afternoon,59.4,0.5,0.61,"['motivation win', 'fun time', 'thankful post']",0.07,0.58,False,556.2,0.76,I deserve to celebrate,reward
+U_THIRD555,2025-06-13 03:58:00,64.5,late_night,45.8,1.9,-0.4,"['paranoia news', 'dark theory', 'scary fact']",0.1,0.48,True,626.2,0.91,I want to slow down my mind,anxious
+U_THIRD556,2025-06-13 16:38:00,33.0,afternoon,51.0,2.4,-0.09,"['bad ending', 'loss highlight', 'regret stories']",0.32,0.64,False,307.6,0.74,I hope to make better choices,guilt
+U_THIRD557,2025-06-13 04:32:00,98.1,late_night,44.5,2.1,0.56,"['fun time', 'goal achieved', 'thankful post']",0.19,0.78,False,472.3,0.54,I deserve to celebrate,reward
+U_THIRD558,2025-06-13 18:21:00,62.8,night,29.8,3.3,0.97,"['wifi need', 'endless scroll', 'check phone']",0.34,0.28,False,517.4,0.66,I want to gain control of my scrolling,dependency
+U_THIRD559,2025-06-13 14:06:00,81.1,afternoon,56.2,2.9,-0.93,"['heavy brain', 'napping cat', 'sleep vlog']",0.08,0.33,True,291.5,0.84,I feel drained and need space,exhaustion
+U_THIRD560,2025-06-13 23:47:00,70.9,night,29.7,3.2,-0.25,"['wifi need', 'endless scroll', 'habitual checking']",0.17,0.87,True,619.1,0.79,I want to reduce my reliance on content,dependency
+U_THIRD561,2025-06-13 10:54:00,50.4,morning,49.1,1.7,0.73,"['happy scream', 'goal achieved', 'motivation win']",0.1,0.58,False,303.0,0.86,I want to reward myself with positivity,reward
+U_THIRD562,2025-06-13 03:26:00,70.4,late_night,73.4,3.0,-0.3,"['responsibility talk', 'shame reel', 'guilt meme']",0.28,0.86,False,187.5,0.53,I hope to make better choices,guilt
+U_THIRD563,2025-06-13 23:30:00,56.2,night,66.0,1.6,-0.2,"['embarrassing fail', 'bad ending', 'regret stories']",0.37,0.5,False,383.8,0.69,I hope to make better choices,guilt
+U_THIRD564,2025-06-13 02:41:00,99.4,late_night,18.0,3.3,0.93,"['danger trend', 'emergency warning', 'crisis footage']",0.04,0.6,False,297.7,0.7,I want to slow down my mind,anxious
+U_THIRD565,2025-06-13 03:44:00,96.7,late_night,12.7,3.2,-0.1,"['reward day', 'proud moment', 'feel good story']",0.26,0.69,False,597.0,0.58,I want to reward myself with positivity,reward
+U_THIRD566,2025-06-13 23:00:00,35.9,night,42.7,2.5,-0.51,"['horror edit', 'breaking alert', 'dark theory']",0.17,0.59,True,206.1,0.74,I feel overwhelmed by bad content,anxious
+U_THIRD567,2025-06-13 20:37:00,70.4,night,47.9,3.7,0.21,"['crisis footage', 'breaking alert', 'paranoia news']",0.37,0.72,True,334.3,0.8,I want to slow down my mind,anxious
+U_THIRD568,2025-06-13 18:36:00,43.5,night,45.5,1.1,-0.7,"['FOMO wave', 'loop habit', 'check phone']",0.03,0.73,False,153.6,0.82,I want to gain control of my scrolling,dependency
+U_THIRD569,2025-06-13 14:58:00,89.4,afternoon,23.3,1.2,0.53,"['regret stories', 'missed opportunity', 'embarrassing fail']",0.1,0.45,False,604.3,0.84,I hope to make better choices,guilt
+U_THIRD570,2025-06-13 16:28:00,83.4,afternoon,18.7,3.3,0.59,"['could’ve done better', 'regret stories', 'guilt meme']",0.13,0.29,True,745.2,0.87,I want to turn regret into action,guilt
+U_THIRD571,2025-06-13 04:00:00,21.0,late_night,8.3,3.0,0.33,"['crash reel', 'overload speech', 'sleep vlog']",0.33,0.55,False,594.9,0.92,I feel drained and need space,exhaustion
+U_THIRD572,2025-06-13 10:30:00,86.8,morning,37.2,2.8,-0.57,"['loop habit', 'habitual checking', 'routine doom']",0.35,0.52,True,388.3,0.82,I want to gain control of my scrolling,dependency
+U_THIRD573,2025-06-13 12:27:00,60.7,afternoon,60.5,1.7,0.21,"['guilt meme', 'shame reel', 'disappointing moment']",0.13,0.68,True,235.0,0.51,I want to turn regret into action,guilt
+U_THIRD574,2025-06-13 14:43:00,27.4,afternoon,43.2,3.2,-0.12,"['bad ending', 'responsibility talk', 'shame reel']",0.29,0.66,False,312.2,0.74,I hope to make better choices,guilt
+U_THIRD575,2025-06-13 03:32:00,8.0,late_night,50.7,2.8,-0.29,"['feel good story', 'fun time', 'goal achieved']",0.33,0.77,False,166.3,0.57,I want to reward myself with positivity,reward
+U_THIRD576,2025-06-13 18:31:00,42.5,night,63.0,2.8,0.01,"['disappointing moment', 'could’ve done better', 'bad ending']",0.14,0.59,True,172.8,0.66,I hope to make better choices,guilt
+U_THIRD577,2025-06-13 23:48:00,91.3,night,32.2,3.2,-0.56,"['habitual checking', 'autoplay trap', 'check phone']",0.17,0.43,False,336.1,0.75,I want to gain control of my scrolling,dependency
+U_THIRD578,2025-06-13 06:01:00,46.8,morning,5.1,3.6,0.11,"['fun time', 'thankful post', 'finally success']",0.1,0.71,True,485.0,0.79,I want to reward myself with positivity,reward
+U_THIRD579,2025-06-13 22:45:00,73.6,night,8.7,2.0,0.42,"['dark theory', 'scary fact', 'paranoia news']",0.35,0.84,True,355.4,0.63,I feel overwhelmed by bad content,anxious
+U_THIRD580,2025-06-13 21:02:00,52.8,night,37.0,3.6,-0.01,"['stressful scene', 'emergency warning', 'fear trigger']",0.08,0.33,False,611.2,0.88,I feel overwhelmed by bad content,anxious
+U_THIRD581,2025-06-13 21:23:00,48.8,night,46.6,2.0,0.72,"['responsibility talk', 'loss highlight', 'regret stories']",0.27,0.64,False,451.0,0.69,I want to turn regret into action,guilt
+U_THIRD582,2025-06-13 09:13:00,8.5,morning,28.5,3.0,-0.98,"['regret stories', 'shame reel', 'bad ending']",0.01,0.71,True,364.8,0.77,I hope to make better choices,guilt
+U_THIRD583,2025-06-13 01:47:00,58.0,late_night,9.2,2.8,-0.37,"['shame reel', 'could’ve done better', 'guilt meme']",0.03,0.3,False,222.0,0.51,I hope to make better choices,guilt
+U_THIRD584,2025-06-13 16:46:00,21.4,afternoon,30.3,2.3,-0.33,"['scary fact', 'breaking alert', 'horror edit']",0.14,0.2,False,418.7,0.79,I want to slow down my mind,anxious
+U_THIRD585,2025-06-13 01:56:00,70.8,late_night,18.6,3.3,0.37,"['overload speech', 'fatigue diary', 'sleep vlog']",0.32,0.81,False,701.6,0.67,I need more mental rest,exhaustion
+U_THIRD586,2025-06-13 14:42:00,16.2,afternoon,66.6,0.6,-0.67,"['fatigue diary', 'work burnout', 'sleep vlog']",0.03,0.78,True,369.5,0.7,I feel drained and need space,exhaustion
+U_THIRD587,2025-06-13 04:31:00,65.3,late_night,56.0,1.5,0.94,"['heavy brain', 'fatigue diary', 'zoning out']",0.22,0.26,False,626.8,0.87,I need more mental rest,exhaustion
+U_THIRD588,2025-06-13 15:15:00,64.6,afternoon,51.9,3.2,-0.2,"['loop habit', 'FOMO wave', 'wifi need']",0.31,0.29,False,237.7,0.56,I want to gain control of my scrolling,dependency
+U_THIRD589,2025-06-13 14:49:00,95.1,afternoon,40.4,1.5,0.28,"['overload speech', 'eye strain', 'crash reel']",0.04,0.48,True,435.2,0.95,I feel drained and need space,exhaustion
+U_THIRD590,2025-06-13 06:12:00,98.7,morning,14.0,3.1,-0.61,"['embarrassing fail', 'responsibility talk', 'shame reel']",0.1,0.28,False,408.9,0.62,I want to turn regret into action,guilt
+U_THIRD591,2025-06-13 07:58:00,74.4,morning,18.2,2.1,-0.89,"['motivation win', 'goal achieved', 'fun time']",0.27,0.72,True,636.7,0.69,I want to reward myself with positivity,reward
+U_THIRD592,2025-06-13 21:20:00,45.2,night,54.6,2.7,0.14,"['bad ending', 'missed opportunity', 'embarrassing fail']",0.34,0.36,True,594.1,0.81,I hope to make better choices,guilt
+U_THIRD593,2025-06-13 08:44:00,67.4,morning,30.4,1.7,-0.26,"['heavy brain', 'eye strain', 'overload speech']",0.38,0.54,True,518.5,0.5,I feel drained and need space,exhaustion
+U_THIRD594,2025-06-13 15:48:00,39.9,afternoon,52.2,0.8,0.97,"['sleep vlog', 'eye strain', 'heavy brain']",0.38,0.4,False,211.8,0.68,I need more mental rest,exhaustion
+U_THIRD595,2025-06-13 06:39:00,61.0,morning,30.0,2.8,0.79,"['regret stories', 'embarrassing fail', 'missed opportunity']",0.12,0.52,False,249.2,0.92,I want to turn regret into action,guilt
+U_THIRD596,2025-06-13 20:36:00,81.6,night,32.2,3.4,-0.12,"['proud moment', 'finally success', 'goal achieved']",0.26,0.21,False,569.9,0.53,I want to reward myself with positivity,reward
+U_THIRD597,2025-06-13 16:50:00,22.7,afternoon,20.4,0.6,-0.15,"['embarrassing fail', 'responsibility talk', 'loss highlight']",0.06,0.88,True,199.1,0.65,I want to turn regret into action,guilt
+U_THIRD598,2025-06-13 19:13:00,95.4,night,22.6,0.8,-0.35,"['scary fact', 'breaking alert', 'crisis footage']",0.38,0.22,False,632.7,0.76,I want to slow down my mind,anxious
+U_THIRD599,2025-06-13 04:38:00,66.2,late_night,47.4,1.6,0.66,"['reward day', 'goal achieved', 'happy scream']",0.02,0.46,True,677.4,0.74,I want to reward myself with positivity,reward
+U_THIRD600,2025-06-13 02:49:00,94.5,late_night,22.7,1.5,0.57,"['bad ending', 'responsibility talk', 'shame reel']",0.21,0.72,True,420.8,0.64,I hope to make better choices,guilt
+U_THIRD601,2025-06-13 07:56:00,75.7,morning,70.0,1.7,-0.97,"['wifi need', 'autoplay trap', 'habitual checking']",0.14,0.25,False,568.8,0.63,I want to reduce my reliance on content,dependency
+U_THIRD602,2025-06-13 07:18:00,55.9,morning,65.0,2.1,-0.56,"['emergency warning', 'dark theory', 'horror edit']",0.23,0.56,False,574.8,0.95,I feel overwhelmed by bad content,anxious
+U_THIRD603,2025-06-13 17:55:00,80.2,afternoon,32.1,1.4,0.62,"['napping cat', 'overstim edit', 'fatigue diary']",0.08,0.8,True,223.3,0.57,I need more mental rest,exhaustion
+U_THIRD604,2025-06-13 13:04:00,75.6,afternoon,39.0,0.5,0.29,"['eye strain', 'work burnout', 'sleep vlog']",0.31,0.79,True,153.4,0.81,I feel drained and need space,exhaustion
+U_THIRD605,2025-06-13 13:50:00,26.4,afternoon,20.0,1.4,-0.67,"['work burnout', 'sleep vlog', 'fatigue diary']",0.05,0.68,False,262.0,0.97,I need more mental rest,exhaustion
+U_THIRD606,2025-06-13 03:50:00,99.2,late_night,39.5,0.5,-0.73,"['habitual checking', 'autoplay trap', 'endless scroll']",0.04,0.19,False,398.6,0.65,I want to reduce my reliance on content,dependency
+U_THIRD607,2025-06-13 13:06:00,14.6,afternoon,47.9,0.7,0.33,"['reward day', 'thankful post', 'motivation win']",0.17,0.66,False,264.2,0.92,I want to reward myself with positivity,reward
+U_THIRD608,2025-06-13 04:45:00,87.8,late_night,64.0,2.4,0.9,"['dark theory', 'paranoia news', 'crisis footage']",0.31,0.54,False,433.6,0.85,I feel overwhelmed by bad content,anxious
+U_THIRD609,2025-06-13 12:14:00,45.5,afternoon,55.9,3.7,-0.68,"['zoning out', 'fatigue diary', 'work burnout']",0.24,0.55,True,350.1,0.81,I need more mental rest,exhaustion
+U_THIRD610,2025-06-13 16:43:00,29.7,afternoon,18.6,2.7,-0.03,"['napping cat', 'sleep vlog', 'fatigue diary']",0.3,0.58,True,514.0,0.71,I feel drained and need space,exhaustion
+U_THIRD611,2025-06-13 08:35:00,53.1,morning,47.0,2.0,0.98,"['breaking alert', 'crisis footage', 'emergency warning']",0.27,0.54,True,602.3,0.92,I feel overwhelmed by bad content,anxious
+U_THIRD612,2025-06-13 21:12:00,11.6,night,47.4,2.5,-0.26,"['embarrassing fail', 'responsibility talk', 'regret stories']",0.37,0.31,True,188.7,0.71,I hope to make better choices,guilt
+U_THIRD613,2025-06-13 17:16:00,65.1,afternoon,11.6,0.8,-0.73,"['reward day', 'celebration edit', 'motivation win']",0.29,0.72,True,538.9,0.73,I deserve to celebrate,reward
+U_THIRD614,2025-06-13 05:54:00,86.5,late_night,24.0,0.4,0.75,"['finally success', 'feel good story', 'fun time']",0.21,0.72,True,200.6,0.64,I deserve to celebrate,reward
+U_THIRD615,2025-06-13 23:11:00,42.8,night,28.5,1.1,-0.12,"['FOMO wave', 'habitual checking', 'loop habit']",0.34,0.49,False,545.5,0.72,I want to gain control of my scrolling,dependency
+U_THIRD616,2025-06-13 00:07:00,13.4,late_night,49.2,1.4,-0.23,"['overload speech', 'napping cat', 'sleep vlog']",0.01,0.65,True,430.2,0.71,I feel drained and need space,exhaustion
+U_THIRD617,2025-06-13 14:16:00,78.2,afternoon,70.5,0.7,-0.82,"['daily addiction', 'endless scroll', 'autoplay trap']",0.19,0.51,False,677.6,0.87,I want to gain control of my scrolling,dependency
+U_THIRD618,2025-06-13 04:47:00,57.0,late_night,70.3,3.2,0.62,"['proud moment', 'celebration edit', 'goal achieved']",0.18,0.42,True,638.8,0.72,I want to reward myself with positivity,reward
+U_THIRD619,2025-06-13 17:04:00,73.2,afternoon,57.6,1.2,-0.47,"['napping cat', 'crash reel', 'zoning out']",0.38,0.43,True,425.9,0.56,I feel drained and need space,exhaustion
+U_THIRD620,2025-06-13 21:17:00,52.3,night,10.5,3.6,-0.94,"['proud moment', 'goal achieved', 'motivation win']",0.19,0.28,False,658.3,0.63,I want to reward myself with positivity,reward
+U_THIRD621,2025-06-13 05:19:00,72.3,late_night,20.9,1.8,-0.15,"['reward day', 'fun time', 'thankful post']",0.21,0.43,False,546.0,0.62,I deserve to celebrate,reward
+U_THIRD622,2025-06-13 16:03:00,9.3,afternoon,57.5,2.2,-0.79,"['crisis footage', 'emergency warning', 'breaking alert']",0.15,0.43,True,467.9,0.63,I feel overwhelmed by bad content,anxious
+U_THIRD623,2025-06-13 07:16:00,37.0,morning,67.1,1.8,0.8,"['autoplay trap', ""can't stop watching"", 'FOMO wave']",0.13,0.7,False,154.5,0.7,I want to gain control of my scrolling,dependency
+U_THIRD624,2025-06-13 14:34:00,56.6,afternoon,32.6,3.5,0.94,"['emergency warning', 'fear trigger', 'horror edit']",0.38,0.71,True,450.8,0.77,I feel overwhelmed by bad content,anxious
+U_THIRD625,2025-06-13 06:42:00,98.3,morning,59.6,2.5,-0.31,"['disappointing moment', 'regret stories', 'embarrassing fail']",0.31,0.77,True,747.7,0.63,I hope to make better choices,guilt
+U_THIRD626,2025-06-13 18:27:00,25.1,night,65.2,2.1,0.71,"['horror edit', 'emergency warning', 'paranoia news']",0.08,0.57,True,738.7,0.95,I want to slow down my mind,anxious
+U_THIRD627,2025-06-13 00:20:00,28.8,late_night,71.8,0.5,0.03,"['endless scroll', 'loop habit', 'habitual checking']",0.39,0.34,False,635.2,0.82,I want to reduce my reliance on content,dependency
+U_THIRD628,2025-06-13 22:54:00,91.6,night,74.4,3.4,-0.84,"['motivation win', 'celebration edit', 'happy scream']",0.28,0.81,True,631.1,0.7,I want to reward myself with positivity,reward
+U_THIRD629,2025-06-13 19:02:00,50.0,night,69.5,1.5,-0.24,"['habitual checking', 'autoplay trap', 'wifi need']",0.08,0.28,True,355.2,0.75,I want to reduce my reliance on content,dependency
+U_THIRD630,2025-06-13 10:52:00,23.2,morning,62.9,1.8,0.59,"['routine doom', 'habitual checking', 'daily addiction']",0.25,0.22,False,534.5,0.98,I want to gain control of my scrolling,dependency
+U_THIRD631,2025-06-13 20:10:00,12.0,night,70.6,1.7,-0.35,"['loop habit', 'daily addiction', 'endless scroll']",0.22,0.51,False,389.5,0.84,I want to reduce my reliance on content,dependency
+U_THIRD632,2025-06-13 23:43:00,76.1,night,61.1,1.4,0.2,"['feel good story', 'goal achieved', 'thankful post']",0.18,0.88,True,331.3,0.74,I want to reward myself with positivity,reward
+U_THIRD633,2025-06-13 10:47:00,73.9,morning,69.0,3.1,0.77,"['napping cat', 'fatigue diary', 'zoning out']",0.06,0.7,False,698.1,0.62,I feel drained and need space,exhaustion
+U_THIRD634,2025-06-13 11:53:00,29.7,morning,20.6,0.8,-0.75,"['eye strain', 'heavy brain', 'sleep vlog']",0.12,0.19,False,150.2,0.66,I need more mental rest,exhaustion
+U_THIRD635,2025-06-13 05:30:00,77.3,late_night,26.3,0.7,0.4,"['sleep vlog', 'fatigue diary', 'work burnout']",0.09,0.67,True,499.2,0.73,I need more mental rest,exhaustion
+U_THIRD636,2025-06-13 22:07:00,94.4,night,63.6,3.3,0.99,"['disappointing moment', 'could’ve done better', 'embarrassing fail']",0.17,0.56,False,199.5,0.63,I hope to make better choices,guilt
+U_THIRD637,2025-06-13 22:37:00,51.0,night,25.3,0.9,-0.89,"['bad ending', 'loss highlight', 'responsibility talk']",0.19,0.53,True,167.6,0.79,I want to turn regret into action,guilt
+U_THIRD638,2025-06-13 07:06:00,29.1,morning,53.5,0.7,0.06,"['habitual checking', 'endless scroll', 'routine doom']",0.19,0.77,True,690.8,0.98,I want to gain control of my scrolling,dependency
+U_THIRD639,2025-06-13 19:35:00,24.0,night,74.9,1.2,0.16,"['wifi need', 'habitual checking', 'routine doom']",0.22,0.27,False,585.5,0.74,I want to reduce my reliance on content,dependency
+U_THIRD640,2025-06-13 01:30:00,95.6,late_night,28.3,2.3,0.96,"['overload speech', 'eye strain', 'heavy brain']",0.32,0.55,False,723.6,0.91,I need more mental rest,exhaustion
+U_THIRD641,2025-06-13 02:09:00,74.9,late_night,25.3,2.6,-0.04,"['goal achieved', 'reward day', 'finally success']",0.15,0.63,True,392.0,0.75,I want to reward myself with positivity,reward
+U_THIRD642,2025-06-13 19:43:00,86.7,night,59.4,3.6,-0.98,"['happy scream', 'celebration edit', 'proud moment']",0.24,0.44,True,638.9,0.81,I deserve to celebrate,reward
+U_THIRD643,2025-06-13 19:24:00,69.4,night,34.4,2.6,0.03,"['crash reel', 'napping cat', 'sleep vlog']",0.24,0.9,True,153.0,0.63,I feel drained and need space,exhaustion
+U_THIRD644,2025-06-13 22:40:00,60.0,night,52.2,3.7,-0.1,"['thankful post', 'fun time', 'motivation win']",0.4,0.17,False,169.9,0.89,I deserve to celebrate,reward
+U_THIRD645,2025-06-13 05:41:00,29.1,late_night,73.7,3.0,-0.02,"['happy scream', 'proud moment', 'celebration edit']",0.34,0.52,False,279.5,0.69,I want to reward myself with positivity,reward
+U_THIRD646,2025-06-13 10:54:00,30.0,morning,16.7,3.7,-0.57,"['disappointing moment', 'embarrassing fail', 'shame reel']",0.1,0.58,True,491.3,0.9,I hope to make better choices,guilt
+U_THIRD647,2025-06-13 18:30:00,36.1,night,46.8,3.7,-0.97,"['habitual checking', ""can't stop watching"", 'check phone']",0.34,0.76,False,746.7,0.5,I want to gain control of my scrolling,dependency
+U_THIRD648,2025-06-13 05:56:00,98.3,late_night,49.3,3.0,0.61,"['wifi need', 'endless scroll', 'check phone']",0.32,0.84,True,661.3,0.65,I want to gain control of my scrolling,dependency
+U_THIRD649,2025-06-13 22:53:00,52.4,night,11.2,3.4,0.87,"['work burnout', 'overstim edit', 'overload speech']",0.28,0.15,False,733.6,0.92,I feel drained and need space,exhaustion
+U_THIRD650,2025-06-13 01:15:00,53.1,late_night,39.6,3.4,0.64,"['fun time', 'feel good story', 'proud moment']",0.39,0.63,False,510.2,0.82,I want to reward myself with positivity,reward
+U_THIRD651,2025-06-13 12:57:00,9.8,afternoon,60.6,2.4,0.3,"['work burnout', 'sleep vlog', 'eye strain']",0.26,0.49,True,440.0,0.66,I feel drained and need space,exhaustion
+U_THIRD652,2025-06-13 00:52:00,41.0,late_night,47.0,2.1,-0.88,"['eye strain', 'napping cat', 'overstim edit']",0.34,0.24,True,573.1,0.92,I feel drained and need space,exhaustion
+U_THIRD653,2025-06-13 00:19:00,45.7,late_night,19.6,3.6,0.81,"['overload speech', 'napping cat', 'fatigue diary']",0.25,0.79,False,209.5,0.53,I feel drained and need space,exhaustion
+U_THIRD654,2025-06-13 12:35:00,16.6,afternoon,5.5,1.6,-0.24,"['check phone', ""can't stop watching"", 'endless scroll']",0.39,0.5,False,593.7,0.98,I want to reduce my reliance on content,dependency
+U_THIRD655,2025-06-13 02:22:00,23.2,late_night,10.8,2.2,-0.6,"['loop habit', 'endless scroll', ""can't stop watching""]",0.03,0.43,False,503.6,0.81,I want to reduce my reliance on content,dependency
+U_THIRD656,2025-06-13 06:02:00,28.2,morning,26.3,0.5,-0.54,"['daily addiction', 'routine doom', 'loop habit']",0.28,0.47,False,650.1,0.82,I want to gain control of my scrolling,dependency
+U_THIRD657,2025-06-13 06:10:00,23.3,morning,30.1,3.8,-0.66,"['shame reel', 'loss highlight', 'regret stories']",0.02,0.76,False,698.0,0.83,I want to turn regret into action,guilt
+U_THIRD658,2025-06-13 21:56:00,95.6,night,65.0,0.6,-0.09,"['goal achieved', 'fun time', 'thankful post']",0.29,0.2,False,575.2,0.73,I want to reward myself with positivity,reward
+U_THIRD659,2025-06-13 11:23:00,23.5,morning,11.1,3.6,0.38,"['endless scroll', 'loop habit', 'daily addiction']",0.15,0.56,False,501.7,0.84,I want to gain control of my scrolling,dependency
+U_THIRD660,2025-06-13 00:11:00,40.9,late_night,44.7,2.8,0.98,"['shame reel', 'guilt meme', 'responsibility talk']",0.37,0.86,True,456.0,0.59,I want to turn regret into action,guilt
+U_THIRD661,2025-06-13 10:01:00,17.2,morning,7.2,2.4,-0.87,"['fatigue diary', 'eye strain', 'zoning out']",0.14,0.85,True,730.9,0.64,I need more mental rest,exhaustion
+U_THIRD662,2025-06-13 02:56:00,47.7,late_night,42.1,2.2,0.12,"['autoplay trap', 'loop habit', 'endless scroll']",0.25,0.51,False,556.6,0.64,I want to gain control of my scrolling,dependency
+U_THIRD663,2025-06-13 23:35:00,45.4,night,28.1,3.1,-0.09,"['overstim edit', 'sleep vlog', 'napping cat']",0.23,0.62,True,298.9,0.91,I feel drained and need space,exhaustion
+U_THIRD664,2025-06-13 16:21:00,51.4,afternoon,73.5,2.7,-0.71,"['napping cat', 'heavy brain', 'overload speech']",0.02,0.43,True,725.9,0.57,I need more mental rest,exhaustion
+U_THIRD665,2025-06-13 03:18:00,94.4,late_night,14.2,0.6,0.08,"['zoning out', 'heavy brain', 'napping cat']",0.14,0.48,False,169.1,0.63,I feel drained and need space,exhaustion
+U_THIRD666,2025-06-13 05:08:00,17.9,late_night,66.9,1.6,-0.52,"['motivation win', 'celebration edit', 'happy scream']",0.28,0.16,False,261.2,0.97,I deserve to celebrate,reward
+U_THIRD667,2025-06-13 21:37:00,25.3,night,43.0,2.3,1.0,"['embarrassing fail', 'missed opportunity', 'shame reel']",0.3,0.25,False,205.0,0.86,I want to turn regret into action,guilt
+U_THIRD668,2025-06-13 16:01:00,90.5,afternoon,17.6,0.8,0.96,"['breaking alert', 'scary fact', 'stressful scene']",0.19,0.28,False,492.8,0.76,I feel overwhelmed by bad content,anxious
+U_THIRD669,2025-06-13 13:27:00,94.7,afternoon,11.6,1.7,0.2,"['overstim edit', 'heavy brain', 'work burnout']",0.3,0.16,False,626.3,0.93,I feel drained and need space,exhaustion
+U_THIRD670,2025-06-13 11:24:00,25.8,morning,64.6,1.8,0.87,"['napping cat', 'eye strain', 'heavy brain']",0.16,0.67,False,237.1,0.97,I feel drained and need space,exhaustion
+U_THIRD671,2025-06-13 06:45:00,93.3,morning,14.2,1.1,0.93,"['dark theory', 'fear trigger', 'paranoia news']",0.37,0.51,True,545.2,0.71,I feel overwhelmed by bad content,anxious
+U_THIRD672,2025-06-13 19:08:00,58.0,night,34.1,1.3,0.31,"['breaking alert', 'danger trend', 'fear trigger']",0.22,0.44,True,303.0,0.86,I feel overwhelmed by bad content,anxious
+U_THIRD673,2025-06-13 18:45:00,42.6,night,29.2,1.9,-0.07,"['work burnout', 'overstim edit', 'fatigue diary']",0.04,0.87,False,647.0,0.87,I need more mental rest,exhaustion
+U_THIRD674,2025-06-13 23:54:00,12.7,night,35.7,2.0,-0.13,"['emergency warning', 'horror edit', 'dark theory']",0.15,0.47,True,519.1,0.87,I want to slow down my mind,anxious
+U_THIRD675,2025-06-13 01:41:00,37.2,late_night,67.2,1.5,-0.24,"['motivation win', 'finally success', 'goal achieved']",0.26,0.75,False,291.3,0.59,I want to reward myself with positivity,reward
+U_THIRD676,2025-06-13 15:07:00,44.7,afternoon,18.0,0.4,0.94,"['breaking alert', 'crisis footage', 'stressful scene']",0.37,0.71,True,660.9,0.65,I want to slow down my mind,anxious
+U_THIRD677,2025-06-13 04:45:00,83.2,late_night,16.4,2.1,0.15,"[""can't stop watching"", 'FOMO wave', 'daily addiction']",0.33,0.68,True,456.3,0.92,I want to reduce my reliance on content,dependency
+U_THIRD678,2025-06-13 13:39:00,63.3,afternoon,74.5,3.2,0.88,"['missed opportunity', 'could’ve done better', 'loss highlight']",0.16,0.32,False,373.9,0.8,I want to turn regret into action,guilt
+U_THIRD679,2025-06-13 08:08:00,67.7,morning,33.4,2.9,0.21,"['daily addiction', 'FOMO wave', 'endless scroll']",0.34,0.49,True,208.0,0.98,I want to gain control of my scrolling,dependency
+U_THIRD680,2025-06-13 07:43:00,57.9,morning,64.5,1.4,0.26,"['happy scream', 'reward day', 'celebration edit']",0.37,0.81,True,525.3,0.92,I want to reward myself with positivity,reward
+U_THIRD681,2025-06-13 12:21:00,89.7,afternoon,12.8,0.6,-0.78,"['eye strain', 'work burnout', 'zoning out']",0.27,0.28,True,639.2,0.78,I need more mental rest,exhaustion
+U_THIRD682,2025-06-13 16:44:00,87.8,afternoon,70.2,0.5,0.38,"['scary fact', 'fear trigger', 'crisis footage']",0.12,0.52,False,365.0,0.61,I want to slow down my mind,anxious
+U_THIRD683,2025-06-13 11:59:00,18.1,morning,58.0,3.0,0.98,"['scary fact', 'breaking alert', 'fear trigger']",0.36,0.61,False,499.2,0.74,I feel overwhelmed by bad content,anxious
+U_THIRD684,2025-06-13 21:30:00,41.7,night,56.8,0.7,-0.42,"['sleep vlog', 'work burnout', 'eye strain']",0.29,0.84,True,500.7,0.94,I need more mental rest,exhaustion
+U_THIRD685,2025-06-13 07:34:00,64.6,morning,15.2,3.6,-0.42,"['celebration edit', 'motivation win', 'reward day']",0.11,0.3,False,236.3,0.8,I deserve to celebrate,reward
+U_THIRD686,2025-06-13 15:08:00,88.2,afternoon,25.6,0.8,-0.56,"['heavy brain', 'sleep vlog', 'work burnout']",0.15,0.18,True,338.6,0.51,I need more mental rest,exhaustion
+U_THIRD687,2025-06-13 01:49:00,86.1,late_night,69.0,3.0,-0.59,"['fear trigger', 'danger trend', 'stressful scene']",0.25,0.72,True,584.4,0.92,I want to slow down my mind,anxious
+U_THIRD688,2025-06-13 00:40:00,47.3,late_night,19.7,0.6,-0.57,"['guilt meme', 'loss highlight', 'missed opportunity']",0.35,0.88,True,630.7,0.83,I hope to make better choices,guilt
+U_THIRD689,2025-06-13 06:47:00,52.8,morning,32.3,1.7,-0.37,"['fatigue diary', 'overload speech', 'zoning out']",0.37,0.46,True,392.9,0.63,I need more mental rest,exhaustion
+U_THIRD690,2025-06-13 14:24:00,42.8,afternoon,69.0,1.8,-0.98,"['feel good story', 'finally success', 'happy scream']",0.03,0.77,True,217.2,0.58,I want to reward myself with positivity,reward
+U_THIRD691,2025-06-13 09:58:00,74.5,morning,72.9,1.1,0.19,"['dark theory', 'fear trigger', 'danger trend']",0.28,0.61,True,737.4,0.8,I feel overwhelmed by bad content,anxious
+U_THIRD692,2025-06-13 12:34:00,21.9,afternoon,25.0,1.4,-0.9,"['guilt meme', 'shame reel', 'disappointing moment']",0.11,0.32,False,351.9,0.89,I want to turn regret into action,guilt
+U_THIRD693,2025-06-13 05:21:00,28.0,late_night,21.4,2.8,0.83,"['emergency warning', 'stressful scene', 'scary fact']",0.1,0.8,True,532.6,0.95,I want to slow down my mind,anxious
+U_THIRD694,2025-06-13 01:43:00,82.9,late_night,20.9,3.1,-0.46,"['dark theory', 'crisis footage', 'scary fact']",0.27,0.45,False,333.7,0.8,I feel overwhelmed by bad content,anxious
+U_THIRD695,2025-06-13 00:37:00,22.1,late_night,52.7,2.1,-0.26,"['could’ve done better', 'regret stories', 'guilt meme']",0.18,0.55,True,302.5,0.72,I hope to make better choices,guilt
+U_THIRD696,2025-06-13 18:10:00,37.8,night,13.8,3.5,0.59,"['overload speech', 'heavy brain', 'overstim edit']",0.18,0.87,False,322.3,0.98,I feel drained and need space,exhaustion
+U_THIRD697,2025-06-13 13:08:00,91.1,afternoon,57.5,0.7,-0.34,"['endless scroll', 'autoplay trap', 'loop habit']",0.15,0.72,True,739.4,0.98,I want to reduce my reliance on content,dependency
+U_THIRD698,2025-06-13 12:57:00,23.4,afternoon,5.4,2.3,-0.32,"['crisis footage', 'fear trigger', 'scary fact']",0.15,0.49,False,633.2,0.77,I feel overwhelmed by bad content,anxious
+U_THIRD699,2025-06-13 03:14:00,84.4,late_night,10.4,0.7,0.38,"['guilt meme', 'bad ending', 'embarrassing fail']",0.14,0.35,False,612.7,0.71,I want to turn regret into action,guilt
+U_THIRD700,2025-06-13 16:04:00,77.9,afternoon,46.1,2.2,0.9,"['disappointing moment', 'regret stories', 'embarrassing fail']",0.18,0.78,True,184.6,0.6,I want to turn regret into action,guilt
+U_THIRD701,2025-06-13 19:53:00,44.5,night,41.7,1.3,-0.54,"['scary fact', 'paranoia news', 'horror edit']",0.32,0.3,True,587.5,0.98,I want to slow down my mind,anxious
+U_THIRD702,2025-06-13 00:45:00,92.3,late_night,39.7,2.8,0.67,"['paranoia news', 'danger trend', 'emergency warning']",0.0,0.47,False,480.6,0.68,I want to slow down my mind,anxious
+U_THIRD703,2025-06-13 09:49:00,74.0,morning,41.7,3.8,-0.6,"['heavy brain', 'work burnout', 'napping cat']",0.32,0.33,False,341.5,0.64,I feel drained and need space,exhaustion
+U_THIRD704,2025-06-13 15:44:00,45.7,afternoon,59.7,0.5,0.32,"['happy scream', 'fun time', 'finally success']",0.04,0.46,False,315.8,0.68,I deserve to celebrate,reward
+U_THIRD705,2025-06-13 06:13:00,53.8,morning,17.9,2.0,-0.36,"['zoning out', 'fatigue diary', 'work burnout']",0.21,0.38,True,737.6,0.74,I need more mental rest,exhaustion
+U_THIRD706,2025-06-13 18:42:00,86.5,night,7.6,1.9,0.43,"['finally success', 'motivation win', 'fun time']",0.33,0.71,True,388.7,0.58,I want to reward myself with positivity,reward
+U_THIRD707,2025-06-13 20:40:00,34.9,night,53.4,0.8,0.96,"['zoning out', 'overstim edit', 'overload speech']",0.34,0.66,False,324.6,0.63,I need more mental rest,exhaustion
+U_THIRD708,2025-06-13 03:56:00,20.6,late_night,44.8,1.5,0.24,"['shame reel', 'disappointing moment', 'missed opportunity']",0.3,0.28,True,707.0,0.71,I hope to make better choices,guilt
+U_THIRD709,2025-06-13 11:22:00,87.0,morning,5.2,0.5,-0.82,"['dark theory', 'crisis footage', 'breaking alert']",0.17,0.71,False,241.5,0.83,I feel overwhelmed by bad content,anxious
+U_THIRD710,2025-06-13 10:20:00,29.7,morning,59.2,3.3,-0.72,"['sleep vlog', 'eye strain', 'fatigue diary']",0.08,0.69,True,564.0,0.53,I feel drained and need space,exhaustion
+U_THIRD711,2025-06-13 02:40:00,15.9,late_night,22.2,2.4,0.94,"[""can't stop watching"", 'FOMO wave', 'wifi need']",0.32,0.27,False,501.6,0.63,I want to gain control of my scrolling,dependency
+U_THIRD712,2025-06-13 21:55:00,27.2,night,29.3,2.2,0.48,"['loop habit', 'daily addiction', 'autoplay trap']",0.37,0.16,True,165.3,0.94,I want to reduce my reliance on content,dependency
+U_THIRD713,2025-06-13 17:58:00,27.6,afternoon,36.0,1.5,0.29,"['thankful post', 'motivation win', 'finally success']",0.4,0.86,True,518.7,0.93,I want to reward myself with positivity,reward
+U_THIRD714,2025-06-13 10:49:00,69.6,morning,29.7,2.8,0.89,"['check phone', 'routine doom', 'FOMO wave']",0.32,0.32,False,433.2,0.88,I want to gain control of my scrolling,dependency
+U_THIRD715,2025-06-13 16:47:00,63.5,afternoon,47.9,1.4,-0.55,"['crash reel', 'overload speech', 'napping cat']",0.24,0.87,True,631.1,0.73,I need more mental rest,exhaustion
+U_THIRD716,2025-06-13 15:20:00,90.1,afternoon,57.4,1.9,-0.2,"['scary fact', 'stressful scene', 'dark theory']",0.1,0.71,True,308.3,0.96,I feel overwhelmed by bad content,anxious
+U_THIRD717,2025-06-13 07:09:00,89.0,morning,73.7,1.2,-0.5,"['crash reel', 'overstim edit', 'overload speech']",0.27,0.28,False,387.1,0.74,I need more mental rest,exhaustion
+U_THIRD718,2025-06-13 10:13:00,22.4,morning,31.6,0.9,-0.07,"['endless scroll', ""can't stop watching"", 'loop habit']",0.02,0.47,False,640.7,0.73,I want to reduce my reliance on content,dependency
+U_THIRD719,2025-06-13 11:31:00,71.2,morning,62.6,2.4,-0.12,"['zoning out', 'crash reel', 'overload speech']",0.05,0.35,False,470.8,0.87,I feel drained and need space,exhaustion
+U_THIRD720,2025-06-13 22:42:00,55.7,night,55.4,2.4,0.85,"['shame reel', 'responsibility talk', 'guilt meme']",0.06,0.19,True,490.8,0.59,I hope to make better choices,guilt
+U_THIRD721,2025-06-13 21:53:00,49.6,night,51.2,2.2,-0.96,"[""can't stop watching"", 'routine doom', 'FOMO wave']",0.39,0.39,False,452.7,0.51,I want to gain control of my scrolling,dependency
+U_THIRD722,2025-06-13 10:30:00,67.1,morning,20.1,1.3,0.09,"[""can't stop watching"", 'daily addiction', 'routine doom']",0.01,0.63,True,397.7,0.78,I want to reduce my reliance on content,dependency
+U_THIRD723,2025-06-13 12:24:00,40.8,afternoon,60.1,0.6,-0.26,"['feel good story', 'fun time', 'thankful post']",0.21,0.64,True,447.0,0.88,I want to reward myself with positivity,reward
+U_THIRD724,2025-06-13 03:29:00,20.7,late_night,47.2,2.1,0.7,"['autoplay trap', 'loop habit', 'check phone']",0.2,0.43,True,485.3,0.68,I want to gain control of my scrolling,dependency
+U_THIRD725,2025-06-13 11:50:00,86.8,morning,10.0,3.4,-0.1,"['finally success', 'goal achieved', 'happy scream']",0.06,0.62,False,377.4,0.58,I deserve to celebrate,reward
+U_THIRD726,2025-06-13 00:37:00,12.7,late_night,14.3,1.5,-0.42,"['missed opportunity', 'guilt meme', 'shame reel']",0.23,0.22,False,388.8,0.63,I hope to make better choices,guilt
+U_THIRD727,2025-06-13 12:55:00,67.0,afternoon,69.0,3.7,-0.19,"['breaking alert', 'crisis footage', 'dark theory']",0.24,0.82,False,214.2,0.83,I want to slow down my mind,anxious
+U_THIRD728,2025-06-13 15:22:00,36.1,afternoon,74.0,2.6,-0.65,"['reward day', 'proud moment', 'motivation win']",0.39,0.38,True,547.7,0.97,I deserve to celebrate,reward
+U_THIRD729,2025-06-13 06:16:00,56.3,morning,52.2,1.8,0.9,"['goal achieved', 'fun time', 'reward day']",0.22,0.58,False,275.8,0.86,I deserve to celebrate,reward
+U_THIRD730,2025-06-13 18:22:00,93.7,night,8.2,3.3,-0.18,"['overstim edit', 'crash reel', 'zoning out']",0.27,0.59,False,426.9,0.87,I feel drained and need space,exhaustion
+U_THIRD731,2025-06-13 10:02:00,35.3,morning,25.3,3.6,0.08,"['heavy brain', 'eye strain', 'work burnout']",0.26,0.79,False,353.5,0.75,I need more mental rest,exhaustion
+U_THIRD732,2025-06-13 13:11:00,13.5,afternoon,25.9,0.8,-0.9,"['loss highlight', 'shame reel', 'guilt meme']",0.27,0.79,True,374.8,0.85,I want to turn regret into action,guilt
+U_THIRD733,2025-06-13 18:55:00,95.2,night,25.2,1.2,-0.79,"[""can't stop watching"", 'routine doom', 'loop habit']",0.02,0.88,True,601.1,0.66,I want to reduce my reliance on content,dependency
+U_THIRD734,2025-06-13 15:47:00,10.7,afternoon,51.6,2.0,-0.37,"['could’ve done better', 'bad ending', 'missed opportunity']",0.11,0.73,True,719.5,0.66,I hope to make better choices,guilt
+U_THIRD735,2025-06-13 18:30:00,66.9,night,53.7,2.7,-0.2,"['proud moment', 'goal achieved', 'reward day']",0.15,0.44,True,201.2,0.9,I deserve to celebrate,reward
+U_THIRD736,2025-06-13 08:15:00,80.1,morning,57.2,2.1,0.69,"['paranoia news', 'breaking alert', 'dark theory']",0.26,0.34,False,269.1,0.61,I feel overwhelmed by bad content,anxious
+U_THIRD737,2025-06-13 00:53:00,43.2,late_night,27.0,0.5,-0.42,"['daily addiction', 'loop habit', 'autoplay trap']",0.31,0.66,True,721.6,0.74,I want to reduce my reliance on content,dependency
+U_THIRD738,2025-06-13 18:38:00,28.6,night,53.8,1.7,0.7,"['goal achieved', 'motivation win', 'happy scream']",0.11,0.65,True,608.1,0.72,I deserve to celebrate,reward
+U_THIRD739,2025-06-13 06:55:00,29.4,morning,53.2,1.6,-0.26,"['heavy brain', 'overstim edit', 'crash reel']",0.05,0.74,True,221.8,0.91,I feel drained and need space,exhaustion
+U_THIRD740,2025-06-13 15:55:00,48.1,afternoon,24.9,1.2,0.59,"['work burnout', 'eye strain', 'crash reel']",0.32,0.53,False,539.3,0.92,I need more mental rest,exhaustion
+U_THIRD741,2025-06-13 07:17:00,12.8,morning,37.8,3.5,-0.55,"['proud moment', 'goal achieved', 'finally success']",0.32,0.45,False,236.9,0.91,I deserve to celebrate,reward
+U_THIRD742,2025-06-13 18:03:00,10.3,night,55.1,3.3,-0.67,"['embarrassing fail', 'disappointing moment', 'responsibility talk']",0.36,0.26,False,298.6,0.73,I want to turn regret into action,guilt
+U_THIRD743,2025-06-13 02:48:00,38.4,late_night,9.7,1.8,0.01,"['heavy brain', 'crash reel', 'overstim edit']",0.13,0.73,False,336.9,0.95,I feel drained and need space,exhaustion
+U_THIRD744,2025-06-13 08:14:00,72.8,morning,27.2,3.2,-0.5,"['celebration edit', 'motivation win', 'fun time']",0.24,0.83,False,230.1,0.63,I want to reward myself with positivity,reward
+U_THIRD745,2025-06-13 14:36:00,41.6,afternoon,62.1,3.4,0.77,"['feel good story', 'motivation win', 'happy scream']",0.09,0.61,False,739.0,0.57,I want to reward myself with positivity,reward
+U_THIRD746,2025-06-13 15:00:00,25.7,afternoon,74.6,1.1,-0.92,"['endless scroll', 'daily addiction', 'check phone']",0.27,0.84,True,568.7,0.68,I want to reduce my reliance on content,dependency
+U_THIRD747,2025-06-13 21:27:00,13.2,night,15.9,2.1,-0.42,"['fatigue diary', 'overload speech', 'napping cat']",0.2,0.36,False,432.6,0.72,I feel drained and need space,exhaustion
+U_THIRD748,2025-06-13 03:26:00,82.8,late_night,71.8,2.6,0.52,"['responsibility talk', 'loss highlight', 'shame reel']",0.3,0.76,False,258.5,0.69,I want to turn regret into action,guilt
+U_THIRD749,2025-06-13 12:15:00,64.0,afternoon,65.6,1.0,0.45,"['zoning out', 'fatigue diary', 'crash reel']",0.28,0.49,True,345.4,0.89,I feel drained and need space,exhaustion
+U_THIRD750,2025-06-13 17:25:00,59.3,afternoon,56.2,3.0,0.18,"['reward day', 'motivation win', 'goal achieved']",0.31,0.74,True,362.6,0.51,I want to reward myself with positivity,reward
+U_THIRD751,2025-06-13 11:24:00,30.9,morning,37.7,1.4,-0.32,"['overstim edit', 'zoning out', 'overload speech']",0.04,0.2,True,210.0,0.5,I feel drained and need space,exhaustion
+U_THIRD752,2025-06-13 15:56:00,96.8,afternoon,23.2,3.3,0.06,"['fear trigger', 'stressful scene', 'emergency warning']",0.37,0.25,False,588.2,0.88,I want to slow down my mind,anxious
+U_THIRD753,2025-06-13 15:02:00,77.8,afternoon,62.4,1.5,-0.08,"['thankful post', 'celebration edit', 'reward day']",0.28,0.4,True,177.2,0.95,I deserve to celebrate,reward
+U_THIRD754,2025-06-13 02:55:00,81.0,late_night,60.9,3.4,-0.51,"['missed opportunity', 'bad ending', 'loss highlight']",0.04,0.57,False,693.9,0.82,I hope to make better choices,guilt
+U_THIRD755,2025-06-13 02:05:00,29.1,late_night,21.7,2.4,0.52,"['fun time', 'reward day', 'feel good story']",0.1,0.84,True,237.9,0.86,I deserve to celebrate,reward
+U_THIRD756,2025-06-13 11:27:00,36.9,morning,64.0,0.4,-0.1,"['disappointing moment', 'regret stories', 'could’ve done better']",0.37,0.21,True,735.6,0.93,I hope to make better choices,guilt
+U_THIRD757,2025-06-13 13:38:00,59.6,afternoon,69.7,3.4,-0.8,"['crash reel', 'eye strain', 'overload speech']",0.1,0.19,False,437.4,0.83,I feel drained and need space,exhaustion
+U_THIRD758,2025-06-13 03:17:00,56.6,late_night,40.3,3.0,0.65,"['crisis footage', 'scary fact', 'stressful scene']",0.26,0.4,False,495.9,0.63,I want to slow down my mind,anxious
+U_THIRD759,2025-06-13 05:52:00,19.1,late_night,59.4,1.2,-0.74,"['thankful post', 'feel good story', 'goal achieved']",0.25,0.41,True,397.5,0.81,I want to reward myself with positivity,reward
+U_THIRD760,2025-06-13 01:32:00,92.6,late_night,27.1,0.6,0.65,"['responsibility talk', 'regret stories', 'missed opportunity']",0.21,0.59,False,185.1,0.73,I hope to make better choices,guilt
+U_THIRD761,2025-06-13 17:25:00,78.8,afternoon,25.6,2.3,0.38,"['eye strain', 'fatigue diary', 'sleep vlog']",0.37,0.69,False,706.0,0.86,I feel drained and need space,exhaustion
+U_THIRD762,2025-06-13 19:31:00,51.9,night,53.6,2.9,-0.05,"['motivation win', 'feel good story', 'happy scream']",0.21,0.66,True,542.8,0.73,I deserve to celebrate,reward
+U_THIRD763,2025-06-13 22:32:00,59.2,night,63.5,2.2,0.33,"['scary fact', 'horror edit', 'fear trigger']",0.13,0.72,False,538.1,0.7,I want to slow down my mind,anxious
+U_THIRD764,2025-06-13 06:26:00,73.5,morning,10.6,0.7,-0.22,"['happy scream', 'reward day', 'motivation win']",0.35,0.49,True,407.0,0.69,I deserve to celebrate,reward
+U_THIRD765,2025-06-13 23:37:00,34.5,night,38.2,2.1,-0.9,"['horror edit', 'fear trigger', 'scary fact']",0.35,0.69,False,474.9,0.53,I want to slow down my mind,anxious
+U_THIRD766,2025-06-13 23:15:00,91.1,night,56.9,3.2,0.78,"['loop habit', 'wifi need', 'routine doom']",0.14,0.9,True,524.0,0.65,I want to reduce my reliance on content,dependency
+U_THIRD767,2025-06-13 23:03:00,79.4,night,70.5,2.2,-0.03,"['fatigue diary', 'crash reel', 'work burnout']",0.21,0.8,True,619.8,0.85,I feel drained and need space,exhaustion
+U_THIRD768,2025-06-13 08:27:00,99.8,morning,69.6,3.0,-0.89,"['fun time', 'proud moment', 'happy scream']",0.26,0.29,False,252.4,0.97,I deserve to celebrate,reward
+U_THIRD769,2025-06-13 10:57:00,27.9,morning,66.0,1.8,-0.29,"['motivation win', 'reward day', 'goal achieved']",0.29,0.59,True,665.5,0.97,I deserve to celebrate,reward
+U_THIRD770,2025-06-13 09:39:00,58.1,morning,45.1,1.2,0.41,"['bad ending', 'could’ve done better', 'shame reel']",0.23,0.66,True,354.1,0.53,I hope to make better choices,guilt
+U_THIRD771,2025-06-13 07:30:00,32.5,morning,29.8,0.5,-0.45,"['fun time', 'goal achieved', 'reward day']",0.29,0.29,True,476.7,0.78,I want to reward myself with positivity,reward
+U_THIRD772,2025-06-13 15:09:00,95.6,afternoon,27.8,1.0,-0.46,"['disappointing moment', 'missed opportunity', 'could’ve done better']",0.18,0.76,False,562.0,0.61,I hope to make better choices,guilt
+U_THIRD773,2025-06-13 18:00:00,13.6,night,8.7,2.4,0.23,"['crash reel', 'napping cat', 'zoning out']",0.22,0.18,True,536.5,0.65,I need more mental rest,exhaustion
+U_THIRD774,2025-06-13 05:13:00,95.5,late_night,56.4,2.3,0.81,"['crisis footage', 'scary fact', 'dark theory']",0.2,0.82,False,579.0,0.88,I want to slow down my mind,anxious
+U_THIRD775,2025-06-13 07:42:00,73.4,morning,49.5,2.1,-0.64,"['breaking alert', 'fear trigger', 'crisis footage']",0.37,0.37,True,158.4,0.91,I want to slow down my mind,anxious
+U_THIRD776,2025-06-13 06:52:00,24.5,morning,61.2,0.8,0.15,"['dark theory', 'danger trend', 'crisis footage']",0.06,0.58,True,429.9,0.88,I want to slow down my mind,anxious
+U_THIRD777,2025-06-13 01:57:00,33.8,late_night,61.3,1.8,0.55,"['could’ve done better', 'bad ending', 'embarrassing fail']",0.13,0.82,True,595.3,0.74,I want to turn regret into action,guilt
+U_THIRD778,2025-06-13 00:41:00,32.4,late_night,68.8,1.5,-0.93,"['overload speech', 'fatigue diary', 'zoning out']",0.2,0.43,True,718.3,0.87,I need more mental rest,exhaustion
+U_THIRD779,2025-06-13 20:59:00,51.7,night,61.8,3.5,0.43,"['endless scroll', 'routine doom', 'autoplay trap']",0.02,0.28,True,453.0,0.92,I want to gain control of my scrolling,dependency
+U_THIRD780,2025-06-13 07:47:00,19.6,morning,68.6,2.2,0.86,"['stressful scene', 'dark theory', 'danger trend']",0.16,0.22,False,298.4,0.52,I want to slow down my mind,anxious
+U_THIRD781,2025-06-13 13:06:00,40.4,afternoon,54.6,0.9,0.25,"['work burnout', 'overstim edit', 'fatigue diary']",0.21,0.72,False,408.2,0.83,I need more mental rest,exhaustion
+U_THIRD782,2025-06-13 02:11:00,27.3,late_night,73.0,3.6,0.22,"['zoning out', 'napping cat', 'overstim edit']",0.23,0.66,True,208.6,0.93,I need more mental rest,exhaustion
+U_THIRD783,2025-06-13 17:30:00,84.8,afternoon,59.3,1.4,-0.94,"['guilt meme', 'missed opportunity', 'loss highlight']",0.18,0.2,False,329.6,0.7,I want to turn regret into action,guilt
+U_THIRD784,2025-06-13 16:26:00,8.6,afternoon,26.7,1.0,0.96,"['overload speech', 'eye strain', 'zoning out']",0.15,0.87,False,444.8,0.65,I feel drained and need space,exhaustion
+U_THIRD785,2025-06-13 17:07:00,62.6,afternoon,8.2,3.7,0.01,"['fear trigger', 'danger trend', 'stressful scene']",0.37,0.67,True,404.8,0.84,I feel overwhelmed by bad content,anxious
+U_THIRD786,2025-06-13 09:34:00,89.6,morning,61.3,1.6,0.85,"['finally success', 'celebration edit', 'happy scream']",0.16,0.63,False,216.9,0.57,I want to reward myself with positivity,reward
+U_THIRD787,2025-06-13 16:34:00,51.1,afternoon,71.1,1.8,-0.06,"['routine doom', 'endless scroll', 'wifi need']",0.06,0.41,False,298.8,0.78,I want to gain control of my scrolling,dependency
+U_THIRD788,2025-06-13 18:19:00,20.0,night,73.5,1.3,0.12,"['disappointing moment', 'regret stories', 'loss highlight']",0.24,0.45,True,207.5,0.57,I hope to make better choices,guilt
+U_THIRD789,2025-06-13 11:23:00,56.3,morning,5.2,2.8,0.36,"['autoplay trap', 'routine doom', ""can't stop watching""]",0.3,0.23,False,674.7,0.54,I want to gain control of my scrolling,dependency
+U_THIRD790,2025-06-13 16:02:00,81.0,afternoon,54.2,3.8,-0.9,"['crisis footage', 'emergency warning', 'scary fact']",0.16,0.72,True,623.4,0.55,I want to slow down my mind,anxious
+U_THIRD791,2025-06-13 01:09:00,64.8,late_night,12.8,1.0,-0.4,"['feel good story', 'reward day', 'happy scream']",0.3,0.39,True,562.7,0.57,I want to reward myself with positivity,reward
+U_THIRD792,2025-06-13 03:47:00,24.8,late_night,5.8,2.1,0.62,"['horror edit', 'stressful scene', 'breaking alert']",0.05,0.64,True,243.5,0.83,I feel overwhelmed by bad content,anxious
+U_THIRD793,2025-06-13 09:45:00,87.0,morning,68.4,2.1,-0.92,"['bad ending', 'loss highlight', 'could’ve done better']",0.38,0.49,True,674.1,0.92,I want to turn regret into action,guilt
+U_THIRD794,2025-06-13 13:12:00,64.0,afternoon,47.4,2.3,0.03,"['breaking alert', 'emergency warning', 'crisis footage']",0.3,0.9,False,441.4,0.93,I feel overwhelmed by bad content,anxious
+U_THIRD795,2025-06-13 00:19:00,48.3,late_night,72.1,2.5,-0.23,"['bad ending', 'could’ve done better', 'shame reel']",0.1,0.88,False,165.3,0.8,I hope to make better choices,guilt
+U_THIRD796,2025-06-13 11:30:00,19.9,morning,20.9,1.9,0.33,"['fear trigger', 'crisis footage', 'dark theory']",0.33,0.69,False,423.7,0.98,I want to slow down my mind,anxious
+U_THIRD797,2025-06-13 16:57:00,40.5,afternoon,30.9,0.6,0.25,"['fatigue diary', 'zoning out', 'work burnout']",0.29,0.41,False,485.1,0.83,I need more mental rest,exhaustion
+U_THIRD798,2025-06-13 07:50:00,81.5,morning,69.1,3.5,-0.18,"['routine doom', 'loop habit', 'wifi need']",0.39,0.49,False,494.6,0.78,I want to gain control of my scrolling,dependency
+U_THIRD799,2025-06-13 11:49:00,34.6,morning,46.5,0.9,0.77,"['napping cat', 'fatigue diary', 'crash reel']",0.06,0.71,True,601.5,0.87,I need more mental rest,exhaustion
+U_THIRD800,2025-06-13 19:31:00,44.2,night,64.1,1.6,0.8,"['fatigue diary', 'overload speech', 'sleep vlog']",0.15,0.52,True,291.8,0.54,I feel drained and need space,exhaustion
+U_THIRD801,2025-06-13 14:38:00,31.0,afternoon,22.1,2.6,-0.15,"['finally success', 'celebration edit', 'goal achieved']",0.03,0.59,True,584.1,0.51,I want to reward myself with positivity,reward
+U_THIRD802,2025-06-13 11:19:00,45.9,morning,26.4,2.6,-0.98,"['habitual checking', 'wifi need', 'autoplay trap']",0.32,0.67,False,369.0,0.69,I want to gain control of my scrolling,dependency
+U_THIRD803,2025-06-13 04:12:00,9.2,late_night,61.9,1.5,0.68,"['work burnout', 'eye strain', 'overload speech']",0.22,0.32,True,521.7,0.59,I need more mental rest,exhaustion
+U_THIRD804,2025-06-13 07:15:00,18.6,morning,9.3,3.6,0.72,"['motivation win', 'fun time', 'proud moment']",0.15,0.31,True,567.7,0.89,I deserve to celebrate,reward
+U_THIRD805,2025-06-13 12:43:00,74.5,afternoon,7.5,3.2,-0.64,"['loop habit', 'check phone', 'autoplay trap']",0.39,0.56,True,609.6,0.61,I want to gain control of my scrolling,dependency
+U_THIRD806,2025-06-13 10:32:00,55.2,morning,63.9,1.2,-0.48,"['crash reel', 'work burnout', 'overstim edit']",0.04,0.22,False,481.5,0.68,I need more mental rest,exhaustion
+U_THIRD807,2025-06-13 00:00:00,81.6,late_night,7.0,0.8,-0.32,"['bad ending', 'could’ve done better', 'guilt meme']",0.3,0.74,False,639.5,0.65,I want to turn regret into action,guilt
+U_THIRD808,2025-06-13 14:27:00,62.7,afternoon,61.2,1.9,-0.85,"['horror edit', 'dark theory', 'paranoia news']",0.36,0.58,True,668.6,0.87,I feel overwhelmed by bad content,anxious
+U_THIRD809,2025-06-13 13:51:00,33.8,afternoon,58.9,3.6,-0.98,"['disappointing moment', 'loss highlight', 'regret stories']",0.33,0.86,False,498.4,0.77,I want to turn regret into action,guilt
+U_THIRD810,2025-06-13 08:40:00,95.1,morning,44.5,3.2,0.16,"['proud moment', 'reward day', 'fun time']",0.09,0.26,False,468.9,0.88,I deserve to celebrate,reward
+U_THIRD811,2025-06-13 10:57:00,94.3,morning,64.5,2.4,0.96,"[""can't stop watching"", 'wifi need', 'loop habit']",0.17,0.24,True,446.2,0.63,I want to gain control of my scrolling,dependency
+U_THIRD812,2025-06-13 23:58:00,20.0,night,38.0,2.8,0.6,"['guilt meme', 'responsibility talk', 'loss highlight']",0.01,0.23,True,617.1,0.63,I hope to make better choices,guilt
+U_THIRD813,2025-06-13 17:59:00,85.5,afternoon,55.2,2.5,-0.63,"['could’ve done better', 'regret stories', 'responsibility talk']",0.33,0.71,True,518.0,0.87,I want to turn regret into action,guilt
+U_THIRD814,2025-06-13 22:57:00,54.4,night,65.1,1.7,-0.63,"['routine doom', 'wifi need', 'endless scroll']",0.08,0.85,True,637.5,0.98,I want to gain control of my scrolling,dependency
+U_THIRD815,2025-06-13 21:53:00,89.3,night,37.8,1.5,0.5,"['could’ve done better', 'bad ending', 'responsibility talk']",0.03,0.5,False,682.8,0.95,I want to turn regret into action,guilt
+U_THIRD816,2025-06-13 07:20:00,96.2,morning,31.7,2.3,-0.44,"['emergency warning', 'breaking alert', 'horror edit']",0.16,0.54,False,403.6,0.92,I want to slow down my mind,anxious
+U_THIRD817,2025-06-13 03:40:00,83.3,late_night,31.8,2.1,-0.26,"['fatigue diary', 'overstim edit', 'heavy brain']",0.34,0.75,False,339.4,0.86,I feel drained and need space,exhaustion
+U_THIRD818,2025-06-13 13:10:00,9.6,afternoon,66.4,2.7,0.34,"['responsibility talk', 'missed opportunity', 'disappointing moment']",0.35,0.71,False,157.5,0.88,I hope to make better choices,guilt
+U_THIRD819,2025-06-13 09:30:00,72.9,morning,65.2,3.2,-0.38,"['FOMO wave', 'autoplay trap', 'wifi need']",0.33,0.85,True,450.3,0.82,I want to gain control of my scrolling,dependency
+U_THIRD820,2025-06-13 17:45:00,17.8,afternoon,38.1,2.7,0.11,"['stressful scene', 'scary fact', 'emergency warning']",0.04,0.16,False,425.6,0.64,I feel overwhelmed by bad content,anxious
+U_THIRD821,2025-06-13 02:17:00,22.1,late_night,22.3,2.9,-0.18,"['overstim edit', 'crash reel', 'zoning out']",0.13,0.33,True,242.8,0.63,I need more mental rest,exhaustion
+U_THIRD822,2025-06-13 05:57:00,35.3,late_night,16.0,1.8,0.06,"['reward day', 'motivation win', 'feel good story']",0.05,0.26,False,594.5,0.9,I want to reward myself with positivity,reward
+U_THIRD823,2025-06-13 16:28:00,23.2,afternoon,55.5,3.6,-0.8,"['disappointing moment', 'could’ve done better', 'loss highlight']",0.4,0.29,False,722.0,0.87,I hope to make better choices,guilt
+U_THIRD824,2025-06-13 08:29:00,82.1,morning,28.4,2.4,-0.8,"['happy scream', 'reward day', 'motivation win']",0.22,0.22,False,280.5,0.89,I deserve to celebrate,reward
+U_THIRD825,2025-06-13 08:56:00,48.0,morning,5.6,2.1,-0.81,"['motivation win', 'thankful post', 'happy scream']",0.1,0.67,False,596.2,0.57,I deserve to celebrate,reward
+U_THIRD826,2025-06-13 20:18:00,59.3,night,17.9,2.2,-0.88,"['overstim edit', 'overload speech', 'sleep vlog']",0.31,0.43,False,736.5,0.81,I need more mental rest,exhaustion
+U_THIRD827,2025-06-13 11:50:00,38.8,morning,42.0,0.6,-0.16,"['FOMO wave', 'autoplay trap', 'wifi need']",0.24,0.36,True,644.0,0.53,I want to gain control of my scrolling,dependency
+U_THIRD828,2025-06-13 08:10:00,97.7,morning,73.6,2.5,0.71,"['feel good story', 'finally success', 'reward day']",0.18,0.45,True,422.6,0.68,I deserve to celebrate,reward
+U_THIRD829,2025-06-13 05:01:00,81.2,late_night,63.4,3.4,0.93,"['goal achieved', 'finally success', 'reward day']",0.2,0.71,False,632.1,0.56,I deserve to celebrate,reward
+U_THIRD830,2025-06-13 15:59:00,55.1,afternoon,56.3,0.4,-0.77,"['goal achieved', 'fun time', 'reward day']",0.31,0.76,True,259.4,0.64,I deserve to celebrate,reward
+U_THIRD831,2025-06-13 14:55:00,78.1,afternoon,16.9,1.2,-0.91,"['dark theory', 'horror edit', 'scary fact']",0.21,0.69,False,457.9,0.69,I feel overwhelmed by bad content,anxious
+U_THIRD832,2025-06-13 10:04:00,18.9,morning,16.5,1.1,-0.86,"['finally success', 'fun time', 'thankful post']",0.18,0.51,True,315.7,0.56,I want to reward myself with positivity,reward
+U_THIRD833,2025-06-13 04:49:00,99.6,late_night,33.2,2.8,0.3,"['celebration edit', 'goal achieved', 'happy scream']",0.2,0.31,False,571.1,0.69,I deserve to celebrate,reward
+U_THIRD834,2025-06-13 22:15:00,49.7,night,5.3,0.6,-0.26,"['shame reel', 'disappointing moment', 'missed opportunity']",0.26,0.43,False,668.0,0.91,I want to turn regret into action,guilt
+U_THIRD835,2025-06-13 17:19:00,12.1,afternoon,60.2,2.4,-0.84,"['loss highlight', 'bad ending', 'guilt meme']",0.28,0.66,False,735.0,0.7,I hope to make better choices,guilt
+U_THIRD836,2025-06-13 04:01:00,39.6,late_night,28.5,1.8,-0.48,"['breaking alert', 'fear trigger', 'dark theory']",0.23,0.89,True,340.6,0.71,I feel overwhelmed by bad content,anxious
+U_THIRD837,2025-06-13 17:48:00,75.2,afternoon,55.6,3.3,-0.32,"['reward day', 'goal achieved', 'celebration edit']",0.17,0.5,False,183.7,0.58,I deserve to celebrate,reward
+U_THIRD838,2025-06-13 00:35:00,30.7,late_night,64.0,1.9,0.49,"['check phone', 'daily addiction', 'routine doom']",0.14,0.22,True,233.3,0.77,I want to gain control of my scrolling,dependency
+U_THIRD839,2025-06-13 00:49:00,50.1,late_night,21.7,1.8,-0.58,"['celebration edit', 'proud moment', 'fun time']",0.33,0.58,False,328.0,0.76,I deserve to celebrate,reward
+U_THIRD840,2025-06-13 08:43:00,92.0,morning,34.4,2.9,-0.02,"['embarrassing fail', 'could’ve done better', 'regret stories']",0.38,0.6,False,494.7,0.52,I want to turn regret into action,guilt
+U_THIRD841,2025-06-13 07:21:00,13.9,morning,45.6,1.9,0.8,"['fear trigger', 'breaking alert', 'danger trend']",0.07,0.23,True,670.0,0.57,I feel overwhelmed by bad content,anxious
+U_THIRD842,2025-06-13 07:38:00,23.0,morning,68.8,0.9,-0.25,"['thankful post', 'feel good story', 'fun time']",0.01,0.83,True,252.4,0.86,I want to reward myself with positivity,reward
+U_THIRD843,2025-06-13 10:33:00,60.4,morning,18.2,2.7,0.48,"['proud moment', 'happy scream', 'finally success']",0.02,0.26,False,274.8,0.82,I want to reward myself with positivity,reward
+U_THIRD844,2025-06-13 08:03:00,94.8,morning,63.5,3.5,-0.55,"['responsibility talk', 'loss highlight', 'bad ending']",0.29,0.59,True,177.6,0.94,I hope to make better choices,guilt
+U_THIRD845,2025-06-13 05:39:00,17.0,late_night,38.9,3.1,0.64,"['regret stories', 'responsibility talk', 'could’ve done better']",0.03,0.2,True,451.0,0.65,I hope to make better choices,guilt
+U_THIRD846,2025-06-13 21:16:00,72.5,night,62.4,0.5,-0.05,"['goal achieved', 'proud moment', 'happy scream']",0.12,0.82,False,434.6,0.85,I deserve to celebrate,reward
+U_THIRD847,2025-06-13 14:40:00,85.5,afternoon,47.4,3.5,-0.21,"['routine doom', 'endless scroll', ""can't stop watching""]",0.3,0.5,True,400.4,0.56,I want to gain control of my scrolling,dependency
+U_THIRD848,2025-06-13 08:21:00,48.9,morning,71.1,0.9,0.68,"['FOMO wave', 'autoplay trap', 'check phone']",0.07,0.63,False,613.7,0.53,I want to gain control of my scrolling,dependency
+U_THIRD849,2025-06-13 02:02:00,47.3,late_night,64.4,1.4,-0.29,"['dark theory', 'crisis footage', 'breaking alert']",0.2,0.78,True,348.1,0.69,I feel overwhelmed by bad content,anxious
+U_THIRD850,2025-06-13 04:44:00,24.3,late_night,68.9,3.3,-0.1,"['responsibility talk', 'guilt meme', 'embarrassing fail']",0.35,0.62,True,529.6,0.66,I hope to make better choices,guilt
+U_THIRD851,2025-06-13 22:44:00,9.8,night,61.7,3.2,-0.8,"['crisis footage', 'fear trigger', 'scary fact']",0.06,0.28,True,239.1,0.54,I feel overwhelmed by bad content,anxious
+U_THIRD852,2025-06-13 02:05:00,72.6,late_night,26.8,0.4,0.89,"['scary fact', 'paranoia news', 'danger trend']",0.15,0.38,True,648.1,0.61,I feel overwhelmed by bad content,anxious
+U_THIRD853,2025-06-13 20:28:00,78.8,night,54.2,1.1,-0.25,"['happy scream', 'fun time', 'motivation win']",0.21,0.63,False,328.9,0.95,I deserve to celebrate,reward
+U_THIRD854,2025-06-13 07:01:00,12.9,morning,6.5,2.7,0.01,"['wifi need', 'loop habit', 'check phone']",0.04,0.35,True,670.5,0.93,I want to gain control of my scrolling,dependency
+U_THIRD855,2025-06-13 17:47:00,67.0,afternoon,32.0,1.4,0.96,"['proud moment', 'finally success', 'happy scream']",0.16,0.41,True,381.4,0.97,I deserve to celebrate,reward
+U_THIRD856,2025-06-13 13:08:00,78.1,afternoon,44.2,2.2,-0.3,"['fatigue diary', 'sleep vlog', 'zoning out']",0.25,0.31,False,403.2,0.91,I need more mental rest,exhaustion
+U_THIRD857,2025-06-13 05:55:00,78.2,late_night,22.8,3.3,0.44,"['fear trigger', 'danger trend', 'horror edit']",0.21,0.34,False,465.0,0.7,I want to slow down my mind,anxious
+U_THIRD858,2025-06-13 13:08:00,64.2,afternoon,62.4,2.0,0.27,"['goal achieved', 'celebration edit', 'reward day']",0.34,0.52,False,652.9,0.65,I want to reward myself with positivity,reward
+U_THIRD859,2025-06-13 05:08:00,8.6,late_night,33.5,1.3,-0.4,"['habitual checking', 'autoplay trap', 'endless scroll']",0.08,0.46,True,453.6,0.61,I want to gain control of my scrolling,dependency
+U_THIRD860,2025-06-13 20:15:00,16.4,night,46.7,3.2,-0.44,"['shame reel', 'disappointing moment', 'loss highlight']",0.36,0.59,False,633.0,0.73,I want to turn regret into action,guilt
+U_THIRD861,2025-06-13 01:16:00,70.0,late_night,42.5,3.6,-0.77,"['endless scroll', 'routine doom', 'loop habit']",0.28,0.27,True,429.3,0.58,I want to gain control of my scrolling,dependency
+U_THIRD862,2025-06-13 12:36:00,67.3,afternoon,6.5,2.6,-0.9,"['shame reel', 'responsibility talk', 'loss highlight']",0.25,0.78,True,289.7,0.76,I want to turn regret into action,guilt
+U_THIRD863,2025-06-13 11:04:00,77.6,morning,63.8,0.9,-0.28,"['overload speech', 'eye strain', 'zoning out']",0.13,0.47,True,604.8,0.91,I feel drained and need space,exhaustion
+U_THIRD864,2025-06-13 12:53:00,87.4,afternoon,61.6,0.7,0.72,"['shame reel', 'disappointing moment', 'responsibility talk']",0.24,0.8,False,517.6,0.64,I want to turn regret into action,guilt
+U_THIRD865,2025-06-13 06:25:00,69.1,morning,24.2,3.7,0.27,"['finally success', 'happy scream', 'goal achieved']",0.27,0.81,True,193.7,0.52,I want to reward myself with positivity,reward
+U_THIRD866,2025-06-13 23:18:00,9.9,night,64.2,3.0,-0.72,"['dark theory', 'danger trend', 'emergency warning']",0.11,0.26,False,591.0,0.71,I feel overwhelmed by bad content,anxious
+U_THIRD867,2025-06-13 17:54:00,72.1,afternoon,31.5,0.8,0.23,"['overload speech', 'heavy brain', 'work burnout']",0.31,0.27,False,452.3,0.71,I feel drained and need space,exhaustion
+U_THIRD868,2025-06-13 14:46:00,78.3,afternoon,74.0,3.1,0.42,"['disappointing moment', 'missed opportunity', 'could’ve done better']",0.33,0.29,True,500.4,0.88,I want to turn regret into action,guilt
+U_THIRD869,2025-06-13 15:11:00,71.4,afternoon,73.2,2.1,-0.21,"['bad ending', 'shame reel', 'missed opportunity']",0.17,0.27,True,633.5,0.67,I hope to make better choices,guilt
+U_THIRD870,2025-06-13 16:58:00,94.2,afternoon,54.4,1.2,0.68,"['scary fact', 'paranoia news', 'emergency warning']",0.23,0.25,False,572.2,0.76,I feel overwhelmed by bad content,anxious
+U_THIRD871,2025-06-13 19:41:00,35.2,night,63.3,1.3,-0.27,"['thankful post', 'reward day', 'fun time']",0.07,0.73,False,429.8,0.56,I want to reward myself with positivity,reward
+U_THIRD872,2025-06-13 01:15:00,24.3,late_night,27.7,0.9,-0.45,"['work burnout', 'overload speech', 'eye strain']",0.3,0.82,False,186.4,0.53,I feel drained and need space,exhaustion
+U_THIRD873,2025-06-13 09:32:00,20.0,morning,24.7,1.2,-0.17,"['embarrassing fail', 'shame reel', 'loss highlight']",0.34,0.55,False,442.7,0.9,I hope to make better choices,guilt
+U_THIRD874,2025-06-13 07:08:00,69.5,morning,38.1,1.1,0.92,"['feel good story', 'motivation win', 'goal achieved']",0.38,0.24,True,364.5,0.71,I deserve to celebrate,reward
+U_THIRD875,2025-06-13 19:21:00,48.7,night,19.7,2.5,-0.97,"['shame reel', 'could’ve done better', 'responsibility talk']",0.14,0.57,True,304.4,0.52,I want to turn regret into action,guilt
+U_THIRD876,2025-06-13 04:14:00,37.5,late_night,46.3,1.2,0.17,"['daily addiction', 'habitual checking', 'check phone']",0.38,0.88,True,168.1,0.67,I want to gain control of my scrolling,dependency
+U_THIRD877,2025-06-13 01:09:00,82.7,late_night,23.8,1.6,0.68,"['loss highlight', 'shame reel', 'could’ve done better']",0.29,0.54,False,179.2,0.72,I want to turn regret into action,guilt
+U_THIRD878,2025-06-13 12:40:00,45.3,afternoon,14.7,3.8,-0.43,"['napping cat', 'heavy brain', 'sleep vlog']",0.29,0.16,True,509.8,0.59,I feel drained and need space,exhaustion
+U_THIRD879,2025-06-13 04:34:00,76.4,late_night,13.5,2.3,-0.04,"['thankful post', 'proud moment', 'motivation win']",0.1,0.54,False,329.7,0.9,I deserve to celebrate,reward
+U_THIRD880,2025-06-13 00:17:00,16.5,late_night,17.2,1.9,-0.62,"['fear trigger', 'scary fact', 'crisis footage']",0.03,0.33,True,428.4,0.97,I feel overwhelmed by bad content,anxious
+U_THIRD881,2025-06-13 15:13:00,17.0,afternoon,20.7,3.4,-0.32,"['happy scream', 'fun time', 'thankful post']",0.36,0.63,True,203.4,0.74,I want to reward myself with positivity,reward
+U_THIRD882,2025-06-13 14:14:00,51.7,afternoon,17.1,0.7,-0.58,"['napping cat', 'sleep vlog', 'work burnout']",0.3,0.89,True,227.2,0.78,I feel drained and need space,exhaustion
+U_THIRD883,2025-06-13 10:05:00,48.7,morning,67.4,3.0,-0.19,"['overload speech', 'sleep vlog', 'heavy brain']",0.17,0.72,False,720.5,0.72,I feel drained and need space,exhaustion
+U_THIRD884,2025-06-13 21:19:00,26.9,night,13.6,2.8,0.92,"['disappointing moment', 'missed opportunity', 'responsibility talk']",0.2,0.79,False,318.3,0.54,I hope to make better choices,guilt
+U_THIRD885,2025-06-13 16:15:00,52.6,afternoon,62.5,0.5,-0.64,"['finally success', 'celebration edit', 'feel good story']",0.38,0.39,True,261.3,0.72,I deserve to celebrate,reward
+U_THIRD886,2025-06-13 21:45:00,58.9,night,21.9,3.0,-0.57,"['autoplay trap', 'endless scroll', 'daily addiction']",0.26,0.79,True,449.2,0.83,I want to gain control of my scrolling,dependency
+U_THIRD887,2025-06-13 19:04:00,55.5,night,48.4,1.6,0.9,"['check phone', 'loop habit', 'endless scroll']",0.27,0.32,True,340.6,0.57,I want to gain control of my scrolling,dependency
+U_THIRD888,2025-06-13 04:31:00,80.7,late_night,35.1,1.0,-0.08,"['endless scroll', 'autoplay trap', 'FOMO wave']",0.29,0.81,False,172.3,0.87,I want to gain control of my scrolling,dependency
+U_THIRD889,2025-06-13 21:20:00,87.7,night,11.5,1.2,-0.35,"['eye strain', 'fatigue diary', 'sleep vlog']",0.19,0.16,True,541.5,0.59,I need more mental rest,exhaustion
+U_THIRD890,2025-06-13 12:21:00,65.0,afternoon,41.8,1.6,0.89,"['crisis footage', 'breaking alert', 'scary fact']",0.4,0.58,True,195.1,0.63,I feel overwhelmed by bad content,anxious
+U_THIRD891,2025-06-13 18:25:00,97.3,night,54.3,2.7,-0.75,"['overload speech', 'eye strain', 'crash reel']",0.17,0.8,False,382.3,0.95,I feel drained and need space,exhaustion
+U_THIRD892,2025-06-13 05:43:00,52.2,late_night,53.4,2.5,0.97,"['finally success', 'motivation win', 'fun time']",0.32,0.77,False,617.5,0.63,I deserve to celebrate,reward
+U_THIRD893,2025-06-13 09:14:00,21.6,morning,8.3,1.2,0.55,"['proud moment', 'fun time', 'happy scream']",0.21,0.81,False,493.0,0.66,I want to reward myself with positivity,reward
+U_THIRD894,2025-06-13 07:22:00,25.2,morning,61.4,0.5,-0.28,"['heavy brain', 'zoning out', 'eye strain']",0.32,0.5,False,391.6,0.93,I feel drained and need space,exhaustion
+U_THIRD895,2025-06-13 11:57:00,26.1,morning,30.4,3.5,0.95,"['regret stories', 'missed opportunity', 'guilt meme']",0.18,0.47,True,514.2,0.91,I want to turn regret into action,guilt
+U_THIRD896,2025-06-13 09:38:00,47.1,morning,6.4,1.7,-0.26,"['missed opportunity', 'shame reel', 'guilt meme']",0.12,0.48,True,705.5,0.77,I want to turn regret into action,guilt
+U_THIRD897,2025-06-13 19:03:00,28.9,night,58.6,3.4,0.56,"['embarrassing fail', 'shame reel', 'missed opportunity']",0.28,0.9,True,729.8,0.75,I hope to make better choices,guilt
+U_THIRD898,2025-06-13 20:03:00,86.1,night,34.7,3.2,-0.55,"['breaking alert', 'stressful scene', 'crisis footage']",0.24,0.56,False,183.2,0.56,I want to slow down my mind,anxious
+U_THIRD899,2025-06-13 18:58:00,49.8,night,72.7,2.3,-0.6,"['endless scroll', 'wifi need', 'loop habit']",0.34,0.27,True,273.5,0.64,I want to gain control of my scrolling,dependency
+U_THIRD900,2025-06-13 04:02:00,53.0,late_night,16.7,2.0,0.28,"['danger trend', 'paranoia news', 'breaking alert']",0.25,0.76,True,248.2,0.54,I want to slow down my mind,anxious
+U_THIRD901,2025-06-13 20:09:00,98.8,night,67.5,1.2,-0.08,"['overload speech', 'crash reel', 'fatigue diary']",0.08,0.66,False,479.5,0.92,I need more mental rest,exhaustion
+U_THIRD902,2025-06-13 07:51:00,68.2,morning,40.2,1.5,0.14,"['finally success', 'happy scream', 'thankful post']",0.29,0.87,True,397.1,0.5,I deserve to celebrate,reward
+U_THIRD903,2025-06-13 01:31:00,99.3,late_night,51.9,1.6,0.4,"['scary fact', 'stressful scene', 'dark theory']",0.28,0.37,True,636.6,0.82,I feel overwhelmed by bad content,anxious
+U_THIRD904,2025-06-13 23:11:00,25.0,night,31.6,1.9,0.96,"['overload speech', 'fatigue diary', 'work burnout']",0.2,0.81,True,399.7,0.55,I feel drained and need space,exhaustion
+U_THIRD905,2025-06-13 03:38:00,82.1,late_night,24.7,2.9,0.09,"['eye strain', 'fatigue diary', 'napping cat']",0.21,0.3,True,608.2,0.69,I need more mental rest,exhaustion
+U_THIRD906,2025-06-13 13:55:00,38.1,afternoon,52.4,3.3,-0.66,"['thankful post', 'proud moment', 'happy scream']",0.15,0.83,True,637.9,0.89,I want to reward myself with positivity,reward
+U_THIRD907,2025-06-13 13:09:00,84.1,afternoon,50.4,1.5,-0.64,"['goal achieved', 'feel good story', 'celebration edit']",0.07,0.16,True,562.7,0.82,I deserve to celebrate,reward
+U_THIRD908,2025-06-13 21:09:00,58.4,night,52.1,1.8,-0.38,"['routine doom', 'check phone', 'loop habit']",0.34,0.73,False,427.2,0.93,I want to gain control of my scrolling,dependency
+U_THIRD909,2025-06-13 06:08:00,15.1,morning,18.7,2.0,0.21,"['regret stories', 'shame reel', 'embarrassing fail']",0.16,0.19,False,614.9,0.69,I want to turn regret into action,guilt
+U_THIRD910,2025-06-13 00:02:00,87.4,late_night,36.2,1.0,0.24,"['emergency warning', 'crisis footage', 'scary fact']",0.07,0.53,True,710.5,0.84,I feel overwhelmed by bad content,anxious
+U_THIRD911,2025-06-13 17:49:00,82.5,afternoon,59.2,2.0,-0.2,"['wifi need', 'habitual checking', 'FOMO wave']",0.16,0.43,True,513.3,0.63,I want to gain control of my scrolling,dependency
+U_THIRD912,2025-06-13 22:10:00,23.2,night,40.1,3.0,0.27,"['loss highlight', 'responsibility talk', 'bad ending']",0.32,0.5,True,647.4,0.7,I want to turn regret into action,guilt
+U_THIRD913,2025-06-13 23:01:00,89.9,night,70.3,3.1,-0.37,"['regret stories', 'could’ve done better', 'guilt meme']",0.05,0.45,True,167.0,0.88,I want to turn regret into action,guilt
+U_THIRD914,2025-06-13 20:41:00,84.6,night,67.3,0.7,0.43,"['zoning out', 'fatigue diary', 'heavy brain']",0.04,0.62,True,233.3,0.77,I need more mental rest,exhaustion
+U_THIRD915,2025-06-13 11:58:00,78.7,morning,23.9,0.4,0.73,"['crash reel', 'overload speech', 'overstim edit']",0.17,0.84,True,271.8,0.83,I need more mental rest,exhaustion
+U_THIRD916,2025-06-13 12:47:00,10.4,afternoon,68.8,3.0,-0.4,"['breaking alert', 'fear trigger', 'scary fact']",0.04,0.36,True,644.5,0.94,I feel overwhelmed by bad content,anxious
+U_THIRD917,2025-06-13 20:48:00,71.5,night,16.0,1.3,-0.51,"['stressful scene', 'paranoia news', 'danger trend']",0.15,0.86,False,327.2,0.62,I want to slow down my mind,anxious
+U_THIRD918,2025-06-13 17:12:00,74.6,afternoon,35.6,3.1,0.73,"['reward day', 'feel good story', 'proud moment']",0.25,0.78,True,597.5,0.88,I deserve to celebrate,reward
+U_THIRD919,2025-06-13 07:24:00,52.4,morning,25.3,1.2,0.16,"['motivation win', 'finally success', 'reward day']",0.16,0.78,False,261.4,0.55,I want to reward myself with positivity,reward
+U_THIRD920,2025-06-13 06:19:00,50.8,morning,30.2,3.3,-0.26,"['missed opportunity', 'loss highlight', 'regret stories']",0.17,0.55,True,365.3,0.86,I want to turn regret into action,guilt
+U_THIRD921,2025-06-13 03:22:00,23.6,late_night,6.4,1.1,-0.09,"['disappointing moment', 'responsibility talk', 'embarrassing fail']",0.07,0.69,False,642.5,0.79,I want to turn regret into action,guilt
+U_THIRD922,2025-06-13 19:35:00,43.8,night,24.7,3.7,-1.0,"['celebration edit', 'fun time', 'motivation win']",0.13,0.38,False,253.1,0.65,I want to reward myself with positivity,reward
+U_THIRD923,2025-06-13 21:38:00,52.1,night,33.6,1.0,0.48,"['autoplay trap', ""can't stop watching"", 'check phone']",0.29,0.51,False,726.3,0.58,I want to gain control of my scrolling,dependency
+U_THIRD924,2025-06-13 04:01:00,98.0,late_night,34.9,1.2,0.97,"['paranoia news', 'fear trigger', 'danger trend']",0.17,0.76,True,636.7,0.57,I want to slow down my mind,anxious
+U_THIRD925,2025-06-13 23:01:00,30.3,night,54.2,1.8,-0.99,"['routine doom', 'loop habit', 'habitual checking']",0.14,0.8,False,388.5,0.78,I want to reduce my reliance on content,dependency
+U_THIRD926,2025-06-13 01:21:00,95.0,late_night,34.8,2.2,-0.6,"['paranoia news', 'dark theory', 'breaking alert']",0.28,0.85,True,379.3,0.74,I want to slow down my mind,anxious
+U_THIRD927,2025-06-13 13:20:00,59.3,afternoon,39.3,3.5,-0.2,"['disappointing moment', 'regret stories', 'could’ve done better']",0.29,0.57,True,683.1,0.71,I hope to make better choices,guilt
+U_THIRD928,2025-06-13 04:20:00,47.6,late_night,72.8,0.8,-0.01,"['loss highlight', 'missed opportunity', 'embarrassing fail']",0.27,0.26,True,349.4,0.79,I hope to make better choices,guilt
+U_THIRD929,2025-06-13 22:45:00,40.0,night,25.5,3.7,0.31,"['habitual checking', 'daily addiction', 'check phone']",0.06,0.39,False,427.1,0.56,I want to gain control of my scrolling,dependency
+U_THIRD930,2025-06-13 05:15:00,53.5,late_night,48.2,1.3,0.62,"['heavy brain', 'crash reel', 'work burnout']",0.19,0.46,True,555.5,0.98,I need more mental rest,exhaustion
+U_THIRD931,2025-06-13 23:03:00,10.5,night,69.9,3.7,-0.06,"['autoplay trap', 'check phone', 'FOMO wave']",0.06,0.84,False,364.4,0.7,I want to reduce my reliance on content,dependency
+U_THIRD932,2025-06-13 23:47:00,54.7,night,13.6,1.2,-0.87,"['eye strain', 'fatigue diary', 'sleep vlog']",0.31,0.52,True,641.4,0.89,I need more mental rest,exhaustion
+U_THIRD933,2025-06-13 17:26:00,66.9,afternoon,46.8,2.2,0.51,"['crash reel', 'overload speech', 'fatigue diary']",0.11,0.32,True,318.5,0.88,I need more mental rest,exhaustion
+U_THIRD934,2025-06-13 22:49:00,20.1,night,53.9,1.9,-0.13,"['check phone', 'endless scroll', 'daily addiction']",0.37,0.88,False,417.7,0.9,I want to gain control of my scrolling,dependency
+U_THIRD935,2025-06-13 09:07:00,39.9,morning,35.1,1.0,0.25,"['fun time', 'feel good story', 'proud moment']",0.04,0.78,False,324.8,0.74,I want to reward myself with positivity,reward
+U_THIRD936,2025-06-13 22:08:00,91.2,night,36.8,1.4,-0.1,"['happy scream', 'proud moment', 'goal achieved']",0.38,0.28,True,212.5,0.74,I deserve to celebrate,reward
+U_THIRD937,2025-06-13 04:22:00,90.3,late_night,64.7,1.5,-0.93,"[""can't stop watching"", 'FOMO wave', 'routine doom']",0.08,0.54,True,467.7,0.53,I want to gain control of my scrolling,dependency
+U_THIRD938,2025-06-13 10:06:00,93.0,morning,6.1,0.8,-0.92,"['embarrassing fail', 'bad ending', 'shame reel']",0.35,0.73,True,599.4,0.51,I want to turn regret into action,guilt
+U_THIRD939,2025-06-13 18:36:00,90.2,night,50.3,3.5,-0.57,"['work burnout', 'sleep vlog', 'heavy brain']",0.28,0.59,False,278.5,0.75,I need more mental rest,exhaustion
+U_THIRD940,2025-06-13 04:04:00,78.4,late_night,20.6,2.1,-0.06,"['paranoia news', 'dark theory', 'fear trigger']",0.28,0.69,False,588.9,0.68,I want to slow down my mind,anxious
+U_THIRD941,2025-06-13 13:43:00,74.6,afternoon,16.9,1.3,-0.52,"['celebration edit', 'goal achieved', 'thankful post']",0.05,0.41,True,324.5,0.78,I want to reward myself with positivity,reward
+U_THIRD942,2025-06-13 12:16:00,50.7,afternoon,29.5,3.4,0.02,"['danger trend', 'breaking alert', 'dark theory']",0.28,0.55,True,236.3,0.83,I want to slow down my mind,anxious
+U_THIRD943,2025-06-13 03:34:00,48.6,late_night,64.1,3.2,0.75,"['paranoia news', 'horror edit', 'stressful scene']",0.23,0.84,True,154.2,0.98,I want to slow down my mind,anxious
+U_THIRD944,2025-06-13 13:15:00,19.0,afternoon,28.5,2.4,0.09,"['loss highlight', 'missed opportunity', 'regret stories']",0.03,0.47,False,719.5,0.8,I want to turn regret into action,guilt
+U_THIRD945,2025-06-13 17:48:00,74.2,afternoon,15.3,1.6,0.51,"['celebration edit', 'reward day', 'motivation win']",0.03,0.89,True,246.4,0.87,I deserve to celebrate,reward
+U_THIRD946,2025-06-13 00:20:00,94.0,late_night,32.4,2.6,0.47,"['check phone', 'endless scroll', 'routine doom']",0.24,0.41,True,741.6,0.88,I want to reduce my reliance on content,dependency
+U_THIRD947,2025-06-13 20:18:00,39.7,night,70.7,1.5,-0.38,"['autoplay trap', 'routine doom', ""can't stop watching""]",0.13,0.41,True,232.7,0.61,I want to reduce my reliance on content,dependency
+U_THIRD948,2025-06-13 04:20:00,79.1,late_night,69.6,2.3,-0.28,"['FOMO wave', 'daily addiction', 'wifi need']",0.0,0.57,False,727.8,0.89,I want to reduce my reliance on content,dependency
+U_THIRD949,2025-06-13 19:43:00,49.2,night,54.7,0.6,0.51,"['goal achieved', 'happy scream', 'proud moment']",0.07,0.65,True,542.6,0.68,I want to reward myself with positivity,reward
+U_THIRD950,2025-06-13 10:50:00,8.1,morning,60.1,3.7,-0.5,"['overstim edit', 'overload speech', 'crash reel']",0.21,0.16,True,673.7,0.74,I feel drained and need space,exhaustion
+U_THIRD951,2025-06-13 21:50:00,56.4,night,11.9,0.8,-0.61,"['crisis footage', 'fear trigger', 'emergency warning']",0.02,0.31,True,374.9,0.52,I want to slow down my mind,anxious
+U_THIRD952,2025-06-13 18:26:00,27.5,night,30.5,3.1,-0.13,"['endless scroll', 'routine doom', 'check phone']",0.34,0.63,True,428.2,0.88,I want to reduce my reliance on content,dependency
+U_THIRD953,2025-06-13 02:23:00,38.1,late_night,54.2,3.5,0.29,"['breaking alert', 'stressful scene', 'emergency warning']",0.35,0.87,False,527.5,0.87,I want to slow down my mind,anxious
+U_THIRD954,2025-06-13 23:47:00,80.1,night,57.5,0.7,-0.91,"['check phone', 'FOMO wave', 'loop habit']",0.29,0.25,False,477.1,0.64,I want to reduce my reliance on content,dependency
+U_THIRD955,2025-06-13 06:49:00,62.1,morning,48.9,2.8,-0.26,"['thankful post', 'motivation win', 'feel good story']",0.07,0.54,True,395.9,0.7,I want to reward myself with positivity,reward
+U_THIRD956,2025-06-13 18:41:00,95.4,night,27.6,3.3,-0.93,"['happy scream', 'proud moment', 'goal achieved']",0.01,0.61,False,325.9,0.59,I want to reward myself with positivity,reward
+U_THIRD957,2025-06-13 18:51:00,85.9,night,44.3,1.6,-0.5,"['heavy brain', 'zoning out', 'overload speech']",0.29,0.58,True,379.2,0.58,I feel drained and need space,exhaustion
+U_THIRD958,2025-06-13 00:22:00,70.1,late_night,27.5,2.2,0.92,"['horror edit', 'emergency warning', 'crisis footage']",0.24,0.19,False,542.5,0.6,I feel overwhelmed by bad content,anxious
+U_THIRD959,2025-06-13 18:30:00,62.0,night,58.5,3.0,0.61,"['danger trend', 'horror edit', 'paranoia news']",0.17,0.45,False,391.1,0.71,I want to slow down my mind,anxious
+U_THIRD960,2025-06-13 12:42:00,67.1,afternoon,22.7,1.4,0.86,"['autoplay trap', 'FOMO wave', 'check phone']",0.27,0.72,False,520.9,0.6,I want to gain control of my scrolling,dependency
+U_THIRD961,2025-06-13 11:47:00,27.5,morning,16.1,1.2,-0.34,"['motivation win', 'goal achieved', 'thankful post']",0.05,0.27,False,420.7,0.56,I want to reward myself with positivity,reward
+U_THIRD962,2025-06-13 16:50:00,67.4,afternoon,7.4,3.6,0.4,"['missed opportunity', 'disappointing moment', 'guilt meme']",0.28,0.68,True,424.6,0.62,I want to turn regret into action,guilt
+U_THIRD963,2025-06-13 20:39:00,32.0,night,65.1,1.6,-0.86,"['proud moment', 'feel good story', 'celebration edit']",0.13,0.31,True,273.2,0.91,I want to reward myself with positivity,reward
+U_THIRD964,2025-06-13 15:10:00,21.3,afternoon,57.5,3.4,-0.14,"['paranoia news', 'crisis footage', 'fear trigger']",0.37,0.28,True,648.8,0.9,I feel overwhelmed by bad content,anxious
+U_THIRD965,2025-06-13 14:55:00,84.4,afternoon,71.0,2.9,0.43,"['proud moment', 'reward day', 'feel good story']",0.2,0.49,False,490.5,0.92,I want to reward myself with positivity,reward
+U_THIRD966,2025-06-13 07:06:00,30.6,morning,26.6,1.3,-0.9,"[""can't stop watching"", 'routine doom', 'FOMO wave']",0.22,0.35,False,191.4,0.71,I want to reduce my reliance on content,dependency
+U_THIRD967,2025-06-13 19:18:00,70.5,night,19.3,1.6,-0.09,"['proud moment', 'goal achieved', 'celebration edit']",0.04,0.18,True,611.2,0.66,I want to reward myself with positivity,reward
+U_THIRD968,2025-06-13 23:57:00,74.4,night,5.3,3.4,0.83,"['goal achieved', 'reward day', 'feel good story']",0.29,0.64,True,341.1,0.51,I want to reward myself with positivity,reward
+U_THIRD969,2025-06-13 16:04:00,38.2,afternoon,28.7,2.9,-0.3,"['endless scroll', 'check phone', 'FOMO wave']",0.03,0.32,True,185.4,0.79,I want to gain control of my scrolling,dependency
+U_THIRD970,2025-06-13 07:36:00,12.4,morning,37.0,1.7,0.26,"['heavy brain', 'fatigue diary', 'overload speech']",0.34,0.33,False,746.0,0.97,I feel drained and need space,exhaustion
+U_THIRD971,2025-06-13 12:43:00,62.1,afternoon,50.3,2.4,-0.23,"['guilt meme', 'embarrassing fail', 'responsibility talk']",0.24,0.57,True,654.6,0.92,I want to turn regret into action,guilt
+U_THIRD972,2025-06-13 07:03:00,85.9,morning,25.8,0.6,0.24,"['stressful scene', 'dark theory', 'paranoia news']",0.38,0.52,True,530.2,0.81,I feel overwhelmed by bad content,anxious
+U_THIRD973,2025-06-13 18:25:00,29.3,night,10.2,1.8,0.89,"['happy scream', 'proud moment', 'reward day']",0.32,0.81,False,500.9,0.77,I deserve to celebrate,reward
+U_THIRD974,2025-06-13 14:56:00,53.0,afternoon,41.8,3.3,0.76,"['responsibility talk', 'shame reel', 'guilt meme']",0.17,0.24,False,401.8,0.67,I want to turn regret into action,guilt
+U_THIRD975,2025-06-13 19:37:00,80.0,night,11.7,2.4,-0.11,"['daily addiction', 'routine doom', 'autoplay trap']",0.29,0.17,True,510.3,0.62,I want to gain control of my scrolling,dependency
+U_THIRD976,2025-06-13 18:41:00,80.9,night,37.3,0.5,0.98,"['reward day', 'thankful post', 'happy scream']",0.03,0.26,True,531.6,0.53,I deserve to celebrate,reward
+U_THIRD977,2025-06-13 20:14:00,36.9,night,23.1,2.5,-0.09,"['bad ending', 'shame reel', 'responsibility talk']",0.09,0.85,True,546.4,0.74,I want to turn regret into action,guilt
+U_THIRD978,2025-06-13 22:54:00,74.4,night,69.3,3.2,-0.55,"['finally success', 'celebration edit', 'reward day']",0.23,0.22,False,332.7,0.89,I deserve to celebrate,reward
+U_THIRD979,2025-06-13 08:03:00,55.4,morning,29.6,3.0,0.47,"['dark theory', 'stressful scene', 'breaking alert']",0.06,0.73,False,575.7,0.93,I want to slow down my mind,anxious
+U_THIRD980,2025-06-13 17:26:00,14.2,afternoon,69.6,2.2,0.78,"['dark theory', 'stressful scene', 'scary fact']",0.29,0.49,True,605.2,0.66,I feel overwhelmed by bad content,anxious
+U_THIRD981,2025-06-13 20:35:00,67.9,night,34.6,3.1,0.13,"['endless scroll', 'FOMO wave', 'loop habit']",0.01,0.34,True,547.9,0.54,I want to reduce my reliance on content,dependency
+U_THIRD982,2025-06-13 00:46:00,67.4,late_night,24.2,1.8,-0.12,"['reward day', 'proud moment', 'motivation win']",0.38,0.29,False,543.5,0.71,I want to reward myself with positivity,reward
+U_THIRD983,2025-06-13 03:53:00,79.6,late_night,71.3,1.5,-0.82,"['could’ve done better', 'disappointing moment', 'embarrassing fail']",0.34,0.67,True,670.0,0.79,I hope to make better choices,guilt
+U_THIRD984,2025-06-13 07:28:00,45.9,morning,32.0,2.2,0.18,"['endless scroll', 'autoplay trap', 'check phone']",0.08,0.21,False,174.5,0.66,I want to gain control of my scrolling,dependency
+U_THIRD985,2025-06-13 01:35:00,37.1,late_night,39.2,1.9,-0.22,"['fun time', 'reward day', 'happy scream']",0.28,0.61,False,702.5,0.89,I deserve to celebrate,reward
+U_THIRD986,2025-06-13 23:12:00,12.7,night,18.1,0.5,0.29,"['feel good story', 'reward day', 'celebration edit']",0.33,0.62,True,597.1,0.77,I deserve to celebrate,reward
+U_THIRD987,2025-06-13 21:45:00,8.4,night,68.4,3.2,0.64,"['finally success', 'celebration edit', 'proud moment']",0.16,0.71,True,159.2,0.68,I deserve to celebrate,reward
+U_THIRD988,2025-06-13 13:39:00,50.7,afternoon,60.9,2.6,-0.55,"['happy scream', 'thankful post', 'fun time']",0.04,0.29,False,605.7,0.7,I deserve to celebrate,reward
+U_THIRD989,2025-06-13 23:44:00,77.3,night,56.3,2.6,-0.5,"['emergency warning', 'fear trigger', 'horror edit']",0.07,0.35,False,630.9,0.69,I want to slow down my mind,anxious
+U_THIRD990,2025-06-13 08:04:00,83.1,morning,13.8,3.7,0.2,"['eye strain', 'sleep vlog', 'fatigue diary']",0.05,0.43,False,231.0,0.51,I need more mental rest,exhaustion
+U_THIRD991,2025-06-13 02:08:00,34.8,late_night,46.7,1.5,-0.47,"['emergency warning', 'scary fact', 'fear trigger']",0.09,0.64,True,161.0,0.69,I want to slow down my mind,anxious
+U_THIRD992,2025-06-13 02:07:00,68.2,late_night,50.7,1.1,0.72,"['horror edit', 'emergency warning', 'crisis footage']",0.36,0.39,False,207.6,0.92,I want to slow down my mind,anxious
+U_THIRD993,2025-06-13 13:29:00,63.4,afternoon,66.3,3.4,0.1,"['dark theory', 'fear trigger', 'paranoia news']",0.09,0.77,False,612.8,0.97,I want to slow down my mind,anxious
+U_THIRD994,2025-06-13 05:31:00,80.5,late_night,73.7,1.4,-0.43,"['responsibility talk', 'disappointing moment', 'guilt meme']",0.18,0.16,True,469.5,0.67,I want to turn regret into action,guilt
+U_THIRD995,2025-06-13 18:38:00,51.5,night,41.5,2.0,-0.06,"['shame reel', 'disappointing moment', 'bad ending']",0.01,0.27,True,393.5,0.97,I hope to make better choices,guilt
+U_THIRD996,2025-06-13 20:54:00,68.0,night,39.6,3.0,0.08,"['scary fact', 'crisis footage', 'breaking alert']",0.12,0.89,True,290.0,0.87,I want to slow down my mind,anxious
+U_THIRD997,2025-06-13 19:51:00,44.3,night,15.5,3.6,0.95,"['eye strain', 'napping cat', 'crash reel']",0.39,0.32,True,639.6,0.83,I feel drained and need space,exhaustion
+U_THIRD998,2025-06-13 11:58:00,92.1,morning,63.8,1.8,0.33,"['danger trend', 'paranoia news', 'breaking alert']",0.0,0.3,False,705.5,0.74,I feel overwhelmed by bad content,anxious
+U_THIRD999,2025-06-13 00:09:00,57.4,late_night,63.2,0.9,0.35,"['bad ending', 'embarrassing fail', 'disappointing moment']",0.21,0.9,True,218.3,0.66,I want to turn regret into action,guilt

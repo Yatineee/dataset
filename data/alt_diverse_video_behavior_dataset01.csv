@@ -1,0 +1,1001 @@
+user_id,session_start_time,session_duration_min,active_period_label,avg_video_duration_sec,switch_frequency,content_emotion_score,content_type_keywords,repeated_viewing_ratio,skipped_intro_ratio,saved_to_favorites,3_day_total_watch_time,short_video_ratio,self_reported_goal,psych_state_label
+U_ALT000,2025-06-12 10:05:00,13.6,morning,31.6,0.8,0.91,"['overstimulated', 'burnout symptoms', 'mental drain']",0.07,0.3,True,293.9,0.68,I want better balance,exhaustion
+U_ALT001,2025-06-12 00:06:00,83.3,late_night,27.2,1.3,-0.13,"['compulsive scrolling', 'coffee addiction', 'sleep with phone']",0.01,0.81,True,316.5,0.63,I want to take control of my habits,dependency
+U_ALT002,2025-06-12 06:10:00,49.1,morning,5.7,3.3,-0.21,"['war update', 'bad news', 'stock crash']",0.35,0.86,True,605.2,0.66,I need to relax my mind,anxious
+U_ALT003,2025-06-12 21:31:00,77.4,night,31.9,1.3,0.8,"['no sleep', 'long work hours', 'power nap']",0.24,0.65,False,255.3,0.9,I want better balance,exhaustion
+U_ALT004,2025-06-12 07:49:00,55.6,morning,30.0,3.2,-0.02,"['ignored calls', 'poor grades', 'cheat story']",0.05,0.62,True,334.0,0.71,I want to be more productive,guilt
+U_ALT005,2025-06-12 06:48:00,66.7,morning,43.9,1.9,-0.11,"['constant refresh', ""can't stop"", 'coffee addiction']",0.31,0.73,True,300.0,0.62,I want to be more independent,dependency
+U_ALT006,2025-06-12 17:06:00,50.0,afternoon,44.8,2.0,0.36,"['fear of missing out', 'coffee addiction', 'constant refresh']",0.23,0.65,True,555.9,0.56,I want to take control of my habits,dependency
+U_ALT007,2025-06-12 18:46:00,71.5,night,51.9,3.4,-0.87,"['fatigue', 'power nap', 'stretch break']",0.29,0.74,True,533.2,0.72,I need rest,exhaustion
+U_ALT008,2025-06-12 18:56:00,80.9,night,49.8,1.9,0.28,"['digital cling', 'sleep with phone', 'daily routine']",0.31,0.67,False,303.9,0.93,I want to be more independent,dependency
+U_ALT009,2025-06-12 17:20:00,56.2,afternoon,64.8,1.8,-0.25,"['poor grades', 'failed test', 'bad habit']",0.1,0.29,True,604.4,0.7,I wish I had used time better,guilt
+U_ALT010,2025-06-12 10:16:00,40.1,morning,60.6,1.9,-0.45,"['compulsive scrolling', 'coffee addiction', 'constant refresh']",0.06,0.84,False,392.0,0.93,I want to take control of my habits,dependency
+U_ALT011,2025-06-12 07:22:00,13.1,morning,56.8,1.2,0.5,"['procrastination', 'poor grades', 'late work']",0.13,0.84,False,621.9,0.63,I wish I had used time better,guilt
+U_ALT012,2025-06-12 02:36:00,48.9,late_night,16.0,2.8,-0.53,"['overstimulated', 'stretch break', 'no sleep']",0.27,0.64,False,298.1,0.79,I want better balance,exhaustion
+U_ALT013,2025-06-12 08:25:00,50.8,morning,21.3,1.5,0.16,"['regret', 'procrastination', 'wasted time']",0.3,0.85,False,311.0,0.84,I want to be more productive,guilt
+U_ALT014,2025-06-12 12:51:00,67.4,afternoon,23.4,1.3,0.23,"['happy ending', 'good news', 'surprise box']",0.23,0.42,True,549.5,0.97,I deserve this joy,reward
+U_ALT015,2025-06-12 12:08:00,20.4,afternoon,28.5,3.1,-0.13,"['meme gold', 'surprise box', 'win prize']",0.07,0.74,True,471.6,0.61,I deserve this joy,reward
+U_ALT016,2025-06-12 20:21:00,52.0,night,19.9,2.1,0.89,"['regret', 'overspending', 'poor grades']",0.23,0.28,True,390.6,0.76,I wish I had used time better,guilt
+U_ALT017,2025-06-12 02:36:00,68.4,late_night,66.1,2.9,0.08,"['bad news', 'dystopia', 'market panic']",0.12,0.87,False,648.7,0.74,I need to relax my mind,anxious
+U_ALT018,2025-06-12 12:49:00,63.8,afternoon,15.7,2.1,-0.47,"['check notifications', 'coffee addiction', 'sleep with phone']",0.13,0.35,False,493.1,0.55,I want to be more independent,dependency
+U_ALT019,2025-06-12 03:49:00,29.3,late_night,34.5,3.1,-0.05,"['power nap', 'overstimulated', 'stretch break']",0.02,0.46,False,274.8,0.91,I need rest,exhaustion
+U_ALT020,2025-06-12 15:27:00,48.4,afternoon,27.9,2.0,0.04,"['digital cling', ""can't stop"", 'coffee addiction']",0.24,0.75,True,270.8,0.89,I want to be more independent,dependency
+U_ALT021,2025-06-12 03:28:00,46.8,late_night,59.5,3.1,0.89,"['crash nap', 'overstimulated', 'no sleep']",0.1,0.17,True,615.3,0.98,I need rest,exhaustion
+U_ALT022,2025-06-12 02:58:00,33.1,late_night,8.8,1.1,0.82,"['missed goal', 'failed test', 'poor grades']",0.06,0.68,True,682.3,0.92,I wish I had used time better,guilt
+U_ALT023,2025-06-12 07:13:00,72.8,morning,40.3,1.4,-0.75,"['bad habit', 'wasted time', 'cheat story']",0.19,0.73,True,325.7,0.74,I want to be more productive,guilt
+U_ALT024,2025-06-12 09:31:00,42.0,morning,6.6,0.3,-0.09,"['poor grades', 'wasted time', 'failed test']",0.07,0.31,False,253.8,0.79,I wish I had used time better,guilt
+U_ALT025,2025-06-12 23:10:00,63.0,night,6.2,0.8,0.43,"['sleep with phone', 'coffee addiction', 'digital cling']",0.09,0.85,False,659.5,0.62,I want to be more independent,dependency
+U_ALT026,2025-06-12 09:34:00,22.2,morning,27.4,1.5,0.57,"['surprise box', 'win prize', 'unexpected win']",0.35,0.38,False,331.6,0.96,I want to enjoy the moment,reward
+U_ALT027,2025-06-12 15:03:00,21.5,afternoon,55.3,2.6,0.26,"['unexpected win', 'good news', 'meme gold']",0.27,0.6,True,311.0,0.58,I want to enjoy the moment,reward
+U_ALT028,2025-06-12 07:45:00,29.1,morning,7.5,2.7,1.0,"['no sleep', 'fatigue', 'power nap']",0.24,0.48,False,476.6,0.73,I need rest,exhaustion
+U_ALT029,2025-06-12 08:40:00,44.9,morning,30.2,2.6,0.71,"['missed deadline', 'wasted time', 'procrastination']",0.28,0.7,False,225.0,0.66,I wish I had used time better,guilt
+U_ALT030,2025-06-12 11:59:00,38.9,morning,31.5,2.2,-0.47,"['ignored calls', 'poor grades', 'late work']",0.12,0.36,False,575.7,0.57,I wish I had used time better,guilt
+U_ALT031,2025-06-12 21:07:00,24.2,night,36.2,2.3,0.95,"['missed goal', 'missed deadline', 'ignored calls']",0.02,0.54,True,362.6,0.76,I want to be more productive,guilt
+U_ALT032,2025-06-12 14:27:00,47.1,afternoon,28.4,3.0,-0.64,"['power nap', 'work stress', 'stretch break']",0.17,0.14,False,408.8,0.93,I want better balance,exhaustion
+U_ALT033,2025-06-12 05:18:00,64.6,late_night,39.1,2.1,-0.3,"['power nap', 'burnout symptoms', 'stretch break']",0.32,0.43,True,395.9,0.68,I need rest,exhaustion
+U_ALT034,2025-06-12 06:48:00,18.7,morning,47.9,1.7,0.55,"['overwork', 'no sleep', 'fatigue']",0.38,0.78,True,247.8,0.92,I need rest,exhaustion
+U_ALT035,2025-06-12 07:01:00,23.6,morning,55.9,1.7,-0.99,"['constant refresh', 'check notifications', 'digital cling']",0.34,0.84,False,450.4,0.87,I want to take control of my habits,dependency
+U_ALT036,2025-06-12 05:03:00,77.8,late_night,18.3,1.4,-0.19,"['cheat story', 'bad habit', 'missed deadline']",0.26,0.39,False,226.1,0.64,I want to be more productive,guilt
+U_ALT037,2025-06-12 00:04:00,12.4,late_night,26.1,1.8,-0.92,"['check notifications', 'digital cling', ""can't stop""]",0.28,0.69,False,217.3,0.94,I want to be more independent,dependency
+U_ALT038,2025-06-12 22:14:00,10.7,night,19.3,3.4,-0.61,"['missed deadline', 'bad habit', 'poor grades']",0.24,0.11,False,670.8,0.75,I wish I had used time better,guilt
+U_ALT039,2025-06-12 06:55:00,53.0,morning,58.6,3.4,-0.9,"['wasted time', 'poor grades', 'missed deadline']",0.15,0.17,True,283.4,0.62,I wish I had used time better,guilt
+U_ALT040,2025-06-12 12:58:00,30.1,afternoon,42.9,2.7,-0.88,"['missed deadline', 'missed goal', 'regret']",0.2,0.14,False,189.5,0.98,I want to be more productive,guilt
+U_ALT041,2025-06-12 23:35:00,12.4,night,20.8,1.5,0.12,"['birthday cake', 'funny fail', 'meme gold']",0.14,0.61,False,669.8,0.97,I deserve this joy,reward
+U_ALT042,2025-06-12 22:46:00,48.2,night,68.3,0.6,0.92,"['sleep with phone', 'compulsive scrolling', 'check notifications']",0.1,0.7,True,367.6,0.63,I want to take control of my habits,dependency
+U_ALT043,2025-06-12 10:51:00,66.9,morning,9.1,2.1,0.08,"['dystopia', 'bad news', 'market panic']",0.13,0.44,False,428.5,0.98,I want to feel safe again,anxious
+U_ALT044,2025-06-12 00:25:00,71.8,late_night,50.0,2.8,0.8,"['war update', 'dystopia', 'interview fail']",0.04,0.42,True,692.2,0.79,I want to feel safe again,anxious
+U_ALT045,2025-06-12 16:16:00,49.4,afternoon,16.8,3.1,0.62,"['climate news', 'anxiety tips', 'war update']",0.19,0.34,False,492.6,0.84,I need to relax my mind,anxious
+U_ALT046,2025-06-12 15:21:00,65.8,afternoon,41.0,1.2,-0.49,"['regret', 'failed test', 'poor grades']",0.02,0.81,True,679.2,0.76,I want to be more productive,guilt
+U_ALT047,2025-06-12 12:36:00,34.8,afternoon,34.4,0.4,0.77,"['procrastination', 'cheat story', 'overspending']",0.31,0.62,False,439.3,0.71,I wish I had used time better,guilt
+U_ALT048,2025-06-12 23:13:00,58.1,night,17.0,1.9,-0.81,"['constant refresh', 'daily routine', 'check notifications']",0.34,0.15,True,319.7,0.95,I want to take control of my habits,dependency
+U_ALT049,2025-06-12 15:30:00,75.6,afternoon,65.4,2.1,-0.38,"['war update', 'market panic', 'dystopia']",0.07,0.46,False,678.5,0.86,I need to relax my mind,anxious
+U_ALT050,2025-06-12 08:42:00,32.6,morning,43.5,1.9,0.91,"['happy ending', 'celebration', 'win prize']",0.2,0.16,True,239.5,0.88,I want to enjoy the moment,reward
+U_ALT051,2025-06-12 02:55:00,53.8,late_night,30.3,1.2,-0.08,"['good news', 'celebration', 'birthday cake']",0.21,0.72,True,686.0,0.78,I deserve this joy,reward
+U_ALT052,2025-06-12 23:41:00,31.3,night,14.7,2.0,0.17,"['daily routine', 'sleep with phone', 'always online']",0.11,0.78,False,386.9,0.86,I want to be more independent,dependency
+U_ALT053,2025-06-12 06:22:00,12.4,morning,32.0,1.7,0.33,"['crash nap', 'stretch break', 'no sleep']",0.06,0.13,True,249.9,0.55,I need rest,exhaustion
+U_ALT054,2025-06-12 00:57:00,11.4,late_night,33.0,2.5,-0.08,"['crash nap', 'fatigue', 'overwork']",0.12,0.49,False,259.5,0.76,I want better balance,exhaustion
+U_ALT055,2025-06-12 00:18:00,45.1,late_night,10.1,1.7,0.93,"['wasted time', 'poor grades', 'ignored calls']",0.13,0.46,False,426.1,0.56,I wish I had used time better,guilt
+U_ALT056,2025-06-12 17:15:00,62.7,afternoon,27.4,1.4,-0.47,"['always online', 'daily routine', 'compulsive scrolling']",0.32,0.26,False,633.2,0.6,I want to take control of my habits,dependency
+U_ALT057,2025-06-12 21:31:00,45.1,night,42.4,1.6,0.9,"['fear of missing out', 'daily routine', 'compulsive scrolling']",0.3,0.38,True,665.0,0.78,I want to take control of my habits,dependency
+U_ALT058,2025-06-12 21:18:00,39.9,night,29.8,2.6,-0.47,"['digital fatigue', 'crash nap', 'overwork']",0.14,0.87,False,304.3,0.85,I want better balance,exhaustion
+U_ALT059,2025-06-12 05:30:00,53.8,late_night,38.1,1.2,0.9,"['no sleep', 'mental drain', 'power nap']",0.03,0.66,False,640.5,0.7,I want better balance,exhaustion
+U_ALT060,2025-06-12 01:37:00,52.0,late_night,10.2,0.3,0.63,"['power nap', 'fatigue', 'long work hours']",0.1,0.46,False,622.0,0.96,I need rest,exhaustion
+U_ALT061,2025-06-12 16:15:00,66.2,afternoon,61.4,0.9,-0.88,"['missed goal', 'poor grades', 'late work']",0.27,0.63,False,650.3,0.91,I wish I had used time better,guilt
+U_ALT062,2025-06-12 17:44:00,52.8,afternoon,50.4,3.3,0.82,"['digital fatigue', 'overwork', 'power nap']",0.03,0.63,False,586.1,0.82,I need rest,exhaustion
+U_ALT063,2025-06-12 19:12:00,65.7,night,54.7,1.1,0.16,"['long work hours', 'overwork', 'no sleep']",0.31,0.63,False,358.7,0.97,I need rest,exhaustion
+U_ALT064,2025-06-12 15:04:00,40.1,afternoon,26.5,1.6,0.55,"['power nap', 'mental drain', 'overwork']",0.16,0.76,True,539.2,0.64,I need rest,exhaustion
+U_ALT065,2025-06-12 16:40:00,77.6,afternoon,68.3,2.0,-0.41,"['war update', 'job loss', 'interview fail']",0.17,0.23,True,647.5,0.56,I want to feel safe again,anxious
+U_ALT066,2025-06-12 23:37:00,28.0,night,31.7,1.1,-0.49,"['crash nap', 'work stress', 'digital fatigue']",0.02,0.42,True,652.6,0.74,I want better balance,exhaustion
+U_ALT067,2025-06-12 05:41:00,72.9,late_night,48.5,3.1,0.23,"['cheat story', 'procrastination', 'late work']",0.02,0.43,True,545.9,0.75,I wish I had used time better,guilt
+U_ALT068,2025-06-12 22:17:00,13.0,night,26.6,0.7,-0.96,"['funny fail', 'celebration', 'birthday cake']",0.17,0.35,True,345.6,0.94,I deserve this joy,reward
+U_ALT069,2025-06-12 12:19:00,26.5,afternoon,8.9,1.2,-0.04,"['coffee addiction', 'sleep with phone', 'fear of missing out']",0.26,0.53,True,666.7,0.68,I want to take control of my habits,dependency
+U_ALT070,2025-06-12 15:46:00,62.1,afternoon,69.2,3.2,0.6,"['always online', 'constant refresh', 'sleep with phone']",0.23,0.74,True,354.0,0.6,I want to take control of my habits,dependency
+U_ALT071,2025-06-12 02:22:00,49.3,late_night,18.8,1.5,-0.61,"['stretch break', 'mental drain', 'fatigue']",0.28,0.12,False,183.0,0.77,I need rest,exhaustion
+U_ALT072,2025-06-12 16:32:00,13.1,afternoon,16.0,3.4,-0.19,"['always online', ""can't stop"", 'fear of missing out']",0.12,0.88,True,538.6,0.8,I want to be more independent,dependency
+U_ALT073,2025-06-12 07:59:00,11.1,morning,52.5,3.1,-0.61,"['wasted time', 'failed test', 'overspending']",0.06,0.19,False,579.7,0.74,I want to be more productive,guilt
+U_ALT074,2025-06-12 17:19:00,42.1,afternoon,49.7,0.8,0.36,"['always online', 'coffee addiction', 'daily routine']",0.33,0.87,False,237.5,0.56,I want to take control of my habits,dependency
+U_ALT075,2025-06-12 21:48:00,28.8,night,26.9,1.0,-0.36,"['job loss', 'bad news', 'recession']",0.37,0.19,True,602.3,0.64,I want to feel safe again,anxious
+U_ALT076,2025-06-12 01:57:00,83.0,late_night,21.7,2.4,0.75,"['fatigue', 'burnout symptoms', 'overstimulated']",0.35,0.25,False,384.1,0.76,I want better balance,exhaustion
+U_ALT077,2025-06-12 14:06:00,29.3,afternoon,39.8,2.1,-0.47,"['constant refresh', ""can't stop"", 'digital cling']",0.33,0.14,False,296.5,0.81,I want to be more independent,dependency
+U_ALT078,2025-06-12 12:50:00,12.5,afternoon,65.6,0.5,-0.25,"['no sleep', 'work stress', 'power nap']",0.08,0.27,True,296.6,0.56,I need rest,exhaustion
+U_ALT079,2025-06-12 21:06:00,27.8,night,60.4,1.2,0.9,"['always online', 'check notifications', 'compulsive scrolling']",0.26,0.37,True,296.3,0.78,I want to be more independent,dependency
+U_ALT080,2025-06-12 02:47:00,44.4,late_night,45.9,3.1,0.5,"['surprise box', 'good news', 'birthday cake']",0.17,0.8,False,539.5,0.97,I want to enjoy the moment,reward
+U_ALT081,2025-06-12 23:19:00,34.0,night,38.7,3.2,0.51,"['funny fail', 'bonus drop', 'good news']",0.3,0.27,False,605.0,0.6,I deserve this joy,reward
+U_ALT082,2025-06-12 06:42:00,24.6,morning,40.8,1.3,-0.49,"['job loss', 'interview fail', 'bad news']",0.04,0.7,False,465.7,0.88,I want to feel safe again,anxious
+U_ALT083,2025-06-12 20:12:00,71.6,night,66.6,2.8,-0.97,"['fatigue', 'work stress', 'overwork']",0.01,0.39,True,630.2,0.92,I want better balance,exhaustion
+U_ALT084,2025-06-12 02:48:00,73.6,late_night,5.7,1.8,0.2,"['coffee addiction', ""can't stop"", 'fear of missing out']",0.17,0.23,True,552.4,0.72,I want to take control of my habits,dependency
+U_ALT085,2025-06-12 14:31:00,40.7,afternoon,8.3,1.2,0.68,"['bad news', 'stock crash', 'anxiety tips']",0.37,0.39,False,517.9,0.74,I want to feel safe again,anxious
+U_ALT086,2025-06-12 13:38:00,13.4,afternoon,21.2,1.0,0.89,"['coffee addiction', 'compulsive scrolling', 'digital cling']",0.17,0.48,True,456.6,0.83,I want to take control of my habits,dependency
+U_ALT087,2025-06-12 07:07:00,39.6,morning,25.8,3.4,-0.26,"['overwork', 'fatigue', 'mental drain']",0.39,0.25,False,391.1,0.7,I need rest,exhaustion
+U_ALT088,2025-06-12 22:33:00,46.7,night,16.8,1.3,-0.28,"['compulsive scrolling', 'fear of missing out', 'always online']",0.07,0.26,True,484.2,0.57,I want to be more independent,dependency
+U_ALT089,2025-06-12 12:37:00,22.2,afternoon,9.1,2.6,0.94,"['overspending', 'poor grades', 'missed goal']",0.15,0.57,True,493.8,0.82,I wish I had used time better,guilt
+U_ALT090,2025-06-12 05:52:00,73.8,late_night,6.6,2.7,-0.93,"['surprise box', 'meme gold', 'good news']",0.08,0.31,False,270.6,0.57,I want to enjoy the moment,reward
+U_ALT091,2025-06-12 19:09:00,40.0,night,46.2,2.8,0.62,"['digital fatigue', 'no sleep', 'burnout symptoms']",0.13,0.2,True,644.4,0.79,I need rest,exhaustion
+U_ALT092,2025-06-12 20:01:00,34.6,night,57.9,2.7,-0.67,"['surprise box', 'good news', 'unexpected win']",0.31,0.7,False,561.8,0.78,I deserve this joy,reward
+U_ALT093,2025-06-12 05:53:00,55.4,late_night,53.7,1.0,0.32,"['unexpected win', 'win prize', 'surprise box']",0.17,0.37,False,338.8,0.73,I deserve this joy,reward
+U_ALT094,2025-06-12 09:15:00,75.7,morning,5.1,1.6,0.42,"['overspending', 'failed test', 'wasted time']",0.31,0.39,False,302.1,0.63,I wish I had used time better,guilt
+U_ALT095,2025-06-12 03:28:00,77.5,late_night,34.4,0.7,0.56,"['constant refresh', 'check notifications', 'always online']",0.03,0.85,True,649.5,0.83,I want to take control of my habits,dependency
+U_ALT096,2025-06-12 11:26:00,23.6,morning,23.3,1.2,0.08,"['no sleep', 'power nap', 'crash nap']",0.05,0.25,False,639.6,0.68,I want better balance,exhaustion
+U_ALT097,2025-06-12 09:34:00,67.6,morning,27.9,0.5,-0.89,"['overspending', 'regret', 'late work']",0.34,0.46,False,540.5,0.65,I wish I had used time better,guilt
+U_ALT098,2025-06-12 02:07:00,8.3,late_night,47.1,3.0,-0.89,"['fear of missing out', 'daily routine', ""can't stop""]",0.38,0.22,True,372.6,0.85,I want to take control of my habits,dependency
+U_ALT099,2025-06-12 14:02:00,23.7,afternoon,65.7,2.3,-0.52,"['funny fail', 'birthday cake', 'happy ending']",0.06,0.81,True,528.5,0.8,I deserve this joy,reward
+U_ALT100,2025-06-12 00:18:00,18.7,late_night,16.7,0.8,-0.04,"['fatigue', 'stretch break', 'power nap']",0.38,0.59,True,275.1,0.92,I need rest,exhaustion
+U_ALT101,2025-06-12 00:54:00,46.4,late_night,10.0,2.9,0.1,"['ignored calls', 'failed test', 'wasted time']",0.06,0.71,False,508.9,0.86,I wish I had used time better,guilt
+U_ALT102,2025-06-12 14:49:00,80.7,afternoon,18.6,3.3,0.89,"['late work', 'failed test', 'missed deadline']",0.23,0.45,True,688.2,0.66,I want to be more productive,guilt
+U_ALT103,2025-06-12 11:51:00,21.2,morning,13.7,1.4,-0.64,"['good news', 'bonus drop', 'celebration']",0.19,0.41,False,431.9,0.92,I deserve this joy,reward
+U_ALT104,2025-06-12 08:35:00,45.7,morning,33.9,2.3,-0.87,"['no sleep', 'digital fatigue', 'crash nap']",0.07,0.52,True,540.0,0.64,I need rest,exhaustion
+U_ALT105,2025-06-12 07:21:00,61.7,morning,23.8,1.3,0.9,"['always online', 'coffee addiction', 'check notifications']",0.36,0.57,True,626.9,0.68,I want to be more independent,dependency
+U_ALT106,2025-06-12 19:53:00,58.9,night,62.7,2.0,0.92,"['work stress', 'long work hours', 'power nap']",0.1,0.12,True,476.0,0.85,I need rest,exhaustion
+U_ALT107,2025-06-12 21:16:00,53.3,night,37.4,1.7,-0.91,"['procrastination', 'bad habit', 'overspending']",0.09,0.27,True,409.5,0.58,I want to be more productive,guilt
+U_ALT108,2025-06-12 04:22:00,65.9,late_night,13.3,0.8,-0.48,"['recession', 'job loss', 'health scare']",0.1,0.71,True,684.1,0.59,I need to relax my mind,anxious
+U_ALT109,2025-06-12 10:33:00,46.5,morning,49.5,1.7,-0.88,"['bonus drop', 'celebration', 'congrats']",0.21,0.3,False,302.9,0.77,I deserve this joy,reward
+U_ALT110,2025-06-12 10:53:00,15.1,morning,35.3,3.1,0.28,"['work stress', 'mental drain', 'no sleep']",0.25,0.15,False,320.2,0.6,I need rest,exhaustion
+U_ALT111,2025-06-12 18:04:00,57.8,night,60.3,1.2,0.95,"['check notifications', 'coffee addiction', 'fear of missing out']",0.15,0.12,True,356.0,0.76,I want to be more independent,dependency
+U_ALT112,2025-06-12 06:08:00,8.5,morning,48.5,1.2,-0.09,"['congrats', 'funny fail', 'good news']",0.08,0.77,False,697.9,0.59,I deserve this joy,reward
+U_ALT113,2025-06-12 16:55:00,42.0,afternoon,18.6,2.2,-0.49,"['always online', 'check notifications', 'compulsive scrolling']",0.37,0.21,True,318.0,0.64,I want to take control of my habits,dependency
+U_ALT114,2025-06-12 22:10:00,55.7,night,53.7,2.7,-0.44,"['meme gold', 'bonus drop', 'positive feedback']",0.09,0.74,True,203.8,0.63,I deserve this joy,reward
+U_ALT115,2025-06-12 07:08:00,64.5,morning,17.0,1.7,0.89,"['unexpected win', 'good news', 'celebration']",0.4,0.86,True,223.8,0.57,I want to enjoy the moment,reward
+U_ALT116,2025-06-12 06:22:00,21.4,morning,6.1,2.3,1.0,"['wasted time', 'poor grades', 'ignored calls']",0.05,0.48,False,245.3,0.81,I want to be more productive,guilt
+U_ALT117,2025-06-12 13:06:00,18.0,afternoon,60.4,0.7,0.25,"['health scare', 'climate news', 'interview fail']",0.04,0.67,True,285.6,0.94,I need to relax my mind,anxious
+U_ALT118,2025-06-12 08:45:00,36.5,morning,27.1,2.8,0.56,"['fear of missing out', 'constant refresh', 'check notifications']",0.29,0.45,True,263.0,0.66,I want to be more independent,dependency
+U_ALT119,2025-06-12 18:54:00,34.2,night,50.9,0.9,-0.96,"['digital fatigue', 'long work hours', 'work stress']",0.28,0.29,False,584.5,0.96,I need rest,exhaustion
+U_ALT120,2025-06-12 01:52:00,54.0,late_night,31.0,1.2,0.82,"['surprise box', 'funny fail', 'positive feedback']",0.31,0.21,True,645.7,0.93,I want to enjoy the moment,reward
+U_ALT121,2025-06-12 13:48:00,78.9,afternoon,18.2,2.2,-0.41,"['no sleep', 'stretch break', 'long work hours']",0.27,0.74,False,646.4,0.7,I need rest,exhaustion
+U_ALT122,2025-06-12 04:05:00,46.1,late_night,5.2,3.1,-0.08,"['check notifications', ""can't stop"", 'compulsive scrolling']",0.33,0.63,True,521.5,0.72,I want to take control of my habits,dependency
+U_ALT123,2025-06-12 21:30:00,27.6,night,15.6,2.4,0.83,"['fatigue', 'overwork', 'mental drain']",0.25,0.8,True,519.9,0.88,I need rest,exhaustion
+U_ALT124,2025-06-12 03:41:00,75.2,late_night,27.5,2.1,-0.61,"['daily routine', 'sleep with phone', 'check notifications']",0.33,0.27,False,435.4,0.87,I want to take control of my habits,dependency
+U_ALT125,2025-06-12 13:37:00,15.7,afternoon,30.1,1.3,0.79,"['good news', 'meme gold', 'bonus drop']",0.1,0.16,False,518.6,0.64,I deserve this joy,reward
+U_ALT126,2025-06-12 16:39:00,51.5,afternoon,20.1,1.4,-0.79,"['market panic', 'dystopia', 'stock crash']",0.34,0.11,True,438.4,0.68,I need to relax my mind,anxious
+U_ALT127,2025-06-12 04:50:00,81.2,late_night,53.4,0.6,-0.79,"['ignored calls', 'wasted time', 'procrastination']",0.29,0.22,True,440.1,0.98,I wish I had used time better,guilt
+U_ALT128,2025-06-12 02:10:00,81.9,late_night,19.2,2.0,0.62,"['overwork', 'power nap', 'work stress']",0.08,0.37,False,342.2,0.66,I need rest,exhaustion
+U_ALT129,2025-06-12 12:23:00,45.2,afternoon,54.6,3.1,-0.38,"['compulsive scrolling', 'constant refresh', 'sleep with phone']",0.32,0.14,True,544.1,0.64,I want to be more independent,dependency
+U_ALT130,2025-06-12 11:01:00,27.2,morning,65.9,3.5,-0.25,"['health scare', 'market panic', 'climate news']",0.15,0.75,True,661.9,0.64,I want to feel safe again,anxious
+U_ALT131,2025-06-12 04:56:00,29.3,late_night,51.3,1.2,-0.96,"['digital fatigue', 'fatigue', 'overwork']",0.35,0.8,True,187.7,0.75,I want better balance,exhaustion
+U_ALT132,2025-06-12 17:40:00,82.2,afternoon,36.9,1.4,-0.78,"['coffee addiction', 'daily routine', 'fear of missing out']",0.38,0.8,False,413.6,0.64,I want to take control of my habits,dependency
+U_ALT133,2025-06-12 06:57:00,79.3,morning,39.6,3.0,-0.4,"['market panic', 'bad news', 'dystopia']",0.07,0.87,True,644.9,0.75,I want to feel safe again,anxious
+U_ALT134,2025-06-12 12:28:00,83.1,afternoon,8.6,3.4,0.61,"['happy ending', 'win prize', 'positive feedback']",0.07,0.81,False,669.2,0.6,I want to enjoy the moment,reward
+U_ALT135,2025-06-12 04:14:00,31.9,late_night,39.8,2.6,0.69,"['power nap', 'crash nap', 'digital fatigue']",0.07,0.66,False,436.9,0.67,I want better balance,exhaustion
+U_ALT136,2025-06-12 23:47:00,82.2,night,10.8,1.4,-0.76,"['power nap', 'crash nap', 'fatigue']",0.09,0.17,True,394.0,0.63,I need rest,exhaustion
+U_ALT137,2025-06-12 02:31:00,34.3,late_night,15.8,1.2,-0.97,"['no sleep', 'stretch break', 'fatigue']",0.27,0.66,True,608.0,0.73,I need rest,exhaustion
+U_ALT138,2025-06-12 02:37:00,41.5,late_night,40.5,2.6,0.65,"['overstimulated', 'long work hours', 'overwork']",0.22,0.33,True,287.4,0.59,I need rest,exhaustion
+U_ALT139,2025-06-12 15:49:00,55.5,afternoon,51.3,2.0,0.68,"['digital fatigue', 'burnout symptoms', 'overstimulated']",0.33,0.79,True,406.9,0.8,I need rest,exhaustion
+U_ALT140,2025-06-12 07:18:00,67.5,morning,36.8,3.3,-0.61,"['dystopia', 'bad news', 'stock crash']",0.0,0.21,False,600.3,0.91,I need to relax my mind,anxious
+U_ALT141,2025-06-12 09:03:00,36.3,morning,50.0,1.4,-0.7,"['recession', 'health scare', 'interview fail']",0.34,0.82,False,213.5,0.97,I want to feel safe again,anxious
+U_ALT142,2025-06-12 13:54:00,61.0,afternoon,26.2,2.9,-0.23,"['bad habit', 'missed deadline', 'missed goal']",0.2,0.2,True,263.4,0.56,I want to be more productive,guilt
+U_ALT143,2025-06-12 18:40:00,31.5,night,62.7,2.0,-0.65,"['win prize', 'meme gold', 'funny fail']",0.34,0.65,False,387.5,0.9,I want to enjoy the moment,reward
+U_ALT144,2025-06-12 18:58:00,20.9,night,6.7,0.9,0.25,"['win prize', 'bonus drop', 'surprise box']",0.09,0.44,False,626.6,0.97,I want to enjoy the moment,reward
+U_ALT145,2025-06-12 19:28:00,53.9,night,46.0,3.3,0.25,"[""can't stop"", 'fear of missing out', 'digital cling']",0.1,0.33,False,498.8,0.87,I want to take control of my habits,dependency
+U_ALT146,2025-06-12 18:00:00,69.6,night,22.1,1.8,0.09,"['digital fatigue', 'long work hours', 'overwork']",0.16,0.35,False,383.9,0.81,I need rest,exhaustion
+U_ALT147,2025-06-12 21:57:00,11.5,night,40.4,2.5,-0.46,"['procrastination', 'failed test', 'bad habit']",0.05,0.27,True,186.5,0.74,I want to be more productive,guilt
+U_ALT148,2025-06-12 17:04:00,78.4,afternoon,25.1,0.9,0.97,"['unexpected win', 'positive feedback', 'happy ending']",0.17,0.15,False,296.6,0.65,I want to enjoy the moment,reward
+U_ALT149,2025-06-12 04:42:00,24.5,late_night,34.4,2.4,0.63,"['no sleep', 'digital fatigue', 'long work hours']",0.39,0.73,True,669.3,0.6,I want better balance,exhaustion
+U_ALT150,2025-06-12 10:00:00,40.2,morning,16.6,3.1,-0.85,"['failed test', 'overspending', 'missed goal']",0.17,0.3,True,348.1,0.87,I want to be more productive,guilt
+U_ALT151,2025-06-12 18:49:00,19.9,night,6.4,1.0,-0.67,"['overspending', 'cheat story', 'wasted time']",0.37,0.58,True,621.2,0.84,I wish I had used time better,guilt
+U_ALT152,2025-06-12 11:39:00,46.4,morning,30.0,1.6,-0.44,"['overwork', 'crash nap', 'power nap']",0.28,0.6,False,195.2,0.88,I need rest,exhaustion
+U_ALT153,2025-06-12 00:02:00,27.8,late_night,15.7,2.1,-0.89,"['burnout symptoms', 'power nap', 'mental drain']",0.35,0.81,False,517.8,0.82,I need rest,exhaustion
+U_ALT154,2025-06-12 12:43:00,31.4,afternoon,46.4,0.9,0.43,"['digital cling', 'fear of missing out', 'check notifications']",0.06,0.65,False,603.2,0.72,I want to be more independent,dependency
+U_ALT155,2025-06-12 13:53:00,29.3,afternoon,56.1,2.7,0.64,"['late work', 'poor grades', 'bad habit']",0.35,0.77,False,411.2,0.7,I want to be more productive,guilt
+U_ALT156,2025-06-12 07:28:00,49.0,morning,16.9,3.0,0.55,"['cheat story', 'wasted time', 'bad habit']",0.33,0.14,False,610.5,0.94,I want to be more productive,guilt
+U_ALT157,2025-06-12 07:57:00,8.9,morning,20.5,3.1,0.61,"['positive feedback', 'good news', 'happy ending']",0.35,0.17,False,223.3,0.94,I want to enjoy the moment,reward
+U_ALT158,2025-06-12 19:10:00,36.5,night,11.4,1.8,0.84,"['overwork', 'mental drain', 'fatigue']",0.09,0.35,False,632.5,0.67,I want better balance,exhaustion
+U_ALT159,2025-06-12 16:50:00,48.0,afternoon,40.3,3.4,-0.55,"['job loss', 'market panic', 'health scare']",0.34,0.14,False,683.1,0.75,I want to feel safe again,anxious
+U_ALT160,2025-06-12 05:12:00,60.3,late_night,9.4,1.3,0.31,"['coffee addiction', ""can't stop"", 'digital cling']",0.15,0.14,True,653.0,0.56,I want to take control of my habits,dependency
+U_ALT161,2025-06-12 04:09:00,8.1,late_night,68.4,3.0,0.56,"['funny fail', 'unexpected win', 'congrats']",0.21,0.39,True,569.4,0.57,I want to enjoy the moment,reward
+U_ALT162,2025-06-12 11:30:00,46.1,morning,40.4,2.6,0.18,"['meme gold', 'birthday cake', 'funny fail']",0.12,0.61,True,463.0,0.65,I want to enjoy the moment,reward
+U_ALT163,2025-06-12 05:04:00,10.1,late_night,22.5,2.8,-0.8,"['always online', 'digital cling', 'fear of missing out']",0.23,0.68,False,316.2,0.7,I want to take control of my habits,dependency
+U_ALT164,2025-06-12 15:47:00,45.8,afternoon,8.3,3.4,0.17,"['overspending', 'failed test', 'missed deadline']",0.22,0.13,True,642.7,0.77,I wish I had used time better,guilt
+U_ALT165,2025-06-12 22:14:00,57.1,night,7.0,1.5,-0.86,"['dystopia', 'stock crash', 'disaster']",0.02,0.69,False,263.2,0.77,I need to relax my mind,anxious
+U_ALT166,2025-06-12 00:39:00,30.5,late_night,10.5,2.7,-0.74,"[""can't stop"", 'daily routine', 'sleep with phone']",0.12,0.28,True,237.0,0.56,I want to take control of my habits,dependency
+U_ALT167,2025-06-12 13:36:00,40.0,afternoon,40.5,2.8,0.83,"['fatigue', 'overstimulated', 'digital fatigue']",0.02,0.46,False,549.9,0.87,I need rest,exhaustion
+U_ALT168,2025-06-12 18:35:00,30.3,night,11.9,1.2,0.28,"['interview fail', 'stock crash', 'bad news']",0.31,0.89,True,351.2,0.97,I want to feel safe again,anxious
+U_ALT169,2025-06-12 19:30:00,47.9,night,11.6,1.7,0.36,"['daily routine', 'constant refresh', 'coffee addiction']",0.07,0.53,True,561.3,0.55,I want to take control of my habits,dependency
+U_ALT170,2025-06-12 10:24:00,82.6,morning,9.8,2.0,-0.16,"['always online', ""can't stop"", 'sleep with phone']",0.35,0.32,True,344.9,0.93,I want to be more independent,dependency
+U_ALT171,2025-06-12 12:55:00,24.0,afternoon,45.5,2.5,0.72,"['late work', 'regret', 'overspending']",0.29,0.27,False,547.4,0.58,I wish I had used time better,guilt
+U_ALT172,2025-06-12 15:51:00,38.8,afternoon,51.3,2.5,0.35,"['constant refresh', 'fear of missing out', 'coffee addiction']",0.08,0.6,False,565.7,0.86,I want to take control of my habits,dependency
+U_ALT173,2025-06-12 02:07:00,48.8,late_night,59.5,1.8,-0.44,"['always online', 'sleep with phone', 'coffee addiction']",0.29,0.17,True,585.4,0.64,I want to be more independent,dependency
+U_ALT174,2025-06-12 10:02:00,56.2,morning,52.5,1.3,-0.78,"['late work', 'procrastination', 'failed test']",0.16,0.11,True,554.0,0.62,I want to be more productive,guilt
+U_ALT175,2025-06-12 15:39:00,70.6,afternoon,11.8,1.0,-0.49,"['bad news', 'war update', 'recession']",0.18,0.84,True,485.4,0.62,I want to feel safe again,anxious
+U_ALT176,2025-06-12 06:15:00,11.6,morning,56.0,2.8,0.02,"['long work hours', 'digital fatigue', 'overwork']",0.25,0.33,False,388.7,0.92,I need rest,exhaustion
+U_ALT177,2025-06-12 09:49:00,18.3,morning,69.6,0.7,0.91,"['mental drain', 'digital fatigue', 'power nap']",0.25,0.5,False,469.7,0.76,I want better balance,exhaustion
+U_ALT178,2025-06-12 12:11:00,45.9,afternoon,42.3,1.4,-0.61,"['job loss', 'war update', 'disaster']",0.09,0.49,True,604.5,0.67,I need to relax my mind,anxious
+U_ALT179,2025-06-12 11:54:00,44.0,morning,50.9,2.2,0.4,"['digital fatigue', 'power nap', 'burnout symptoms']",0.01,0.8,False,465.3,0.85,I need rest,exhaustion
+U_ALT180,2025-06-12 08:18:00,37.1,morning,28.2,1.9,-0.7,"['missed deadline', 'wasted time', 'late work']",0.14,0.84,True,493.3,0.8,I wish I had used time better,guilt
+U_ALT181,2025-06-12 22:26:00,36.3,night,58.1,3.0,-0.56,"['overwork', 'stretch break', 'burnout symptoms']",0.25,0.19,True,591.7,0.82,I want better balance,exhaustion
+U_ALT182,2025-06-12 10:48:00,68.2,morning,8.7,1.0,0.12,"['sleep with phone', 'coffee addiction', 'daily routine']",0.15,0.32,False,215.5,0.95,I want to be more independent,dependency
+U_ALT183,2025-06-12 02:55:00,10.2,late_night,29.0,1.7,-0.72,"['good news', 'win prize', 'happy ending']",0.26,0.4,False,319.2,0.8,I deserve this joy,reward
+U_ALT184,2025-06-12 13:12:00,17.3,afternoon,69.0,0.8,0.65,"['missed goal', 'late work', 'ignored calls']",0.4,0.26,False,330.0,0.82,I wish I had used time better,guilt
+U_ALT185,2025-06-12 20:39:00,82.1,night,37.8,1.4,-0.9,"['burnout symptoms', 'long work hours', 'no sleep']",0.35,0.15,False,289.0,0.75,I want better balance,exhaustion
+U_ALT186,2025-06-12 13:02:00,53.5,afternoon,29.5,0.9,-0.35,"['procrastination', 'wasted time', 'failed test']",0.33,0.31,False,614.6,0.7,I want to be more productive,guilt
+U_ALT187,2025-06-12 16:07:00,70.9,afternoon,41.2,2.9,0.85,"['fatigue', 'no sleep', 'overwork']",0.4,0.87,False,699.6,0.72,I need rest,exhaustion
+U_ALT188,2025-06-12 17:35:00,51.0,afternoon,19.0,0.7,0.07,"['job loss', 'climate news', 'disaster']",0.05,0.4,True,400.4,0.74,I need to relax my mind,anxious
+U_ALT189,2025-06-12 08:44:00,76.0,morning,53.0,2.4,0.09,"['birthday cake', 'bonus drop', 'congrats']",0.16,0.25,True,401.4,0.78,I want to enjoy the moment,reward
+U_ALT190,2025-06-12 16:48:00,31.8,afternoon,45.4,2.0,0.61,"['coffee addiction', 'digital cling', 'always online']",0.29,0.47,True,194.1,0.64,I want to take control of my habits,dependency
+U_ALT191,2025-06-12 01:11:00,67.5,late_night,12.7,1.8,-0.08,"['late work', 'bad habit', 'ignored calls']",0.02,0.36,False,334.3,0.67,I wish I had used time better,guilt
+U_ALT192,2025-06-12 16:16:00,73.6,afternoon,60.4,3.0,0.94,"['burnout symptoms', 'overstimulated', 'overwork']",0.11,0.38,True,635.6,0.7,I want better balance,exhaustion
+U_ALT193,2025-06-12 03:38:00,83.1,late_night,62.0,1.5,0.45,"['fatigue', 'overwork', 'crash nap']",0.06,0.43,False,651.2,0.88,I need rest,exhaustion
+U_ALT194,2025-06-12 11:05:00,82.7,morning,39.1,2.7,-0.99,"['late work', 'wasted time', 'missed goal']",0.08,0.53,False,501.3,0.59,I want to be more productive,guilt
+U_ALT195,2025-06-12 03:12:00,19.7,late_night,26.3,1.9,0.54,"['always online', 'fear of missing out', 'check notifications']",0.15,0.13,True,444.9,0.94,I want to be more independent,dependency
+U_ALT196,2025-06-12 03:21:00,61.3,late_night,36.5,1.1,0.32,"['procrastination', 'missed goal', 'failed test']",0.33,0.18,False,616.8,0.97,I want to be more productive,guilt
+U_ALT197,2025-06-12 19:05:00,72.9,night,27.1,1.9,0.13,"['poor grades', 'missed goal', 'procrastination']",0.26,0.39,True,532.2,0.58,I want to be more productive,guilt
+U_ALT198,2025-06-12 00:20:00,77.0,late_night,25.0,1.1,0.87,"['long work hours', 'overwork', 'work stress']",0.37,0.33,True,693.0,0.78,I want better balance,exhaustion
+U_ALT199,2025-06-12 15:22:00,57.2,afternoon,41.1,0.7,-0.19,"['missed goal', 'cheat story', 'failed test']",0.13,0.12,True,251.6,0.88,I want to be more productive,guilt
+U_ALT200,2025-06-12 13:53:00,77.5,afternoon,36.7,2.9,-0.87,"[""can't stop"", 'compulsive scrolling', 'daily routine']",0.23,0.54,False,518.0,0.78,I want to be more independent,dependency
+U_ALT201,2025-06-12 17:47:00,32.1,afternoon,48.0,0.4,-0.72,"['birthday cake', 'celebration', 'unexpected win']",0.38,0.46,True,408.5,0.97,I want to enjoy the moment,reward
+U_ALT202,2025-06-12 17:24:00,15.4,afternoon,30.0,1.7,-0.18,"['cheat story', 'late work', 'missed goal']",0.3,0.32,True,210.6,0.8,I wish I had used time better,guilt
+U_ALT203,2025-06-12 07:07:00,15.9,morning,5.4,2.1,-0.18,"['overstimulated', 'fatigue', 'no sleep']",0.36,0.55,False,234.1,0.62,I need rest,exhaustion
+U_ALT204,2025-06-12 13:25:00,70.7,afternoon,63.6,2.5,0.82,"['anxiety tips', 'job loss', 'interview fail']",0.2,0.66,False,478.9,0.61,I need to relax my mind,anxious
+U_ALT205,2025-06-12 12:02:00,67.5,afternoon,52.4,0.5,-0.98,"['digital cling', 'sleep with phone', 'coffee addiction']",0.18,0.72,True,379.0,0.57,I want to be more independent,dependency
+U_ALT206,2025-06-12 20:42:00,51.6,night,45.1,1.6,-0.59,"['happy ending', 'meme gold', 'unexpected win']",0.35,0.32,False,573.8,0.72,I want to enjoy the moment,reward
+U_ALT207,2025-06-12 05:57:00,31.6,late_night,12.6,3.0,0.17,"['funny fail', 'surprise box', 'unexpected win']",0.02,0.49,False,216.9,0.79,I want to enjoy the moment,reward
+U_ALT208,2025-06-12 09:35:00,44.4,morning,26.1,0.6,-0.67,"['coffee addiction', 'compulsive scrolling', 'daily routine']",0.25,0.38,True,431.6,0.63,I want to take control of my habits,dependency
+U_ALT209,2025-06-12 01:48:00,43.2,late_night,45.4,1.9,-0.74,"[""can't stop"", 'constant refresh', 'compulsive scrolling']",0.26,0.64,False,262.0,0.87,I want to take control of my habits,dependency
+U_ALT210,2025-06-12 09:37:00,21.8,morning,64.3,1.1,-0.26,"['digital cling', 'daily routine', 'coffee addiction']",0.23,0.24,False,339.7,0.66,I want to be more independent,dependency
+U_ALT211,2025-06-12 04:26:00,50.4,late_night,22.6,0.8,-0.2,"[""can't stop"", 'constant refresh', 'digital cling']",0.27,0.68,True,425.4,0.89,I want to take control of my habits,dependency
+U_ALT212,2025-06-12 23:59:00,62.0,night,42.1,3.3,0.21,"['bad habit', 'late work', 'missed goal']",0.26,0.62,True,494.8,0.88,I want to be more productive,guilt
+U_ALT213,2025-06-12 13:04:00,25.3,afternoon,16.5,1.9,-0.42,"['birthday cake', 'surprise box', 'happy ending']",0.07,0.34,False,550.7,0.91,I want to enjoy the moment,reward
+U_ALT214,2025-06-12 02:19:00,24.7,late_night,45.4,1.0,0.5,"['fear of missing out', 'compulsive scrolling', ""can't stop""]",0.02,0.23,True,286.4,0.83,I want to be more independent,dependency
+U_ALT215,2025-06-12 17:27:00,24.9,afternoon,24.4,1.5,0.95,"['fear of missing out', 'coffee addiction', 'check notifications']",0.09,0.27,True,236.0,0.76,I want to take control of my habits,dependency
+U_ALT216,2025-06-12 02:28:00,8.5,late_night,8.3,1.3,0.27,"['failed test', 'overspending', 'poor grades']",0.13,0.21,True,622.9,0.75,I want to be more productive,guilt
+U_ALT217,2025-06-12 12:33:00,13.5,afternoon,17.9,0.8,0.88,"['meme gold', 'celebration', 'funny fail']",0.23,0.72,True,613.6,0.76,I want to enjoy the moment,reward
+U_ALT218,2025-06-12 07:03:00,42.0,morning,30.5,2.8,0.56,"['meme gold', 'funny fail', 'unexpected win']",0.0,0.58,False,557.1,0.94,I deserve this joy,reward
+U_ALT219,2025-06-12 23:15:00,24.1,night,11.4,1.6,0.51,"['overspending', 'ignored calls', 'bad habit']",0.38,0.12,False,680.6,0.77,I wish I had used time better,guilt
+U_ALT220,2025-06-12 21:53:00,56.9,night,39.5,2.0,0.53,"['win prize', 'unexpected win', 'funny fail']",0.07,0.61,True,502.6,0.71,I want to enjoy the moment,reward
+U_ALT221,2025-06-12 15:17:00,20.5,afternoon,61.7,0.4,0.13,"['job loss', 'war update', 'dystopia']",0.23,0.3,False,370.8,0.96,I want to feel safe again,anxious
+U_ALT222,2025-06-12 00:33:00,21.4,late_night,62.7,3.5,0.25,"['stock crash', 'disaster', 'war update']",0.09,0.26,False,246.7,0.67,I want to feel safe again,anxious
+U_ALT223,2025-06-12 13:27:00,79.3,afternoon,13.7,0.8,0.65,"['overwork', 'crash nap', 'work stress']",0.02,0.27,True,473.8,0.67,I need rest,exhaustion
+U_ALT224,2025-06-12 14:28:00,50.7,afternoon,59.4,1.9,-0.73,"['bonus drop', 'happy ending', 'meme gold']",0.11,0.75,False,285.3,0.68,I deserve this joy,reward
+U_ALT225,2025-06-12 16:38:00,73.9,afternoon,11.9,0.8,0.04,"['overstimulated', 'overwork', 'work stress']",0.16,0.72,False,288.4,0.82,I need rest,exhaustion
+U_ALT226,2025-06-12 17:15:00,30.1,afternoon,48.1,0.9,0.68,"['anxiety tips', 'interview fail', 'disaster']",0.13,0.65,False,223.0,0.72,I need to relax my mind,anxious
+U_ALT227,2025-06-12 02:59:00,81.7,late_night,22.6,0.5,-0.93,"['happy ending', 'congrats', 'bonus drop']",0.19,0.3,False,228.6,0.81,I want to enjoy the moment,reward
+U_ALT228,2025-06-12 20:10:00,34.9,night,7.0,3.1,-0.81,"['positive feedback', 'good news', 'surprise box']",0.29,0.46,True,436.6,0.65,I want to enjoy the moment,reward
+U_ALT229,2025-06-12 05:20:00,83.0,late_night,13.2,3.1,0.33,"['work stress', 'mental drain', 'long work hours']",0.32,0.53,False,288.1,0.81,I need rest,exhaustion
+U_ALT230,2025-06-12 07:57:00,39.8,morning,13.8,1.0,-0.21,"['coffee addiction', 'digital cling', 'constant refresh']",0.15,0.17,True,435.6,0.55,I want to be more independent,dependency
+U_ALT231,2025-06-12 09:33:00,34.3,morning,32.5,1.1,0.34,"['no sleep', 'work stress', 'long work hours']",0.34,0.51,False,189.8,0.57,I want better balance,exhaustion
+U_ALT232,2025-06-12 10:25:00,44.1,morning,24.4,0.6,0.23,"['check notifications', ""can't stop"", 'fear of missing out']",0.33,0.66,False,425.6,0.92,I want to be more independent,dependency
+U_ALT233,2025-06-12 14:49:00,60.1,afternoon,19.6,1.2,-0.02,"['stretch break', 'work stress', 'mental drain']",0.32,0.17,True,183.6,0.81,I want better balance,exhaustion
+U_ALT234,2025-06-12 22:50:00,22.1,night,58.0,0.9,0.3,"['dystopia', 'climate news', 'health scare']",0.01,0.41,True,314.3,0.6,I want to feel safe again,anxious
+U_ALT235,2025-06-12 20:16:00,48.2,night,47.0,1.1,0.58,"['poor grades', 'failed test', 'overspending']",0.28,0.71,True,483.2,0.93,I wish I had used time better,guilt
+U_ALT236,2025-06-12 08:33:00,42.5,morning,30.7,1.0,-0.5,"['procrastination', 'poor grades', 'cheat story']",0.13,0.46,True,295.2,0.87,I want to be more productive,guilt
+U_ALT237,2025-06-12 19:39:00,42.6,night,42.7,0.6,0.67,"['good news', 'meme gold', 'unexpected win']",0.35,0.17,False,494.2,0.71,I deserve this joy,reward
+U_ALT238,2025-06-12 11:44:00,55.8,morning,33.0,1.4,-0.43,"['overwork', 'fatigue', 'mental drain']",0.28,0.55,False,596.9,0.66,I need rest,exhaustion
+U_ALT239,2025-06-12 00:08:00,74.6,late_night,67.5,0.9,-0.02,"['procrastination', 'wasted time', 'ignored calls']",0.23,0.12,True,238.5,0.87,I want to be more productive,guilt
+U_ALT240,2025-06-12 15:42:00,30.1,afternoon,64.3,3.4,-0.32,"['fear of missing out', 'always online', 'check notifications']",0.14,0.84,True,253.3,0.85,I want to be more independent,dependency
+U_ALT241,2025-06-12 22:15:00,27.9,night,13.9,1.0,0.25,"['procrastination', 'overspending', 'bad habit']",0.04,0.29,True,683.8,0.79,I want to be more productive,guilt
+U_ALT242,2025-06-12 08:49:00,42.5,morning,23.0,0.4,0.9,"['work stress', 'no sleep', 'overwork']",0.27,0.82,True,199.9,0.94,I want better balance,exhaustion
+U_ALT243,2025-06-12 18:40:00,80.8,night,41.8,2.5,0.96,"['procrastination', 'poor grades', 'failed test']",0.04,0.42,True,397.1,0.91,I want to be more productive,guilt
+U_ALT244,2025-06-12 04:47:00,22.0,late_night,23.6,1.4,0.87,"['job loss', 'health scare', 'interview fail']",0.37,0.67,False,470.3,0.78,I need to relax my mind,anxious
+U_ALT245,2025-06-12 03:00:00,21.0,late_night,38.2,0.8,-0.07,"[""can't stop"", 'compulsive scrolling', 'digital cling']",0.08,0.37,True,527.3,0.81,I want to take control of my habits,dependency
+U_ALT246,2025-06-12 04:13:00,64.3,late_night,35.5,1.5,-0.14,"['sleep with phone', 'always online', 'compulsive scrolling']",0.02,0.72,True,641.7,0.85,I want to take control of my habits,dependency
+U_ALT247,2025-06-12 00:46:00,52.5,late_night,8.7,2.9,0.37,"['surprise box', 'unexpected win', 'congrats']",0.03,0.73,True,563.8,0.78,I deserve this joy,reward
+U_ALT248,2025-06-12 22:08:00,76.8,night,59.1,3.2,0.73,"['war update', 'interview fail', 'dystopia']",0.27,0.14,True,466.6,0.6,I need to relax my mind,anxious
+U_ALT249,2025-06-12 20:26:00,38.2,night,56.5,3.4,0.78,"['work stress', 'fatigue', 'burnout symptoms']",0.39,0.83,True,651.3,0.77,I want better balance,exhaustion
+U_ALT250,2025-06-12 04:53:00,55.7,late_night,39.0,2.2,0.89,"['burnout symptoms', 'digital fatigue', 'power nap']",0.05,0.66,True,292.8,0.59,I want better balance,exhaustion
+U_ALT251,2025-06-12 19:03:00,57.9,night,29.8,0.4,0.26,"['overspending', 'procrastination', 'missed deadline']",0.01,0.37,True,424.8,0.88,I want to be more productive,guilt
+U_ALT252,2025-06-12 07:49:00,22.1,morning,31.1,2.4,0.31,"['crash nap', 'power nap', 'work stress']",0.19,0.58,False,382.8,0.61,I need rest,exhaustion
+U_ALT253,2025-06-12 05:50:00,82.3,late_night,51.2,1.8,-0.61,"['happy ending', 'positive feedback', 'birthday cake']",0.25,0.85,True,445.5,0.98,I deserve this joy,reward
+U_ALT254,2025-06-12 12:58:00,44.0,afternoon,30.5,2.3,0.82,"['bad habit', 'ignored calls', 'failed test']",0.33,0.52,True,509.5,0.6,I want to be more productive,guilt
+U_ALT255,2025-06-12 20:41:00,31.7,night,47.9,2.5,0.39,"['surprise box', 'birthday cake', 'good news']",0.12,0.62,False,598.5,0.63,I deserve this joy,reward
+U_ALT256,2025-06-12 17:09:00,9.1,afternoon,46.1,1.8,0.44,"['regret', 'missed goal', 'wasted time']",0.27,0.45,False,217.6,0.6,I want to be more productive,guilt
+U_ALT257,2025-06-12 18:48:00,15.8,night,61.5,0.4,-0.96,"['constant refresh', 'always online', ""can't stop""]",0.03,0.87,True,367.4,0.91,I want to take control of my habits,dependency
+U_ALT258,2025-06-12 22:45:00,54.7,night,55.4,3.4,0.93,"['digital cling', 'coffee addiction', 'check notifications']",0.1,0.22,True,447.7,0.72,I want to take control of my habits,dependency
+U_ALT259,2025-06-12 14:51:00,72.3,afternoon,19.8,1.3,-0.14,"['missed deadline', 'cheat story', 'missed goal']",0.15,0.64,True,299.9,0.62,I wish I had used time better,guilt
+U_ALT260,2025-06-12 21:59:00,40.6,night,23.5,2.7,0.68,"['war update', 'stock crash', 'recession']",0.06,0.55,False,643.7,0.55,I need to relax my mind,anxious
+U_ALT261,2025-06-12 22:05:00,10.6,night,67.4,0.3,0.42,"['good news', 'surprise box', 'celebration']",0.09,0.29,True,456.0,0.75,I deserve this joy,reward
+U_ALT262,2025-06-12 21:56:00,37.7,night,19.5,2.5,-0.71,"['wasted time', 'ignored calls', 'cheat story']",0.16,0.28,False,240.3,0.8,I wish I had used time better,guilt
+U_ALT263,2025-06-12 10:43:00,15.9,morning,14.4,1.8,0.21,"['war update', 'bad news', 'recession']",0.29,0.18,True,451.0,0.8,I need to relax my mind,anxious
+U_ALT264,2025-06-12 20:58:00,50.4,night,17.7,0.5,0.75,"['fear of missing out', ""can't stop"", 'daily routine']",0.14,0.82,False,381.1,0.8,I want to take control of my habits,dependency
+U_ALT265,2025-06-12 10:57:00,74.5,morning,67.8,3.5,0.01,"['bonus drop', 'positive feedback', 'unexpected win']",0.27,0.14,False,275.5,0.96,I want to enjoy the moment,reward
+U_ALT266,2025-06-12 23:42:00,82.2,night,34.5,1.3,0.31,"['work stress', 'power nap', 'no sleep']",0.04,0.59,True,684.5,0.88,I want better balance,exhaustion
+U_ALT267,2025-06-12 18:02:00,12.6,night,5.2,0.5,-0.58,"['regret', 'poor grades', 'missed goal']",0.04,0.29,True,656.1,0.74,I wish I had used time better,guilt
+U_ALT268,2025-06-12 09:24:00,64.9,morning,12.7,0.3,0.24,"[""can't stop"", 'digital cling', 'check notifications']",0.29,0.35,False,425.6,0.57,I want to take control of my habits,dependency
+U_ALT269,2025-06-12 12:37:00,40.7,afternoon,17.3,1.7,0.24,"['climate news', 'recession', 'bad news']",0.21,0.12,True,498.6,0.58,I want to feel safe again,anxious
+U_ALT270,2025-06-12 08:37:00,8.1,morning,48.5,3.0,0.84,"['fear of missing out', 'coffee addiction', 'compulsive scrolling']",0.33,0.42,False,193.1,0.59,I want to be more independent,dependency
+U_ALT271,2025-06-12 09:03:00,59.6,morning,56.6,1.0,-0.53,"['always online', 'check notifications', 'sleep with phone']",0.38,0.32,False,273.1,0.89,I want to be more independent,dependency
+U_ALT272,2025-06-12 19:18:00,33.0,night,34.7,2.2,-0.58,"['surprise box', 'congrats', 'happy ending']",0.38,0.33,False,600.0,0.67,I deserve this joy,reward
+U_ALT273,2025-06-12 09:25:00,46.3,morning,52.2,2.7,0.25,"['stretch break', 'crash nap', 'mental drain']",0.25,0.45,True,514.3,0.72,I need rest,exhaustion
+U_ALT274,2025-06-12 07:22:00,10.9,morning,38.9,3.3,0.83,"['disaster', 'anxiety tips', 'interview fail']",0.25,0.46,False,527.0,0.83,I want to feel safe again,anxious
+U_ALT275,2025-06-12 08:36:00,54.5,morning,52.1,2.3,-0.18,"['disaster', 'stock crash', 'health scare']",0.01,0.55,True,294.8,0.86,I want to feel safe again,anxious
+U_ALT276,2025-06-12 23:56:00,84.2,night,32.4,0.6,-0.35,"['digital cling', 'sleep with phone', 'constant refresh']",0.01,0.61,True,329.8,0.66,I want to be more independent,dependency
+U_ALT277,2025-06-12 20:24:00,43.4,night,51.7,0.9,0.12,"['missed deadline', 'bad habit', 'overspending']",0.36,0.69,True,468.8,0.61,I wish I had used time better,guilt
+U_ALT278,2025-06-12 02:40:00,38.1,late_night,26.0,2.2,-0.26,"['bad habit', 'procrastination', 'overspending']",0.06,0.3,False,262.3,0.95,I want to be more productive,guilt
+U_ALT279,2025-06-12 06:31:00,79.9,morning,19.5,2.4,-0.56,"['interview fail', 'bad news', 'war update']",0.23,0.89,False,696.9,0.77,I need to relax my mind,anxious
+U_ALT280,2025-06-12 09:42:00,58.1,morning,35.1,1.9,0.51,"['positive feedback', 'surprise box', 'meme gold']",0.09,0.19,True,584.0,0.72,I deserve this joy,reward
+U_ALT281,2025-06-12 16:52:00,58.4,afternoon,68.8,1.8,-0.63,"[""can't stop"", 'fear of missing out', 'constant refresh']",0.04,0.56,False,535.7,0.75,I want to take control of my habits,dependency
+U_ALT282,2025-06-12 02:48:00,52.7,late_night,30.0,0.7,-0.88,"['climate news', 'disaster', 'job loss']",0.33,0.53,True,470.9,0.77,I want to feel safe again,anxious
+U_ALT283,2025-06-12 04:05:00,66.8,late_night,28.0,2.5,0.99,"['funny fail', 'positive feedback', 'unexpected win']",0.22,0.3,False,685.4,0.62,I deserve this joy,reward
+U_ALT284,2025-06-12 10:21:00,23.6,morning,59.7,1.7,0.68,"['coffee addiction', 'constant refresh', 'daily routine']",0.04,0.2,False,641.8,0.89,I want to take control of my habits,dependency
+U_ALT285,2025-06-12 02:04:00,29.3,late_night,49.4,2.1,-0.49,"['celebration', 'congrats', 'surprise box']",0.34,0.78,False,468.8,0.59,I want to enjoy the moment,reward
+U_ALT286,2025-06-12 18:06:00,30.0,night,22.0,3.2,-0.1,"['no sleep', 'work stress', 'stretch break']",0.27,0.65,True,386.5,0.59,I want better balance,exhaustion
+U_ALT287,2025-06-12 14:56:00,81.4,afternoon,24.7,0.4,-0.94,"['no sleep', 'burnout symptoms', 'digital fatigue']",0.2,0.12,True,459.5,0.7,I want better balance,exhaustion
+U_ALT288,2025-06-12 22:11:00,52.0,night,58.5,1.2,-0.97,"['missed deadline', 'overspending', 'cheat story']",0.01,0.81,False,597.7,0.66,I wish I had used time better,guilt
+U_ALT289,2025-06-12 14:04:00,22.0,afternoon,5.6,2.4,0.31,"['procrastination', 'failed test', 'wasted time']",0.36,0.14,False,523.7,0.63,I wish I had used time better,guilt
+U_ALT290,2025-06-12 22:37:00,13.1,night,16.7,1.9,0.64,"['poor grades', 'cheat story', 'bad habit']",0.39,0.15,True,266.9,0.71,I want to be more productive,guilt
+U_ALT291,2025-06-12 13:37:00,45.6,afternoon,57.5,3.4,0.91,"['missed goal', 'procrastination', 'failed test']",0.16,0.12,True,566.1,0.9,I wish I had used time better,guilt
+U_ALT292,2025-06-12 07:50:00,34.2,morning,9.6,2.3,0.4,"['constant refresh', 'sleep with phone', 'check notifications']",0.21,0.89,True,508.5,0.77,I want to take control of my habits,dependency
+U_ALT293,2025-06-12 18:21:00,56.6,night,68.2,3.5,0.61,"['disaster', 'climate news', 'bad news']",0.3,0.56,True,342.3,0.73,I need to relax my mind,anxious
+U_ALT294,2025-06-12 03:46:00,48.4,late_night,28.4,3.3,-0.07,"['celebration', 'bonus drop', 'unexpected win']",0.03,0.61,True,196.0,0.77,I want to enjoy the moment,reward
+U_ALT295,2025-06-12 14:20:00,12.5,afternoon,24.7,1.4,0.24,"['health scare', 'disaster', 'recession']",0.07,0.51,True,459.5,0.98,I want to feel safe again,anxious
+U_ALT296,2025-06-12 08:24:00,41.4,morning,36.8,1.6,-0.76,"['missed deadline', 'overspending', 'bad habit']",0.25,0.16,False,282.9,0.79,I wish I had used time better,guilt
+U_ALT297,2025-06-12 07:23:00,25.1,morning,38.2,1.8,-0.55,"['power nap', 'long work hours', 'stretch break']",0.37,0.29,False,264.2,0.73,I want better balance,exhaustion
+U_ALT298,2025-06-12 00:49:00,62.8,late_night,36.3,2.1,0.17,"['bonus drop', 'birthday cake', 'happy ending']",0.16,0.15,False,382.0,0.84,I deserve this joy,reward
+U_ALT299,2025-06-12 17:00:00,69.2,afternoon,25.8,2.4,0.46,"['recession', 'bad news', 'market panic']",0.06,0.9,False,414.8,0.9,I need to relax my mind,anxious
+U_ALT300,2025-06-12 13:00:00,24.4,afternoon,18.2,0.6,0.07,"['procrastination', 'regret', 'bad habit']",0.4,0.63,False,526.5,0.65,I want to be more productive,guilt
+U_ALT301,2025-06-12 09:51:00,41.3,morning,62.7,1.8,-0.42,"['power nap', 'mental drain', 'work stress']",0.23,0.77,True,536.8,0.73,I want better balance,exhaustion
+U_ALT302,2025-06-12 01:58:00,71.1,late_night,52.4,0.9,-0.32,"['compulsive scrolling', 'coffee addiction', 'sleep with phone']",0.11,0.74,False,454.2,0.95,I want to be more independent,dependency
+U_ALT303,2025-06-12 15:36:00,12.6,afternoon,33.3,3.3,-0.36,"[""can't stop"", 'sleep with phone', 'coffee addiction']",0.07,0.56,False,223.3,0.91,I want to be more independent,dependency
+U_ALT304,2025-06-12 20:40:00,76.7,night,23.2,2.4,-0.95,"['win prize', 'surprise box', 'unexpected win']",0.05,0.31,False,652.3,0.87,I deserve this joy,reward
+U_ALT305,2025-06-12 17:49:00,40.1,afternoon,12.0,2.0,0.86,"['procrastination', 'missed goal', 'bad habit']",0.08,0.27,True,231.6,0.59,I want to be more productive,guilt
+U_ALT306,2025-06-12 20:18:00,41.3,night,54.5,1.7,-0.46,"['regret', 'poor grades', 'missed deadline']",0.26,0.74,True,423.5,0.86,I wish I had used time better,guilt
+U_ALT307,2025-06-12 13:29:00,80.3,afternoon,54.2,0.4,0.68,"['war update', 'market panic', 'health scare']",0.09,0.82,False,289.7,0.66,I want to feel safe again,anxious
+U_ALT308,2025-06-12 12:50:00,15.7,afternoon,29.7,1.0,-0.53,"['market panic', 'stock crash', 'health scare']",0.12,0.27,False,606.8,0.94,I need to relax my mind,anxious
+U_ALT309,2025-06-12 06:43:00,58.9,morning,8.9,1.9,-0.46,"['regret', 'late work', 'wasted time']",0.06,0.61,True,522.9,0.89,I want to be more productive,guilt
+U_ALT310,2025-06-12 06:34:00,61.7,morning,54.5,3.2,0.57,"['coffee addiction', 'compulsive scrolling', 'check notifications']",0.01,0.46,True,318.9,0.67,I want to take control of my habits,dependency
+U_ALT311,2025-06-12 06:56:00,56.1,morning,63.7,2.9,-0.22,"['bonus drop', 'meme gold', 'good news']",0.34,0.72,False,257.1,0.6,I want to enjoy the moment,reward
+U_ALT312,2025-06-12 21:21:00,35.3,night,28.1,3.5,0.08,"['mental drain', 'overwork', 'burnout symptoms']",0.24,0.54,True,631.6,0.65,I want better balance,exhaustion
+U_ALT313,2025-06-12 12:22:00,58.6,afternoon,12.0,1.0,0.33,"['ignored calls', 'overspending', 'procrastination']",0.06,0.45,False,604.4,0.92,I want to be more productive,guilt
+U_ALT314,2025-06-12 19:58:00,83.1,night,53.4,2.8,-0.36,"['overwork', 'digital fatigue', 'no sleep']",0.21,0.85,True,433.1,0.74,I want better balance,exhaustion
+U_ALT315,2025-06-12 08:03:00,22.8,morning,39.3,1.2,0.29,"['cheat story', 'regret', 'late work']",0.33,0.34,True,454.6,0.63,I wish I had used time better,guilt
+U_ALT316,2025-06-12 02:24:00,25.2,late_night,39.1,2.8,-0.41,"['bad news', 'market panic', 'job loss']",0.11,0.82,True,529.5,0.77,I want to feel safe again,anxious
+U_ALT317,2025-06-12 22:08:00,71.3,night,29.0,0.5,-0.1,"['market panic', 'bad news', 'health scare']",0.23,0.52,False,381.2,0.8,I want to feel safe again,anxious
+U_ALT318,2025-06-12 17:25:00,68.3,afternoon,60.6,1.0,-0.19,"['congrats', 'bonus drop', 'surprise box']",0.13,0.16,True,690.2,0.81,I want to enjoy the moment,reward
+U_ALT319,2025-06-12 14:20:00,29.6,afternoon,31.7,2.2,0.18,"['stretch break', 'overstimulated', 'fatigue']",0.09,0.65,False,218.4,0.6,I want better balance,exhaustion
+U_ALT320,2025-06-12 15:43:00,79.2,afternoon,11.5,3.4,-0.5,"['funny fail', 'congrats', 'positive feedback']",0.24,0.85,True,269.8,0.57,I want to enjoy the moment,reward
+U_ALT321,2025-06-12 22:37:00,9.6,night,22.8,2.9,-0.02,"['anxiety tips', 'bad news', 'disaster']",0.33,0.24,False,251.1,0.78,I want to feel safe again,anxious
+U_ALT322,2025-06-12 08:02:00,34.3,morning,7.5,2.2,0.93,"['dystopia', 'interview fail', 'stock crash']",0.05,0.63,True,361.4,0.94,I need to relax my mind,anxious
+U_ALT323,2025-06-12 11:05:00,10.2,morning,22.0,2.8,-0.07,"['poor grades', 'late work', 'missed deadline']",0.2,0.19,True,234.5,0.61,I wish I had used time better,guilt
+U_ALT324,2025-06-12 20:16:00,65.1,night,23.1,3.0,-0.71,"['recession', 'bad news', 'market panic']",0.09,0.82,False,653.2,0.74,I want to feel safe again,anxious
+U_ALT325,2025-06-12 20:36:00,24.4,night,10.1,1.0,-0.63,"['climate news', 'dystopia', 'interview fail']",0.18,0.45,False,478.1,0.58,I need to relax my mind,anxious
+U_ALT326,2025-06-12 09:56:00,61.8,morning,56.9,1.8,0.63,"['check notifications', 'constant refresh', 'compulsive scrolling']",0.01,0.71,True,388.7,0.84,I want to be more independent,dependency
+U_ALT327,2025-06-12 09:18:00,22.1,morning,63.1,2.1,0.78,"['digital cling', 'sleep with phone', 'fear of missing out']",0.03,0.47,True,518.6,0.85,I want to take control of my habits,dependency
+U_ALT328,2025-06-12 22:59:00,57.5,night,59.1,2.7,0.62,"['dystopia', 'recession', 'climate news']",0.23,0.37,True,414.1,0.73,I want to feel safe again,anxious
+U_ALT329,2025-06-12 13:27:00,32.9,afternoon,20.9,2.5,-0.1,"['missed deadline', 'late work', 'wasted time']",0.24,0.19,False,243.3,0.85,I wish I had used time better,guilt
+U_ALT330,2025-06-12 08:34:00,61.3,morning,42.9,2.8,-0.78,"['health scare', 'climate news', 'job loss']",0.12,0.33,True,309.8,0.95,I want to feel safe again,anxious
+U_ALT331,2025-06-12 06:43:00,15.6,morning,50.8,2.7,0.52,"['ignored calls', 'cheat story', 'poor grades']",0.25,0.5,False,576.8,0.72,I wish I had used time better,guilt
+U_ALT332,2025-06-12 05:28:00,32.0,late_night,35.9,3.5,-0.24,"[""can't stop"", 'daily routine', 'compulsive scrolling']",0.32,0.83,True,346.8,0.74,I want to take control of my habits,dependency
+U_ALT333,2025-06-12 11:43:00,11.9,morning,54.4,2.0,0.94,"['bad news', 'stock crash', 'climate news']",0.27,0.77,True,477.8,0.97,I want to feel safe again,anxious
+U_ALT334,2025-06-12 13:38:00,26.7,afternoon,28.7,3.1,0.46,"['interview fail', 'stock crash', 'job loss']",0.14,0.9,False,593.1,0.7,I want to feel safe again,anxious
+U_ALT335,2025-06-12 20:34:00,48.8,night,5.7,0.9,-0.26,"['disaster', 'recession', 'health scare']",0.28,0.41,True,289.2,0.84,I need to relax my mind,anxious
+U_ALT336,2025-06-12 17:08:00,22.4,afternoon,52.3,1.4,0.81,"['recession', 'health scare', 'anxiety tips']",0.23,0.79,False,364.3,0.71,I need to relax my mind,anxious
+U_ALT337,2025-06-12 13:24:00,82.8,afternoon,35.5,1.8,0.13,"['missed deadline', 'overspending', 'failed test']",0.37,0.8,True,676.4,0.7,I wish I had used time better,guilt
+U_ALT338,2025-06-12 11:07:00,10.6,morning,21.7,2.4,0.46,"['health scare', 'climate news', 'market panic']",0.14,0.53,True,222.4,0.56,I need to relax my mind,anxious
+U_ALT339,2025-06-12 22:24:00,25.1,night,24.8,1.3,-0.55,"['regret', 'procrastination', 'missed goal']",0.05,0.23,False,547.6,0.76,I want to be more productive,guilt
+U_ALT340,2025-06-12 00:02:00,14.7,late_night,49.9,1.2,0.21,"['celebration', 'surprise box', 'positive feedback']",0.39,0.69,True,621.1,0.84,I deserve this joy,reward
+U_ALT341,2025-06-12 08:03:00,75.5,morning,23.2,2.2,0.99,"['sleep with phone', 'daily routine', 'check notifications']",0.34,0.75,True,362.6,0.84,I want to take control of my habits,dependency
+U_ALT342,2025-06-12 23:49:00,69.6,night,35.5,2.5,-0.05,"['dystopia', 'anxiety tips', 'market panic']",0.3,0.18,False,342.4,0.6,I want to feel safe again,anxious
+U_ALT343,2025-06-12 04:18:00,52.7,late_night,60.8,3.3,0.94,"['bonus drop', 'good news', 'positive feedback']",0.26,0.74,False,184.1,0.66,I want to enjoy the moment,reward
+U_ALT344,2025-06-12 15:11:00,29.9,afternoon,17.7,2.2,0.13,"['mental drain', 'work stress', 'no sleep']",0.37,0.36,True,586.8,0.69,I need rest,exhaustion
+U_ALT345,2025-06-12 18:47:00,34.9,night,69.0,0.6,0.38,"['check notifications', 'constant refresh', 'coffee addiction']",0.03,0.71,True,191.4,0.62,I want to take control of my habits,dependency
+U_ALT346,2025-06-12 02:56:00,18.6,late_night,24.9,2.5,-0.49,"['missed deadline', 'procrastination', 'poor grades']",0.38,0.72,True,632.6,0.67,I want to be more productive,guilt
+U_ALT347,2025-06-12 08:05:00,29.8,morning,26.9,1.7,-0.81,"['cheat story', 'wasted time', 'regret']",0.21,0.11,True,645.2,0.95,I want to be more productive,guilt
+U_ALT348,2025-06-12 10:56:00,42.7,morning,24.3,1.6,-0.54,"['power nap', 'digital fatigue', 'fatigue']",0.31,0.85,False,691.6,0.87,I want better balance,exhaustion
+U_ALT349,2025-06-12 04:29:00,9.4,late_night,34.2,2.9,0.38,"['constant refresh', 'digital cling', 'coffee addiction']",0.36,0.42,True,558.9,0.6,I want to be more independent,dependency
+U_ALT350,2025-06-12 04:53:00,73.7,late_night,16.9,3.4,-0.71,"['overwork', 'overstimulated', 'power nap']",0.15,0.77,True,222.0,0.75,I want better balance,exhaustion
+U_ALT351,2025-06-12 18:02:00,38.4,night,30.6,3.4,0.02,"['bad news', 'disaster', 'climate news']",0.32,0.89,False,421.5,0.86,I want to feel safe again,anxious
+U_ALT352,2025-06-12 12:30:00,36.9,afternoon,7.8,0.9,-0.18,"['overwork', 'fatigue', 'long work hours']",0.08,0.56,False,180.1,0.78,I need rest,exhaustion
+U_ALT353,2025-06-12 03:09:00,45.9,late_night,56.1,1.1,0.08,"['celebration', 'unexpected win', 'bonus drop']",0.37,0.21,False,625.6,0.75,I want to enjoy the moment,reward
+U_ALT354,2025-06-12 04:02:00,29.7,late_night,39.6,2.8,0.93,"['good news', 'funny fail', 'bonus drop']",0.37,0.36,False,393.5,0.77,I deserve this joy,reward
+U_ALT355,2025-06-12 15:52:00,34.5,afternoon,11.6,1.8,-0.61,"['recession', 'climate news', 'anxiety tips']",0.08,0.67,False,201.5,0.9,I need to relax my mind,anxious
+U_ALT356,2025-06-12 21:50:00,74.4,night,49.6,1.4,0.37,"['wasted time', 'bad habit', 'overspending']",0.01,0.62,True,436.3,0.71,I want to be more productive,guilt
+U_ALT357,2025-06-12 07:36:00,20.9,morning,45.9,2.8,0.8,"['sleep with phone', 'check notifications', 'constant refresh']",0.33,0.45,True,662.6,0.64,I want to take control of my habits,dependency
+U_ALT358,2025-06-12 13:33:00,33.8,afternoon,10.2,3.4,-0.76,"['failed test', 'bad habit', 'wasted time']",0.01,0.66,True,636.9,0.55,I want to be more productive,guilt
+U_ALT359,2025-06-12 08:55:00,60.8,morning,35.1,2.1,0.58,"['happy ending', 'funny fail', 'birthday cake']",0.25,0.15,False,503.8,0.89,I want to enjoy the moment,reward
+U_ALT360,2025-06-12 21:22:00,65.1,night,13.6,0.6,-0.85,"['overwork', 'fatigue', 'work stress']",0.14,0.44,True,322.7,0.79,I need rest,exhaustion
+U_ALT361,2025-06-12 14:26:00,38.3,afternoon,51.7,2.9,0.92,"['regret', 'late work', 'poor grades']",0.14,0.24,True,232.6,0.65,I wish I had used time better,guilt
+U_ALT362,2025-06-12 02:46:00,74.8,late_night,19.1,2.6,-0.58,"['win prize', 'celebration', 'happy ending']",0.04,0.62,False,536.5,0.72,I deserve this joy,reward
+U_ALT363,2025-06-12 07:34:00,44.5,morning,38.9,1.0,-0.17,"['bad news', 'disaster', 'anxiety tips']",0.04,0.31,True,567.0,0.83,I want to feel safe again,anxious
+U_ALT364,2025-06-12 15:00:00,47.2,afternoon,33.6,3.4,-0.92,"['dystopia', 'market panic', 'recession']",0.06,0.74,False,312.4,0.67,I want to feel safe again,anxious
+U_ALT365,2025-06-12 18:18:00,20.8,night,66.2,3.3,-0.25,"['procrastination', 'late work', 'ignored calls']",0.34,0.73,False,628.1,0.6,I wish I had used time better,guilt
+U_ALT366,2025-06-12 13:34:00,24.9,afternoon,48.0,1.8,-0.24,"['market panic', 'health scare', 'dystopia']",0.1,0.64,True,521.7,0.56,I need to relax my mind,anxious
+U_ALT367,2025-06-12 19:14:00,62.0,night,26.5,2.7,0.59,"['surprise box', 'unexpected win', 'congrats']",0.05,0.68,False,551.9,0.62,I deserve this joy,reward
+U_ALT368,2025-06-12 13:59:00,50.7,afternoon,62.9,1.9,-0.21,"['health scare', 'job loss', 'recession']",0.01,0.16,True,182.7,0.82,I need to relax my mind,anxious
+U_ALT369,2025-06-12 22:32:00,22.0,night,42.5,3.3,0.1,"['fear of missing out', 'compulsive scrolling', ""can't stop""]",0.11,0.65,False,288.1,0.6,I want to take control of my habits,dependency
+U_ALT370,2025-06-12 00:49:00,63.9,late_night,51.6,2.7,0.73,"['coffee addiction', 'daily routine', ""can't stop""]",0.24,0.8,False,511.6,0.84,I want to be more independent,dependency
+U_ALT371,2025-06-12 00:41:00,62.9,late_night,11.2,1.5,0.37,"['fatigue', 'overwork', 'no sleep']",0.32,0.34,False,252.5,0.94,I need rest,exhaustion
+U_ALT372,2025-06-12 18:19:00,67.1,night,20.1,0.9,0.5,"['positive feedback', 'congrats', 'surprise box']",0.17,0.75,False,521.1,0.58,I want to enjoy the moment,reward
+U_ALT373,2025-06-12 11:45:00,15.4,morning,69.5,2.4,-0.56,"['check notifications', 'always online', 'constant refresh']",0.05,0.59,True,501.7,0.91,I want to be more independent,dependency
+U_ALT374,2025-06-12 03:29:00,29.8,late_night,27.5,2.5,-0.97,"['digital cling', 'sleep with phone', 'check notifications']",0.04,0.75,False,364.3,0.78,I want to be more independent,dependency
+U_ALT375,2025-06-12 07:23:00,52.7,morning,66.1,2.5,0.12,"['sleep with phone', 'compulsive scrolling', 'daily routine']",0.22,0.8,True,540.8,0.95,I want to take control of my habits,dependency
+U_ALT376,2025-06-12 00:25:00,72.4,late_night,37.4,2.0,0.33,"['unexpected win', 'funny fail', 'bonus drop']",0.1,0.53,False,287.8,0.62,I want to enjoy the moment,reward
+U_ALT377,2025-06-12 19:03:00,67.2,night,63.9,0.6,0.4,"['stretch break', 'burnout symptoms', 'no sleep']",0.28,0.25,False,460.7,0.87,I want better balance,exhaustion
+U_ALT378,2025-06-12 10:03:00,77.8,morning,25.1,2.4,0.61,"[""can't stop"", 'digital cling', 'constant refresh']",0.36,0.37,True,338.9,0.63,I want to be more independent,dependency
+U_ALT379,2025-06-12 09:13:00,15.4,morning,59.6,3.3,0.68,"['wasted time', 'late work', 'failed test']",0.03,0.13,False,592.0,0.95,I want to be more productive,guilt
+U_ALT380,2025-06-12 07:58:00,57.8,morning,54.7,1.3,0.54,"['disaster', 'job loss', 'bad news']",0.34,0.19,True,671.8,0.65,I need to relax my mind,anxious
+U_ALT381,2025-06-12 06:52:00,24.3,morning,40.6,3.2,-0.9,"['missed deadline', 'regret', 'late work']",0.04,0.23,False,183.8,0.66,I want to be more productive,guilt
+U_ALT382,2025-06-12 11:26:00,82.3,morning,13.3,1.3,-0.15,"['ignored calls', 'missed deadline', 'overspending']",0.2,0.2,True,305.6,0.96,I want to be more productive,guilt
+U_ALT383,2025-06-12 12:00:00,32.8,afternoon,40.6,3.3,-0.27,"['bonus drop', 'win prize', 'funny fail']",0.18,0.72,False,182.0,0.95,I deserve this joy,reward
+U_ALT384,2025-06-12 20:48:00,51.4,night,67.9,3.2,0.24,"['coffee addiction', 'fear of missing out', 'sleep with phone']",0.21,0.46,True,366.9,0.63,I want to be more independent,dependency
+U_ALT385,2025-06-12 01:38:00,84.0,late_night,9.8,0.7,-0.61,"['congrats', 'win prize', 'meme gold']",0.03,0.17,False,376.6,0.63,I deserve this joy,reward
+U_ALT386,2025-06-12 05:06:00,47.4,late_night,62.1,0.6,-0.17,"['recession', 'stock crash', 'disaster']",0.3,0.83,True,450.2,0.91,I need to relax my mind,anxious
+U_ALT387,2025-06-12 04:31:00,26.4,late_night,18.4,2.0,-0.45,"['meme gold', 'happy ending', 'funny fail']",0.09,0.87,True,297.3,0.62,I want to enjoy the moment,reward
+U_ALT388,2025-06-12 15:37:00,76.8,afternoon,26.5,3.2,-0.27,"['surprise box', 'good news', 'bonus drop']",0.1,0.49,False,562.5,0.75,I want to enjoy the moment,reward
+U_ALT389,2025-06-12 04:19:00,59.6,late_night,53.6,0.7,-0.15,"['bad news', 'war update', 'recession']",0.34,0.43,False,288.7,0.69,I want to feel safe again,anxious
+U_ALT390,2025-06-12 07:23:00,63.9,morning,6.5,3.2,0.93,"[""can't stop"", 'compulsive scrolling', 'check notifications']",0.31,0.16,True,565.0,0.94,I want to take control of my habits,dependency
+U_ALT391,2025-06-12 05:37:00,15.2,late_night,68.8,0.8,0.83,"['fear of missing out', 'digital cling', 'compulsive scrolling']",0.24,0.69,True,297.9,0.74,I want to take control of my habits,dependency
+U_ALT392,2025-06-12 15:29:00,63.7,afternoon,38.9,2.4,0.44,"['stretch break', 'no sleep', 'fatigue']",0.34,0.24,True,478.8,0.74,I need rest,exhaustion
+U_ALT393,2025-06-12 23:02:00,74.2,night,17.0,1.0,0.24,"['check notifications', 'constant refresh', 'sleep with phone']",0.01,0.38,True,206.5,0.62,I want to be more independent,dependency
+U_ALT394,2025-06-12 02:29:00,35.1,late_night,8.0,2.9,-0.51,"['digital cling', 'sleep with phone', 'always online']",0.13,0.62,False,629.5,0.9,I want to be more independent,dependency
+U_ALT395,2025-06-12 21:36:00,63.4,night,68.1,1.6,0.37,"['dystopia', 'disaster', 'climate news']",0.34,0.31,False,184.0,0.61,I need to relax my mind,anxious
+U_ALT396,2025-06-12 10:53:00,73.8,morning,59.0,0.4,-0.19,"['surprise box', 'funny fail', 'bonus drop']",0.18,0.4,True,608.6,0.65,I want to enjoy the moment,reward
+U_ALT397,2025-06-12 15:39:00,73.3,afternoon,47.8,0.5,0.81,"['overspending', 'bad habit', 'missed deadline']",0.18,0.3,False,211.5,0.97,I want to be more productive,guilt
+U_ALT398,2025-06-12 00:47:00,46.7,late_night,68.1,0.9,0.4,"['poor grades', 'cheat story', 'missed goal']",0.04,0.55,False,490.6,0.62,I want to be more productive,guilt
+U_ALT399,2025-06-12 02:44:00,79.6,late_night,51.5,1.4,0.27,"['win prize', 'celebration', 'congrats']",0.11,0.2,True,192.5,0.76,I deserve this joy,reward
+U_ALT400,2025-06-12 15:02:00,37.0,afternoon,31.9,2.1,0.15,"['fatigue', 'burnout symptoms', 'mental drain']",0.1,0.28,True,627.5,0.61,I need rest,exhaustion
+U_ALT401,2025-06-12 07:18:00,80.7,morning,11.6,1.4,-0.5,"['constant refresh', 'coffee addiction', 'fear of missing out']",0.19,0.48,True,230.3,0.69,I want to be more independent,dependency
+U_ALT402,2025-06-12 07:58:00,81.6,morning,36.5,1.7,-0.46,"['fear of missing out', 'constant refresh', 'coffee addiction']",0.14,0.18,False,632.3,0.59,I want to take control of my habits,dependency
+U_ALT403,2025-06-12 22:33:00,54.6,night,43.2,2.4,-0.02,"['congrats', 'birthday cake', 'surprise box']",0.05,0.8,True,288.1,0.91,I want to enjoy the moment,reward
+U_ALT404,2025-06-12 09:48:00,28.6,morning,12.6,0.5,0.32,"['burnout symptoms', 'power nap', 'work stress']",0.06,0.64,False,249.3,0.66,I need rest,exhaustion
+U_ALT405,2025-06-12 04:45:00,22.3,late_night,46.5,0.5,0.5,"['digital fatigue', 'overstimulated', 'crash nap']",0.21,0.19,True,645.7,0.76,I want better balance,exhaustion
+U_ALT406,2025-06-12 16:58:00,77.7,afternoon,7.4,1.5,0.9,"['stretch break', 'crash nap', 'burnout symptoms']",0.26,0.34,False,639.6,0.73,I need rest,exhaustion
+U_ALT407,2025-06-12 08:56:00,68.3,morning,14.6,2.8,-0.42,"['constant refresh', 'check notifications', 'fear of missing out']",0.23,0.53,False,367.5,0.94,I want to take control of my habits,dependency
+U_ALT408,2025-06-12 15:53:00,12.6,afternoon,69.5,1.1,-0.31,"['stock crash', 'climate news', 'market panic']",0.34,0.76,False,623.0,0.76,I want to feel safe again,anxious
+U_ALT409,2025-06-12 02:55:00,77.3,late_night,38.5,0.7,-0.07,"['market panic', 'climate news', 'interview fail']",0.0,0.2,False,643.0,0.88,I want to feel safe again,anxious
+U_ALT410,2025-06-12 18:28:00,74.1,night,32.2,0.5,-0.88,"['poor grades', 'late work', 'wasted time']",0.17,0.77,True,590.3,0.57,I wish I had used time better,guilt
+U_ALT411,2025-06-12 02:32:00,64.4,late_night,7.2,1.7,-0.37,"[""can't stop"", 'fear of missing out', 'constant refresh']",0.36,0.34,True,227.7,0.95,I want to be more independent,dependency
+U_ALT412,2025-06-12 18:15:00,20.4,night,26.4,2.4,-0.54,"['interview fail', 'anxiety tips', 'job loss']",0.38,0.83,False,547.3,0.59,I need to relax my mind,anxious
+U_ALT413,2025-06-12 16:08:00,40.2,afternoon,40.4,1.8,0.77,"['daily routine', 'coffee addiction', 'digital cling']",0.02,0.43,False,521.3,0.6,I want to be more independent,dependency
+U_ALT414,2025-06-12 16:03:00,18.7,afternoon,20.7,2.9,0.81,"['overspending', 'missed deadline', 'missed goal']",0.2,0.22,False,442.8,0.87,I wish I had used time better,guilt
+U_ALT415,2025-06-12 15:09:00,50.3,afternoon,60.4,1.3,-0.14,"['daily routine', 'compulsive scrolling', 'constant refresh']",0.05,0.28,False,651.9,0.65,I want to be more independent,dependency
+U_ALT416,2025-06-12 23:56:00,61.8,night,16.7,0.8,0.06,"['failed test', 'overspending', 'bad habit']",0.28,0.7,False,678.8,0.59,I wish I had used time better,guilt
+U_ALT417,2025-06-12 13:33:00,39.1,afternoon,68.5,3.4,0.77,"['cheat story', 'overspending', 'procrastination']",0.21,0.52,False,638.5,0.62,I wish I had used time better,guilt
+U_ALT418,2025-06-12 07:14:00,63.7,morning,24.0,1.5,0.12,"[""can't stop"", 'check notifications', 'fear of missing out']",0.05,0.87,False,218.3,0.57,I want to be more independent,dependency
+U_ALT419,2025-06-12 06:21:00,34.9,morning,26.7,1.0,-0.25,"['meme gold', 'funny fail', 'celebration']",0.16,0.42,True,276.8,0.59,I want to enjoy the moment,reward
+U_ALT420,2025-06-12 11:14:00,19.0,morning,16.3,2.9,-0.19,"['mental drain', 'fatigue', 'no sleep']",0.38,0.78,False,507.2,0.86,I need rest,exhaustion
+U_ALT421,2025-06-12 06:28:00,36.4,morning,67.4,3.5,0.2,"['missed goal', 'overspending', 'wasted time']",0.33,0.28,False,349.0,0.93,I want to be more productive,guilt
+U_ALT422,2025-06-12 22:35:00,74.5,night,32.3,1.4,0.11,"['long work hours', 'no sleep', 'fatigue']",0.27,0.77,True,277.4,0.79,I want better balance,exhaustion
+U_ALT423,2025-06-12 06:05:00,58.6,morning,41.6,1.4,-0.52,"['health scare', 'job loss', 'recession']",0.31,0.17,False,281.4,0.81,I need to relax my mind,anxious
+U_ALT424,2025-06-12 05:39:00,83.6,late_night,61.3,2.9,0.67,"['missed deadline', 'procrastination', 'poor grades']",0.1,0.64,False,497.2,0.96,I want to be more productive,guilt
+U_ALT425,2025-06-12 11:12:00,17.6,morning,69.8,1.4,0.3,"['long work hours', 'overwork', 'crash nap']",0.14,0.36,False,210.9,0.6,I need rest,exhaustion
+U_ALT426,2025-06-12 06:56:00,43.4,morning,37.4,0.8,-0.66,"['surprise box', 'good news', 'win prize']",0.39,0.38,False,589.3,0.69,I deserve this joy,reward
+U_ALT427,2025-06-12 12:30:00,19.5,afternoon,58.0,1.0,-0.9,"['celebration', 'funny fail', 'good news']",0.32,0.4,False,481.2,0.95,I deserve this joy,reward
+U_ALT428,2025-06-12 12:09:00,59.4,afternoon,9.8,2.7,0.3,"['overstimulated', 'overwork', 'mental drain']",0.04,0.43,True,512.8,0.97,I want better balance,exhaustion
+U_ALT429,2025-06-12 12:32:00,83.0,afternoon,35.1,3.1,0.27,"['procrastination', 'cheat story', 'wasted time']",0.01,0.58,False,624.5,0.73,I wish I had used time better,guilt
+U_ALT430,2025-06-12 23:23:00,40.4,night,64.6,1.6,0.95,"['bad habit', 'late work', 'procrastination']",0.27,0.78,True,414.0,0.79,I wish I had used time better,guilt
+U_ALT431,2025-06-12 15:02:00,80.6,afternoon,34.2,0.6,-0.88,"['cheat story', 'wasted time', 'failed test']",0.18,0.85,True,236.2,0.93,I want to be more productive,guilt
+U_ALT432,2025-06-12 04:15:00,56.2,late_night,64.3,1.2,0.14,"['daily routine', 'compulsive scrolling', 'check notifications']",0.39,0.11,True,187.1,0.85,I want to be more independent,dependency
+U_ALT433,2025-06-12 09:37:00,48.1,morning,56.5,2.6,-0.77,"['ignored calls', 'regret', 'failed test']",0.31,0.16,True,521.9,0.86,I wish I had used time better,guilt
+U_ALT434,2025-06-12 18:16:00,20.9,night,27.0,1.4,-0.31,"['wasted time', 'bad habit', 'missed deadline']",0.18,0.32,True,389.4,0.71,I wish I had used time better,guilt
+U_ALT435,2025-06-12 10:33:00,42.1,morning,20.3,1.3,-0.53,"['missed deadline', 'failed test', 'procrastination']",0.34,0.18,True,313.4,0.75,I wish I had used time better,guilt
+U_ALT436,2025-06-12 23:51:00,55.2,night,60.4,1.4,-0.94,"['fatigue', 'crash nap', 'stretch break']",0.25,0.15,True,509.7,0.61,I need rest,exhaustion
+U_ALT437,2025-06-12 14:23:00,77.9,afternoon,64.7,0.9,0.01,"['ignored calls', 'late work', 'failed test']",0.28,0.82,True,499.5,0.6,I want to be more productive,guilt
+U_ALT438,2025-06-12 22:28:00,60.3,night,11.6,1.0,-0.96,"['check notifications', 'compulsive scrolling', 'digital cling']",0.16,0.25,True,671.8,0.66,I want to be more independent,dependency
+U_ALT439,2025-06-12 15:26:00,33.4,afternoon,13.4,0.5,0.87,"['late work', 'procrastination', 'missed goal']",0.05,0.43,True,341.2,0.91,I want to be more productive,guilt
+U_ALT440,2025-06-12 21:35:00,37.2,night,58.4,2.1,-0.71,"['check notifications', 'compulsive scrolling', 'sleep with phone']",0.06,0.66,False,579.8,0.63,I want to be more independent,dependency
+U_ALT441,2025-06-12 04:02:00,44.5,late_night,44.9,1.0,0.41,"['cheat story', 'poor grades', 'regret']",0.39,0.83,False,467.5,0.71,I want to be more productive,guilt
+U_ALT442,2025-06-12 08:33:00,30.4,morning,37.7,0.8,-0.14,"['funny fail', 'meme gold', 'unexpected win']",0.07,0.83,False,518.4,0.9,I deserve this joy,reward
+U_ALT443,2025-06-12 16:12:00,14.8,afternoon,43.4,0.4,0.64,"['positive feedback', 'win prize', 'birthday cake']",0.17,0.8,False,193.9,0.86,I deserve this joy,reward
+U_ALT444,2025-06-12 22:44:00,18.4,night,61.4,2.2,-0.22,"['overspending', 'regret', 'wasted time']",0.25,0.82,False,334.1,0.96,I want to be more productive,guilt
+U_ALT445,2025-06-12 04:06:00,70.1,late_night,57.6,2.7,0.09,"['bonus drop', 'unexpected win', 'good news']",0.1,0.59,True,211.4,0.78,I deserve this joy,reward
+U_ALT446,2025-06-12 05:54:00,51.4,late_night,64.5,1.3,-0.66,"['bonus drop', 'meme gold', 'unexpected win']",0.19,0.57,True,536.2,0.91,I want to enjoy the moment,reward
+U_ALT447,2025-06-12 22:22:00,81.5,night,58.3,1.6,-0.76,"['positive feedback', 'bonus drop', 'surprise box']",0.37,0.34,False,635.5,0.74,I deserve this joy,reward
+U_ALT448,2025-06-12 04:02:00,36.4,late_night,9.7,1.1,-0.54,"['procrastination', 'overspending', 'cheat story']",0.15,0.62,True,323.0,0.87,I wish I had used time better,guilt
+U_ALT449,2025-06-12 03:20:00,80.3,late_night,40.3,2.3,0.4,"['ignored calls', 'bad habit', 'procrastination']",0.19,0.76,False,542.3,0.9,I wish I had used time better,guilt
+U_ALT450,2025-06-12 23:40:00,54.4,night,39.6,2.1,-0.87,"['interview fail', 'war update', 'job loss']",0.19,0.32,False,187.9,0.84,I need to relax my mind,anxious
+U_ALT451,2025-06-12 21:16:00,50.5,night,69.3,2.7,0.36,"['no sleep', 'fatigue', 'overstimulated']",0.32,0.48,True,204.7,0.58,I want better balance,exhaustion
+U_ALT452,2025-06-12 03:47:00,37.7,late_night,68.6,1.4,0.93,"['cheat story', 'failed test', 'regret']",0.1,0.31,True,327.5,0.95,I want to be more productive,guilt
+U_ALT453,2025-06-12 07:31:00,65.2,morning,57.3,1.3,0.38,"['unexpected win', 'happy ending', 'surprise box']",0.16,0.32,False,265.8,0.64,I want to enjoy the moment,reward
+U_ALT454,2025-06-12 05:35:00,77.7,late_night,5.4,3.2,0.84,"['burnout symptoms', 'power nap', 'no sleep']",0.24,0.73,True,612.4,0.91,I need rest,exhaustion
+U_ALT455,2025-06-12 03:20:00,43.7,late_night,21.7,2.1,0.46,"['bonus drop', 'funny fail', 'birthday cake']",0.34,0.19,True,324.9,0.81,I want to enjoy the moment,reward
+U_ALT456,2025-06-12 16:38:00,66.5,afternoon,9.6,3.5,-0.1,"['disaster', 'bad news', 'health scare']",0.01,0.52,False,269.4,0.88,I want to feel safe again,anxious
+U_ALT457,2025-06-12 04:58:00,49.5,late_night,24.5,1.3,0.7,"['ignored calls', 'missed deadline', 'failed test']",0.0,0.42,True,442.1,0.91,I wish I had used time better,guilt
+U_ALT458,2025-06-12 03:26:00,83.2,late_night,36.6,2.0,0.22,"['good news', 'congrats', 'happy ending']",0.25,0.72,False,567.2,0.62,I deserve this joy,reward
+U_ALT459,2025-06-12 14:56:00,84.8,afternoon,11.8,3.4,-0.28,"['happy ending', 'meme gold', 'celebration']",0.13,0.27,False,302.3,0.66,I want to enjoy the moment,reward
+U_ALT460,2025-06-12 10:57:00,15.6,morning,43.7,2.5,0.35,"['birthday cake', 'bonus drop', 'funny fail']",0.05,0.89,False,419.9,0.95,I want to enjoy the moment,reward
+U_ALT461,2025-06-12 14:56:00,9.1,afternoon,32.1,1.5,-0.82,"['cheat story', 'ignored calls', 'wasted time']",0.22,0.16,False,597.1,0.88,I want to be more productive,guilt
+U_ALT462,2025-06-12 03:00:00,36.3,late_night,6.6,3.4,-0.54,"['war update', 'job loss', 'market panic']",0.28,0.81,False,346.3,0.66,I want to feel safe again,anxious
+U_ALT463,2025-06-12 07:36:00,72.2,morning,17.4,3.3,0.65,"['unexpected win', 'congrats', 'positive feedback']",0.31,0.68,False,310.6,0.89,I want to enjoy the moment,reward
+U_ALT464,2025-06-12 00:47:00,38.4,late_night,49.7,0.9,0.72,"['no sleep', 'long work hours', 'overwork']",0.15,0.25,False,363.5,0.68,I want better balance,exhaustion
+U_ALT465,2025-06-12 06:20:00,77.4,morning,14.2,0.7,-0.28,"['health scare', 'recession', 'bad news']",0.32,0.56,False,396.1,0.62,I want to feel safe again,anxious
+U_ALT466,2025-06-12 15:18:00,72.1,afternoon,34.3,1.8,-0.77,"['power nap', 'stretch break', 'overstimulated']",0.21,0.75,True,436.7,0.81,I need rest,exhaustion
+U_ALT467,2025-06-12 03:28:00,64.4,late_night,39.8,2.3,-0.46,"['meme gold', 'win prize', 'bonus drop']",0.2,0.33,False,468.7,0.74,I deserve this joy,reward
+U_ALT468,2025-06-12 03:16:00,20.1,late_night,32.3,0.5,0.11,"['late work', 'ignored calls', 'poor grades']",0.29,0.38,True,289.1,0.64,I wish I had used time better,guilt
+U_ALT469,2025-06-12 18:14:00,23.7,night,31.9,1.2,-0.3,"['stock crash', 'dystopia', 'market panic']",0.3,0.44,True,487.4,0.74,I need to relax my mind,anxious
+U_ALT470,2025-06-12 11:08:00,10.0,morning,10.8,3.3,0.44,"['fatigue', 'overstimulated', 'overwork']",0.01,0.38,False,411.3,0.72,I need rest,exhaustion
+U_ALT471,2025-06-12 13:52:00,82.1,afternoon,45.3,1.9,-0.6,"['dystopia', 'job loss', 'anxiety tips']",0.11,0.61,True,221.6,0.93,I want to feel safe again,anxious
+U_ALT472,2025-06-12 16:02:00,75.1,afternoon,41.2,0.6,-0.07,"['bad habit', 'poor grades', 'failed test']",0.34,0.59,False,684.9,0.97,I wish I had used time better,guilt
+U_ALT473,2025-06-12 11:32:00,37.2,morning,5.1,2.0,0.47,"['burnout symptoms', 'no sleep', 'power nap']",0.15,0.72,False,585.1,0.79,I want better balance,exhaustion
+U_ALT474,2025-06-12 15:21:00,30.4,afternoon,17.7,3.3,0.86,"['regret', 'missed deadline', 'bad habit']",0.34,0.39,True,289.4,0.69,I want to be more productive,guilt
+U_ALT475,2025-06-12 07:56:00,17.3,morning,68.9,0.5,-0.22,"['sleep with phone', 'always online', 'digital cling']",0.24,0.49,True,490.7,0.7,I want to take control of my habits,dependency
+U_ALT476,2025-06-12 18:48:00,25.7,night,33.7,1.8,0.27,"['bad news', 'market panic', 'health scare']",0.25,0.59,True,291.3,0.74,I want to feel safe again,anxious
+U_ALT477,2025-06-12 06:01:00,58.0,morning,62.4,1.0,-0.13,"['ignored calls', 'late work', 'overspending']",0.08,0.88,True,193.7,0.79,I want to be more productive,guilt
+U_ALT478,2025-06-12 14:07:00,50.2,afternoon,57.7,0.8,0.93,"['wasted time', 'cheat story', 'failed test']",0.34,0.75,False,362.5,0.88,I wish I had used time better,guilt
+U_ALT479,2025-06-12 17:19:00,30.4,afternoon,48.0,1.4,0.34,"['war update', 'anxiety tips', 'health scare']",0.4,0.51,True,675.4,0.64,I want to feel safe again,anxious
+U_ALT480,2025-06-12 17:38:00,72.2,afternoon,13.1,3.4,0.49,"['celebration', 'congrats', 'surprise box']",0.02,0.25,True,411.2,0.63,I want to enjoy the moment,reward
+U_ALT481,2025-06-12 23:37:00,22.3,night,48.1,1.8,0.13,"['celebration', 'meme gold', 'birthday cake']",0.13,0.18,True,660.3,0.85,I deserve this joy,reward
+U_ALT482,2025-06-12 03:36:00,84.3,late_night,10.0,2.3,-0.87,"['bad news', 'job loss', 'climate news']",0.25,0.25,False,216.7,0.9,I need to relax my mind,anxious
+U_ALT483,2025-06-12 11:57:00,15.0,morning,30.6,0.8,0.66,"['disaster', 'anxiety tips', 'climate news']",0.38,0.44,False,294.4,0.77,I need to relax my mind,anxious
+U_ALT484,2025-06-12 12:34:00,52.5,afternoon,53.1,1.4,0.71,"['coffee addiction', 'digital cling', 'sleep with phone']",0.29,0.27,False,566.0,0.81,I want to be more independent,dependency
+U_ALT485,2025-06-12 04:04:00,49.9,late_night,31.4,3.5,-0.75,"['procrastination', 'poor grades', 'missed goal']",0.1,0.69,True,450.7,0.87,I want to be more productive,guilt
+U_ALT486,2025-06-12 21:20:00,48.1,night,49.2,1.6,0.11,"['positive feedback', 'congrats', 'unexpected win']",0.13,0.12,False,401.0,0.77,I want to enjoy the moment,reward
+U_ALT487,2025-06-12 09:36:00,79.1,morning,67.9,1.9,-0.73,"['no sleep', 'fatigue', 'burnout symptoms']",0.07,0.81,False,440.7,0.61,I want better balance,exhaustion
+U_ALT488,2025-06-12 23:26:00,8.1,night,60.1,2.2,-0.07,"['long work hours', 'stretch break', 'overwork']",0.24,0.39,False,680.3,0.79,I want better balance,exhaustion
+U_ALT489,2025-06-12 10:30:00,40.5,morning,5.9,2.4,-0.48,"['fear of missing out', 'constant refresh', ""can't stop""]",0.05,0.41,False,209.0,0.81,I want to be more independent,dependency
+U_ALT490,2025-06-12 03:47:00,15.6,late_night,29.2,1.6,-0.05,"['stock crash', 'market panic', 'dystopia']",0.35,0.58,False,196.9,0.79,I need to relax my mind,anxious
+U_ALT491,2025-06-12 17:13:00,64.2,afternoon,52.4,2.4,-0.07,"['bonus drop', 'positive feedback', 'unexpected win']",0.16,0.5,True,487.1,0.68,I deserve this joy,reward
+U_ALT492,2025-06-12 03:21:00,73.9,late_night,54.3,1.9,-0.34,"['no sleep', 'crash nap', 'mental drain']",0.36,0.2,True,543.8,0.66,I need rest,exhaustion
+U_ALT493,2025-06-12 04:29:00,28.6,late_night,38.9,3.1,0.93,"['stock crash', 'market panic', 'health scare']",0.15,0.13,True,359.6,0.67,I need to relax my mind,anxious
+U_ALT494,2025-06-12 03:22:00,49.3,late_night,40.3,2.2,0.06,"['climate news', 'bad news', 'job loss']",0.23,0.72,False,180.7,0.93,I need to relax my mind,anxious
+U_ALT495,2025-06-12 19:41:00,34.3,night,46.1,2.1,-0.58,"['digital cling', 'daily routine', 'check notifications']",0.39,0.29,False,374.7,0.73,I want to be more independent,dependency
+U_ALT496,2025-06-12 08:02:00,52.2,morning,5.3,2.2,-0.32,"['power nap', 'stretch break', 'fatigue']",0.36,0.67,True,604.2,0.83,I want better balance,exhaustion
+U_ALT497,2025-06-12 23:48:00,45.6,night,38.9,1.6,-0.79,"['coffee addiction', 'always online', 'compulsive scrolling']",0.1,0.23,True,285.0,0.77,I want to be more independent,dependency
+U_ALT498,2025-06-12 10:15:00,18.9,morning,14.1,2.2,0.72,"['disaster', 'bad news', 'market panic']",0.29,0.22,True,195.4,0.75,I want to feel safe again,anxious
+U_ALT499,2025-06-12 01:27:00,82.3,late_night,22.5,0.9,0.8,"['crash nap', 'overwork', 'burnout symptoms']",0.28,0.46,True,204.8,0.9,I need rest,exhaustion
+U_ALT500,2025-06-12 12:19:00,62.7,afternoon,46.1,2.3,0.3,"['late work', 'procrastination', 'missed goal']",0.24,0.18,True,675.9,0.96,I wish I had used time better,guilt
+U_ALT501,2025-06-12 06:14:00,52.2,morning,12.1,0.8,-0.24,"['congrats', 'good news', 'positive feedback']",0.05,0.87,False,465.2,0.72,I want to enjoy the moment,reward
+U_ALT502,2025-06-12 02:03:00,58.6,late_night,43.5,1.9,0.65,"['no sleep', 'long work hours', 'power nap']",0.12,0.84,True,408.4,0.91,I want better balance,exhaustion
+U_ALT503,2025-06-12 02:32:00,72.2,late_night,68.4,3.2,0.21,"[""can't stop"", 'fear of missing out', 'daily routine']",0.16,0.77,False,324.8,0.71,I want to take control of my habits,dependency
+U_ALT504,2025-06-12 02:43:00,78.3,late_night,66.9,1.8,0.71,"['digital fatigue', 'overwork', 'overstimulated']",0.31,0.43,False,245.0,0.64,I need rest,exhaustion
+U_ALT505,2025-06-12 02:38:00,27.8,late_night,20.5,0.4,0.6,"['positive feedback', 'good news', 'celebration']",0.08,0.34,False,340.1,0.58,I deserve this joy,reward
+U_ALT506,2025-06-12 08:20:00,54.5,morning,42.3,0.9,0.4,"['burnout symptoms', 'work stress', 'long work hours']",0.36,0.76,True,609.8,0.66,I need rest,exhaustion
+U_ALT507,2025-06-12 11:01:00,54.5,morning,69.8,1.0,-0.78,"['mental drain', 'no sleep', 'fatigue']",0.04,0.24,False,400.2,0.71,I need rest,exhaustion
+U_ALT508,2025-06-12 04:34:00,30.9,late_night,53.6,1.2,-0.04,"['win prize', 'bonus drop', 'funny fail']",0.2,0.15,True,549.8,0.75,I want to enjoy the moment,reward
+U_ALT509,2025-06-12 15:52:00,60.3,afternoon,32.2,2.3,0.57,"['cheat story', 'wasted time', 'regret']",0.25,0.8,False,369.0,0.56,I want to be more productive,guilt
+U_ALT510,2025-06-12 22:24:00,50.5,night,24.5,2.5,0.31,"['war update', 'stock crash', 'anxiety tips']",0.26,0.85,True,535.1,0.98,I want to feel safe again,anxious
+U_ALT511,2025-06-12 05:15:00,14.8,late_night,35.5,2.9,0.62,"['fear of missing out', 'sleep with phone', 'compulsive scrolling']",0.16,0.3,False,312.9,0.61,I want to take control of my habits,dependency
+U_ALT512,2025-06-12 11:06:00,78.3,morning,60.6,3.4,0.47,"['overstimulated', 'work stress', 'power nap']",0.26,0.6,True,598.6,0.81,I need rest,exhaustion
+U_ALT513,2025-06-12 01:26:00,49.2,late_night,14.1,1.5,-0.71,"['interview fail', 'market panic', 'war update']",0.2,0.19,True,186.1,0.64,I need to relax my mind,anxious
+U_ALT514,2025-06-12 08:55:00,67.6,morning,54.2,0.9,-0.79,"['bad habit', 'procrastination', 'ignored calls']",0.15,0.83,True,662.6,0.57,I want to be more productive,guilt
+U_ALT515,2025-06-12 22:48:00,17.8,night,33.8,3.1,0.36,"['missed goal', 'late work', 'poor grades']",0.06,0.49,False,295.4,0.96,I want to be more productive,guilt
+U_ALT516,2025-06-12 22:26:00,40.2,night,53.4,2.8,-0.77,"['mental drain', 'fatigue', 'overstimulated']",0.1,0.75,False,253.7,0.65,I want better balance,exhaustion
+U_ALT517,2025-06-12 02:03:00,35.1,late_night,63.8,1.0,0.84,"[""can't stop"", 'digital cling', 'coffee addiction']",0.33,0.47,True,694.5,0.77,I want to take control of my habits,dependency
+U_ALT518,2025-06-12 13:58:00,48.8,afternoon,43.2,2.7,-0.79,"['interview fail', 'disaster', 'health scare']",0.29,0.52,True,279.9,0.57,I need to relax my mind,anxious
+U_ALT519,2025-06-12 09:02:00,71.9,morning,47.9,2.9,0.56,"['unexpected win', 'congrats', 'happy ending']",0.13,0.67,False,531.0,0.91,I deserve this joy,reward
+U_ALT520,2025-06-12 11:23:00,46.4,morning,34.6,2.1,0.59,"['stock crash', 'health scare', 'disaster']",0.03,0.8,False,635.3,0.83,I want to feel safe again,anxious
+U_ALT521,2025-06-12 20:01:00,31.5,night,52.7,0.6,0.44,"['climate news', 'health scare', 'recession']",0.02,0.61,True,475.9,0.57,I need to relax my mind,anxious
+U_ALT522,2025-06-12 01:43:00,68.0,late_night,62.6,2.6,-0.61,"['coffee addiction', 'check notifications', 'sleep with phone']",0.06,0.52,False,463.8,0.68,I want to take control of my habits,dependency
+U_ALT523,2025-06-12 09:07:00,18.5,morning,16.6,2.3,-0.84,"['poor grades', 'wasted time', 'failed test']",0.28,0.22,False,597.3,0.79,I wish I had used time better,guilt
+U_ALT524,2025-06-12 04:13:00,59.4,late_night,14.6,2.9,0.44,"['overstimulated', 'burnout symptoms', 'fatigue']",0.08,0.14,False,410.3,0.59,I want better balance,exhaustion
+U_ALT525,2025-06-12 05:10:00,16.7,late_night,8.6,1.0,-0.53,"['dystopia', 'health scare', 'recession']",0.01,0.16,False,572.3,0.62,I want to feel safe again,anxious
+U_ALT526,2025-06-12 19:11:00,46.9,night,51.6,0.4,0.94,"['disaster', 'climate news', 'interview fail']",0.09,0.12,True,508.8,0.62,I want to feel safe again,anxious
+U_ALT527,2025-06-12 00:05:00,78.4,late_night,33.3,2.7,-0.82,"['constant refresh', ""can't stop"", 'coffee addiction']",0.4,0.36,True,235.4,0.64,I want to be more independent,dependency
+U_ALT528,2025-06-12 04:05:00,45.7,late_night,36.4,0.9,0.8,"['bad habit', 'late work', 'failed test']",0.35,0.57,False,254.6,0.94,I wish I had used time better,guilt
+U_ALT529,2025-06-12 06:10:00,58.4,morning,51.1,0.4,-0.55,"['poor grades', 'overspending', 'regret']",0.15,0.76,False,286.3,0.74,I wish I had used time better,guilt
+U_ALT530,2025-06-12 17:02:00,42.6,afternoon,13.9,0.9,0.06,"['good news', 'birthday cake', 'happy ending']",0.31,0.33,False,209.8,0.76,I deserve this joy,reward
+U_ALT531,2025-06-12 00:23:00,71.9,late_night,62.4,1.1,-0.17,"['anxiety tips', 'interview fail', 'bad news']",0.24,0.24,True,549.2,0.57,I want to feel safe again,anxious
+U_ALT532,2025-06-12 13:25:00,61.6,afternoon,65.7,1.4,0.37,"['daily routine', 'sleep with phone', 'check notifications']",0.17,0.86,True,567.8,0.74,I want to be more independent,dependency
+U_ALT533,2025-06-12 11:02:00,11.0,morning,34.7,2.7,0.12,"['congrats', 'positive feedback', 'birthday cake']",0.39,0.81,True,578.1,0.66,I want to enjoy the moment,reward
+U_ALT534,2025-06-12 03:57:00,18.0,late_night,17.2,2.4,0.4,"['stock crash', 'health scare', 'market panic']",0.27,0.72,False,334.8,0.66,I need to relax my mind,anxious
+U_ALT535,2025-06-12 22:37:00,9.9,night,53.8,1.8,0.44,"['failed test', 'wasted time', 'bad habit']",0.37,0.53,False,534.6,0.64,I wish I had used time better,guilt
+U_ALT536,2025-06-12 22:08:00,80.2,night,17.9,3.3,-0.39,"['regret', 'procrastination', 'missed goal']",0.26,0.35,False,317.4,0.75,I want to be more productive,guilt
+U_ALT537,2025-06-12 01:55:00,30.3,late_night,23.3,0.5,-0.49,"['surprise box', 'happy ending', 'meme gold']",0.2,0.4,False,461.5,0.93,I deserve this joy,reward
+U_ALT538,2025-06-12 08:56:00,41.4,morning,7.0,0.6,-0.85,"['sleep with phone', 'check notifications', 'constant refresh']",0.14,0.83,False,244.9,0.73,I want to take control of my habits,dependency
+U_ALT539,2025-06-12 22:20:00,79.9,night,5.2,3.2,0.0,"[""can't stop"", 'fear of missing out', 'coffee addiction']",0.35,0.3,False,326.8,0.66,I want to be more independent,dependency
+U_ALT540,2025-06-12 15:08:00,21.3,afternoon,63.0,2.3,-0.84,"['meme gold', 'surprise box', 'celebration']",0.14,0.17,False,579.9,0.77,I deserve this joy,reward
+U_ALT541,2025-06-12 02:17:00,60.9,late_night,34.4,1.8,-0.8,"['procrastination', 'missed deadline', 'poor grades']",0.14,0.18,False,249.7,0.66,I want to be more productive,guilt
+U_ALT542,2025-06-12 17:22:00,13.9,afternoon,47.2,0.7,-0.09,"['bad news', 'climate news', 'anxiety tips']",0.05,0.34,True,207.8,0.67,I want to feel safe again,anxious
+U_ALT543,2025-06-12 19:10:00,46.7,night,42.3,1.5,0.61,"['interview fail', 'war update', 'anxiety tips']",0.26,0.4,False,424.7,0.57,I need to relax my mind,anxious
+U_ALT544,2025-06-12 11:26:00,58.2,morning,5.1,1.0,0.05,"['win prize', 'birthday cake', 'unexpected win']",0.14,0.16,True,603.2,0.9,I deserve this joy,reward
+U_ALT545,2025-06-12 18:44:00,76.7,night,66.6,1.4,-0.93,"['overwork', 'power nap', 'digital fatigue']",0.07,0.15,True,507.0,0.88,I want better balance,exhaustion
+U_ALT546,2025-06-12 23:20:00,69.7,night,55.1,1.8,-0.95,"['dystopia', 'anxiety tips', 'bad news']",0.34,0.55,True,535.5,0.68,I want to feel safe again,anxious
+U_ALT547,2025-06-12 01:25:00,11.8,late_night,30.6,1.7,-0.12,"['missed deadline', 'procrastination', 'failed test']",0.34,0.56,True,381.0,0.82,I wish I had used time better,guilt
+U_ALT548,2025-06-12 23:26:00,12.9,night,18.7,2.3,0.32,"['procrastination', 'missed goal', 'late work']",0.26,0.22,False,682.5,0.96,I wish I had used time better,guilt
+U_ALT549,2025-06-12 08:52:00,46.9,morning,30.0,3.4,0.02,"['compulsive scrolling', 'always online', 'coffee addiction']",0.17,0.4,False,335.8,0.75,I want to take control of my habits,dependency
+U_ALT550,2025-06-12 08:37:00,16.0,morning,51.1,2.6,-0.69,"['positive feedback', 'unexpected win', 'congrats']",0.12,0.1,True,506.2,0.6,I deserve this joy,reward
+U_ALT551,2025-06-12 20:04:00,48.7,night,58.2,2.4,-0.78,"['missed goal', 'missed deadline', 'late work']",0.22,0.25,True,556.4,0.72,I want to be more productive,guilt
+U_ALT552,2025-06-12 19:13:00,68.3,night,15.4,3.2,-0.79,"['market panic', 'disaster', 'interview fail']",0.08,0.29,False,563.0,0.89,I want to feel safe again,anxious
+U_ALT553,2025-06-12 04:49:00,25.8,late_night,19.7,1.5,-0.27,"['bonus drop', 'congrats', 'funny fail']",0.18,0.45,False,512.3,0.57,I deserve this joy,reward
+U_ALT554,2025-06-12 07:17:00,25.6,morning,24.9,3.0,-0.02,"['stretch break', 'no sleep', 'power nap']",0.25,0.49,False,475.7,0.71,I need rest,exhaustion
+U_ALT555,2025-06-12 11:42:00,25.9,morning,23.7,2.7,-0.44,"['overspending', 'late work', 'ignored calls']",0.37,0.17,False,628.2,0.75,I wish I had used time better,guilt
+U_ALT556,2025-06-12 03:01:00,51.5,late_night,26.6,0.9,-0.77,"['overstimulated', 'overwork', 'stretch break']",0.03,0.62,True,382.8,0.83,I want better balance,exhaustion
+U_ALT557,2025-06-12 16:41:00,24.1,afternoon,49.1,0.6,0.17,"['surprise box', 'positive feedback', 'win prize']",0.19,0.56,True,421.7,0.96,I deserve this joy,reward
+U_ALT558,2025-06-12 05:13:00,70.2,late_night,42.2,2.3,0.7,"['fear of missing out', 'daily routine', 'digital cling']",0.3,0.31,True,624.5,0.92,I want to take control of my habits,dependency
+U_ALT559,2025-06-12 08:34:00,43.0,morning,23.4,1.4,-0.2,"['climate news', 'bad news', 'health scare']",0.04,0.88,True,237.7,0.7,I want to feel safe again,anxious
+U_ALT560,2025-06-12 09:36:00,77.6,morning,43.9,2.3,-0.54,"['late work', 'bad habit', 'poor grades']",0.12,0.34,False,388.8,0.88,I wish I had used time better,guilt
+U_ALT561,2025-06-12 14:36:00,40.4,afternoon,37.3,3.3,-0.56,"['daily routine', ""can't stop"", 'constant refresh']",0.23,0.13,True,577.2,0.82,I want to be more independent,dependency
+U_ALT562,2025-06-12 13:49:00,71.3,afternoon,47.7,2.9,-0.61,"['mental drain', 'power nap', 'overstimulated']",0.28,0.88,True,420.5,0.56,I want better balance,exhaustion
+U_ALT563,2025-06-12 09:59:00,42.3,morning,67.2,1.4,-0.72,"['market panic', 'stock crash', 'war update']",0.11,0.89,True,315.1,0.74,I want to feel safe again,anxious
+U_ALT564,2025-06-12 21:32:00,17.3,night,40.3,3.1,0.82,"['disaster', 'interview fail', 'stock crash']",0.38,0.39,False,496.3,0.73,I need to relax my mind,anxious
+U_ALT565,2025-06-12 11:41:00,43.1,morning,17.5,1.4,-0.34,"['stock crash', 'health scare', 'market panic']",0.16,0.88,False,546.1,0.75,I need to relax my mind,anxious
+U_ALT566,2025-06-12 10:08:00,36.5,morning,28.1,2.1,0.93,"['market panic', 'interview fail', 'bad news']",0.06,0.32,False,263.6,0.57,I want to feel safe again,anxious
+U_ALT567,2025-06-12 11:49:00,31.0,morning,47.4,3.2,-0.24,"['regret', 'bad habit', 'late work']",0.2,0.77,False,604.3,0.69,I wish I had used time better,guilt
+U_ALT568,2025-06-12 21:08:00,78.6,night,20.9,1.4,-0.09,"['burnout symptoms', 'no sleep', 'mental drain']",0.27,0.15,False,450.0,0.96,I want better balance,exhaustion
+U_ALT569,2025-06-12 14:55:00,23.0,afternoon,43.5,2.6,-0.9,"['market panic', 'war update', 'recession']",0.06,0.78,True,214.7,0.73,I need to relax my mind,anxious
+U_ALT570,2025-06-12 04:37:00,63.9,late_night,18.8,1.4,-0.01,"['regret', 'wasted time', 'failed test']",0.37,0.2,False,575.9,0.8,I wish I had used time better,guilt
+U_ALT571,2025-06-12 04:20:00,28.4,late_night,5.2,1.2,-0.39,"['fatigue', 'power nap', 'burnout symptoms']",0.23,0.4,False,504.6,0.67,I need rest,exhaustion
+U_ALT572,2025-06-12 03:33:00,82.4,late_night,60.6,1.1,-0.22,"['bad habit', 'late work', 'missed goal']",0.29,0.38,False,351.9,0.67,I want to be more productive,guilt
+U_ALT573,2025-06-12 05:18:00,34.1,late_night,34.7,0.5,-0.21,"['disaster', 'bad news', 'market panic']",0.0,0.35,True,501.5,0.93,I want to feel safe again,anxious
+U_ALT574,2025-06-12 19:56:00,28.0,night,27.7,2.6,0.95,"['celebration', 'birthday cake', 'positive feedback']",0.29,0.45,False,277.8,0.92,I want to enjoy the moment,reward
+U_ALT575,2025-06-12 23:41:00,46.7,night,43.6,0.7,-0.62,"['always online', 'check notifications', 'fear of missing out']",0.1,0.66,True,365.5,0.56,I want to take control of my habits,dependency
+U_ALT576,2025-06-12 02:07:00,75.4,late_night,27.3,1.6,0.7,"['overwork', 'overstimulated', 'fatigue']",0.05,0.46,False,585.2,0.87,I need rest,exhaustion
+U_ALT577,2025-06-12 15:16:00,32.5,afternoon,52.4,3.1,-0.59,"['fatigue', 'no sleep', 'mental drain']",0.18,0.78,True,220.0,0.78,I need rest,exhaustion
+U_ALT578,2025-06-12 23:45:00,70.0,night,60.7,2.3,-0.11,"['missed goal', 'missed deadline', 'procrastination']",0.28,0.21,False,561.2,0.86,I want to be more productive,guilt
+U_ALT579,2025-06-12 19:36:00,72.4,night,8.1,1.7,0.17,"['win prize', 'meme gold', 'unexpected win']",0.09,0.11,True,469.7,0.83,I want to enjoy the moment,reward
+U_ALT580,2025-06-12 11:25:00,51.3,morning,55.3,2.9,-0.32,"['market panic', 'interview fail', 'dystopia']",0.27,0.41,True,433.1,0.76,I need to relax my mind,anxious
+U_ALT581,2025-06-12 01:39:00,48.3,late_night,32.4,0.5,0.32,"['late work', 'missed goal', 'wasted time']",0.07,0.81,True,259.1,0.79,I wish I had used time better,guilt
+U_ALT582,2025-06-12 09:03:00,29.0,morning,38.1,2.5,0.94,"['fear of missing out', 'constant refresh', 'coffee addiction']",0.0,0.62,True,238.3,0.64,I want to take control of my habits,dependency
+U_ALT583,2025-06-12 14:43:00,43.5,afternoon,61.3,3.3,0.61,"['dystopia', 'bad news', 'war update']",0.28,0.84,False,237.7,0.82,I need to relax my mind,anxious
+U_ALT584,2025-06-12 20:20:00,66.1,night,9.9,3.3,-0.07,"['missed goal', 'regret', 'bad habit']",0.14,0.21,True,615.2,0.56,I want to be more productive,guilt
+U_ALT585,2025-06-12 08:12:00,46.6,morning,11.1,1.2,-0.85,"['recession', 'job loss', 'war update']",0.15,0.4,False,656.8,0.64,I need to relax my mind,anxious
+U_ALT586,2025-06-12 12:57:00,30.9,afternoon,65.1,2.1,0.05,"['recession', 'bad news', 'market panic']",0.17,0.26,True,315.6,0.7,I want to feel safe again,anxious
+U_ALT587,2025-06-12 17:47:00,76.7,afternoon,60.9,0.4,-0.62,"['digital cling', ""can't stop"", 'daily routine']",0.29,0.48,False,266.0,0.81,I want to take control of my habits,dependency
+U_ALT588,2025-06-12 19:00:00,80.5,night,36.2,1.5,-0.37,"['always online', 'check notifications', 'coffee addiction']",0.36,0.88,False,265.3,0.56,I want to be more independent,dependency
+U_ALT589,2025-06-12 00:15:00,35.7,late_night,57.4,2.2,-0.06,"['constant refresh', 'coffee addiction', 'daily routine']",0.18,0.57,True,668.9,0.63,I want to be more independent,dependency
+U_ALT590,2025-06-12 13:10:00,27.4,afternoon,69.1,0.4,-0.66,"['overstimulated', 'power nap', 'digital fatigue']",0.37,0.23,True,449.3,0.63,I need rest,exhaustion
+U_ALT591,2025-06-12 20:57:00,69.0,night,66.9,0.5,0.28,"['win prize', 'good news', 'surprise box']",0.06,0.23,True,380.5,0.91,I want to enjoy the moment,reward
+U_ALT592,2025-06-12 01:07:00,67.1,late_night,15.9,3.2,-0.82,"['health scare', 'market panic', 'interview fail']",0.35,0.62,False,396.3,0.63,I want to feel safe again,anxious
+U_ALT593,2025-06-12 06:06:00,65.5,morning,67.4,3.0,0.62,"['congrats', 'good news', 'unexpected win']",0.06,0.85,True,463.7,0.83,I deserve this joy,reward
+U_ALT594,2025-06-12 10:44:00,43.0,morning,52.8,3.0,-0.47,"['stock crash', 'interview fail', 'climate news']",0.09,0.27,True,391.0,0.86,I need to relax my mind,anxious
+U_ALT595,2025-06-12 11:27:00,8.4,morning,29.5,0.7,0.11,"['congrats', 'positive feedback', 'meme gold']",0.12,0.49,False,445.9,0.85,I want to enjoy the moment,reward
+U_ALT596,2025-06-12 07:33:00,35.1,morning,40.9,1.6,-0.15,"['mental drain', 'work stress', 'fatigue']",0.37,0.83,False,223.0,0.92,I need rest,exhaustion
+U_ALT597,2025-06-12 11:06:00,49.3,morning,24.5,3.4,0.82,"['bonus drop', 'surprise box', 'win prize']",0.33,0.25,False,464.2,0.63,I want to enjoy the moment,reward
+U_ALT598,2025-06-12 19:49:00,36.1,night,19.1,1.8,-0.39,"['mental drain', 'burnout symptoms', 'no sleep']",0.31,0.31,True,203.8,0.94,I need rest,exhaustion
+U_ALT599,2025-06-12 02:04:00,56.7,late_night,15.2,0.3,-0.24,"['health scare', 'market panic', 'dystopia']",0.05,0.9,True,197.0,0.85,I need to relax my mind,anxious
+U_ALT600,2025-06-12 13:56:00,30.0,afternoon,30.2,2.7,-0.29,"['anxiety tips', 'health scare', 'interview fail']",0.16,0.6,False,209.4,0.93,I want to feel safe again,anxious
+U_ALT601,2025-06-12 12:31:00,32.2,afternoon,47.1,0.3,-0.97,"['long work hours', 'no sleep', 'fatigue']",0.39,0.61,True,596.9,0.76,I want better balance,exhaustion
+U_ALT602,2025-06-12 10:14:00,60.9,morning,57.6,0.5,-0.69,"['coffee addiction', ""can't stop"", 'check notifications']",0.19,0.43,True,393.4,0.95,I want to be more independent,dependency
+U_ALT603,2025-06-12 15:28:00,16.6,afternoon,61.0,2.9,0.29,"['dystopia', 'war update', 'climate news']",0.2,0.5,False,371.4,0.79,I want to feel safe again,anxious
+U_ALT604,2025-06-12 03:46:00,15.9,late_night,37.9,2.5,0.46,"['daily routine', 'constant refresh', ""can't stop""]",0.15,0.82,True,203.4,0.63,I want to be more independent,dependency
+U_ALT605,2025-06-12 12:43:00,74.4,afternoon,33.4,2.9,0.07,"['surprise box', 'good news', 'bonus drop']",0.01,0.46,True,264.1,0.75,I want to enjoy the moment,reward
+U_ALT606,2025-06-12 05:30:00,71.2,late_night,46.5,1.5,-0.2,"['good news', 'funny fail', 'celebration']",0.01,0.76,False,429.1,0.59,I deserve this joy,reward
+U_ALT607,2025-06-12 23:35:00,47.7,night,21.3,2.1,-0.53,"['check notifications', 'digital cling', 'sleep with phone']",0.3,0.49,True,240.7,0.65,I want to take control of my habits,dependency
+U_ALT608,2025-06-12 14:41:00,78.3,afternoon,45.9,2.7,0.2,"['bad news', 'dystopia', 'disaster']",0.31,0.7,True,667.8,0.63,I need to relax my mind,anxious
+U_ALT609,2025-06-12 20:03:00,82.1,night,40.5,3.2,0.94,"['missed deadline', 'late work', 'ignored calls']",0.12,0.21,False,583.9,0.88,I wish I had used time better,guilt
+U_ALT610,2025-06-12 20:02:00,64.0,night,56.8,0.7,-0.41,"['work stress', 'crash nap', 'digital fatigue']",0.11,0.46,True,278.1,0.58,I want better balance,exhaustion
+U_ALT611,2025-06-12 22:04:00,53.8,night,9.2,2.8,-0.36,"['overspending', 'poor grades', 'cheat story']",0.07,0.55,False,658.1,0.88,I wish I had used time better,guilt
+U_ALT612,2025-06-12 00:59:00,73.3,late_night,67.4,0.3,0.31,"['congrats', 'positive feedback', 'meme gold']",0.28,0.61,False,700.0,0.63,I deserve this joy,reward
+U_ALT613,2025-06-12 17:32:00,8.7,afternoon,56.6,2.5,-0.37,"['job loss', 'dystopia', 'disaster']",0.06,0.84,True,195.9,0.75,I want to feel safe again,anxious
+U_ALT614,2025-06-12 13:25:00,57.7,afternoon,38.3,0.6,0.81,"['long work hours', 'crash nap', 'power nap']",0.31,0.81,False,254.4,0.87,I want better balance,exhaustion
+U_ALT615,2025-06-12 15:39:00,52.1,afternoon,12.9,1.0,0.57,"['war update', 'disaster', 'climate news']",0.32,0.22,True,618.3,0.56,I need to relax my mind,anxious
+U_ALT616,2025-06-12 07:49:00,72.3,morning,37.9,2.3,0.98,"['long work hours', 'mental drain', 'no sleep']",0.38,0.49,False,294.4,0.69,I need rest,exhaustion
+U_ALT617,2025-06-12 18:26:00,9.4,night,26.8,1.5,0.07,"['regret', 'cheat story', 'ignored calls']",0.34,0.53,False,511.3,0.68,I want to be more productive,guilt
+U_ALT618,2025-06-12 10:10:00,12.5,morning,33.6,1.5,0.32,"['sleep with phone', 'always online', 'check notifications']",0.12,0.45,False,232.8,0.84,I want to take control of my habits,dependency
+U_ALT619,2025-06-12 23:22:00,57.3,night,57.7,1.8,-0.54,"['failed test', 'late work', 'bad habit']",0.39,0.16,True,652.3,0.74,I wish I had used time better,guilt
+U_ALT620,2025-06-12 04:41:00,22.9,late_night,25.3,2.1,-0.05,"['burnout symptoms', 'overwork', 'stretch break']",0.39,0.25,True,614.6,0.87,I need rest,exhaustion
+U_ALT621,2025-06-12 14:56:00,71.4,afternoon,57.7,1.1,-0.85,"['dystopia', 'bad news', 'war update']",0.08,0.14,True,651.7,0.82,I need to relax my mind,anxious
+U_ALT622,2025-06-12 01:03:00,22.4,late_night,35.0,0.5,-0.88,"['fatigue', 'overstimulated', 'power nap']",0.17,0.14,False,218.7,0.77,I want better balance,exhaustion
+U_ALT623,2025-06-12 08:32:00,20.1,morning,9.2,0.8,0.14,"['overstimulated', 'overwork', 'work stress']",0.24,0.65,False,613.1,0.9,I need rest,exhaustion
+U_ALT624,2025-06-12 09:32:00,33.3,morning,35.6,1.2,0.97,"['compulsive scrolling', 'constant refresh', 'daily routine']",0.33,0.28,False,394.9,0.84,I want to be more independent,dependency
+U_ALT625,2025-06-12 17:04:00,73.6,afternoon,49.4,1.0,0.71,"['surprise box', 'meme gold', 'bonus drop']",0.38,0.85,False,188.3,0.8,I want to enjoy the moment,reward
+U_ALT626,2025-06-12 12:22:00,32.4,afternoon,10.8,1.6,-0.62,"['failed test', 'late work', 'wasted time']",0.35,0.67,False,387.4,0.88,I want to be more productive,guilt
+U_ALT627,2025-06-12 20:53:00,8.1,night,62.3,2.0,-0.9,"['recession', 'interview fail', 'job loss']",0.14,0.31,False,247.8,0.77,I need to relax my mind,anxious
+U_ALT628,2025-06-12 06:08:00,19.8,morning,36.9,2.8,0.41,"['celebration', 'win prize', 'unexpected win']",0.34,0.35,True,544.5,0.72,I want to enjoy the moment,reward
+U_ALT629,2025-06-12 14:55:00,54.2,afternoon,63.8,3.5,-0.36,"['celebration', 'funny fail', 'unexpected win']",0.06,0.72,True,445.7,0.79,I want to enjoy the moment,reward
+U_ALT630,2025-06-12 14:02:00,78.2,afternoon,17.7,3.0,-0.3,"['funny fail', 'win prize', 'celebration']",0.28,0.61,False,335.8,0.93,I deserve this joy,reward
+U_ALT631,2025-06-12 09:29:00,45.5,morning,17.2,2.4,-0.76,"['anxiety tips', 'health scare', 'recession']",0.17,0.34,True,386.3,0.57,I need to relax my mind,anxious
+U_ALT632,2025-06-12 08:07:00,46.6,morning,64.9,0.6,0.82,"['disaster', 'recession', 'climate news']",0.37,0.34,False,405.3,0.92,I need to relax my mind,anxious
+U_ALT633,2025-06-12 18:21:00,77.1,night,8.7,2.0,-0.77,"['celebration', 'win prize', 'happy ending']",0.37,0.48,False,544.8,0.71,I want to enjoy the moment,reward
+U_ALT634,2025-06-12 21:54:00,40.9,night,34.7,0.5,-0.19,"['always online', 'check notifications', 'constant refresh']",0.15,0.75,True,212.0,0.84,I want to take control of my habits,dependency
+U_ALT635,2025-06-12 23:41:00,14.4,night,17.1,1.7,-0.77,"['mental drain', 'burnout symptoms', 'overstimulated']",0.35,0.58,False,558.2,0.94,I want better balance,exhaustion
+U_ALT636,2025-06-12 04:18:00,72.1,late_night,63.0,2.3,-0.71,"['late work', 'procrastination', 'overspending']",0.1,0.41,False,667.7,0.82,I wish I had used time better,guilt
+U_ALT637,2025-06-12 19:10:00,8.1,night,37.2,3.0,-0.81,"['cheat story', 'failed test', 'poor grades']",0.22,0.39,False,660.9,0.82,I want to be more productive,guilt
+U_ALT638,2025-06-12 11:28:00,22.9,morning,31.3,1.8,0.58,"['sleep with phone', 'coffee addiction', 'daily routine']",0.18,0.56,False,278.6,0.65,I want to be more independent,dependency
+U_ALT639,2025-06-12 18:30:00,42.9,night,39.3,0.8,0.64,"['health scare', 'recession', 'disaster']",0.35,0.63,True,261.4,0.69,I need to relax my mind,anxious
+U_ALT640,2025-06-12 13:12:00,42.6,afternoon,7.2,1.1,-0.69,"['dystopia', 'climate news', 'anxiety tips']",0.39,0.79,False,667.5,0.62,I need to relax my mind,anxious
+U_ALT641,2025-06-12 16:55:00,44.1,afternoon,55.5,1.9,-0.05,"['digital fatigue', 'power nap', 'no sleep']",0.37,0.46,False,483.1,0.75,I need rest,exhaustion
+U_ALT642,2025-06-12 16:12:00,77.2,afternoon,53.2,0.5,0.22,"['always online', 'compulsive scrolling', 'coffee addiction']",0.25,0.87,True,660.8,0.9,I want to be more independent,dependency
+U_ALT643,2025-06-12 03:21:00,28.8,late_night,32.2,2.2,0.83,"['dystopia', 'recession', 'war update']",0.27,0.16,False,614.1,0.85,I want to feel safe again,anxious
+U_ALT644,2025-06-12 09:44:00,14.5,morning,59.4,1.0,0.53,"['good news', 'celebration', 'surprise box']",0.36,0.87,False,567.4,0.94,I deserve this joy,reward
+U_ALT645,2025-06-12 12:37:00,84.2,afternoon,21.4,1.3,-0.58,"['long work hours', 'no sleep', 'fatigue']",0.21,0.61,True,566.2,0.98,I need rest,exhaustion
+U_ALT646,2025-06-12 01:08:00,75.9,late_night,29.4,3.3,0.06,"['always online', 'compulsive scrolling', ""can't stop""]",0.07,0.87,False,317.1,0.69,I want to be more independent,dependency
+U_ALT647,2025-06-12 20:38:00,36.6,night,16.8,2.8,0.89,"['missed goal', 'wasted time', 'bad habit']",0.24,0.21,True,493.2,0.74,I want to be more productive,guilt
+U_ALT648,2025-06-12 21:16:00,38.9,night,23.7,0.5,-0.87,"['regret', 'poor grades', 'missed goal']",0.14,0.32,False,623.1,0.62,I wish I had used time better,guilt
+U_ALT649,2025-06-12 00:56:00,74.6,late_night,15.6,3.0,-0.36,"['crash nap', 'fatigue', 'mental drain']",0.01,0.88,True,186.7,0.77,I need rest,exhaustion
+U_ALT650,2025-06-12 04:07:00,10.8,late_night,32.9,1.5,-0.66,"['bad habit', 'ignored calls', 'regret']",0.15,0.76,False,559.1,0.87,I want to be more productive,guilt
+U_ALT651,2025-06-12 16:29:00,80.1,afternoon,64.1,2.5,-0.92,"['crash nap', 'burnout symptoms', 'work stress']",0.22,0.59,False,576.1,0.57,I want better balance,exhaustion
+U_ALT652,2025-06-12 03:10:00,33.2,late_night,27.8,1.4,0.74,"['congrats', 'funny fail', 'good news']",0.12,0.71,True,398.8,0.77,I want to enjoy the moment,reward
+U_ALT653,2025-06-12 00:10:00,60.6,late_night,29.0,3.1,0.97,"['always online', 'coffee addiction', 'compulsive scrolling']",0.36,0.45,True,577.6,0.71,I want to take control of my habits,dependency
+U_ALT654,2025-06-12 22:49:00,35.0,night,29.6,2.9,0.25,"['unexpected win', 'congrats', 'surprise box']",0.22,0.81,False,467.7,0.57,I deserve this joy,reward
+U_ALT655,2025-06-12 22:11:00,66.8,night,41.9,1.5,0.45,"['funny fail', 'positive feedback', 'congrats']",0.08,0.17,True,483.5,0.81,I want to enjoy the moment,reward
+U_ALT656,2025-06-12 00:07:00,64.5,late_night,9.0,1.6,0.13,"['funny fail', 'meme gold', 'bonus drop']",0.38,0.34,False,362.3,0.82,I deserve this joy,reward
+U_ALT657,2025-06-12 02:49:00,8.7,late_night,35.7,3.0,-0.75,"['war update', 'bad news', 'dystopia']",0.03,0.35,True,265.3,0.92,I want to feel safe again,anxious
+U_ALT658,2025-06-12 04:59:00,35.8,late_night,63.8,0.8,0.12,"['sleep with phone', 'digital cling', 'compulsive scrolling']",0.06,0.31,False,431.2,0.86,I want to take control of my habits,dependency
+U_ALT659,2025-06-12 20:28:00,20.0,night,50.9,3.2,-0.19,"['daily routine', ""can't stop"", 'fear of missing out']",0.3,0.49,False,673.1,0.97,I want to take control of my habits,dependency
+U_ALT660,2025-06-12 04:52:00,43.2,late_night,22.6,1.1,0.88,"['interview fail', 'dystopia', 'stock crash']",0.08,0.53,True,596.5,0.66,I need to relax my mind,anxious
+U_ALT661,2025-06-12 16:39:00,40.0,afternoon,12.5,0.9,-0.57,"['long work hours', 'stretch break', 'work stress']",0.11,0.8,False,522.6,0.84,I want better balance,exhaustion
+U_ALT662,2025-06-12 13:45:00,83.2,afternoon,67.2,0.7,0.27,"['crash nap', 'overwork', 'power nap']",0.09,0.84,False,644.3,0.68,I need rest,exhaustion
+U_ALT663,2025-06-12 04:46:00,61.8,late_night,57.8,0.8,-0.42,"['job loss', 'war update', 'bad news']",0.37,0.46,False,430.8,0.72,I need to relax my mind,anxious
+U_ALT664,2025-06-12 14:03:00,36.9,afternoon,51.6,2.6,-0.97,"['funny fail', 'congrats', 'meme gold']",0.02,0.41,False,180.2,0.87,I deserve this joy,reward
+U_ALT665,2025-06-12 08:30:00,64.7,morning,61.2,1.2,0.95,"['climate news', 'stock crash', 'bad news']",0.2,0.16,True,433.2,0.93,I want to feel safe again,anxious
+U_ALT666,2025-06-12 06:29:00,26.0,morning,53.9,1.9,0.33,"['crash nap', 'fatigue', 'overwork']",0.15,0.58,True,274.7,0.69,I want better balance,exhaustion
+U_ALT667,2025-06-12 14:21:00,20.7,afternoon,10.9,1.3,-0.79,"['surprise box', 'birthday cake', 'unexpected win']",0.4,0.27,True,507.8,0.89,I deserve this joy,reward
+U_ALT668,2025-06-12 23:07:00,15.2,night,61.9,1.4,-0.05,"['birthday cake', 'funny fail', 'win prize']",0.23,0.46,False,525.1,0.95,I want to enjoy the moment,reward
+U_ALT669,2025-06-12 10:53:00,27.2,morning,5.9,1.8,0.12,"['interview fail', 'health scare', 'bad news']",0.31,0.67,True,234.2,0.63,I need to relax my mind,anxious
+U_ALT670,2025-06-12 23:08:00,18.5,night,52.3,1.5,0.53,"[""can't stop"", 'fear of missing out', 'sleep with phone']",0.09,0.2,True,561.6,0.64,I want to be more independent,dependency
+U_ALT671,2025-06-12 12:00:00,69.6,afternoon,26.2,3.5,-0.8,"['stretch break', 'mental drain', 'overwork']",0.26,0.63,True,219.2,0.64,I need rest,exhaustion
+U_ALT672,2025-06-12 22:23:00,13.6,night,46.7,1.6,0.03,"['good news', 'celebration', 'unexpected win']",0.19,0.73,True,566.3,0.92,I want to enjoy the moment,reward
+U_ALT673,2025-06-12 08:27:00,69.3,morning,40.2,3.0,0.5,"['power nap', 'burnout symptoms', 'work stress']",0.3,0.22,True,587.5,0.85,I need rest,exhaustion
+U_ALT674,2025-06-12 13:11:00,21.4,afternoon,37.9,2.7,-0.98,"['birthday cake', 'celebration', 'good news']",0.11,0.54,True,521.5,0.69,I want to enjoy the moment,reward
+U_ALT675,2025-06-12 11:13:00,17.4,morning,46.4,2.9,0.97,"['digital fatigue', 'crash nap', 'mental drain']",0.36,0.45,True,382.4,0.97,I want better balance,exhaustion
+U_ALT676,2025-06-12 11:14:00,23.8,morning,33.7,2.2,-0.95,"['crash nap', 'overstimulated', 'no sleep']",0.15,0.16,True,368.1,0.79,I want better balance,exhaustion
+U_ALT677,2025-06-12 11:05:00,29.6,morning,45.3,1.5,-0.53,"['procrastination', 'overspending', 'missed deadline']",0.27,0.25,False,506.8,0.65,I want to be more productive,guilt
+U_ALT678,2025-06-12 21:06:00,80.8,night,69.7,0.6,-0.4,"['meme gold', 'happy ending', 'surprise box']",0.13,0.82,True,402.1,0.91,I deserve this joy,reward
+U_ALT679,2025-06-12 01:52:00,43.0,late_night,14.7,1.2,0.28,"['coffee addiction', 'sleep with phone', 'compulsive scrolling']",0.15,0.11,True,513.6,0.57,I want to take control of my habits,dependency
+U_ALT680,2025-06-12 22:33:00,8.9,night,10.4,2.0,-0.64,"['happy ending', 'win prize', 'meme gold']",0.01,0.58,False,390.1,0.86,I want to enjoy the moment,reward
+U_ALT681,2025-06-12 10:57:00,22.2,morning,19.1,2.6,-0.57,"['mental drain', 'crash nap', 'long work hours']",0.23,0.61,False,412.0,0.95,I want better balance,exhaustion
+U_ALT682,2025-06-12 05:10:00,31.9,late_night,13.0,2.8,0.81,"['poor grades', 'missed deadline', 'missed goal']",0.11,0.37,False,522.8,0.92,I want to be more productive,guilt
+U_ALT683,2025-06-12 10:23:00,25.2,morning,6.9,2.3,-0.12,"['health scare', 'anxiety tips', 'market panic']",0.01,0.84,True,310.2,0.9,I want to feel safe again,anxious
+U_ALT684,2025-06-12 14:40:00,60.2,afternoon,46.6,1.5,-0.61,"['stock crash', 'job loss', 'recession']",0.02,0.15,False,235.3,0.96,I want to feel safe again,anxious
+U_ALT685,2025-06-12 03:18:00,74.5,late_night,24.2,2.3,-0.83,"['compulsive scrolling', 'fear of missing out', 'daily routine']",0.13,0.66,True,623.0,0.88,I want to be more independent,dependency
+U_ALT686,2025-06-12 04:06:00,54.3,late_night,24.4,3.2,0.96,"['surprise box', 'celebration', 'happy ending']",0.22,0.26,False,398.8,0.94,I deserve this joy,reward
+U_ALT687,2025-06-12 17:55:00,72.7,afternoon,57.3,2.8,-0.24,"['fatigue', 'overstimulated', 'burnout symptoms']",0.22,0.88,True,445.4,0.92,I want better balance,exhaustion
+U_ALT688,2025-06-12 17:56:00,44.4,afternoon,6.0,3.5,-0.34,"['positive feedback', 'congrats', 'unexpected win']",0.29,0.48,True,185.9,0.69,I want to enjoy the moment,reward
+U_ALT689,2025-06-12 08:19:00,37.9,morning,14.6,0.8,-0.08,"['dystopia', 'interview fail', 'stock crash']",0.34,0.26,True,550.8,0.87,I want to feel safe again,anxious
+U_ALT690,2025-06-12 02:59:00,21.6,late_night,22.3,0.8,0.39,"['anxiety tips', 'stock crash', 'dystopia']",0.28,0.21,False,400.9,0.59,I want to feel safe again,anxious
+U_ALT691,2025-06-12 07:51:00,24.4,morning,16.9,3.0,0.92,"['burnout symptoms', 'overwork', 'power nap']",0.12,0.67,True,195.5,0.58,I want better balance,exhaustion
+U_ALT692,2025-06-12 13:47:00,77.5,afternoon,64.3,2.4,-0.94,"['regret', 'bad habit', 'procrastination']",0.25,0.71,True,303.8,0.94,I want to be more productive,guilt
+U_ALT693,2025-06-12 12:26:00,69.9,afternoon,22.9,1.6,0.04,"['dystopia', 'bad news', 'recession']",0.33,0.19,False,349.7,0.56,I want to feel safe again,anxious
+U_ALT694,2025-06-12 00:46:00,27.8,late_night,47.5,2.9,0.94,"['surprise box', 'meme gold', 'birthday cake']",0.25,0.19,True,371.3,0.9,I want to enjoy the moment,reward
+U_ALT695,2025-06-12 07:24:00,37.6,morning,28.9,3.2,-0.71,"['mental drain', 'power nap', 'burnout symptoms']",0.39,0.53,False,286.9,0.73,I want better balance,exhaustion
+U_ALT696,2025-06-12 17:56:00,83.3,afternoon,45.5,2.1,0.52,"['fear of missing out', 'compulsive scrolling', 'sleep with phone']",0.04,0.22,False,325.7,0.94,I want to take control of my habits,dependency
+U_ALT697,2025-06-12 12:42:00,44.5,afternoon,12.3,1.5,-0.09,"[""can't stop"", 'always online', 'sleep with phone']",0.01,0.45,True,237.3,0.87,I want to be more independent,dependency
+U_ALT698,2025-06-12 21:48:00,28.0,night,31.3,3.3,-0.51,"['disaster', 'job loss', 'dystopia']",0.34,0.2,True,591.4,0.92,I want to feel safe again,anxious
+U_ALT699,2025-06-12 18:34:00,48.2,night,11.1,1.1,0.05,"['recession', 'climate news', 'anxiety tips']",0.37,0.57,False,617.3,0.89,I want to feel safe again,anxious
+U_ALT700,2025-06-12 04:15:00,78.6,late_night,10.2,1.8,0.74,"['overspending', 'ignored calls', 'missed deadline']",0.34,0.46,True,207.1,0.87,I wish I had used time better,guilt
+U_ALT701,2025-06-12 11:18:00,39.2,morning,35.9,1.5,0.05,"['bonus drop', 'unexpected win', 'surprise box']",0.0,0.54,False,672.7,0.7,I deserve this joy,reward
+U_ALT702,2025-06-12 15:46:00,39.6,afternoon,41.2,1.1,-0.15,"['always online', ""can't stop"", 'constant refresh']",0.36,0.69,True,480.8,0.62,I want to be more independent,dependency
+U_ALT703,2025-06-12 03:07:00,56.2,late_night,16.3,2.4,-0.6,"[""can't stop"", 'digital cling', 'daily routine']",0.12,0.28,True,661.4,0.68,I want to be more independent,dependency
+U_ALT704,2025-06-12 14:59:00,45.2,afternoon,69.6,3.1,-0.38,"['interview fail', 'stock crash', 'bad news']",0.04,0.77,False,315.2,0.78,I need to relax my mind,anxious
+U_ALT705,2025-06-12 00:02:00,20.1,late_night,31.4,1.1,-0.82,"['disaster', 'recession', 'war update']",0.35,0.73,True,448.1,0.75,I need to relax my mind,anxious
+U_ALT706,2025-06-12 12:08:00,71.4,afternoon,63.5,2.8,0.73,"['wasted time', 'procrastination', 'bad habit']",0.12,0.53,True,415.2,0.96,I want to be more productive,guilt
+U_ALT707,2025-06-12 18:10:00,52.0,night,56.9,0.6,0.94,"['unexpected win', 'birthday cake', 'funny fail']",0.11,0.4,False,617.3,0.63,I deserve this joy,reward
+U_ALT708,2025-06-12 15:50:00,38.3,afternoon,52.5,2.3,0.23,"['sleep with phone', 'always online', 'fear of missing out']",0.14,0.68,True,569.5,0.92,I want to take control of my habits,dependency
+U_ALT709,2025-06-12 23:13:00,23.9,night,13.2,3.3,0.91,"['failed test', 'ignored calls', 'missed goal']",0.17,0.6,False,688.8,0.58,I wish I had used time better,guilt
+U_ALT710,2025-06-12 19:15:00,67.6,night,60.0,1.2,-0.2,"['win prize', 'funny fail', 'happy ending']",0.32,0.35,True,479.4,0.97,I deserve this joy,reward
+U_ALT711,2025-06-12 10:54:00,45.5,morning,34.8,2.3,0.55,"['digital cling', 'check notifications', 'fear of missing out']",0.08,0.44,False,319.1,0.95,I want to take control of my habits,dependency
+U_ALT712,2025-06-12 19:49:00,15.8,night,9.7,2.2,0.51,"['power nap', 'mental drain', 'stretch break']",0.13,0.59,False,376.0,0.95,I need rest,exhaustion
+U_ALT713,2025-06-12 12:25:00,19.5,afternoon,38.4,1.2,0.45,"['check notifications', 'daily routine', 'coffee addiction']",0.28,0.39,True,616.8,0.77,I want to be more independent,dependency
+U_ALT714,2025-06-12 15:21:00,16.2,afternoon,48.4,1.0,0.73,"['regret', 'late work', 'cheat story']",0.1,0.21,True,418.1,0.66,I want to be more productive,guilt
+U_ALT715,2025-06-12 08:32:00,25.6,morning,13.6,2.8,0.12,"['meme gold', 'good news', 'positive feedback']",0.13,0.6,True,628.9,0.61,I deserve this joy,reward
+U_ALT716,2025-06-12 06:49:00,35.3,morning,69.7,3.5,-0.11,"['win prize', 'celebration', 'happy ending']",0.24,0.88,False,223.7,0.96,I want to enjoy the moment,reward
+U_ALT717,2025-06-12 15:43:00,68.7,afternoon,26.8,1.6,0.61,"['funny fail', 'bonus drop', 'happy ending']",0.3,0.38,False,226.1,0.86,I want to enjoy the moment,reward
+U_ALT718,2025-06-12 01:28:00,69.9,late_night,69.1,2.2,0.17,"['climate news', 'bad news', 'anxiety tips']",0.0,0.26,False,392.0,0.66,I want to feel safe again,anxious
+U_ALT719,2025-06-12 00:26:00,38.4,late_night,38.1,1.6,0.17,"['work stress', 'overstimulated', 'stretch break']",0.2,0.16,False,284.5,0.66,I need rest,exhaustion
+U_ALT720,2025-06-12 21:11:00,73.2,night,19.2,0.6,0.81,"['bad habit', 'failed test', 'poor grades']",0.34,0.61,True,686.0,0.6,I want to be more productive,guilt
+U_ALT721,2025-06-12 22:21:00,45.7,night,24.6,1.7,-0.27,"['happy ending', 'unexpected win', 'birthday cake']",0.15,0.75,True,455.9,0.68,I deserve this joy,reward
+U_ALT722,2025-06-12 06:52:00,36.8,morning,53.6,2.3,-0.43,"['wasted time', 'late work', 'failed test']",0.29,0.54,True,627.8,0.94,I wish I had used time better,guilt
+U_ALT723,2025-06-12 11:19:00,47.4,morning,46.5,3.4,0.93,"['win prize', 'funny fail', 'birthday cake']",0.32,0.28,False,256.8,0.56,I want to enjoy the moment,reward
+U_ALT724,2025-06-12 07:51:00,75.7,morning,22.4,1.0,0.68,"['war update', 'bad news', 'disaster']",0.1,0.72,True,667.3,0.79,I need to relax my mind,anxious
+U_ALT725,2025-06-12 16:56:00,81.6,afternoon,33.6,0.7,-0.8,"['bonus drop', 'congrats', 'birthday cake']",0.37,0.24,False,398.1,0.67,I want to enjoy the moment,reward
+U_ALT726,2025-06-12 09:33:00,25.4,morning,31.3,1.1,-0.29,"[""can't stop"", 'check notifications', 'sleep with phone']",0.32,0.18,True,473.1,0.95,I want to take control of my habits,dependency
+U_ALT727,2025-06-12 07:17:00,61.6,morning,61.4,1.3,0.23,"['burnout symptoms', 'stretch break', 'mental drain']",0.13,0.74,False,618.9,0.72,I want better balance,exhaustion
+U_ALT728,2025-06-12 19:49:00,61.3,night,54.9,3.4,-0.2,"['ignored calls', 'poor grades', 'procrastination']",0.35,0.56,True,699.2,0.87,I want to be more productive,guilt
+U_ALT729,2025-06-12 17:07:00,79.5,afternoon,27.3,0.8,-0.45,"['war update', 'recession', 'stock crash']",0.22,0.84,True,382.5,0.76,I need to relax my mind,anxious
+U_ALT730,2025-06-12 00:33:00,47.8,late_night,41.2,3.1,0.1,"['procrastination', 'late work', 'cheat story']",0.03,0.4,True,312.6,0.79,I want to be more productive,guilt
+U_ALT731,2025-06-12 19:33:00,60.6,night,10.3,3.4,-0.67,"['failed test', 'cheat story', 'procrastination']",0.02,0.7,False,289.5,0.76,I want to be more productive,guilt
+U_ALT732,2025-06-12 15:02:00,49.3,afternoon,47.7,0.5,-0.6,"['coffee addiction', 'daily routine', 'compulsive scrolling']",0.05,0.68,True,229.4,0.84,I want to take control of my habits,dependency
+U_ALT733,2025-06-12 01:24:00,24.4,late_night,41.6,3.3,-0.53,"['good news', 'birthday cake', 'bonus drop']",0.04,0.59,True,628.8,0.93,I deserve this joy,reward
+U_ALT734,2025-06-12 09:44:00,71.9,morning,15.6,0.5,0.75,"['long work hours', 'no sleep', 'power nap']",0.22,0.15,False,455.5,0.74,I want better balance,exhaustion
+U_ALT735,2025-06-12 19:59:00,10.1,night,60.5,1.8,-0.24,"['poor grades', 'missed goal', 'late work']",0.09,0.14,True,412.2,0.55,I wish I had used time better,guilt
+U_ALT736,2025-06-12 08:59:00,59.9,morning,17.8,3.0,-0.02,"['fatigue', 'work stress', 'stretch break']",0.34,0.61,False,243.5,0.68,I want better balance,exhaustion
+U_ALT737,2025-06-12 08:43:00,47.5,morning,7.5,3.0,0.1,"['meme gold', 'win prize', 'positive feedback']",0.19,0.86,True,443.1,0.98,I want to enjoy the moment,reward
+U_ALT738,2025-06-12 15:54:00,68.6,afternoon,64.9,0.4,-0.08,"['digital fatigue', 'stretch break', 'fatigue']",0.36,0.47,True,499.7,0.72,I want better balance,exhaustion
+U_ALT739,2025-06-12 07:35:00,62.3,morning,46.1,3.0,0.85,"['regret', 'procrastination', 'poor grades']",0.22,0.48,True,653.1,0.8,I wish I had used time better,guilt
+U_ALT740,2025-06-12 04:21:00,54.2,late_night,18.7,1.4,-0.48,"['war update', 'bad news', 'health scare']",0.4,0.77,False,625.5,0.81,I need to relax my mind,anxious
+U_ALT741,2025-06-12 11:35:00,51.8,morning,57.7,0.6,0.52,"['long work hours', 'overstimulated', 'stretch break']",0.26,0.26,False,664.0,0.62,I want better balance,exhaustion
+U_ALT742,2025-06-12 08:23:00,57.4,morning,34.6,3.1,0.88,"['burnout symptoms', 'overwork', 'digital fatigue']",0.4,0.83,True,400.8,0.65,I need rest,exhaustion
+U_ALT743,2025-06-12 17:53:00,48.7,afternoon,15.7,0.5,-0.7,"['daily routine', ""can't stop"", 'coffee addiction']",0.05,0.29,True,600.3,0.62,I want to be more independent,dependency
+U_ALT744,2025-06-12 14:15:00,10.3,afternoon,26.8,3.3,0.66,"['power nap', 'crash nap', 'mental drain']",0.04,0.4,False,286.9,0.84,I want better balance,exhaustion
+U_ALT745,2025-06-12 06:16:00,11.8,morning,34.5,3.4,0.07,"['cheat story', 'failed test', 'missed goal']",0.1,0.14,True,379.6,0.81,I want to be more productive,guilt
+U_ALT746,2025-06-12 07:13:00,35.5,morning,29.2,2.6,0.85,"['stretch break', 'fatigue', 'mental drain']",0.11,0.63,False,225.5,0.79,I want better balance,exhaustion
+U_ALT747,2025-06-12 05:47:00,9.4,late_night,11.6,1.0,-0.85,"['long work hours', 'burnout symptoms', 'fatigue']",0.16,0.8,True,433.6,0.93,I want better balance,exhaustion
+U_ALT748,2025-06-12 16:36:00,77.3,afternoon,60.3,2.8,-0.99,"['fear of missing out', 'compulsive scrolling', 'daily routine']",0.33,0.78,True,413.6,0.97,I want to take control of my habits,dependency
+U_ALT749,2025-06-12 00:07:00,36.2,late_night,13.2,1.2,0.43,"[""can't stop"", 'constant refresh', 'sleep with phone']",0.14,0.73,False,580.5,0.71,I want to take control of my habits,dependency
+U_ALT750,2025-06-12 12:24:00,76.3,afternoon,20.0,1.9,-0.83,"['check notifications', 'sleep with phone', 'always online']",0.23,0.87,True,604.2,0.56,I want to be more independent,dependency
+U_ALT751,2025-06-12 03:56:00,69.2,late_night,66.7,1.6,0.37,"['stock crash', 'climate news', 'anxiety tips']",0.11,0.67,False,249.3,0.57,I want to feel safe again,anxious
+U_ALT752,2025-06-12 12:09:00,10.4,afternoon,51.3,3.2,0.88,"['crash nap', 'work stress', 'overwork']",0.11,0.16,False,308.6,0.94,I need rest,exhaustion
+U_ALT753,2025-06-12 09:53:00,68.2,morning,44.9,1.3,-0.83,"['procrastination', 'overspending', 'cheat story']",0.36,0.36,False,256.4,0.89,I wish I had used time better,guilt
+U_ALT754,2025-06-12 02:55:00,41.9,late_night,21.6,2.3,-0.04,"['market panic', 'dystopia', 'recession']",0.11,0.22,True,407.0,0.79,I want to feel safe again,anxious
+U_ALT755,2025-06-12 06:21:00,29.7,morning,19.0,1.6,-0.63,"['failed test', 'regret', 'missed goal']",0.11,0.72,True,699.5,0.97,I wish I had used time better,guilt
+U_ALT756,2025-06-12 18:45:00,66.4,night,15.6,3.1,-0.93,"['recession', 'bad news', 'interview fail']",0.09,0.35,True,593.8,0.95,I need to relax my mind,anxious
+U_ALT757,2025-06-12 14:55:00,34.9,afternoon,36.3,0.3,-0.38,"['war update', 'market panic', 'climate news']",0.26,0.3,True,583.3,0.68,I want to feel safe again,anxious
+U_ALT758,2025-06-12 16:50:00,10.2,afternoon,17.5,0.9,-0.18,"['missed deadline', 'failed test', 'bad habit']",0.24,0.82,False,220.1,0.81,I wish I had used time better,guilt
+U_ALT759,2025-06-12 10:45:00,27.1,morning,42.2,2.5,0.17,"['stretch break', 'work stress', 'mental drain']",0.39,0.56,False,370.9,0.56,I want better balance,exhaustion
+U_ALT760,2025-06-12 12:40:00,72.1,afternoon,69.9,2.3,-0.32,"['long work hours', 'digital fatigue', 'fatigue']",0.04,0.46,True,200.6,0.87,I need rest,exhaustion
+U_ALT761,2025-06-12 10:48:00,34.4,morning,62.2,2.1,-0.8,"['bonus drop', 'positive feedback', 'win prize']",0.1,0.69,True,551.6,0.89,I want to enjoy the moment,reward
+U_ALT762,2025-06-12 12:10:00,43.0,afternoon,19.0,1.0,-0.07,"['climate news', 'anxiety tips', 'recession']",0.12,0.78,True,474.1,0.84,I need to relax my mind,anxious
+U_ALT763,2025-06-12 17:01:00,28.6,afternoon,36.9,3.1,0.33,"['missed goal', 'procrastination', 'ignored calls']",0.12,0.44,True,527.2,0.86,I want to be more productive,guilt
+U_ALT764,2025-06-12 01:29:00,32.8,late_night,61.5,2.9,-0.42,"['ignored calls', 'missed goal', 'cheat story']",0.15,0.55,True,393.3,0.8,I want to be more productive,guilt
+U_ALT765,2025-06-12 00:31:00,38.2,late_night,48.2,1.1,-0.34,"['bad news', 'climate news', 'war update']",0.07,0.3,False,559.7,0.6,I want to feel safe again,anxious
+U_ALT766,2025-06-12 02:33:00,37.6,late_night,65.9,1.9,-0.12,"['overwork', 'work stress', 'no sleep']",0.27,0.13,True,256.7,0.7,I need rest,exhaustion
+U_ALT767,2025-06-12 09:02:00,66.9,morning,27.9,2.6,0.08,"['fear of missing out', 'check notifications', ""can't stop""]",0.23,0.74,False,274.1,0.93,I want to take control of my habits,dependency
+U_ALT768,2025-06-12 00:14:00,72.5,late_night,64.4,2.1,-0.73,"['poor grades', 'late work', 'procrastination']",0.05,0.29,False,210.3,0.86,I want to be more productive,guilt
+U_ALT769,2025-06-12 17:41:00,77.5,afternoon,20.0,1.1,-0.57,"['late work', 'missed deadline', 'bad habit']",0.02,0.2,False,563.1,0.66,I want to be more productive,guilt
+U_ALT770,2025-06-12 14:08:00,70.3,afternoon,27.4,3.4,-0.93,"['digital cling', 'coffee addiction', 'compulsive scrolling']",0.31,0.47,True,237.4,0.56,I want to take control of my habits,dependency
+U_ALT771,2025-06-12 10:48:00,10.6,morning,47.5,2.2,0.94,"['missed deadline', 'ignored calls', 'wasted time']",0.13,0.82,False,477.8,0.76,I wish I had used time better,guilt
+U_ALT772,2025-06-12 03:10:00,51.3,late_night,31.3,0.3,0.77,"['disaster', 'recession', 'health scare']",0.27,0.77,True,446.1,0.57,I want to feel safe again,anxious
+U_ALT773,2025-06-12 21:40:00,65.0,night,37.4,2.5,0.39,"['stock crash', 'dystopia', 'market panic']",0.15,0.83,True,606.1,0.9,I need to relax my mind,anxious
+U_ALT774,2025-06-12 18:38:00,12.9,night,5.7,1.8,0.44,"['positive feedback', 'celebration', 'meme gold']",0.33,0.16,True,580.7,0.96,I want to enjoy the moment,reward
+U_ALT775,2025-06-12 06:53:00,60.2,morning,51.6,3.1,-0.49,"['poor grades', 'missed deadline', 'wasted time']",0.22,0.36,True,600.5,0.9,I want to be more productive,guilt
+U_ALT776,2025-06-12 11:00:00,42.3,morning,8.4,2.9,-0.39,"['health scare', 'interview fail', 'bad news']",0.24,0.77,False,344.5,0.73,I want to feel safe again,anxious
+U_ALT777,2025-06-12 18:36:00,42.6,night,51.3,1.4,-0.67,"['happy ending', 'good news', 'unexpected win']",0.24,0.87,False,324.0,0.88,I want to enjoy the moment,reward
+U_ALT778,2025-06-12 18:53:00,18.9,night,41.2,2.0,-0.43,"['poor grades', 'cheat story', 'overspending']",0.36,0.57,True,376.6,0.76,I want to be more productive,guilt
+U_ALT779,2025-06-12 02:51:00,20.2,late_night,32.8,2.5,-0.13,"['poor grades', 'bad habit', 'wasted time']",0.3,0.25,True,690.7,0.63,I wish I had used time better,guilt
+U_ALT780,2025-06-12 07:08:00,10.6,morning,17.9,2.7,0.78,"['crash nap', 'digital fatigue', 'stretch break']",0.09,0.63,False,551.9,0.58,I need rest,exhaustion
+U_ALT781,2025-06-12 19:41:00,48.2,night,37.5,2.9,0.15,"['win prize', 'meme gold', 'birthday cake']",0.13,0.9,False,541.4,0.68,I want to enjoy the moment,reward
+U_ALT782,2025-06-12 04:41:00,71.4,late_night,67.2,1.6,-0.96,"['poor grades', 'ignored calls', 'procrastination']",0.34,0.7,False,496.9,0.57,I wish I had used time better,guilt
+U_ALT783,2025-06-12 06:14:00,25.2,morning,53.9,1.8,-0.3,"['wasted time', 'regret', 'procrastination']",0.26,0.86,True,327.7,0.69,I wish I had used time better,guilt
+U_ALT784,2025-06-12 11:04:00,34.9,morning,46.2,1.4,0.31,"['daily routine', 'fear of missing out', 'always online']",0.31,0.86,False,352.8,0.58,I want to take control of my habits,dependency
+U_ALT785,2025-06-12 07:59:00,55.0,morning,35.6,2.7,0.12,"['dystopia', 'stock crash', 'job loss']",0.39,0.29,False,651.0,0.88,I want to feel safe again,anxious
+U_ALT786,2025-06-12 16:31:00,56.7,afternoon,61.0,0.7,0.26,"['check notifications', 'compulsive scrolling', 'always online']",0.27,0.42,False,524.8,0.84,I want to take control of my habits,dependency
+U_ALT787,2025-06-12 05:22:00,25.0,late_night,47.0,3.3,-0.83,"['meme gold', 'unexpected win', 'funny fail']",0.22,0.2,True,642.3,0.63,I deserve this joy,reward
+U_ALT788,2025-06-12 15:50:00,63.1,afternoon,12.8,2.5,-0.71,"['interview fail', 'recession', 'stock crash']",0.0,0.86,False,230.0,0.55,I want to feel safe again,anxious
+U_ALT789,2025-06-12 09:05:00,17.9,morning,45.4,3.3,-0.34,"['always online', 'check notifications', 'sleep with phone']",0.15,0.85,True,288.4,0.69,I want to take control of my habits,dependency
+U_ALT790,2025-06-12 05:49:00,9.2,late_night,56.9,2.3,-0.32,"['coffee addiction', 'compulsive scrolling', 'always online']",0.01,0.34,True,541.8,0.88,I want to be more independent,dependency
+U_ALT791,2025-06-12 22:43:00,72.6,night,15.8,1.4,-0.85,"['long work hours', 'fatigue', 'stretch break']",0.03,0.12,False,247.4,0.86,I need rest,exhaustion
+U_ALT792,2025-06-12 09:56:00,64.2,morning,39.9,3.4,-0.48,"['crash nap', 'mental drain', 'long work hours']",0.36,0.6,True,671.5,0.75,I need rest,exhaustion
+U_ALT793,2025-06-12 13:09:00,30.2,afternoon,15.5,2.5,-0.75,"['daily routine', 'fear of missing out', ""can't stop""]",0.28,0.27,False,681.6,0.67,I want to take control of my habits,dependency
+U_ALT794,2025-06-12 05:56:00,49.2,late_night,61.5,0.5,-0.06,"['coffee addiction', 'constant refresh', 'daily routine']",0.34,0.51,True,347.8,0.92,I want to be more independent,dependency
+U_ALT795,2025-06-12 12:39:00,24.4,afternoon,31.6,0.5,0.15,"['ignored calls', 'overspending', 'procrastination']",0.17,0.74,False,187.7,0.65,I want to be more productive,guilt
+U_ALT796,2025-06-12 18:26:00,32.0,night,45.7,0.4,0.06,"['mental drain', 'crash nap', 'burnout symptoms']",0.06,0.15,True,643.8,0.72,I need rest,exhaustion
+U_ALT797,2025-06-12 23:50:00,22.2,night,37.8,1.5,-0.67,"['birthday cake', 'unexpected win', 'good news']",0.06,0.24,False,621.4,0.88,I deserve this joy,reward
+U_ALT798,2025-06-12 13:37:00,66.9,afternoon,69.6,1.7,-0.25,"['dystopia', 'anxiety tips', 'disaster']",0.2,0.32,True,368.9,0.83,I need to relax my mind,anxious
+U_ALT799,2025-06-12 08:15:00,75.2,morning,11.6,1.6,-0.09,"['mental drain', 'long work hours', 'overwork']",0.23,0.6,False,308.2,0.56,I need rest,exhaustion
+U_ALT800,2025-06-12 15:53:00,12.9,afternoon,10.5,2.7,0.78,"['dystopia', 'interview fail', 'market panic']",0.34,0.74,True,531.6,0.55,I want to feel safe again,anxious
+U_ALT801,2025-06-12 06:33:00,84.1,morning,16.8,3.4,0.42,"['bad habit', 'failed test', 'late work']",0.35,0.26,False,656.9,0.67,I wish I had used time better,guilt
+U_ALT802,2025-06-12 02:56:00,83.0,late_night,68.6,3.0,0.86,"['bonus drop', 'good news', 'funny fail']",0.18,0.38,True,623.2,0.93,I want to enjoy the moment,reward
+U_ALT803,2025-06-12 08:45:00,19.9,morning,47.1,0.9,-0.25,"['fear of missing out', 'compulsive scrolling', 'always online']",0.1,0.6,True,300.3,0.65,I want to be more independent,dependency
+U_ALT804,2025-06-12 05:44:00,71.3,late_night,29.9,0.9,0.31,"['check notifications', 'always online', 'fear of missing out']",0.32,0.86,False,594.0,0.75,I want to take control of my habits,dependency
+U_ALT805,2025-06-12 10:46:00,17.7,morning,14.0,0.5,-0.83,"['happy ending', 'meme gold', 'birthday cake']",0.39,0.66,True,467.7,0.82,I deserve this joy,reward
+U_ALT806,2025-06-12 06:12:00,62.6,morning,33.2,2.9,0.65,"['compulsive scrolling', 'digital cling', 'coffee addiction']",0.0,0.14,True,574.6,0.94,I want to be more independent,dependency
+U_ALT807,2025-06-12 10:09:00,22.5,morning,56.4,3.2,0.46,"['compulsive scrolling', 'digital cling', 'daily routine']",0.03,0.39,True,278.9,0.57,I want to take control of my habits,dependency
+U_ALT808,2025-06-12 10:50:00,60.3,morning,14.9,1.2,-0.17,"['late work', 'regret', 'overspending']",0.0,0.34,False,385.4,0.71,I want to be more productive,guilt
+U_ALT809,2025-06-12 21:49:00,80.6,night,19.1,1.4,0.12,"['missed goal', 'overspending', 'poor grades']",0.39,0.33,True,180.3,0.59,I want to be more productive,guilt
+U_ALT810,2025-06-12 07:02:00,34.3,morning,8.6,1.5,-0.9,"['power nap', 'burnout symptoms', 'stretch break']",0.14,0.44,False,357.4,0.87,I need rest,exhaustion
+U_ALT811,2025-06-12 09:36:00,28.8,morning,66.9,1.3,0.22,"['birthday cake', 'positive feedback', 'surprise box']",0.04,0.19,True,442.0,0.78,I deserve this joy,reward
+U_ALT812,2025-06-12 22:57:00,51.0,night,47.0,0.4,-0.95,"['bad habit', 'missed deadline', 'late work']",0.01,0.57,True,513.4,0.97,I want to be more productive,guilt
+U_ALT813,2025-06-12 15:16:00,43.6,afternoon,69.1,0.9,-0.53,"['war update', 'bad news', 'health scare']",0.29,0.25,True,462.7,0.87,I want to feel safe again,anxious
+U_ALT814,2025-06-12 12:12:00,55.9,afternoon,64.3,2.7,0.77,"['health scare', 'bad news', 'market panic']",0.04,0.21,False,357.2,0.97,I want to feel safe again,anxious
+U_ALT815,2025-06-12 07:58:00,69.6,morning,68.2,1.3,-0.78,"['failed test', 'missed goal', 'regret']",0.31,0.36,False,531.9,0.95,I wish I had used time better,guilt
+U_ALT816,2025-06-12 04:56:00,59.3,late_night,56.2,1.1,-0.14,"['constant refresh', 'always online', 'daily routine']",0.16,0.67,True,192.8,0.62,I want to take control of my habits,dependency
+U_ALT817,2025-06-12 10:43:00,72.4,morning,62.3,3.2,0.05,"['climate news', 'recession', 'market panic']",0.23,0.14,True,538.9,0.74,I want to feel safe again,anxious
+U_ALT818,2025-06-12 14:07:00,80.6,afternoon,16.6,3.2,-0.82,"['digital fatigue', 'crash nap', 'work stress']",0.26,0.21,False,689.1,0.9,I want better balance,exhaustion
+U_ALT819,2025-06-12 03:31:00,13.8,late_night,59.4,3.3,-0.4,"['good news', 'birthday cake', 'bonus drop']",0.24,0.41,False,492.7,0.74,I deserve this joy,reward
+U_ALT820,2025-06-12 22:41:00,39.1,night,56.5,0.3,0.48,"['positive feedback', 'birthday cake', 'congrats']",0.29,0.66,False,322.3,0.8,I want to enjoy the moment,reward
+U_ALT821,2025-06-12 18:13:00,42.3,night,51.5,2.1,-0.17,"['mental drain', 'overstimulated', 'overwork']",0.25,0.23,True,641.4,0.82,I need rest,exhaustion
+U_ALT822,2025-06-12 13:53:00,57.7,afternoon,45.0,0.5,0.54,"['sleep with phone', 'fear of missing out', 'check notifications']",0.06,0.75,False,400.4,0.68,I want to be more independent,dependency
+U_ALT823,2025-06-12 11:59:00,79.5,morning,48.3,1.8,-0.84,"['crash nap', 'power nap', 'digital fatigue']",0.14,0.6,True,420.8,0.74,I need rest,exhaustion
+U_ALT824,2025-06-12 11:32:00,73.3,morning,32.9,1.6,-0.68,"['happy ending', 'positive feedback', 'bonus drop']",0.0,0.17,True,531.1,0.73,I deserve this joy,reward
+U_ALT825,2025-06-12 01:06:00,33.6,late_night,61.9,1.8,0.64,"['check notifications', 'fear of missing out', 'constant refresh']",0.13,0.63,False,426.6,0.63,I want to be more independent,dependency
+U_ALT826,2025-06-12 10:08:00,67.6,morning,8.5,3.1,-0.32,"['positive feedback', 'surprise box', 'bonus drop']",0.18,0.47,False,231.6,0.79,I deserve this joy,reward
+U_ALT827,2025-06-12 05:46:00,75.4,late_night,9.1,0.9,0.77,"['work stress', 'mental drain', 'long work hours']",0.09,0.9,True,573.0,0.72,I need rest,exhaustion
+U_ALT828,2025-06-12 15:17:00,76.4,afternoon,12.5,2.3,-0.8,"['overwork', 'work stress', 'long work hours']",0.27,0.29,False,372.6,0.96,I need rest,exhaustion
+U_ALT829,2025-06-12 22:14:00,53.5,night,22.9,0.9,0.88,"['crash nap', 'stretch break', 'digital fatigue']",0.01,0.19,False,382.7,0.87,I want better balance,exhaustion
+U_ALT830,2025-06-12 06:01:00,38.1,morning,18.5,2.2,-0.0,"['win prize', 'meme gold', 'congrats']",0.18,0.37,False,361.9,0.66,I want to enjoy the moment,reward
+U_ALT831,2025-06-12 15:11:00,32.9,afternoon,69.1,1.6,0.53,"['congrats', 'good news', 'celebration']",0.38,0.66,True,401.2,0.64,I want to enjoy the moment,reward
+U_ALT832,2025-06-12 03:02:00,22.7,late_night,57.8,1.6,-0.04,"['constant refresh', 'coffee addiction', 'sleep with phone']",0.05,0.77,True,404.8,0.85,I want to take control of my habits,dependency
+U_ALT833,2025-06-12 22:43:00,73.9,night,58.1,1.6,0.95,"['always online', 'compulsive scrolling', 'coffee addiction']",0.05,0.14,False,591.3,0.87,I want to be more independent,dependency
+U_ALT834,2025-06-12 02:36:00,25.5,late_night,40.2,2.2,0.49,"['overspending', 'procrastination', 'late work']",0.39,0.28,True,453.8,0.7,I wish I had used time better,guilt
+U_ALT835,2025-06-12 22:03:00,35.6,night,20.6,2.1,-0.66,"['dystopia', 'anxiety tips', 'disaster']",0.38,0.87,False,369.9,0.95,I need to relax my mind,anxious
+U_ALT836,2025-06-12 17:25:00,37.5,afternoon,34.9,1.9,-0.41,"['overstimulated', 'stretch break', 'mental drain']",0.16,0.65,False,472.5,0.57,I need rest,exhaustion
+U_ALT837,2025-06-12 05:54:00,71.2,late_night,27.8,2.9,-0.62,"['coffee addiction', 'sleep with phone', 'daily routine']",0.04,0.42,False,487.1,0.56,I want to be more independent,dependency
+U_ALT838,2025-06-12 20:39:00,64.9,night,33.7,0.9,-0.58,"['cheat story', 'failed test', 'missed goal']",0.03,0.69,True,257.7,0.92,I wish I had used time better,guilt
+U_ALT839,2025-06-12 14:40:00,28.7,afternoon,62.7,1.1,-0.62,"['bad news', 'health scare', 'market panic']",0.07,0.42,False,454.4,0.93,I need to relax my mind,anxious
+U_ALT840,2025-06-12 05:23:00,32.8,late_night,17.7,1.1,0.04,"['long work hours', 'crash nap', 'work stress']",0.32,0.9,False,689.6,0.87,I want better balance,exhaustion
+U_ALT841,2025-06-12 08:45:00,20.0,morning,51.5,0.6,-0.55,"['health scare', 'stock crash', 'recession']",0.34,0.8,True,367.2,0.7,I need to relax my mind,anxious
+U_ALT842,2025-06-12 23:21:00,53.4,night,44.4,3.0,0.92,"['late work', 'overspending', 'missed deadline']",0.08,0.5,False,641.6,0.93,I want to be more productive,guilt
+U_ALT843,2025-06-12 13:01:00,32.9,afternoon,38.2,3.4,0.1,"['celebration', 'positive feedback', 'congrats']",0.31,0.32,True,225.9,0.97,I deserve this joy,reward
+U_ALT844,2025-06-12 09:59:00,21.3,morning,44.1,2.1,0.18,"['late work', 'bad habit', 'missed goal']",0.35,0.37,True,629.4,0.56,I wish I had used time better,guilt
+U_ALT845,2025-06-12 13:46:00,15.8,afternoon,33.9,1.1,0.18,"['funny fail', 'bonus drop', 'win prize']",0.15,0.15,True,674.8,0.94,I deserve this joy,reward
+U_ALT846,2025-06-12 08:00:00,83.1,morning,31.0,1.3,0.57,"['wasted time', 'procrastination', 'regret']",0.22,0.57,True,423.2,0.61,I wish I had used time better,guilt
+U_ALT847,2025-06-12 20:35:00,23.4,night,7.2,1.2,-0.64,"['war update', 'job loss', 'climate news']",0.23,0.29,True,188.1,0.9,I need to relax my mind,anxious
+U_ALT848,2025-06-12 11:16:00,11.6,morning,66.8,2.7,0.44,"['unexpected win', 'good news', 'meme gold']",0.34,0.51,False,502.8,0.62,I deserve this joy,reward
+U_ALT849,2025-06-12 10:49:00,54.2,morning,17.4,0.7,-0.73,"['crash nap', 'power nap', 'overstimulated']",0.21,0.58,False,606.7,0.73,I need rest,exhaustion
+U_ALT850,2025-06-12 00:29:00,51.5,late_night,20.4,0.5,-0.57,"['missed goal', 'late work', 'wasted time']",0.36,0.77,False,389.4,0.95,I want to be more productive,guilt
+U_ALT851,2025-06-12 02:50:00,35.2,late_night,55.0,2.4,0.39,"['congrats', 'surprise box', 'unexpected win']",0.22,0.36,True,545.3,0.82,I want to enjoy the moment,reward
+U_ALT852,2025-06-12 19:51:00,10.1,night,18.7,1.6,-0.55,"['check notifications', 'sleep with phone', 'compulsive scrolling']",0.12,0.54,True,299.1,0.88,I want to be more independent,dependency
+U_ALT853,2025-06-12 00:34:00,36.0,late_night,33.8,1.4,0.44,"['bonus drop', 'happy ending', 'win prize']",0.11,0.31,True,264.4,0.65,I want to enjoy the moment,reward
+U_ALT854,2025-06-12 12:29:00,14.3,afternoon,7.4,3.4,-0.18,"['meme gold', 'funny fail', 'surprise box']",0.09,0.54,False,385.2,0.91,I want to enjoy the moment,reward
+U_ALT855,2025-06-12 07:32:00,42.4,morning,54.4,1.3,0.05,"['meme gold', 'win prize', 'good news']",0.34,0.24,True,453.3,0.82,I deserve this joy,reward
+U_ALT856,2025-06-12 13:50:00,10.3,afternoon,33.8,0.6,0.83,"['happy ending', 'bonus drop', 'unexpected win']",0.06,0.64,False,698.2,0.78,I want to enjoy the moment,reward
+U_ALT857,2025-06-12 13:54:00,58.9,afternoon,52.8,1.0,0.51,"['job loss', 'climate news', 'anxiety tips']",0.21,0.79,True,397.8,0.64,I need to relax my mind,anxious
+U_ALT858,2025-06-12 02:51:00,17.5,late_night,61.6,1.5,-0.12,"['meme gold', 'surprise box', 'funny fail']",0.05,0.34,True,359.6,0.8,I deserve this joy,reward
+U_ALT859,2025-06-12 01:29:00,31.1,late_night,44.2,1.3,0.18,"['meme gold', 'happy ending', 'funny fail']",0.27,0.8,True,510.1,0.73,I deserve this joy,reward
+U_ALT860,2025-06-12 21:53:00,69.4,night,69.6,1.2,0.15,"['celebration', 'win prize', 'positive feedback']",0.14,0.52,True,666.0,0.8,I want to enjoy the moment,reward
+U_ALT861,2025-06-12 12:06:00,26.0,afternoon,52.0,1.9,-0.79,"['happy ending', 'positive feedback', 'surprise box']",0.07,0.25,False,280.2,0.7,I want to enjoy the moment,reward
+U_ALT862,2025-06-12 17:23:00,50.3,afternoon,27.9,0.5,0.58,"['stretch break', 'digital fatigue', 'long work hours']",0.3,0.62,False,190.4,0.86,I need rest,exhaustion
+U_ALT863,2025-06-12 04:42:00,36.7,late_night,7.0,2.8,-0.13,"['interview fail', 'war update', 'job loss']",0.01,0.27,False,193.8,0.92,I want to feel safe again,anxious
+U_ALT864,2025-06-12 06:15:00,41.9,morning,21.0,0.3,0.6,"['no sleep', 'overwork', 'power nap']",0.04,0.88,True,212.1,0.59,I want better balance,exhaustion
+U_ALT865,2025-06-12 22:41:00,37.2,night,24.5,2.2,-0.58,"['ignored calls', 'wasted time', 'cheat story']",0.24,0.7,True,627.3,0.77,I wish I had used time better,guilt
+U_ALT866,2025-06-12 05:58:00,9.8,late_night,18.6,2.5,-0.62,"['surprise box', 'win prize', 'congrats']",0.11,0.81,True,451.9,0.69,I want to enjoy the moment,reward
+U_ALT867,2025-06-12 19:01:00,35.6,night,36.7,3.3,0.34,"['overstimulated', 'no sleep', 'overwork']",0.3,0.77,False,297.6,0.94,I need rest,exhaustion
+U_ALT868,2025-06-12 20:13:00,47.5,night,47.5,3.5,0.23,"['positive feedback', 'happy ending', 'surprise box']",0.24,0.8,False,299.0,0.8,I deserve this joy,reward
+U_ALT869,2025-06-12 16:19:00,8.1,afternoon,7.7,2.7,-0.29,"['constant refresh', 'compulsive scrolling', 'fear of missing out']",0.09,0.4,False,581.6,0.86,I want to take control of my habits,dependency
+U_ALT870,2025-06-12 06:56:00,69.0,morning,54.0,0.9,1.0,"['market panic', 'bad news', 'recession']",0.24,0.25,False,508.0,0.58,I want to feel safe again,anxious
+U_ALT871,2025-06-12 04:53:00,76.0,late_night,59.7,2.9,0.71,"['failed test', 'wasted time', 'regret']",0.19,0.85,False,380.9,0.71,I wish I had used time better,guilt
+U_ALT872,2025-06-12 02:48:00,46.4,late_night,8.7,1.8,-0.73,"['cheat story', 'wasted time', 'missed deadline']",0.02,0.5,False,270.3,0.84,I want to be more productive,guilt
+U_ALT873,2025-06-12 13:51:00,43.1,afternoon,34.9,3.5,0.13,"['compulsive scrolling', 'fear of missing out', 'digital cling']",0.0,0.78,False,532.0,0.79,I want to take control of my habits,dependency
+U_ALT874,2025-06-12 15:18:00,83.3,afternoon,13.2,3.1,0.78,"['digital fatigue', 'long work hours', 'overstimulated']",0.11,0.73,True,469.0,0.68,I want better balance,exhaustion
+U_ALT875,2025-06-12 22:47:00,72.3,night,13.4,0.8,-0.0,"['funny fail', 'positive feedback', 'congrats']",0.18,0.74,False,243.0,0.91,I want to enjoy the moment,reward
+U_ALT876,2025-06-12 11:23:00,64.3,morning,47.0,2.2,0.98,"['unexpected win', 'birthday cake', 'good news']",0.22,0.79,True,496.3,0.98,I deserve this joy,reward
+U_ALT877,2025-06-12 20:07:00,43.7,night,50.8,3.1,-0.17,"['coffee addiction', 'constant refresh', 'daily routine']",0.25,0.49,False,464.5,0.96,I want to take control of my habits,dependency
+U_ALT878,2025-06-12 14:37:00,10.1,afternoon,12.5,1.8,0.3,"['job loss', 'recession', 'anxiety tips']",0.25,0.89,False,350.0,0.95,I want to feel safe again,anxious
+U_ALT879,2025-06-12 19:28:00,50.2,night,5.7,2.9,-0.42,"['fatigue', 'overstimulated', 'long work hours']",0.29,0.65,True,387.4,0.66,I want better balance,exhaustion
+U_ALT880,2025-06-12 14:49:00,15.2,afternoon,43.3,0.5,0.9,"['fatigue', 'digital fatigue', 'no sleep']",0.36,0.6,False,216.2,0.77,I need rest,exhaustion
+U_ALT881,2025-06-12 09:06:00,80.9,morning,31.2,1.2,0.35,"['health scare', 'climate news', 'disaster']",0.08,0.16,False,641.1,0.65,I need to relax my mind,anxious
+U_ALT882,2025-06-12 07:17:00,74.6,morning,62.5,1.8,-0.75,"['celebration', 'birthday cake', 'bonus drop']",0.3,0.44,False,490.3,0.77,I want to enjoy the moment,reward
+U_ALT883,2025-06-12 00:49:00,32.7,late_night,21.0,3.1,-0.34,"['wasted time', 'regret', 'overspending']",0.31,0.58,False,236.8,0.79,I want to be more productive,guilt
+U_ALT884,2025-06-12 09:11:00,60.1,morning,28.5,1.8,0.28,"['compulsive scrolling', 'coffee addiction', 'check notifications']",0.37,0.88,True,249.4,0.95,I want to take control of my habits,dependency
+U_ALT885,2025-06-12 10:10:00,13.9,morning,41.6,0.8,-0.14,"['always online', ""can't stop"", 'coffee addiction']",0.12,0.42,False,573.9,0.88,I want to be more independent,dependency
+U_ALT886,2025-06-12 22:53:00,42.9,night,54.5,0.7,-0.74,"['war update', 'interview fail', 'climate news']",0.05,0.5,False,617.1,0.72,I want to feel safe again,anxious
+U_ALT887,2025-06-12 07:23:00,40.7,morning,42.6,1.3,-0.25,"['bonus drop', 'congrats', 'happy ending']",0.14,0.33,True,558.8,0.67,I want to enjoy the moment,reward
+U_ALT888,2025-06-12 11:55:00,70.3,morning,59.9,1.1,0.58,"['constant refresh', 'daily routine', 'coffee addiction']",0.26,0.56,False,257.9,0.86,I want to take control of my habits,dependency
+U_ALT889,2025-06-12 01:46:00,20.7,late_night,52.3,0.5,-0.08,"['wasted time', 'overspending', 'ignored calls']",0.35,0.64,True,491.7,0.94,I wish I had used time better,guilt
+U_ALT890,2025-06-12 20:36:00,62.7,night,20.7,3.1,0.31,"['birthday cake', 'meme gold', 'win prize']",0.26,0.42,False,529.9,0.8,I want to enjoy the moment,reward
+U_ALT891,2025-06-12 01:29:00,72.2,late_night,65.6,1.8,0.05,"['bad habit', 'late work', 'failed test']",0.08,0.6,True,180.8,0.95,I wish I had used time better,guilt
+U_ALT892,2025-06-12 09:25:00,62.8,morning,62.4,0.9,0.92,"['always online', ""can't stop"", 'digital cling']",0.02,0.89,False,240.8,0.93,I want to take control of my habits,dependency
+U_ALT893,2025-06-12 19:58:00,59.7,night,57.3,1.6,-0.21,"['overwork', 'long work hours', 'fatigue']",0.29,0.27,True,468.9,0.88,I want better balance,exhaustion
+U_ALT894,2025-06-12 17:31:00,52.3,afternoon,26.7,1.6,-0.94,"['celebration', 'meme gold', 'positive feedback']",0.0,0.82,False,210.3,0.93,I want to enjoy the moment,reward
+U_ALT895,2025-06-12 07:32:00,57.4,morning,26.6,0.7,-0.59,"['bad habit', 'regret', 'failed test']",0.19,0.5,False,310.1,0.78,I wish I had used time better,guilt
+U_ALT896,2025-06-12 21:49:00,29.9,night,23.7,2.3,-0.51,"['daily routine', 'fear of missing out', 'always online']",0.38,0.53,False,660.4,0.75,I want to be more independent,dependency
+U_ALT897,2025-06-12 12:40:00,59.3,afternoon,19.0,2.8,0.15,"['sleep with phone', 'daily routine', 'constant refresh']",0.33,0.35,False,272.7,0.87,I want to be more independent,dependency
+U_ALT898,2025-06-12 10:02:00,58.7,morning,15.7,3.3,0.18,"['war update', 'anxiety tips', 'climate news']",0.28,0.41,False,302.2,0.91,I want to feel safe again,anxious
+U_ALT899,2025-06-12 05:26:00,20.1,late_night,43.3,1.7,-0.77,"['overspending', 'wasted time', 'failed test']",0.35,0.33,False,526.7,0.75,I wish I had used time better,guilt
+U_ALT900,2025-06-12 04:56:00,13.6,late_night,7.4,2.0,0.48,"['late work', 'ignored calls', 'procrastination']",0.35,0.85,True,421.4,0.72,I wish I had used time better,guilt
+U_ALT901,2025-06-12 11:31:00,58.0,morning,54.9,1.1,-0.9,"['wasted time', 'cheat story', 'procrastination']",0.28,0.49,False,594.4,0.75,I want to be more productive,guilt
+U_ALT902,2025-06-12 00:23:00,64.9,late_night,37.2,1.1,-0.51,"['coffee addiction', 'sleep with phone', 'daily routine']",0.24,0.57,False,379.0,0.82,I want to be more independent,dependency
+U_ALT903,2025-06-12 18:54:00,66.1,night,13.5,1.9,0.53,"['disaster', 'job loss', 'war update']",0.1,0.38,True,481.6,0.73,I need to relax my mind,anxious
+U_ALT904,2025-06-12 03:25:00,10.3,late_night,63.7,0.4,-0.44,"['bonus drop', 'happy ending', 'meme gold']",0.17,0.4,True,364.7,0.58,I want to enjoy the moment,reward
+U_ALT905,2025-06-12 15:42:00,38.2,afternoon,34.2,1.6,0.52,"['stretch break', 'work stress', 'overstimulated']",0.37,0.67,True,215.8,0.57,I need rest,exhaustion
+U_ALT906,2025-06-12 08:58:00,53.4,morning,65.5,0.5,0.8,"['job loss', 'bad news', 'climate news']",0.08,0.54,False,595.2,0.84,I need to relax my mind,anxious
+U_ALT907,2025-06-12 20:59:00,58.1,night,17.5,2.2,-0.21,"['bad habit', 'missed deadline', 'failed test']",0.33,0.86,False,626.5,0.58,I wish I had used time better,guilt
+U_ALT908,2025-06-12 00:39:00,60.3,late_night,23.2,2.9,-0.01,"['overstimulated', 'no sleep', 'long work hours']",0.22,0.6,False,256.3,0.73,I need rest,exhaustion
+U_ALT909,2025-06-12 18:32:00,19.0,night,15.3,1.7,0.85,"['digital cling', 'check notifications', ""can't stop""]",0.19,0.86,True,413.1,0.87,I want to take control of my habits,dependency
+U_ALT910,2025-06-12 22:45:00,54.2,night,15.8,0.7,0.39,"['surprise box', 'unexpected win', 'celebration']",0.12,0.41,True,446.4,0.6,I want to enjoy the moment,reward
+U_ALT911,2025-06-12 18:42:00,35.8,night,41.8,1.7,0.44,"['positive feedback', 'unexpected win', 'funny fail']",0.16,0.78,False,208.0,0.85,I want to enjoy the moment,reward
+U_ALT912,2025-06-12 08:10:00,26.1,morning,40.1,1.0,-0.24,"['bonus drop', 'unexpected win', 'birthday cake']",0.29,0.21,False,367.1,0.64,I want to enjoy the moment,reward
+U_ALT913,2025-06-12 15:49:00,81.9,afternoon,29.1,1.5,-0.69,"['digital fatigue', 'no sleep', 'power nap']",0.24,0.22,False,500.6,0.65,I need rest,exhaustion
+U_ALT914,2025-06-12 09:58:00,8.4,morning,60.0,0.4,0.42,"['ignored calls', 'regret', 'wasted time']",0.23,0.51,True,666.6,0.86,I want to be more productive,guilt
+U_ALT915,2025-06-12 01:17:00,38.6,late_night,40.1,2.9,-0.51,"['wasted time', 'overspending', 'ignored calls']",0.27,0.67,False,440.0,0.72,I want to be more productive,guilt
+U_ALT916,2025-06-12 21:12:00,73.0,night,17.5,0.7,-0.95,"['celebration', 'bonus drop', 'surprise box']",0.11,0.68,True,612.5,0.61,I want to enjoy the moment,reward
+U_ALT917,2025-06-12 05:03:00,69.2,late_night,26.6,1.9,-0.16,"['interview fail', 'disaster', 'market panic']",0.27,0.7,True,226.9,0.62,I want to feel safe again,anxious
+U_ALT918,2025-06-12 22:38:00,29.1,night,68.6,2.4,0.62,"['fear of missing out', 'constant refresh', ""can't stop""]",0.26,0.26,True,277.3,0.98,I want to take control of my habits,dependency
+U_ALT919,2025-06-12 13:43:00,74.5,afternoon,17.2,2.1,-0.34,"['bad news', 'disaster', 'climate news']",0.21,0.47,False,293.1,0.71,I need to relax my mind,anxious
+U_ALT920,2025-06-12 19:02:00,25.2,night,49.6,3.1,-0.13,"['overstimulated', 'mental drain', 'digital fatigue']",0.32,0.43,True,573.7,0.63,I need rest,exhaustion
+U_ALT921,2025-06-12 13:16:00,26.2,afternoon,7.4,2.9,0.45,"['market panic', 'stock crash', 'disaster']",0.37,0.3,False,409.5,0.79,I need to relax my mind,anxious
+U_ALT922,2025-06-12 06:00:00,37.8,morning,44.8,1.8,0.1,"['war update', 'health scare', 'interview fail']",0.05,0.41,False,357.0,0.75,I want to feel safe again,anxious
+U_ALT923,2025-06-12 07:26:00,75.6,morning,66.5,1.3,0.07,"['missed deadline', 'wasted time', 'cheat story']",0.03,0.45,False,693.6,0.85,I want to be more productive,guilt
+U_ALT924,2025-06-12 05:24:00,64.1,late_night,9.6,2.6,0.51,"['dystopia', 'bad news', 'interview fail']",0.32,0.13,False,319.4,0.58,I need to relax my mind,anxious
+U_ALT925,2025-06-12 13:23:00,41.6,afternoon,9.5,3.0,0.5,"['war update', 'stock crash', 'recession']",0.28,0.6,False,463.1,0.66,I need to relax my mind,anxious
+U_ALT926,2025-06-12 00:33:00,73.8,late_night,45.3,1.2,0.1,"['fear of missing out', 'always online', 'compulsive scrolling']",0.35,0.11,True,419.7,0.81,I want to be more independent,dependency
+U_ALT927,2025-06-12 20:53:00,29.4,night,17.9,3.0,-0.44,"['no sleep', 'mental drain', 'stretch break']",0.36,0.76,True,463.3,0.83,I need rest,exhaustion
+U_ALT928,2025-06-12 09:28:00,64.0,morning,12.4,0.4,0.51,"['positive feedback', 'congrats', 'good news']",0.06,0.83,True,261.0,0.91,I want to enjoy the moment,reward
+U_ALT929,2025-06-12 13:08:00,45.2,afternoon,15.5,2.9,-0.91,"['regret', 'poor grades', 'overspending']",0.31,0.6,False,404.5,0.8,I want to be more productive,guilt
+U_ALT930,2025-06-12 19:41:00,32.1,night,22.8,2.2,0.96,"['birthday cake', 'bonus drop', 'meme gold']",0.0,0.25,True,213.8,0.63,I deserve this joy,reward
+U_ALT931,2025-06-12 19:59:00,42.5,night,48.7,3.0,0.16,"['unexpected win', 'good news', 'congrats']",0.1,0.17,False,366.1,0.94,I want to enjoy the moment,reward
+U_ALT932,2025-06-12 09:09:00,13.6,morning,51.5,0.8,-0.99,"['bonus drop', 'birthday cake', 'congrats']",0.19,0.84,False,242.4,0.58,I deserve this joy,reward
+U_ALT933,2025-06-12 15:24:00,10.8,afternoon,66.0,0.9,-0.0,"['procrastination', 'bad habit', 'cheat story']",0.28,0.33,False,644.4,0.87,I want to be more productive,guilt
+U_ALT934,2025-06-12 23:07:00,54.1,night,56.6,2.7,-0.15,"['constant refresh', 'digital cling', 'always online']",0.34,0.87,True,498.7,0.83,I want to take control of my habits,dependency
+U_ALT935,2025-06-12 22:36:00,70.2,night,52.2,1.9,0.78,"['market panic', 'interview fail', 'bad news']",0.26,0.17,True,473.1,0.86,I want to feel safe again,anxious
+U_ALT936,2025-06-12 13:08:00,72.7,afternoon,8.0,2.3,0.25,"['bonus drop', 'happy ending', 'celebration']",0.4,0.49,False,353.8,0.81,I deserve this joy,reward
+U_ALT937,2025-06-12 16:25:00,32.6,afternoon,59.2,1.8,-0.14,"['cheat story', 'bad habit', 'missed deadline']",0.35,0.32,True,472.4,0.62,I wish I had used time better,guilt
+U_ALT938,2025-06-12 22:06:00,74.7,night,33.8,1.8,-0.22,"['war update', 'market panic', 'stock crash']",0.36,0.52,True,574.4,0.71,I want to feel safe again,anxious
+U_ALT939,2025-06-12 12:00:00,64.1,afternoon,49.4,3.3,0.49,"['daily routine', ""can't stop"", 'check notifications']",0.35,0.14,False,451.8,0.88,I want to take control of my habits,dependency
+U_ALT940,2025-06-12 09:04:00,12.9,morning,13.0,1.8,0.76,"['birthday cake', 'positive feedback', 'bonus drop']",0.15,0.12,True,586.7,0.83,I deserve this joy,reward
+U_ALT941,2025-06-12 12:59:00,57.1,afternoon,52.0,2.3,0.58,"['power nap', 'long work hours', 'stretch break']",0.34,0.33,False,284.1,0.67,I want better balance,exhaustion
+U_ALT942,2025-06-12 10:18:00,81.7,morning,53.5,3.3,0.3,"['birthday cake', 'positive feedback', 'surprise box']",0.29,0.54,False,477.8,0.89,I want to enjoy the moment,reward
+U_ALT943,2025-06-12 13:02:00,28.2,afternoon,53.6,2.1,-0.54,"['long work hours', 'work stress', 'burnout symptoms']",0.05,0.2,False,557.0,0.96,I need rest,exhaustion
+U_ALT944,2025-06-12 23:25:00,43.3,night,25.6,3.5,0.69,"['mental drain', 'fatigue', 'crash nap']",0.39,0.46,False,536.9,0.85,I want better balance,exhaustion
+U_ALT945,2025-06-12 08:57:00,70.3,morning,31.1,0.4,0.62,"['cheat story', 'regret', 'late work']",0.2,0.84,False,251.3,0.79,I want to be more productive,guilt
+U_ALT946,2025-06-12 19:11:00,10.5,night,44.1,1.1,-0.82,"['missed deadline', 'overspending', 'late work']",0.35,0.79,True,455.9,0.78,I wish I had used time better,guilt
+U_ALT947,2025-06-12 01:20:00,82.4,late_night,38.5,0.8,-0.11,"['ignored calls', 'procrastination', 'missed deadline']",0.12,0.52,False,288.3,0.82,I want to be more productive,guilt
+U_ALT948,2025-06-12 20:06:00,74.5,night,13.2,1.2,0.72,"['wasted time', 'missed deadline', 'bad habit']",0.39,0.53,True,276.6,0.56,I wish I had used time better,guilt
+U_ALT949,2025-06-12 19:08:00,42.4,night,57.5,1.6,0.45,"['funny fail', 'good news', 'win prize']",0.18,0.26,True,229.7,0.69,I deserve this joy,reward
+U_ALT950,2025-06-12 09:43:00,75.9,morning,55.6,1.6,0.67,"['no sleep', 'mental drain', 'fatigue']",0.39,0.49,False,454.1,0.8,I want better balance,exhaustion
+U_ALT951,2025-06-12 23:24:00,9.8,night,56.3,3.5,0.31,"['procrastination', 'bad habit', 'cheat story']",0.06,0.45,False,367.8,0.78,I wish I had used time better,guilt
+U_ALT952,2025-06-12 20:13:00,16.9,night,19.7,2.8,-0.17,"['funny fail', 'meme gold', 'birthday cake']",0.24,0.27,True,440.8,0.65,I want to enjoy the moment,reward
+U_ALT953,2025-06-12 13:11:00,70.8,afternoon,13.6,2.8,-0.18,"['mental drain', 'stretch break', 'work stress']",0.28,0.5,True,210.3,0.74,I need rest,exhaustion
+U_ALT954,2025-06-12 22:33:00,36.8,night,37.5,3.3,-0.72,"['climate news', 'war update', 'health scare']",0.09,0.25,False,549.6,0.77,I want to feel safe again,anxious
+U_ALT955,2025-06-12 09:27:00,51.2,morning,68.9,3.4,0.79,"['regret', 'missed goal', 'ignored calls']",0.32,0.29,False,649.1,0.78,I wish I had used time better,guilt
+U_ALT956,2025-06-12 07:39:00,39.8,morning,67.7,0.8,0.47,"['regret', 'failed test', 'late work']",0.29,0.45,True,292.4,0.71,I wish I had used time better,guilt
+U_ALT957,2025-06-12 10:38:00,38.4,morning,28.8,2.0,0.05,"['good news', 'win prize', 'birthday cake']",0.22,0.59,False,615.4,0.86,I want to enjoy the moment,reward
+U_ALT958,2025-06-12 19:22:00,33.0,night,11.8,3.0,-0.11,"['fatigue', 'work stress', 'digital fatigue']",0.34,0.62,False,241.2,0.86,I want better balance,exhaustion
+U_ALT959,2025-06-12 06:02:00,65.2,morning,13.5,1.7,-0.03,"['funny fail', 'good news', 'surprise box']",0.17,0.3,False,353.4,0.84,I deserve this joy,reward
+U_ALT960,2025-06-12 03:39:00,44.1,late_night,46.5,0.5,-0.4,"['fear of missing out', 'constant refresh', 'always online']",0.16,0.43,True,524.4,0.92,I want to take control of my habits,dependency
+U_ALT961,2025-06-12 18:09:00,39.4,night,9.2,2.6,-0.37,"['dystopia', 'market panic', 'health scare']",0.23,0.25,True,519.4,0.75,I need to relax my mind,anxious
+U_ALT962,2025-06-12 23:49:00,32.1,night,64.4,2.6,0.6,"['disaster', 'bad news', 'stock crash']",0.36,0.49,False,205.3,0.68,I want to feel safe again,anxious
+U_ALT963,2025-06-12 12:28:00,81.5,afternoon,38.0,2.3,0.36,"['bad habit', 'failed test', 'missed deadline']",0.02,0.73,True,631.1,0.89,I wish I had used time better,guilt
+U_ALT964,2025-06-12 15:51:00,74.2,afternoon,58.2,0.5,0.22,"['birthday cake', 'celebration', 'surprise box']",0.29,0.63,False,260.7,0.6,I deserve this joy,reward
+U_ALT965,2025-06-12 03:31:00,69.9,late_night,42.1,2.7,-0.02,"['missed deadline', 'wasted time', 'bad habit']",0.16,0.35,True,353.0,0.76,I wish I had used time better,guilt
+U_ALT966,2025-06-12 04:39:00,70.3,late_night,46.5,0.5,0.37,"['no sleep', 'power nap', 'overwork']",0.06,0.41,True,471.5,0.82,I want better balance,exhaustion
+U_ALT967,2025-06-12 05:33:00,82.3,late_night,44.7,2.4,-0.11,"['recession', 'climate news', 'disaster']",0.05,0.88,True,244.6,0.93,I need to relax my mind,anxious
+U_ALT968,2025-06-12 17:28:00,57.5,afternoon,52.2,3.0,0.36,"['crash nap', 'fatigue', 'overwork']",0.36,0.55,False,626.2,0.9,I want better balance,exhaustion
+U_ALT969,2025-06-12 12:18:00,22.6,afternoon,13.7,1.4,0.36,"['bad news', 'anxiety tips', 'dystopia']",0.39,0.75,True,441.4,0.76,I want to feel safe again,anxious
+U_ALT970,2025-06-12 05:03:00,66.4,late_night,57.7,1.8,0.18,"['poor grades', 'failed test', 'wasted time']",0.37,0.61,True,368.9,0.98,I wish I had used time better,guilt
+U_ALT971,2025-06-12 06:48:00,76.5,morning,16.2,0.5,-0.98,"['stretch break', 'work stress', 'burnout symptoms']",0.07,0.8,True,447.6,0.78,I need rest,exhaustion
+U_ALT972,2025-06-12 10:28:00,67.4,morning,68.2,1.0,0.16,"['unexpected win', 'win prize', 'funny fail']",0.0,0.36,False,603.0,0.57,I deserve this joy,reward
+U_ALT973,2025-06-12 12:43:00,29.7,afternoon,37.9,2.8,0.19,"['digital fatigue', 'work stress', 'no sleep']",0.02,0.44,False,490.5,0.9,I need rest,exhaustion
+U_ALT974,2025-06-12 15:58:00,55.0,afternoon,13.4,2.7,-0.96,"['missed deadline', 'missed goal', 'overspending']",0.3,0.17,True,359.3,0.72,I want to be more productive,guilt
+U_ALT975,2025-06-12 07:00:00,39.8,morning,58.0,1.6,-0.34,"['wasted time', 'late work', 'missed deadline']",0.33,0.59,False,343.3,0.9,I want to be more productive,guilt
+U_ALT976,2025-06-12 17:25:00,71.1,afternoon,17.3,1.6,0.34,"['interview fail', 'bad news', 'recession']",0.0,0.85,True,558.1,0.85,I want to feel safe again,anxious
+U_ALT977,2025-06-12 15:31:00,53.6,afternoon,61.8,2.0,0.94,"['daily routine', 'check notifications', 'always online']",0.12,0.7,True,318.7,0.81,I want to be more independent,dependency
+U_ALT978,2025-06-12 06:24:00,40.6,morning,55.6,2.1,-0.36,"['always online', 'constant refresh', 'fear of missing out']",0.17,0.42,True,482.4,0.74,I want to take control of my habits,dependency
+U_ALT979,2025-06-12 21:33:00,72.8,night,59.5,2.7,-0.08,"['poor grades', 'missed goal', 'regret']",0.19,0.67,False,604.4,0.55,I wish I had used time better,guilt
+U_ALT980,2025-06-12 15:55:00,69.0,afternoon,51.3,1.2,0.42,"['no sleep', 'mental drain', 'fatigue']",0.17,0.89,True,214.1,0.86,I want better balance,exhaustion
+U_ALT981,2025-06-12 11:03:00,65.6,morning,41.1,2.4,-0.44,"['constant refresh', 'digital cling', 'always online']",0.39,0.4,False,401.2,0.78,I want to be more independent,dependency
+U_ALT982,2025-06-12 09:37:00,64.3,morning,33.7,0.6,0.36,"['interview fail', 'climate news', 'market panic']",0.01,0.27,True,684.5,0.64,I want to feel safe again,anxious
+U_ALT983,2025-06-12 23:14:00,8.7,night,20.0,3.0,-0.01,"['power nap', 'crash nap', 'overwork']",0.1,0.45,True,569.2,0.93,I want better balance,exhaustion
+U_ALT984,2025-06-12 07:46:00,72.9,morning,27.3,0.4,-0.0,"['unexpected win', 'congrats', 'happy ending']",0.1,0.72,False,589.5,0.83,I want to enjoy the moment,reward
+U_ALT985,2025-06-12 09:33:00,34.2,morning,8.3,1.0,0.87,"['coffee addiction', 'always online', 'check notifications']",0.19,0.59,False,554.3,0.71,I want to be more independent,dependency
+U_ALT986,2025-06-12 12:24:00,69.2,afternoon,36.5,0.6,0.06,"[""can't stop"", 'coffee addiction', 'check notifications']",0.27,0.45,False,364.7,0.97,I want to be more independent,dependency
+U_ALT987,2025-06-12 23:34:00,13.8,night,45.7,2.4,-0.02,"['mental drain', 'fatigue', 'power nap']",0.11,0.18,True,498.5,0.59,I want better balance,exhaustion
+U_ALT988,2025-06-12 03:54:00,47.6,late_night,30.0,3.0,-0.75,"['meme gold', 'win prize', 'birthday cake']",0.08,0.5,True,305.2,0.79,I deserve this joy,reward
+U_ALT989,2025-06-12 15:33:00,58.9,afternoon,64.4,0.3,0.57,"['long work hours', 'no sleep', 'overwork']",0.02,0.81,False,498.5,0.57,I want better balance,exhaustion
+U_ALT990,2025-06-12 10:47:00,76.5,morning,38.4,2.5,0.32,"['mental drain', 'burnout symptoms', 'power nap']",0.28,0.67,False,181.8,0.57,I want better balance,exhaustion
+U_ALT991,2025-06-12 23:17:00,16.2,night,54.3,2.6,-0.91,"['digital fatigue', 'burnout symptoms', 'no sleep']",0.19,0.6,False,182.8,0.89,I need rest,exhaustion
+U_ALT992,2025-06-12 05:46:00,16.3,late_night,7.3,1.6,0.63,"['overwork', 'crash nap', 'overstimulated']",0.04,0.51,False,647.9,0.57,I want better balance,exhaustion
+U_ALT993,2025-06-12 02:57:00,21.6,late_night,24.3,2.2,-0.86,"['coffee addiction', 'daily routine', 'constant refresh']",0.33,0.15,True,403.9,0.65,I want to take control of my habits,dependency
+U_ALT994,2025-06-12 05:23:00,81.5,late_night,32.1,1.7,0.48,"['stretch break', 'overwork', 'long work hours']",0.39,0.83,True,513.8,0.59,I need rest,exhaustion
+U_ALT995,2025-06-12 10:35:00,42.1,morning,55.8,2.5,-0.25,"['war update', 'market panic', 'climate news']",0.18,0.71,True,265.3,0.58,I want to feel safe again,anxious
+U_ALT996,2025-06-12 08:55:00,11.1,morning,49.9,1.5,-0.55,"[""can't stop"", 'coffee addiction', 'compulsive scrolling']",0.23,0.2,True,182.4,0.68,I want to take control of my habits,dependency
+U_ALT997,2025-06-12 17:28:00,69.7,afternoon,34.5,2.8,-0.61,"['stock crash', 'bad news', 'war update']",0.17,0.25,False,257.0,0.91,I want to feel safe again,anxious
+U_ALT998,2025-06-12 06:17:00,32.0,morning,32.3,2.4,0.35,"['check notifications', 'sleep with phone', 'constant refresh']",0.14,0.19,False,558.0,0.92,I want to take control of my habits,dependency
+U_ALT999,2025-06-12 18:54:00,56.1,night,33.4,2.2,-0.15,"['overstimulated', 'overwork', 'stretch break']",0.29,0.66,False,319.4,0.7,I want better balance,exhaustion
